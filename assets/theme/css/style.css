@@ -67,10 +67,12 @@ h6,
 span,
 p,
 a {
-  line-height: 1;
+  line-height: 0.5;
   word-break: break-word;
   word-wrap: break-word;
   font-weight: 400;
+  margin-top:5px;
+  /*! padding-top: 0.5px; */
 }
 
 b,

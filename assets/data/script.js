@@ -46,7 +46,7 @@ function fetchData() {
       return sortedData;
     })
     .then((sortedData) => {
-      tabs=sortedData;
+      tabs = sortedData;
       loadMoreItems();
     });
 }
@@ -75,30 +75,41 @@ function loadMoreItems() {
       month: "short",
       day: "numeric",
     };
-    const formattedDate = date.toLocaleDateString("en-US", options);
+    let formattedDate = date.toLocaleDateString("en-US", options);
+    let title = item["og:title"];
+    if (!title) {
+      title = item.title;
+    }
+    let description = item["og:description"];
+    if (!description) {
+      description = item.description;
+    }
     // Create HTML element
     html += `
         <div class="conteudo col-12 col-lg-3">
-          <p class="post-info">${formattedDate}</p>
-          <!-- img loading="lazy" alt="${item.title}" src="${item["og:image"]}" width="100%" height="100" -->
-          <!-- img loading="lazy" title="${item.title}" src="${item["og:image"]}" width="100%" height="100" -->
+        <div class="post-info">
+          <div class="date">${formattedDate}</div>
+        </div>
           <img loading="lazy" src="${item["og:image"]}" >
+          <div class="post-info">
+            <div class="hostname">${item.hostname}</div>
+          </div>
           <!-- p>${item.url}</p -->
           <h3 class="mbr-fonts-style" data-app-selector=".mbr-section-title" mbr-theme-style="display-2">
-            <a href="${item.url}" target="_blank">${item.title}</a>
+            <a href="${item.url}" target="_blank">${title}</a>
           </h3>
+          <div class="description">${description}</div>
         </div>
       `;
     // Insert the HTML element into the DOM
     blogElement.innerHTML = html;
   });
   loadedItems += itemsToLoad;
-
-  // // Example: create HTML elements and append them to a container
-  // const itemElement = document.createElement("div");
-  // itemElement.textContent = item.name;
-  // document.getElementById("itemsContainer").appendChild(itemElement);
 }
+// // Example: create HTML elements and append them to a container
+// const itemElement = document.createElement("div");
+// itemElement.textContent = item.name;
+// document.getElementById("itemsContainer").appendChild(itemElement);
 
 // Function to check if the user has scrolled to the bottom of the page
 function checkScroll() {
