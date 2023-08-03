@@ -80,9 +80,15 @@ function loadMoreItems() {
     if (!title) {
       title = item.title;
     }
+    if (!title) {
+      title = "No title";
+    }
     let description = item["og:description"];
     if (!description) {
       description = item.description;
+    }
+    if (!description) {
+      description = "No description";
     }
     // Create HTML element
     html += `

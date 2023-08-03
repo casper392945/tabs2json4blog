@@ -1302,7 +1302,13 @@ a {
   }
  .description {
     line-height: 1;
-  }
+display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+	word-break: break-word;
+   }
 
   .date {
     text-align: right;
@@ -1466,6 +1472,8 @@ a {
 
   .cid-sdQjI1ufdP .description {
     line-height: 1;
+    height: 50px;
+    overflow: hidden;
   }
   .cid-sdQjI1ufdP .conteudo {
     margin: 10px auto;
