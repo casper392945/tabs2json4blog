@@ -92,7 +92,7 @@ function loadMoreItems() {
     }
     // Create HTML element
     html += `
-        <div class="conteudo col-12 col-lg-3">
+        <div class="conteudo col-12 col-lg-4">
         <div class="post-info">
           <div class="date">${formattedDate}</div>
         </div>
