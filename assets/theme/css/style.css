@@ -593,7 +593,8 @@ nav .mbr-section-btn {
 .row {
   display: -webkit-flex;
   -webkit-flex-wrap: wrap;
-  column-gap: 20px;
+  flex-wrap: wrap;
+  /* column-gap: 20px; */
 }
 
 .justify-content-center {
