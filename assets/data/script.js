@@ -82,14 +82,14 @@ function loadMoreItems() {
     let formattedDate = date.toLocaleDateString("en-US", options);
     let title = replaceHTMLTag(item["og:title"], 'strong', 'em');
     if (!title) {
-      title = remainingItems(item.title, 'strong', 'em');
+      title = replaceHTMLTag(item.title, 'strong', 'em');
     }
     if (!title) {
       title = "No title";
     }
     let description = replaceHTMLTag(item["og:description"], 'strong', 'em');
     if (!description) {
-      description = remainingItems(item.description, 'strong', 'em');
+      description = replaceHTMLTag(item.description, 'strong', 'em');
     }
     if (!description) {
       description = "No description";
