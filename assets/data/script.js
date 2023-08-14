@@ -34,9 +34,13 @@ let html = "";
 //       // hidePreloader();
 //     });
 // }
-function replaceHTMLTag(string, tag, replacement) {
-  const regex = new RegExp(`<${tag}(.*?)>(.*?)<\/${tag}>`, 'g');
-  return string.replace(regex, replacement);
+function convertHTMLTags(string) {
+  const regex = /[<>]/g;
+  const htmlEntities = {
+    '<': '&lt;',
+    '>': '&gt;'
+  };
+  return string.replace(regex, match => htmlEntities[match]);
 }
 
 function fetchData() {
@@ -80,20 +84,22 @@ function loadMoreItems() {
       day: "numeric",
     };
     let formattedDate = date.toLocaleDateString("en-US", options);
-    let title = replaceHTMLTag(item["og:title"], 'strong', 'em');
+    let title = item["og:title"];
     if (!title) {
-      title = replaceHTMLTag(item.title, 'strong', 'em');
+      title = item.title;
     }
     if (!title) {
       title = "No title";
     }
-    let description = replaceHTMLTag(item["og:description"], 'strong', 'em');
+    title = convertHTMLTags(title);
+    let description = item["og:description"];
     if (!description) {
-      description = replaceHTMLTag(item.description, 'strong', 'em');
+      description = item.description;
     }
     if (!description) {
       description = "No description";
     }
+    description = convertHTMLTags(description);
     let image = item["og:image"];
     if (!image) {
       image = 'assets/images/placeholder.png';
