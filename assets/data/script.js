@@ -119,7 +119,8 @@ function loadMoreItems() {
 
 // Function to check if the user has scrolled to the bottom of the page
 function checkScroll() {
-  const scrollPosition = window.innerHeight + window.pageYOffset;
+  // const scrollPosition = window.innerHeight + window.pageYOffset;
+  const scrollPosition = window.innerHeight + window.scrollY;
   const pageHeight = document.documentElement.scrollHeight;
 
   if (scrollPosition >= pageHeight) {
