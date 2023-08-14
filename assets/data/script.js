@@ -34,6 +34,10 @@ let html = "";
 //       // hidePreloader();
 //     });
 // }
+function replaceHTMLTag(string, tag, replacement) {
+  const regex = new RegExp(`<${tag}(.*?)>(.*?)<\/${tag}>`, 'g');
+  return string.replace(regex, replacement);
+}
 
 function fetchData() {
   fetch("assets/data/tabs2json4blog.json")
@@ -76,16 +80,16 @@ function loadMoreItems() {
       day: "numeric",
     };
     let formattedDate = date.toLocaleDateString("en-US", options);
-    let title = item["og:title"];
+    let title = replaceHTMLTag(item["og:title"], 'strong', 'em');
     if (!title) {
-      title = item.title;
+      title = remainingItems(item.title, 'strong', 'em');
     }
     if (!title) {
       title = "No title";
     }
-    let description = item["og:description"];
+    let description = replaceHTMLTag(item["og:description"], 'strong', 'em');
     if (!description) {
-      description = item.description;
+      description = remainingItems(item.description, 'strong', 'em');
     }
     if (!description) {
       description = "No description";
