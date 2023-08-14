@@ -90,23 +90,22 @@ function loadMoreItems() {
     if (!description) {
       description = "No description";
     }
+    let image = item["og:image"];
+    if (!image) {
+      image = 'assets/images/placeholder.png';
+    }
     // Create HTML element
     html += `
         <div class="conteudo col-12 col-lg-4">
-        <div class="post-info">
-          <div class="date">${formattedDate}</div>
-        </div>
-          <img loading="lazy" src="${item["og:image"]}" >
-          <div class="post-info">
-            <div class="hostname">${item.hostname}</div>
-          </div>
-          <!-- p>${item.url}</p -->
+          <div class="post-info date">${formattedDate}</div>
+          <img loading="lazy" src=${image}>
+          <div class="post-info hostname">${item.hostname}</div>
           <h3 class="mbr-fonts-style" data-app-selector=".mbr-section-title" mbr-theme-style="display-2">
             <a href="${item.url}" target="_blank">${title}</a>
           </h3>
           <div class="description">${description}</div>
-        </div>
-      `;
+      </div>
+    `;
     // Insert the HTML element into the DOM
     blogElement.innerHTML = html;
   });
