@@ -1338,6 +1338,16 @@ word-break: break-word;
   text-align: right;
 }
 
+.content4{
+  min-height: 100%;
+  margin-bottom: -60px;
+}
+.footer7{
+  height: 60px;
+  position: relative;
+  margin-top: -60px;
+  clear: both;
+}
 .cid-sdQjI1ufdP hr {
   background: #dedede;
   border: 0;
