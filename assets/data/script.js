@@ -112,7 +112,7 @@ function loadMoreItems() {
     html += `
         <div class="conteudo col-12 col-lg-4">
           <div class="post-info date">${formattedDate}</div>
-          <img loading="lazy" src=${image} onerror="this.src='assets/images/placeholder.png'">
+          <img loading="lazy" src=${image} onerror="this.onerror=null; this.src='assets/images/error-placeholder.png';">
           <div class="post-info hostname">${item.hostname}</div>
           <h3 class="mbr-fonts-style" data-app-selector=".mbr-section-title" mbr-theme-style="display-2">
             <a href="${item.url}" target="_blank">${title}</a>
