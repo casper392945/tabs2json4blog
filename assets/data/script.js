@@ -37,10 +37,10 @@ let html = "";
 function convertHTMLTags(string) {
   const regex = /[<>]/g;
   const htmlEntities = {
-    '<': '&lt;',
-    '>': '&gt;'
+    "<": "&lt;",
+    ">": "&gt;",
   };
-  return string.replace(regex, match => htmlEntities[match]);
+  return string.replace(regex, (match) => htmlEntities[match]);
 }
 
 function fetchData() {
@@ -83,32 +83,36 @@ function loadMoreItems() {
       month: "short",
       day: "numeric",
     };
+
     let formattedDate = date.toLocaleDateString("en-US", options);
+
     let title = item["og:title"];
     if (!title) {
       title = item.title;
     }
     if (!title) {
-      title = "No title";
+      title = "";
     }
     title = convertHTMLTags(title);
+
     let description = item["og:description"];
     if (!description) {
       description = item.description;
     }
     if (!description) {
-      description = "No description";
+      description = "";
     }
     description = convertHTMLTags(description);
+
     let image = item["og:image"];
     if (!image) {
-      image = 'assets/images/placeholder.png';
+      image = "assets/images/placeholder.png";
     }
     // Create HTML element
     html += `
         <div class="conteudo col-12 col-lg-4">
           <div class="post-info date">${formattedDate}</div>
-          <img loading="lazy" src=${image}>
+          <img loading="lazy" src=${image} onerror="this.src='assets/images/placeholder.png'">
           <div class="post-info hostname">${item.hostname}</div>
           <h3 class="mbr-fonts-style" data-app-selector=".mbr-section-title" mbr-theme-style="display-2">
             <a href="${item.url}" target="_blank">${title}</a>
