@@ -108,9 +108,10 @@ function loadMoreItems() {
     if (!image) {
       image = "assets/images/placeholder.png";
     }
+
     // Create HTML element
     html += `
-        <div class="conteudo col-12 col-lg-4">
+        <div class="conteudo col-12 col-sm-6 col-md-4 col-lg-4 col-xl-3 col-xxl-2">
           <div class="post-info date">${formattedDate}</div>
           <img loading="lazy" src=${image} onerror="this.onerror=null; this.src='assets/images/placeholder.png';">
           <div class="post-info hostname">${item.hostname}</div>
