@@ -1312,33 +1312,32 @@ a {
   display: flex;
   gap: 1rem;
 }
-.cid-sdQjI1ufdP {
-  .post-info {
-    font-size: 0.75rem;
-    /*! margin: auto; */
-    /* text-align: right; */
+.post-info {
+  font-size: 0.75rem;
+  /*! margin: auto; */
+  /* text-align: right; */
 /*     margin: 0.5rem !important; */
-    display: flex;
-    justify-content: space-between;
-    white-space: nowrap;
-  }
-  .hostname {
-    text-align: left;
-  }
- .description {
-  line-height: 1;
-  display: -webkit-box;
-  -webkit-line-clamp: 5;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  text-overflow: ellipsis;
-	word-break: break-word;
-   }
-
-  .date {
-    text-align: right;
-  }
+  display: flex;
+  justify-content: space-between;
+  white-space: nowrap;
 }
+.hostname {
+  text-align: left;
+}
+.description {
+line-height: 1;
+display: -webkit-box;
+-webkit-line-clamp: 5;
+-webkit-box-orient: vertical;
+overflow: hidden;
+text-overflow: ellipsis;
+word-break: break-word;
+ }
+
+.date {
+  text-align: right;
+}
+
 .cid-sdQjI1ufdP hr {
   background: #dedede;
   border: 0;
