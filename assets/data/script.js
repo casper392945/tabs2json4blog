@@ -60,7 +60,7 @@ function fetchData() {
 }
 
 let loadedItems = 0; // Number of items already loaded
-const itemsPerPage = 15; // Number of items to load per page
+const itemsPerPage = 24; // Number of items to load per page
 
 // Function to load more items from the JSON array
 
