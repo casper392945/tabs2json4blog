@@ -19,7 +19,6 @@
 }
 .cid-sooWFAfKdL .footer7 {
   height: 60px;
-  position: fixed;
-  left: 0;
+  position: sticky;
   bottom: 0;
 }
