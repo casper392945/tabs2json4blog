@@ -5,8 +5,7 @@
 /* <section class="content4 cid-sdQjI1ufdP" id="content4-0"> */
 
 .cid-sdQjI1ufdP .content4 {
-  flex: 1;
-}
+flex}
 
 /* <section class="footer7 cid-sooWFAfKdL" once="footers" id="footer7-1n"> */
 .cid-sooWFAfKdL {
@@ -23,6 +22,7 @@
 }
 .cid-sooWFAfKdL .footer7 {
   height: 60px;
-  position: sticky;
-  bottom: 0;
+  position: relative;
+  margin-top: -60px;
+  clear: both;
 }
