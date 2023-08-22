@@ -6,10 +6,6 @@
 
 /* <section class="footer7 cid-sooWFAfKdL" once="footers" id="footer7-1n"> */
 .cid-sooWFAfKdL {
-  height: 60px;
-  position: fixed;
-  left: 0;
-  bottom: 0;
   /* padding-top: 30px; */
   /* padding-bottom: 30px; */
   background-color: #fafafa;
@@ -17,8 +13,14 @@
   border-top-style: solid;
   border-top-color: #cccccc;
 }
-.cid-sooWFAfKdL .media-container-row .mbr-text {
+.cid-sooWFAfKdL .media-container-col .mbr-text {
   color: #000000;
   text-align: center;
   line-height: 60px;
+}
+.cid-sooWFAfKdL .footer7 {
+  height: 60px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
 }
