@@ -6,8 +6,8 @@
 
 /* <section class="footer7 cid-sooWFAfKdL" once="footers" id="footer7-1n"> */
 .cid-sooWFAfKdL {
-  /* padding-top: 30px; */
-  /* padding-bottom: 30px; */
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #fafafa;
   border-top-width: 1px;
   border-top-style: solid;
@@ -16,7 +16,7 @@
 .cid-sooWFAfKdL .media-container-row .mbr-text {
   color: #000000;
   text-align: center;
-  line-height: 60px;
+  lin
 }
 .cid-sooWFAfKdL .footer7 {
   height: 60px;
