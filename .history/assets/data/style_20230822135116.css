@@ -4,11 +4,6 @@
 
 /* <section class="content4 cid-sdQjI1ufdP" id="content4-0"> */
 
-.content4 {
-  min-height: 100%;
-  margin-bottom: -60px;
-}
-
 /* <section class="footer7 cid-sooWFAfKdL" once="footers" id="footer7-1n"> */
 .cid-sooWFAfKdL {
   padding-top: 30px;
@@ -22,7 +17,7 @@
   color: #000000;
   text-align: center;
 }
-.cid-sooWFAfKdL .footer7 {
+.footer7 {
   height: 60px;
   position: relative;
   margin-top: -60px;
