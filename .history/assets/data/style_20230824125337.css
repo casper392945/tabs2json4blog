@@ -15,11 +15,14 @@
   border-top-width: 1px;
   border-top-style: solid;
   border-top-color: #cccccc;
+  
 }
 
 .cid-sooWFAfKdL .container{
   height: 60px;
   max-width: 100%;
+  /* padding: 0; */
+  /* margin: 0; */
 }
 
 .cid-sooWFAfKdL .copyright {
