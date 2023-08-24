@@ -17,19 +17,7 @@
   border-top-color: #cccccc;
 }
 
-@media (max-width: 768px) {
-  /* Styles for screens smaller than 768px */
-  .cid-sooWFAfKdL {
-    height: 80px;
-  }
-}
 
-@media (max-width: 576px) {
-  /* Styles for screens smaller than 576px */
-  .cid-sooWFAfKdL {
-    height: 100px;
-  }
-}
 
 .cid-sooWFAfKdL .media-container-row .mbr-text {
   color: #000000;
