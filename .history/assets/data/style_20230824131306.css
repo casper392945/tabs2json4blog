@@ -18,8 +18,7 @@
   .container {
     height: 60px;
     max-width: 100%;
-  }
-  .copyright {
+  }  .copyright {
     text-align: center;
     line-height: 60px;
     word-wrap: break-word;
@@ -31,11 +30,11 @@
   max-width: 100%;
 } */
 
-/* .cid-sooWFAfKdL .copyright {
+.cid-sooWFAfKdL .copyright {
   text-align: center;
   line-height: 60px;
   word-wrap: break-word;
-} */
+}
 
 @media (max-width: 768px) {
   /* Styles for screens smaller than 768px */
