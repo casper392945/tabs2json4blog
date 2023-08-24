@@ -30,7 +30,7 @@
     height: 60px;
   }
   .cid-sooWFAfKdL .media-container-row .mbr-text {
-    line-height: 20px !important;
+    line-height: 20px;
     word-wrap: break-word;
   }
 }

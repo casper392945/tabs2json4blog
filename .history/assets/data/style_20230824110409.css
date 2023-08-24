@@ -29,14 +29,12 @@
   .cid-sooWFAfKdL {
     height: 60px;
   }
-  .cid-sooWFAfKdL .media-container-row .mbr-text {
-    line-height: 20px !important;
-    word-wrap: break-word;
-  }
+  
 }
 
 .cid-sooWFAfKdL .media-container-row .mbr-text {
   color: #000000;
   text-align: center;
   line-height: 60px;
+  word-wrap: break-word;
 }
