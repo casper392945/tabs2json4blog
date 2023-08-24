@@ -18,11 +18,11 @@
   .container {
     height: 60px;
     max-width: 100%;
-    .copyright {
-      text-align: center;
-      line-height: 60px;
-      word-wrap: break-word;
-    }
+  }
+  .copyright {
+    text-align: center;
+    line-height: 60px;
+    word-wrap: break-word;
   }
 }
 
