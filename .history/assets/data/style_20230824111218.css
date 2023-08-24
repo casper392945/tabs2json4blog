@@ -17,14 +17,14 @@
   border-top-color: #cccccc;
 }
 
-@media (max-width: 768px) {
+ @media (max-width: 768px) {
   /* Styles for screens smaller than 768px */
 }
 
 @media (max-width: 576px) {
   /* Styles for screens smaller than 576px */
   .cid-sooWFAfKdL .media-container-row .mbr-text {
-    line-height: 30px !important;
+    /* line-height: 20px !important; */
     word-wrap: break-word;
   }
 }
