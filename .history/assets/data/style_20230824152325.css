@@ -4,20 +4,10 @@
 
 /* <section class="content4 cid-sdQjI1ufdP" id="content4-0"> */
 .cid-sdQjI1ufdP {
-  padding-top: 6rem;
-  padding-bottom: 0rem;
-  background-color: #eeeeee;
   .container {
     .row {
       .blog {
-        display: flex;
-        flex-direction: row;
-        -webkit-flex-direction: row;
-        flex-wrap: wrap;
-        -webkit-flex-wrap: wrap;
-        justify-content: space-between;
-        -webkit-justify-content: space-between;
-        margin: auto;
+        
       }
     }
   }
