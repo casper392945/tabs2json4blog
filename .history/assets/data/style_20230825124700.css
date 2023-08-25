@@ -1,0 +1,106 @@
+/* Global */
+
+/* <section class="extMenu10 menu cid-sooWFyn43Q" once="menu" id="extMenu11-1l"> */
+
+/* <section class="content4 cid-sdQjI1ufdP" id="content4-0"> */
+.cid-sdQjI1ufdP {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  top: 21px;
+  bottom: 21px;
+  background-color: #eeeeee;
+  .container {
+    .row {
+      .blog {
+        display: flex;
+        flex-direction: row;
+        -webkit-flex-direction: row;
+        flex-wrap: wrap;
+        -webkit-flex-wrap: wrap;
+        justify-content: space-between;
+        -webkit-justify-content: space-between;
+        margin: auto;
+      }
+    }
+  }
+}
+/* <section class="footer7 cid-sooWFAfKdL" once="footers" id="footer7-1n"> */
+.cid-sooWFAfKdL {
+  height: 60px;
+  width: 100%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  background-color: #fafafa;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #cccccc;
+  .container {
+    height: 60px;
+    max-width: 100%;
+    .copyright {
+      text-align: center;
+      line-height: 60px;
+      word-wrap: break-word;
+    }
+  }
+}
+
+/* --- responsive rules section --- */
+
+/* X-Small devices (portrait phones, less than 576px) */
+/* No media query for `xs` since this is the default in Bootstrap !!! */
+
+@media (min-width: 576px) {
+  /* Small devices (landscape phones, 576px and up) */
+}
+
+@media (min-width: 768px) {
+  /* Medium devices (tablets, 768px and up) */
+}
+
+@media (min-width: 992px) {
+  /* Large devices (desktops, 992px and up) */
+}
+
+@media (min-width: 1200px) {
+  /* X-Large devices (large desktops, 1200px and up) */
+}
+
+@media (min-width: 1400px) {
+  /* XX-Large devices (larger desktops, 1400px and up) */
+}
+
+/* `xs` returns only a ruleset and no media query */
+/* ... { ... } */
+
+@media (max-width: 575.98px) {
+  /* `sm` applies to x-small devices (portrait phones, less than 576px) */
+  .cid-sooWFAfKdL {
+    /* footer */
+    height: px;
+    .container {
+      height: 30px;
+      .copyright {
+        line-height: 30px;
+        margin-top: 0;
+      }
+    }
+  }
+}
+
+@media (max-width: 767.98px) {
+  /* `md` applies to small devices (landscape phones, less than 768px) */
+}
+
+@media (max-width: 991.98px) {
+  /* `lg` applies to medium devices (tablets, less than 992px) */
+}
+
+@media (max-width: 1199.98px) {
+  /* `xl` applies to large devices (desktops, less than 1200px) */
+}
+
+@media (max-width: 1399.98px) {
+  /* `xxl` applies to x-large devices (large desktops, less than 1400px) */
+}

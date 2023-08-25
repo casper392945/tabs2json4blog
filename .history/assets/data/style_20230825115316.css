@@ -1,0 +1,79 @@
+/* Global */
+
+/* <section class="extMenu10 menu cid-sooWFyn43Q" once="menu" id="extMenu11-1l"> */
+
+/* <section class="content4 cid-sdQjI1ufdP" id="content4-0"> */
+.cid-sdQjI1ufdP {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  top: 21px;
+  bottom: 21px;
+  background-color: #eeeeee;
+  .container {
+    .row {
+      .blog {
+        display: flex;
+        flex-direction: row;
+        -webkit-flex-direction: row;
+        flex-wrap: wrap;
+        -webkit-flex-wrap: wrap;
+        justify-content: space-between;
+        -webkit-justify-content: space-between;
+        margin: auto;
+      }
+    }
+  }
+}
+/* <section class="footer7 cid-sooWFAfKdL" once="footers" id="footer7-1n"> */
+.cid-sooWFAfKdL {
+  height: 60px;
+  width: 100%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  background-color: #fafafa;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #cccccc;
+  .container {
+    height: 60px;
+    max-width: 100%;
+    .copyright {
+      text-align: center;
+      line-height: 60px;
+      word-wrap: break-word;
+    }
+  }
+}
+
+/* responsive rules section */
+/*
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
+);
+ */
+
+@media (max-width: 1400px) {
+  /* Styles for screens smaller than 1400px; Breakpoint: "Extra extra large" screens; Class infix: "xxl" */
+}
+
+@media (max-width: 1200px) {
+  /* Styles for screens smaller than 1200px; Breakpoint: "Extra extra large" screens; Class infix: "xxl-" */
+}
+
+@media (max-width: 992px) {
+  /* Styles for screens smaller than 992px */
+}
+
+@media (max-width: 768px) {
+  /* Styles for screens smaller than 768px */
+}
+
+@media (max-width: 576px) {
+  /* Styles for screens smaller than 576px */
+}
