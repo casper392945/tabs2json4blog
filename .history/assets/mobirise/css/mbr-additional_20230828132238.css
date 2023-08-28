@@ -39931,6 +39931,18 @@ a {
 .cid-sopoWKLphr .pagination > ul {
   margin-bottom: 0;
 }
+.cid-sopoWLXMTA {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #fafafa;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #cccccc;
+}
+.cid-sopoWLXMTA .media-container-row .mbr-text {
+  color: #000000;
+  text-align: center;
+}
 
 @media (max-width: 576px) {
   .col-sm-6 {
