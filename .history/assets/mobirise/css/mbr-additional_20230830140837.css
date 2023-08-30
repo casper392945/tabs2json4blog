@@ -813,7 +813,7 @@ a {
   font-size: 0.6rem;
   line-height: 1.2;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 400; */
 }
 */
 .cid-sdQjI1ufdP .title {
@@ -2534,7 +2534,7 @@ a {
   color: #000000;
   text-align: center;
 } */
-/* .cid-sopohDkzok .navbar {
+.cid-sopohDkzok .navbar {
   background: #ffffff;
   transition: none;
   min-height: 77px;
@@ -3027,8 +3027,8 @@ a {
   .cid-sopohDkzok .menu-logo .navbar-brand {
     margin-left: 5rem;
   }
-} */
-/* .cid-sopohDEyS4 {
+}
+.cid-sopohDEyS4 {
   padding-top: 6rem;
   padding-bottom: 0rem;
   background-color: #eeeeee;
@@ -3391,8 +3391,8 @@ a {
 }
 .cid-sopohDEyS4 .pagination > ul {
   margin-bottom: 0;
-} */
-/* .cid-sopohERHzM {
+}
+.cid-sopohERHzM {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #fafafa;
@@ -3403,8 +3403,8 @@ a {
 .cid-sopohERHzM .media-container-row .mbr-text {
   color: #000000;
   text-align: center;
-} */
-/* .cid-sopotwvm5W .navbar {
+}
+.cid-sopotwvm5W .navbar {
   background: #ffffff;
   transition: none;
   min-height: 77px;
@@ -3898,7 +3898,7 @@ a {
     margin-left: 5rem;
   }
 }
- */
+
 @media (max-width: 576px) {
   .col-sm-6 {
     flex: 0 0 auto;

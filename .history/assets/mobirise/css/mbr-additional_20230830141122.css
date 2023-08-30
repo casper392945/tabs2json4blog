@@ -3392,7 +3392,7 @@ a {
 .cid-sopohDEyS4 .pagination > ul {
   margin-bottom: 0;
 } */
-/* .cid-sopohERHzM {
+.cid-sopohERHzM {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #fafafa;
@@ -3403,8 +3403,8 @@ a {
 .cid-sopohERHzM .media-container-row .mbr-text {
   color: #000000;
   text-align: center;
-} */
-/* .cid-sopotwvm5W .navbar {
+}
+.cid-sopotwvm5W .navbar {
   background: #ffffff;
   transition: none;
   min-height: 77px;
@@ -3898,7 +3898,7 @@ a {
     margin-left: 5rem;
   }
 }
- */
+
 @media (max-width: 576px) {
   .col-sm-6 {
     flex: 0 0 auto;

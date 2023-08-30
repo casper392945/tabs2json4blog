@@ -809,13 +809,12 @@ a {
   -webkit-mask-image: linear-gradient(to bottom, black 50%, transparent 100%);
   mask-image: linear-gradient(to bottom, black 50%, transparent 100%);
   /*! text-align: justify; */
-  /* color: darkslategray;
+  color: darkslategray;
   font-size: 0.6rem;
   line-height: 1.2;
   font-style: normal;
   font-weight: 400;
-}
-*/
+} */
 .cid-sdQjI1ufdP .title {
   display: flex;
   gap: 1rem;
@@ -1048,7 +1047,7 @@ a {
 .cid-sdQjI1ufdP P {
   text-align: left;
 }
-/* .cid-sdQjI1ufdP .pgcontainer {
+.cid-sdQjI1ufdP .pgcontainer {
   counter-reset: pagination;
   text-align: center;
   background-color: transparent !important;
@@ -1168,7 +1167,7 @@ a {
 }
 .cid-sdQjI1ufdP .pagination > ul {
   margin-bottom: 0;
-} */
+}
 .cid-sooWFyn43Q .navbar {
   background: #ffffff;
   transition: none;
@@ -1664,7 +1663,7 @@ a {
   }
 }
 
-/* .cid-sopo73J1T5 .navbar {
+.cid-sopo73J1T5 .navbar {
   background: #ffffff;
   transition: none;
   min-height: 77px;
@@ -2157,8 +2156,8 @@ a {
   .cid-sopo73J1T5 .menu-logo .navbar-brand {
     margin-left: 5rem;
   }
-} */
-/* .cid-sopo749ADM {
+}
+.cid-sopo749ADM {
   padding-top: 6rem;
   padding-bottom: 0rem;
   background-color: #eeeeee;
@@ -2521,8 +2520,8 @@ a {
 }
 .cid-sopo749ADM .pagination > ul {
   margin-bottom: 0;
-} */
-/* .cid-sopo75xeWR {
+}
+.cid-sopo75xeWR {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #fafafa;
@@ -2533,8 +2532,8 @@ a {
 .cid-sopo75xeWR .media-container-row .mbr-text {
   color: #000000;
   text-align: center;
-} */
-/* .cid-sopohDkzok .navbar {
+}
+.cid-sopohDkzok .navbar {
   background: #ffffff;
   transition: none;
   min-height: 77px;
@@ -3027,8 +3026,8 @@ a {
   .cid-sopohDkzok .menu-logo .navbar-brand {
     margin-left: 5rem;
   }
-} */
-/* .cid-sopohDEyS4 {
+}
+.cid-sopohDEyS4 {
   padding-top: 6rem;
   padding-bottom: 0rem;
   background-color: #eeeeee;
@@ -3391,8 +3390,8 @@ a {
 }
 .cid-sopohDEyS4 .pagination > ul {
   margin-bottom: 0;
-} */
-/* .cid-sopohERHzM {
+}
+.cid-sopohERHzM {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #fafafa;
@@ -3403,8 +3402,8 @@ a {
 .cid-sopohERHzM .media-container-row .mbr-text {
   color: #000000;
   text-align: center;
-} */
-/* .cid-sopotwvm5W .navbar {
+}
+.cid-sopotwvm5W .navbar {
   background: #ffffff;
   transition: none;
   min-height: 77px;
@@ -3898,7 +3897,7 @@ a {
     margin-left: 5rem;
   }
 }
- */
+
 @media (max-width: 576px) {
   .col-sm-6 {
     flex: 0 0 auto;
