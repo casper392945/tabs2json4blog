@@ -1,13 +1,14 @@
+
 body {
   overflow-x: hidden;
 }
 a {
   transition: color 0.6s;
 }
-/* .conteudo a { */
-  /* line-height: 0.9 !important; */
-  /* font-weight: bold; */
-/* } */
+.conteudo a {
+  line-height: 0.9 !important;
+  font-weight: bold;
+}
 
 @media (min-width: 992px) {
   /*
@@ -18,15 +19,15 @@ a {
 }
 
 @media (max-width: 991px) and (min-width: 768px) {
-  /* .conteudo {
+  .conteudo {
     width: 50%;
-  } */
+  }
 }
 
 @media (max-width: 767px) {
-  /* .conteudo {
+  .conteudo {
     width: 100%;
-  } */
+  }
 }
 
 .cid-sdQjI1ufdP .disabled {
