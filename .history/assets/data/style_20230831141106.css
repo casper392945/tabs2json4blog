@@ -1138,8 +1138,15 @@ a {
   }
 }
 
+/* .cid-sdQjI1ufdP .title {
+  display: flex;
+  gap: 1rem;
+} */
 .post-info {
   font-size: 0.75rem;
+  /*! margin: auto; */
+  /* text-align: right; */
+  /*     margin: 0.5rem !important; */
   display: flex;
   justify-content: space-between;
   white-space: nowrap;
@@ -1157,6 +1164,68 @@ a {
   word-break: break-word;
 }
 
+.date {
+  text-align: right;
+}
+
+/*
+.content4 {
+  min-height: 100%;
+  margin-bottom: -60px;
+}
+.footer7 {
+  height: 60px;
+  position: relative;
+  margin-top: -60px;
+  clear: both;
+}
+*/
+
+.cid-sdQjI1ufdP hr {
+  background: #dedede;
+  border: 0;
+  height: 1px;
+  width: 90%;
+  margin: 1px;
+}
+.cid-sdQjI1ufdP .sidebar {
+  position: sticky;
+  flex: 1 0 33%;
+  top: 6rem;
+  align-self: flex-start;
+}
+.cid-sdQjI1ufdP .sidebar .top-post {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background: #fff;
+  transition: all 0.5s ease;
+  border: 1px solid #dedede;
+  border-radius: 5px;
+  box-shadow: rgba(86, 119, 119, 0.68) 0 50px 110px -40px,
+    rgba(0, 0, 0, 0.1) 0 5px 20px;
+}
+.cid-sdQjI1ufdP .sidebar .top-post .btn {
+  margin: 1px;
+  padding: 1px;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  font-size: 1rem;
+  font-weight: 300;
+}
+.cid-sdQjI1ufdP .sidebar .top-post h2 {
+  margin: 0 0 15px;
+  padding: 0;
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: 800;
+  color: #3498db;
+}
+.cid-sdQjI1ufdP .sidebar .top-post p {
+  font-size: 14px;
+}
+.cid-sdQjI1ufdP .sidebar .top-post p:last-child {
+  margin: 0;
+}
 .cid-sdQjI1ufdP .conteudo {
   display: flex;
   flex-direction: column;
@@ -1210,6 +1279,24 @@ a {
   margin-left: 2rem;
 }
 @media screen and (max-width: 960px) {
+  /* .cid-sdQjI1ufdP .title {
+    flex-direction: column-reverse;
+  } */
+  .cid-sdQjI1ufdP .header {
+    position: inherit;
+  }
+  .cid-sdQjI1ufdP .wrap {
+    width: 90%;
+    margin: 25px auto;
+  }
+  .cid-sdQjI1ufdP .sidebar {
+    margin: 25px 0 0;
+    position: relative;
+    top: 0;
+  }
+  .cid-sdQjI1ufdP .sidebar .top-post {
+    padding: 5%;
+  }
   .cid-sdQjI1ufdP .conteudo {
     float: inherit;
     width: 100%;
@@ -1241,6 +1328,9 @@ a {
     }
     .hostname {
       text-align: left;
+    }
+    .date {
+      text-align: right;
     }
   }
 
