@@ -111,14 +111,14 @@ function loadMoreItems() {
 
     // Create HTML element
     html += `
-        <div class="conteudo col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3 col-xxl-2">
-          <div class="post-info date">${formattedDate}</div>
+        <div class="conteudo post-info col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3 col-xxl-2">
+          <div class="post-date">${formattedDate}</div>
           <img loading="lazy" src=${image} onerror="this.onerror=null; this.src='assets/images/placeholder.png';">
-          <div class="post-info hostname">${item.hostname}</div>
-          <h3 class="mbr-fonts-style" data-app-selector=".mbr-section-title" mbr-theme-style="display-2">
+          <div class="post-hostname">${item.hostname}</div>
+          <h3 class="post-title">
             <a href="${item.url}" target="_blank">${title}</a>
           </h3>
-          <div class="description">${description}</div>
+          <div class="post-description">${description}</div>
       </div>
     `;
     // Insert the HTML element into the DOM
