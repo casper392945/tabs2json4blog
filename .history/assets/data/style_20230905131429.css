@@ -1147,8 +1147,10 @@ a {
   justify-content: space-between;
   white-space: nowrap;
 }
-
 .cid-sdQjI1ufdP .conteudo a {
+  line-height: 1 !important;
+  font-weight: bold !important;
+  .conteudo a {
 	line-height: 1 !important;
 	font-weight: bold !important;
 	color: black;
@@ -1162,7 +1164,7 @@ a {
 	font-style: normal;
 	cursor: pointer;
 }
-
+}
 .cid-sdQjI1ufdP .post-date{
   font-size: 0.75rem;
   text-align: left;

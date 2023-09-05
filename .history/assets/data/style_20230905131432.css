@@ -1147,22 +1147,11 @@ a {
   justify-content: space-between;
   white-space: nowrap;
 }
-
 .cid-sdQjI1ufdP .conteudo a {
-	line-height: 1 !important;
-	font-weight: bold !important;
-	color: black;
-	font-size: 1rem;
-	transition: color 0.6s;
-	word-break: break-word;
-	font-weight: 400;
-	word-wrap: break-word;
-	margin-top: 5px;
-	text-decoration: none;
-	font-style: normal;
-	cursor: pointer;
+  line-height: 1 !important;
+  font-weight: bold !important;
+  
 }
-
 .cid-sdQjI1ufdP .post-date{
   font-size: 0.75rem;
   text-align: left;
