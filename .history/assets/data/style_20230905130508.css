@@ -594,7 +594,7 @@ a:hover {
 a {
   transition: color 0.6s;
 }
-@media (min-width: 992px) {
+/* @media (min-width: 992px) {
   /*
   .conteudo {
     width: 33.33%;
@@ -612,7 +612,7 @@ a {
   .conteudo {
     width: 100%;
   }
-}
+} */
 
 /* <section class="extMenu10 menu cid-sooWFyn43Q" once="menu" id="extMenu11-1l"> */
 .cid-sooWFyn43Q .navbar {

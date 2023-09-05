@@ -1172,6 +1172,7 @@ a {
   padding-top: 5px;
   padding-bottom: 5px;
   font-weight: normal;
+  /* color: #666; */
   font-size: 1.2rem;
   overflow: hidden;
   word-break: break-word;
