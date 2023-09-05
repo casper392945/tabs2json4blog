@@ -591,6 +591,11 @@ a:hover {
   color: #ffffff;
 }
 
+a {
+  transition: color 0.6s;
+}
+
+
 /* <section class="extMenu10 menu cid-sooWFyn43Q" once="menu" id="extMenu11-1l"> */
 .cid-sooWFyn43Q .navbar {
   background: #ffffff;
@@ -1126,21 +1131,21 @@ a:hover {
 }
 
 .cid-sdQjI1ufdP .conteudo a {
-  line-height: 1 !important;
-  font-weight: bold !important;
-  color: black;
-  font-size: 1rem;
-  transition: color 0.6s;
-  word-break: break-word;
-  font-weight: 400;
-  word-wrap: break-word;
-  margin-top: 5px;
-  text-decoration: none;
-  font-style: normal;
-  cursor: pointer;
+	line-height: 1 !important;
+	font-weight: bold !important;
+	color: black;
+	font-size: 1rem;
+	transition: color 0.6s;
+	word-break: break-word;
+	font-weight: 400;
+	word-wrap: break-word;
+	margin-top: 5px;
+	text-decoration: none;
+	font-style: normal;
+	cursor: pointer;
 }
 
-.cid-sdQjI1ufdP .post-date {
+.cid-sdQjI1ufdP .post-date{
   font-size: 0.75rem;
   text-align: left;
 }
