@@ -1217,16 +1217,16 @@ a {
   border-top-style: solid;
   border-top-color: #cccccc;
 }
-.cid-sooWFAfKdL .container {
+.container {
   height: fit-content;
   max-width: 100%;
-}
-.cid-sooWFAfKdL .copyright {
-  text-align: center;
-  padding: 1rem;
-  line-height: 100%;
-  word-wrap: break-word;
-  margin: 0;
+  .copyright {
+    text-align: center;
+    padding: 1rem;
+    line-height: 100%;
+    word-wrap: break-word;
+    margin: 0;
+  }
 }
 
 /* --- responsive rules section --- */
