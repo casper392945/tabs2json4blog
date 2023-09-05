@@ -1159,14 +1159,17 @@ a {
   justify-content: space-between;
   white-space: nowrap;
 }
+
 .cid-sdQjI1ufdP .post-date{
   font-size: 0.75rem;
   text-align: left;
 }
+
 .cid-sdQjI1ufdP .post-hostname {
   font-size: 0.75rem;
   text-align: left;
 }
+
 .cid-sdQjI1ufdP .post-description {
   line-height: 1;
   display: -webkit-box;
@@ -1176,6 +1179,7 @@ a {
   text-overflow: ellipsis;
   word-break: break-word;
 }
+
 .cid-sdQjI1ufdP .post-title {
   padding-top: 5px;
   padding-bottom: 5px;
@@ -1185,6 +1189,7 @@ a {
   overflow: hidden;
   word-break: break-word;
 }
+
 .cid-sdQjI1ufdP img {
   border: 1px solid #dedede;
   border-radius: 5px;
