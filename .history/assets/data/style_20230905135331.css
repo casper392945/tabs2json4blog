@@ -1205,34 +1205,18 @@ a:hover {
 
 @media (min-width: 576px) {
   /* Small devices (landscape phones, 576px and up) */
-  .col-sm-6 {
-    flex: 0 0 auto;
-    width: 47%;
-  }
 }
 
 @media (min-width: 768px) {
   /* Medium devices (tablets, 768px and up) */
-  .col-md-6 {
-    flex: 0 0 auto;
-    width: 48%;
-  }
 }
 
 @media (min-width: 992px) {
   /* Large devices (desktops, 992px and up) */
-  .col-lg-4 {
-    flex: 0 0 auto;
-    width: 31.333%;
-  }
 }
 
 @media (min-width: 1200px) {
   /* X-Large devices (large desktops, 1200px and up) */
-  .col-xl-3 {
-    flex: 0 0 auto;
-    width: 32%;
-  }
 }
 
 @media (min-width: 1400px) {
