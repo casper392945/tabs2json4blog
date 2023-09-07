@@ -195,7 +195,8 @@ a.text-black.active {
 }
 
 /* <section class="extMenu10 menu cid-sooWFyn43Q" once="menu" id="extMenu11-1l"> */
-.bottom-border {
+.navbar {
+
     background-color: #fafafa;
     border-bottom-width: 1px;
     border-bottom-style: solid;

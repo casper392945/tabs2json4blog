@@ -152,6 +152,26 @@ a.text-black.active {
   color: #000000 !important;
 }
 
+a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]) {
+  position: relative;
+  background-image: transparent;
+  background-size: 10000px 2px;
+  background-repeat: no-repeat;
+  background-position: 0px 1.2em;
+  background-position: -10000px 1.2em;
+}
+a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):hover {
+  transition: background-position 2s ease-in-out;
+  background-image: linear-gradient(currentColor 50%, currentColor 50%);
+  background-position: 0px 1.2em;
+}
+.nav-tabs .nav-link.active {
+  color: #6592e6;
+}
+.nav-tabs .nav-link:not(.active) {
+  color: #232323;
+}
+
 .alert-success {
   background-color: #70c770;
 }
@@ -172,7 +192,11 @@ a.text-black.active {
 .mbr-gallery-filter li.active .btn:focus {
   box-shadow: none;
 }
-
+a,
+a:hover {
+  color: black;
+  font-size: 1rem;
+}
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
   color: #ffffff;
@@ -195,12 +219,6 @@ a.text-black.active {
 }
 
 /* <section class="extMenu10 menu cid-sooWFyn43Q" once="menu" id="extMenu11-1l"> */
-.bottom-border {
-    background-color: #fafafa;
-    border-bottom-width: 1px;
-    border-bottom-style: solid;
-    border-bottom-color: #cccccc;
-}
 .cid-sooWFyn43Q .navbar {
   background: #ffffff;
   transition: none;

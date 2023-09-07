@@ -152,6 +152,7 @@ a.text-black.active {
   color: #000000 !important;
 }
 
+
 .alert-success {
   background-color: #70c770;
 }
@@ -195,11 +196,13 @@ a.text-black.active {
 }
 
 /* <section class="extMenu10 menu cid-sooWFyn43Q" once="menu" id="extMenu11-1l"> */
-.bottom-border {
+.navbar {
+  element {
     background-color: #fafafa;
-    border-bottom-width: 1px;
-    border-bottom-style: solid;
-    border-bottom-color: #cccccc;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #cccccc;
+}
 }
 .cid-sooWFyn43Q .navbar {
   background: #ffffff;
