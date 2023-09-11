@@ -208,9 +208,6 @@ a.text-black.active {
 form[role="search"] {
   height: 48px;
 }
-[type="submit"] {
-  flex-shrink: 0;
-}
 
 /* <section class="content4 cid-sdQjI1ufdP" id="content4-0"> */
 .cid-sdQjI1ufdP {
