@@ -196,19 +196,17 @@ a.text-black.active {
 
 /* <section class="extMenu10 menu cid-sooWFyn43Q" once="menu" id="extMenu11-1l"> */
 .bottom-border {
-  /* background-color: #fafafa; */
-  background-color: rgb(255 255 255 / 0.3);
-  backdrop-filter: blur(10px);
-  border-bottom-width: 1px;
-  border-bottom-style: solid;
-  border-bottom-color: #cccccc;
+    background-color: #fafafa;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #cccccc;
 }
 .form-control:focus {
   border-color: #ced4da;
   box-shadow: 0 0 0 0.25rem rgba(0, 123, 255, 0.25);
 }
 form .d-flex {
-  height: 48px;
+ height: 48px;
 }
 /* form[role="search"] {
   height: 48px;
@@ -312,7 +310,7 @@ form .d-flex {
   position: fixed;
   left: 0;
   bottom: 0;
-  /* background-color: #fafafa; */
+  background-color: #fafafa;
   border-top-width: 1px;
   border-top-style: solid;
   border-top-color: #cccccc;
