@@ -78,8 +78,58 @@
 
           <div class="navbar">
             <form class="d-flex">
+              <button class="btn btn-outline-success me-2" type="button" onclick="window.location.href='mailto:casper392945@google.com'">Feedback</button>
               <!-- <button class="btn btn-outline-success me-2" type="button" onclick="openPopup()">Feedback</button> -->
-              <button class="btn btn-outline-success me-2" type="button" onclick="window.location.href='mailto:casper392945@gmail.com'">Feedback</button>
+              <!--
+                <button class="btn btn-outline-success me-2" type="button" onclick="openPopup()">Feedback</button>
+
+                <script>
+                function openPopup() {
+                  // Open the popup window
+                  var popupWindow = window.open("", "feedbackPopup", "width=400,height=300");
+
+                  // Create the form HTML
+                  var formHTML = `
+                    <form id="feedbackForm" onsubmit="submitForm(); return false;">
+                      <label for="email">Email:</label>
+                      <input type="email" id="email" name="email" required><br>
+
+                      <label for="message">Message:</label>
+                      <textarea id="message" name="message" required></textarea><br>
+
+                      <input type="submit" value="Send">
+                    </form>
+                  `;
+
+                  // Write the form HTML to the popup window
+                  popupWindow.document.write(formHTML);
+                }
+
+                function submitForm() {
+                  // Get the form data
+                  var email = popupWindow.document.getElementById("email").value;
+                  var message = popupWindow.document.getElementById("message").value;
+
+                  // Send the form data to an email address (you need to implement this part)
+                  // Example: using the 'mailto:' link
+                  var mailtoLink = "mailto:your-email@example.com?subject=Feedback&body=" + encodeURIComponent(message);
+                  window.location.href = mailtoLink;
+
+                  // Close the popup window
+                  popupWindow.close();
+                }
+                </script>
+
+                In this example, when the "Feedback" button is clicked, it will open a popup window.
+                The popup window contains a form with an email input and a message textarea. When the form is submitted,
+                it will gather the form data (email and message),
+                andsend the data to an email address (you need to implement this part), and close the popup window.
+
+                Note: The example uses the 'mailto:' link to send the email.
+                However, this method may not work in all cases, especially if you need to send the email from a server-side script.
+                In that case, you would need to use server-side programming to handle the form submission and send the email.
+
+              -->
               <button class="btn btn-outline-secondary me-2" type="button" onclick="window.open('https://www.paypal.com/paypalme/kia3230', '_blank')">Donate</button>
             </form>
           </div>
