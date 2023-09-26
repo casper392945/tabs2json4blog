@@ -43,6 +43,20 @@ function convertHTMLTags(string) {
   return string.replace(regex, (match) => htmlEntities[match]);
 }
 
+function search() {
+  // Get the value from the input field
+  var searchValue = document.getElementById("searchInput").value;
+
+  // Use the search value for further processing, such as filtering or searching data
+  console.log("Search value:", searchValue);
+
+  // Clear the input field
+  document.getElementById("searchInput").value = "";
+  return searchValue;
+}
+
+
+
 function fetchData() {
   fetch("assets/data/tabs2json4blog.json")
     .then((response) => response.json())
