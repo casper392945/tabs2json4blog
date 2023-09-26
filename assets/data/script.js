@@ -2,7 +2,7 @@ var blogElement = document.querySelector(".blog");
 
 let tabs = [];
 let html = "";
-let searchInput = "";
+let searchValue = "";
 let applyFilter = false; // Flag to determine whether the filter should be applied
 
 function fetchData() {
@@ -13,7 +13,7 @@ function fetchData() {
 
       if (applyFilter) {
         filteredData = data.filter(item =>
-          item["hostname"].includes(searchInput)
+          item["hostname"].includes(searchValue)
         );
         console.log(filteredData.length);
       }
