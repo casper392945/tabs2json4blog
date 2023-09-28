@@ -1,14 +1,24 @@
 var blogElement = document.querySelector(".blog");
 let tabs = [];
 let html = "";
+let applyFilter = false;
+let searchValue = "";
+let loadedItems = 0;
+const itemsPerPage = 24;
 
 function fetchData(applyFilter, searchValue) {
-  fetch("assets/data/tabs2json4blog.json")
+  fetch("./assets/data/tabs2json4blog.json", {
+    method: "GET",
+    headers: {
+      "Content-Type": "application/json",
+    }
+  })
     .then((response) => response.json())
     .then((data) => {
       console.log("data", data.length);
       if (applyFilter) {
-        // const searchValue = document.getElementById("searchInput").value;
+        loadedItems = 0;
+        html = "";
         let filteredData = data.filter((item) =>
           item["hostname"].includes(searchValue)
         );
@@ -19,7 +29,8 @@ function fetchData(applyFilter, searchValue) {
       }
       console.log("tabs", tabs.length);
       loadMoreItems();
-    });
+    })
+    .catch((error) => console.log(error));
 }
 
 function search() {
@@ -29,7 +40,7 @@ function search() {
 }
 
 const searchButton = document.getElementById("searchButton");
-searchButton.addEventListener("click", function() {
+searchButton.addEventListener("click", function () {
   const searchValue = search();
   fetchData(true, searchValue);
 });
@@ -42,9 +53,6 @@ function convertHTMLTags(string) {
   };
   return string.replace(regex, (match) => htmlEntities[match]);
 }
-
-let loadedItems = 0;
-const itemsPerPage = 24;
 
 function loadMoreItems() {
   const remainingItems = tabs.length - loadedItems;
