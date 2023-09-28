@@ -1,26 +1,38 @@
 var blogElement = document.querySelector(".blog");
 let tabs = [];
+let html = "";
 
-function fetchData(applyFilter) {
+function fetchData(applyFilter, searchValue) {
   fetch("assets/data/tabs2json4blog.json")
     .then((response) => response.json())
     .then((data) => {
+      console.log("data", data.length);
       if (applyFilter) {
-        let filteredData = data;
-        const searchValue = document.getElementById("searchInput").value;
-        filteredData = data.filter((item) =>
+        // const searchValue = document.getElementById("searchInput").value;
+        let filteredData = data.filter((item) =>
           item["hostname"].includes(searchValue)
         );
         console.log("filteredData", filteredData.length);
         tabs = filteredData.sort((a, b) => new Date(b.date) - new Date(a.date));
       } else {
-        console.log("data", data.length);
         tabs = data.sort((a, b) => new Date(b.date) - new Date(a.date));
       }
       console.log("tabs", tabs.length);
       loadMoreItems();
     });
 }
+
+function search() {
+  const searchValue = document.getElementById("searchInput").value;
+  console.log("Search value:", searchValue);
+  return searchValue;
+}
+
+const searchButton = document.getElementById("searchButton");
+searchButton.addEventListener("click", function() {
+  const searchValue = search();
+  fetchData(true, searchValue);
+});
 
 function convertHTMLTags(string) {
   const regex = /[<>]/g;
@@ -35,7 +47,6 @@ let loadedItems = 0;
 const itemsPerPage = 24;
 
 function loadMoreItems() {
-  let html = "";
   const remainingItems = tabs.length - loadedItems;
   const itemsToLoad = Math.min(itemsPerPage, remainingItems);
   const nextItems = tabs.slice(loadedItems, loadedItems + itemsToLoad);
@@ -102,8 +113,5 @@ function checkScroll() {
 }
 
 window.addEventListener("scroll", checkScroll);
-
-const searchButton = document.getElementById("searchButton");
-searchButton.addEventListener("click", () => fetchData(true));
 
 fetchData(false);
