@@ -7,7 +7,9 @@ let loadedItems = 0;
 const itemsPerPage = 24;
 
 function fetchData(applyFilter, searchValue) {
-  fetch("./assets/data/tabs2json4blog.json", {
+  console.log("applyFilter:", applyFilter);
+  console.log("searchValue:", searchValue);
+  fetch("assets/data/tabs2json4blog.json", {
     method: "GET",
     headers: {
       "Content-Type": "application/json",
@@ -15,19 +17,19 @@ function fetchData(applyFilter, searchValue) {
   })
     .then((response) => response.json())
     .then((data) => {
-      console.log("data", data.length);
+      console.log("data:", data.length);
       if (applyFilter) {
         loadedItems = 0;
         html = "";
         let filteredData = data.filter((item) =>
           item["hostname"].includes(searchValue)
         );
-        console.log("filteredData", filteredData.length);
+        console.log("filteredData:", filteredData.length);
         tabs = filteredData.sort((a, b) => new Date(b.date) - new Date(a.date));
       } else {
         tabs = data.sort((a, b) => new Date(b.date) - new Date(a.date));
       }
-      console.log("tabs", tabs.length);
+      console.log("tabs:", tabs.length);
       loadMoreItems();
     })
     .catch((error) => console.log(error));
