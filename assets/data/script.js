@@ -24,8 +24,21 @@ function fetchData(inputValue) {
       html = "";
       if (inputValue) {
         let filteredData = data.filter((item) =>
-          item["hostname"].includes(inputValue)
+          Object.values(item).some(
+            (value) =>
+              typeof value === "string" &&
+              value.toLowerCase().includes(inputValue.toLowerCase())
+          )
         );
+        // let filteredData = data.filter((item) =>
+        //   Object.values(item).some((value) =>
+        //     value.toLowerCase().includes(inputValue.toLowerCase())
+        //   )
+        // );
+        // let filteredData = data.filter((item) =>
+        //   item["hostname"].includes(inputValue)
+        // );
+
         // console.log("filteredData:", filteredData.length);
         tabs = filteredData.sort((a, b) => new Date(b.date) - new Date(a.date));
         // console.log("tabs:", tabs.length);
