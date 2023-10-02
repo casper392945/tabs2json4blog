@@ -21,12 +21,16 @@ function fetchData(inputValue) {
       // console.log("inputValue:", inputValue);
       loadedItems = 0;
       html = "";
-      let filteredData = data.filter((item) =>
-        item["hostname"].includes(inputValue)
-      );
-      // console.log("filteredData:", filteredData.length);
-      tabs = filteredData.sort((a, b) => new Date(b.date) - new Date(a.date));
-      // console.log("tabs:", tabs.length);
+      if (inputValue) {
+        let filteredData = data.filter((item) =>
+          item["hostname"].includes(inputValue)
+        );
+        // console.log("filteredData:", filteredData.length);
+        tabs = filteredData.sort((a, b) => new Date(b.date) - new Date(a.date));
+        // console.log("tabs:", tabs.length);
+      } else {
+        tabs = data.sort((a, b) => new Date(b.date) - new Date(a.date));
+      }
       loadMoreItems();
     })
     .catch((error) => console.log(error));
@@ -37,7 +41,7 @@ const searchInput = document.getElementById("searchInput");
 const searchButton = document.getElementById("searchButton");
 
 // Add event listener to the search button
-searchButton.addEventListener("click", function(event) {
+searchButton.addEventListener("click", function (event) {
   event.preventDefault(); // Prevent form submission
 
   const inputValue = searchInput.value; // Get the input value
