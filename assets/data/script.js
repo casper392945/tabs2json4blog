@@ -17,16 +17,16 @@ function fetchData(inputValue) {
   })
     .then((response) => response.json())
     .then((data) => {
-      console.log("data:", data.length);
-      console.log("inputValue:", inputValue);
+      // console.log("data:", data.length);
+      // console.log("inputValue:", inputValue);
       loadedItems = 0;
       html = "";
       let filteredData = data.filter((item) =>
         item["hostname"].includes(inputValue)
       );
-      console.log("filteredData:", filteredData.length);
+      // console.log("filteredData:", filteredData.length);
       tabs = filteredData.sort((a, b) => new Date(b.date) - new Date(a.date));
-      console.log("tabs:", tabs.length);
+      // console.log("tabs:", tabs.length);
       loadMoreItems();
     })
     .catch((error) => console.log(error));
@@ -119,4 +119,4 @@ function checkScroll() {
 }
 window.addEventListener("scroll", checkScroll);
 
-fetchData('');
+fetchData();
