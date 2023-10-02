@@ -30,14 +30,6 @@ function fetchData(inputValue) {
               value.toLowerCase().includes(inputValue.toLowerCase())
           )
         );
-        // let filteredData = data.filter((item) =>
-        //   Object.values(item).some((value) =>
-        //     value.toLowerCase().includes(inputValue.toLowerCase())
-        //   )
-        // );
-        // let filteredData = data.filter((item) =>
-        //   item["hostname"].includes(inputValue)
-        // );
 
         // console.log("filteredData:", filteredData.length);
         tabs = filteredData.sort((a, b) => new Date(b.date) - new Date(a.date));
