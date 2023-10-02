@@ -1,4 +1,5 @@
 var blogElement = document.querySelector(".blog");
+var totalElement = document.querySelector(".navTotal");
 
 let tabs = [];
 let html = "";
@@ -31,6 +32,7 @@ function fetchData(inputValue) {
       } else {
         tabs = data.sort((a, b) => new Date(b.date) - new Date(a.date));
       }
+      totalElement.innerHTML = "Found: " + tabs.length;
       loadMoreItems();
     })
     .catch((error) => console.log(error));

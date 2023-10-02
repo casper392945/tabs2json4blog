@@ -66,30 +66,29 @@
             <li class="nav-item">
               <a class="nav-link disabled" aria-disabled="true">Disabled</a>
             </li>
+            <div class="navbar">
+              <form class="d-flex">
+                <button class="btn btn-outline-success me-2" type="button" onclick="window.location.href='mailto:casper392945@gmail.com'">Feedback</button>
+                <button class="btn btn-outline-secondary me-2" type="button" onclick="window.open('https://www.paypal.com/paypalme/kia3230', '_blank')">Donate</button>
+              </form>
+            </div>
+
+            <div class="navbar">
+              <form class="d-flex" role="search">
+                <input id="searchInput" class="form-control me-2 border" type="search" placeholder="Search" aria-label="Search">
+                <button id="searchButton" class="btn btn-outline-success" type="submit">Search</button>
+              </form>
+            </div>
           </ul>
-
-
-          <div class="navbar">
-            <form class="d-flex">
-              <button class="btn btn-outline-success me-2" type="button" onclick="window.location.href='mailto:casper392945@gmail.com'">Feedback</button>
-              <button class="btn btn-outline-secondary me-2" type="button" onclick="window.open('https://www.paypal.com/paypalme/kia3230', '_blank')">Donate</button>
-            </form>
-          </div>
-
-          <div class="navbar">
-            <form class="d-flex" role="search">
-              <input id="searchInput" class="form-control me-2 border" type="search" placeholder="Search" aria-label="Search">
-              <button id="searchButton" class="btn btn-outline-success" type="submit">Search</button>
-            </form>
-          </div>
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <!-- Second row of navigation items -->
+            <li class="nav-item"><a class="nav-link" href="#">Second Row Item 1</a></li>
+            <li class="nav-item"><a class="nav-link" href="#">Second Row Item 2</a></li>
+            <li class="nav-item"><a class="nav-link" href="#">Second Row Item 3</a></li>
+          </ul>
         </div>
 
-        <div class="navbar">
-          <!-- Second row of navigation items -->
-          <p class="navTotal"></p>
-          <!-- <li class="nav-item"><a class="nav-link" href="#">Second Row Item 2</a></li>
-          <li class="nav-item"><a class="nav-link" href="#">Second Row Item 3</a></li> -->
-        </div>
+
 
       </div>
       </div>
@@ -149,6 +148,7 @@
       popupWindow.close();
     }
   </script>
+
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
