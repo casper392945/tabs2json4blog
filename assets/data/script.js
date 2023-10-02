@@ -1,12 +1,14 @@
 var blogElement = document.querySelector(".blog");
 
-let searchValue = "dev.to";
 let tabs = [];
 let html = "";
 let loadedItems = 0;
 const itemsPerPage = 24;
 
-function fetchData(searchValue) {
+function fetchData(inputValue) {
+  // Perform data fetching using the inputValue
+  console.log("Fetching data for:", inputValue);
+  // ...rest of the code
   fetch("assets/data/tabs2json4blog.json", {
     method: "GET",
     headers: {
@@ -16,11 +18,11 @@ function fetchData(searchValue) {
     .then((response) => response.json())
     .then((data) => {
       console.log("data:", data.length);
-      console.log("searchValue:", searchValue);
+      console.log("inputValue:", inputValue);
       loadedItems = 0;
       html = "";
       let filteredData = data.filter((item) =>
-        item["hostname"].includes(searchValue)
+        item["hostname"].includes(inputValue)
       );
       console.log("filteredData:", filteredData.length);
       tabs = filteredData.sort((a, b) => new Date(b.date) - new Date(a.date));
@@ -30,11 +32,17 @@ function fetchData(searchValue) {
     .catch((error) => console.log(error));
 }
 
-function search() {
-  searchValue = document.getElementById("searchInput").value;
-  console.log("searchInput.value:", searchValue);
-  fetchData(searchValue);
-}
+// Get references to the search input and search button
+const searchInput = document.getElementById("searchInput");
+const searchButton = document.getElementById("searchButton");
+
+// Add event listener to the search button
+searchButton.addEventListener("click", function(event) {
+  event.preventDefault(); // Prevent form submission
+
+  const inputValue = searchInput.value; // Get the input value
+  fetchData(inputValue); // Call the fetchData function with the input value
+});
 
 function convertHTMLTags(string) {
   const regex = /[<>]/g;
@@ -111,5 +119,4 @@ function checkScroll() {
 }
 window.addEventListener("scroll", checkScroll);
 
-console.log("Global searchValue:", searchValue);
-fetchData(searchValue);
+fetchData('');
