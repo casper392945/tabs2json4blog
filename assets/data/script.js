@@ -7,6 +7,8 @@ let loadedItems = 0;
 const itemsPerPage = 24;
 
 function fetchData(inputValue) {
+  loadedItems = 0;
+  html = "";
   // Perform data fetching using the inputValue
   console.log("Fetching data for:", inputValue);
   // ...rest of the code
@@ -20,8 +22,6 @@ function fetchData(inputValue) {
     .then((data) => {
       // console.log("data:", data.length);
       // console.log("inputValue:", inputValue);
-      loadedItems = 0;
-      html = "";
       if (inputValue) {
         let filteredData = data.filter((item) =>
           Object.values(item).some(
@@ -37,7 +37,7 @@ function fetchData(inputValue) {
       } else {
         tabs = data.sort((a, b) => new Date(b.date) - new Date(a.date));
       }
-      totalElement.innerHTML = "Found: " + tabs.length;
+      totalElement.innerHTML = `<div><p>Found: ${tabs.length} of ${data.length}</p></div>`;
       loadMoreItems();
     })
     .catch((error) => console.log(error));

@@ -226,7 +226,7 @@ form .d-flex {
   padding-right: 1rem;
   margin-bottom: 0;
   list-style: none;
-  line-height: 0rem;
+  line-height: 0;
 }
 .navTotal p{
   margin-top: 1rem !important;
@@ -236,7 +236,7 @@ form .d-flex {
 
 /* <section class="content4 cid-sdQjI1ufdP" id="content4-0"> */
 .cid-sdQjI1ufdP {
-  padding-top: 8rem;
+  padding-top: 6rem;
   padding-bottom: 6rem;
   height: 100vh;
   top: 21px;

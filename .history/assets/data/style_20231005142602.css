@@ -217,26 +217,17 @@ form .d-flex {
   flex-shrink: 0;
 }
 
-
 .navTotal {
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-end !important;
   padding-left: 1rem;
-  padding-right: 1rem;
   margin-bottom: 0;
   list-style: none;
-  line-height: 0rem;
-}
-.navTotal p{
-  margin-top: 1rem !important;
-  margin-bottom: 1rem !important;
-
 }
 
 /* <section class="content4 cid-sdQjI1ufdP" id="content4-0"> */
 .cid-sdQjI1ufdP {
-  padding-top: 8rem;
+  padding-top: 6rem;
   padding-bottom: 6rem;
   height: 100vh;
   top: 21px;
@@ -376,7 +367,8 @@ form .d-flex {
     width: 31.333%;
   }
   .navbar-expand-lg {
-    flex-wrap: wrap;
+    flex-
+
   }
 }
 
