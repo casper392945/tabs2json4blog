@@ -10,7 +10,7 @@ function fetchData(inputValue) {
   loadedItems = 0;
   html = "";
   // Perform data fetching using the inputValue
-  console.log("Fetching data for:", inputValue);
+  // console.log("Fetching data for:", inputValue);
   // ...rest of the code
   fetch("assets/data/tabs2json4blog.json", {
     method: "GET",
