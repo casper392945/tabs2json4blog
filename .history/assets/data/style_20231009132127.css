@@ -292,8 +292,7 @@ form .d-flex {
   font-size: 0.75rem;
   text-align: left;
   display: flex;
-  justify-content: space-between;
-  white-space: nowrap;
+  
 }
 .cid-sdQjI1ufdP .post-hostname {
   font-size: 0.75rem;

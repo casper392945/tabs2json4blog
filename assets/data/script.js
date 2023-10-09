@@ -69,7 +69,7 @@ function loadMoreItems() {
   const itemsToLoad = Math.min(itemsPerPage, remainingItems);
   const nextItems = tabs.slice(loadedItems, loadedItems + itemsToLoad);
 
-  nextItems.forEach((item) => {
+  nextItems.forEach((item, index) => {
     const dateString = item.date;
     const date = new Date(dateString);
     const options = {
@@ -106,7 +106,10 @@ function loadMoreItems() {
 
     html += `
         <div class="conteudo post-info col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3 col-xxl-2">
-          <div class="post-date">${formattedDate}</div>
+          <div class="post-date">
+            <div><p>${formattedDate}</p></div>
+            <div><p>#${index + 1} of ${tabs.length}</p></div>
+          </div>
           <img loading="lazy" src=${image} onerror="this.onerror=null; this.src='assets/images/placeholder.png';">
           <div class="post-hostname">${item.hostname}</div>
           <h3 class="post-title">
@@ -117,6 +120,11 @@ function loadMoreItems() {
     `;
 
     blogElement.innerHTML = html;
+    // Scroll to the top of the page
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth", // Use 'auto' for instant scroll
+    });
   });
   loadedItems += itemsToLoad;
 }
