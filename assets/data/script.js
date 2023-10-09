@@ -4,9 +4,11 @@ var totalElement = document.querySelector(".navTotal");
 let tabs = [];
 let html = "";
 let loadedItems = 0;
+let currentItem = 0;
 const itemsPerPage = 24;
 
 function fetchData(inputValue) {
+  currentItem = 0;
   loadedItems = 0;
   html = "";
   // Perform data fetching using the inputValue
@@ -62,12 +64,16 @@ searchButton.addEventListener("click", function (event) {
 });
 
 function convertHTMLTags(string) {
+  let clearString = "";
   const regex = /[<>]/g;
   const htmlEntities = {
     "<": "&lt;",
     ">": "&gt;",
   };
-  return string.replace(regex, (match) => htmlEntities[match]);
+  if (typeof string !== "string") {
+    clearString = string[0];
+  }
+  return clearString.replace(regex, (match) => htmlEntities[match]);
 }
 
 function loadMoreItems() {
@@ -75,7 +81,8 @@ function loadMoreItems() {
   const itemsToLoad = Math.min(itemsPerPage, remainingItems);
   const nextItems = tabs.slice(loadedItems, loadedItems + itemsToLoad);
 
-  nextItems.forEach((item, index) => {
+  nextItems.forEach((item) => {
+    currentItem++;
     const dateString = item.date;
     const date = new Date(dateString);
     const options = {
@@ -114,7 +121,7 @@ function loadMoreItems() {
         <div class="conteudo post-info col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3 col-xxl-2">
           <div class="post-date">
             <div><p>${formattedDate}</p></div>
-            <div><p>#${index + 1} of ${tabs.length}</p></div>
+            <div><p>#${currentItem} of ${tabs.length}</p></div>
           </div>
           <img loading="lazy" src=${image} onerror="this.onerror=null; this.src='assets/images/placeholder.png';">
           <div class="post-hostname">${item.hostname}</div>
