@@ -51,6 +51,12 @@ const searchButton = document.getElementById("searchButton");
 searchButton.addEventListener("click", function (event) {
   event.preventDefault(); // Prevent form submission
 
+  // Scroll to the top of the page
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth", // Use 'auto' for instant scroll
+  });
+
   const inputValue = searchInput.value; // Get the input value
   fetchData(inputValue); // Call the fetchData function with the input value
 });
@@ -120,11 +126,6 @@ function loadMoreItems() {
     `;
 
     blogElement.innerHTML = html;
-    // Scroll to the top of the page
-    window.scrollTo({
-      top: 0,
-      behavior: "smooth", // Use 'auto' for instant scroll
-    });
   });
   loadedItems += itemsToLoad;
 }
