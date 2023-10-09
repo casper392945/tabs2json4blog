@@ -72,6 +72,8 @@ function convertHTMLTags(string) {
   };
   if (typeof string !== "string") {
     clearString = string[0];
+  } else {
+    clearString = string;
   }
   return clearString.replace(regex, (match) => htmlEntities[match]);
 }
