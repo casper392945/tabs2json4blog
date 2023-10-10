@@ -240,7 +240,7 @@ form .d-flex {
 
 /* <section class="content4 cid-sdQjI1ufdP" id="content4-0"> */
 .cid-sdQjI1ufdP {
-  padding-top: 8rem;
+  /* padding-top: 8rem; */
   padding-bottom: 6rem;
   height: 100vh;
   top: 21px;
@@ -256,7 +256,7 @@ form .d-flex {
   justify-content: space-between;
   -webkit-justify-content: space-between;
   margin: auto;
-  padding: 2rem;
+  padding: 1rem;
 }
 .cid-sdQjI1ufdP .conteudo {
   display: flex;

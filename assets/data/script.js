@@ -45,6 +45,7 @@ function fetchData(inputValue) {
     .catch((error) => console.log(error));
 }
 
+/*
 // Get references to the search input and search button
 const searchInput = document.getElementById("searchInput");
 const searchButton = document.getElementById("searchButton");
@@ -62,6 +63,38 @@ searchButton.addEventListener("click", function (event) {
   const inputValue = searchInput.value; // Get the input value
   fetchData(inputValue); // Call the fetchData function with the input value
 });
+*/
+
+// Get references to the search input and search button
+const searchInput = document.getElementById("searchInput");
+const searchButton = document.getElementById("searchButton");
+
+// Add event listener to the search button
+searchButton.addEventListener("click", function (event) {
+  event.preventDefault(); // Prevent form submission
+  performSearch();
+});
+
+// Add event listener for "Enter" key press on the search input
+searchInput.addEventListener("keydown", function (event) {
+  if (event.key === "Enter") {
+    event.preventDefault(); // Prevent form submission
+    performSearch();
+  }
+});
+
+
+// Function to handle the search action
+function performSearch() {
+  // Scroll to the top of the page
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth", // Use 'auto' for instant scroll
+  });
+
+  const inputValue = searchInput.value; // Get the input value
+  fetchData(inputValue); // Call the fetchData function with the input value
+}
 
 function convertHTMLTags(string) {
   let clearString = "";

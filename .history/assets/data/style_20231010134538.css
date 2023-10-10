@@ -217,6 +217,21 @@ form .d-flex {
   flex-shrink: 0;
 }
 
+.clear-button {
+  position: absolute;
+  top: 50%;
+  right: 8px;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.clear-button:hover {
+  color: red;
+}
+
 .firstRow {
   justify-content: flex-start !important;
 }
