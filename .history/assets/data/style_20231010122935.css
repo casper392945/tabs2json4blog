@@ -217,12 +217,7 @@ form .d-flex {
   flex-shrink: 0;
 }
 
-.firstRow {
-  justify-content: flex-start !important;
-}
-.secondRow {
-  justify-content: flex-end !important;
-}
+.sewcon
 .navTotal {
   display: flex;
   flex-wrap: wrap;
@@ -233,9 +228,10 @@ form .d-flex {
   list-style: none;
   line-height: 0rem;
 }
-.navTotal p {
+.navTotal p{
   margin-top: 1rem !important;
   margin-bottom: 1rem !important;
+
 }
 
 /* <section class="content4 cid-sdQjI1ufdP" id="content4-0"> */

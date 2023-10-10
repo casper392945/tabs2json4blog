@@ -218,10 +218,10 @@ form .d-flex {
 }
 
 .firstRow {
-  justify-content: flex-start !important;
+  justify-content: flex-start !;
 }
 .secondRow {
-  justify-content: flex-end !important;
+  justify-content: flex-end;
 }
 .navTotal {
   display: flex;
