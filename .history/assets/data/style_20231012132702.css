@@ -247,18 +247,17 @@ form .d-flex {
   bottom: 21px;
   /* background-color: #eeeeee; */
 }
-.cid-sdQjI1ufdP .nothing {
+.cid-sdQjI1ufdP .nothing{
   font-family: Nunito;
-  font-size: 6rem;
+  font-size: larger;
   text-align: center;
-  margin: 6rem;
-  padding: 6rem;
-  /* display: flex; */
-  /* align-items: center; */
-  /* justify-content: center; */
-  /* flex-direction: row; */
-  max-width: -moz-available;
-  /* max-height: 75vh !important; */
+  margin: 1rem;
+  padding: 1rem;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: row;
+max-width: -;
 }
 .cid-sdQjI1ufdP .nothing p {
   margin: 0;

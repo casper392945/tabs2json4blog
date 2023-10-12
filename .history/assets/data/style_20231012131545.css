@@ -247,21 +247,9 @@ form .d-flex {
   bottom: 21px;
   /* background-color: #eeeeee; */
 }
-.cid-sdQjI1ufdP .nothing {
+.cid-sdQjI1ufdP .nothing{
   font-family: Nunito;
-  font-size: 6rem;
-  text-align: center;
-  margin: 6rem;
-  padding: 6rem;
-  /* display: flex; */
-  /* align-items: center; */
-  /* justify-content: center; */
-  /* flex-direction: row; */
-  max-width: -moz-available;
-  /* max-height: 75vh !important; */
-}
-.cid-sdQjI1ufdP .nothing p {
-  margin: 0;
+  font-size: ;
 }
 .cid-sdQjI1ufdP .blog {
   display: flex;

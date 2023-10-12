@@ -254,9 +254,9 @@ form .d-flex {
   margin: 6rem;
   padding: 6rem;
   /* display: flex; */
-  /* align-items: center; */
-  /* justify-content: center; */
-  /* flex-direction: row; */
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
   max-width: -moz-available;
   /* max-height: 75vh !important; */
 }

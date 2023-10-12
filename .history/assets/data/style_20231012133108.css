@@ -255,8 +255,8 @@ form .d-flex {
   padding: 6rem;
   /* display: flex; */
   /* align-items: center; */
-  /* justify-content: center; */
-  /* flex-direction: row; */
+  justify-content: center;
+  flex-direction: row;
   max-width: -moz-available;
   /* max-height: 75vh !important; */
 }

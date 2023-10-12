@@ -253,11 +253,11 @@ form .d-flex {
   text-align: center;
   margin: 6rem;
   padding: 6rem;
-  /* display: flex; */
-  /* align-items: center; */
-  /* justify-content: center; */
-  /* flex-direction: row; */
-  max-width: -moz-available;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  /* max-width: -moz-available; */
   /* max-height: 75vh !important; */
 }
 .cid-sdQjI1ufdP .nothing p {

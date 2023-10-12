@@ -113,7 +113,9 @@ function convertHTMLTags(string) {
 
 function loadMoreItems() {
   if (tabs.length === 0) {
-    blogElement.innerHTML = '';
+    blogElement.innerHTML = `
+    <div class="nothing"><p>Nothing found</p></div>
+    `;
     return;
   }
   const remainingItems = tabs.length - loadedItems;
