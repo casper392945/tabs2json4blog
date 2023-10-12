@@ -218,7 +218,7 @@ form .d-flex {
 }
 
 .firstRow {
-  justify-content: space-between !important;
+  justify-content: space-between!important;
 }
 .secondRow {
   justify-content: flex-end !important;

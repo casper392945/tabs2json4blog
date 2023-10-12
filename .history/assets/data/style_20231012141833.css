@@ -218,8 +218,8 @@ form .d-flex {
 }
 
 .firstRow {
-  justify-content: space-between !important;
-}
+  /* justify-content: flex-start !important; */
+/* } */
 .secondRow {
   justify-content: flex-end !important;
 }
