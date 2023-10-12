@@ -112,6 +112,10 @@ function convertHTMLTags(string) {
 }
 
 function loadMoreItems() {
+  if (tabs.length === 0) {
+    blogElement.innerHTML = '';
+    return;
+  }
   const remainingItems = tabs.length - loadedItems;
   const itemsToLoad = Math.min(itemsPerPage, remainingItems);
   const nextItems = tabs.slice(loadedItems, loadedItems + itemsToLoad);
