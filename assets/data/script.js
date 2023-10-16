@@ -39,6 +39,26 @@ function fetchData(inputValue) {
       } else {
         tabs = data.sort((a, b) => new Date(b.date) - new Date(a.date));
       }
+
+      const uniqueHostnames = tabs.reduce((acc, item) => {
+        acc[item.hostname] = true;
+        return acc;
+      }, {});
+      const hostnamesCount = Object.keys(uniqueHostnames).length;
+      console.log('Total unique hostnames:', hostnamesCount);
+      sortedHostnames = (Object.keys(uniqueHostnames)).sort();
+      console.log(sortedHostnames);
+
+      const uniqueOgType = tabs.reduce((acc, item) => {
+        acc[item["og:type"]] = true;
+        return acc;
+      }, {});
+      const ogTypeCount = Object.keys(uniqueOgType).length;
+      console.log('Total unique og:type:', ogTypeCount);
+      sortedOgTypes = (Object.keys(uniqueOgType)).sort();
+      console.log(sortedOgTypes);
+
+
       totalElement.innerHTML = `<div><p>Found: ${tabs.length} of ${data.length}</p></div>`;
       loadMoreItems();
     })
@@ -161,11 +181,14 @@ function loadMoreItems() {
     html += `
         <div class="conteudo post-info col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3 col-xxl-2">
           <div class="post-date">
-            <div><p>${formattedDate}</p></div>
-            <div><p>#${currentItem} of ${tabs.length}</p></div>
+            <div>${formattedDate}</div>
+            <div>#${currentItem} of ${tabs.length}</div>
           </div>
           <img loading="lazy" src=${image} onerror="this.onerror=null; this.src='assets/images/placeholder.png';">
-          <div class="post-hostname">${item.hostname}</div>
+          <div class="post-date post-hostname">
+            <div>${item.hostname}</div>
+            <div>${item["og:type"]}</div>
+          </div>
           <h3 class="post-title">
             <a href="${item.url}" target="_blank">${title}</a>
           </h3>

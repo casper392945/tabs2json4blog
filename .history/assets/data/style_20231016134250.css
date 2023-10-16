@@ -281,6 +281,7 @@ form .d-flex {
 .cid-sdQjI1ufdP .conteudo {
   display: flex;
   flex-direction: column;
+  justify-content: flex-end;
   margin-bottom: 2rem;
   padding: 1rem;
   border: 1px solid #dedede;
@@ -320,10 +321,10 @@ form .d-flex {
   justify-content: space-between;
   white-space: nowrap;
 }
-/* .cid-sdQjI1ufdP .post-hostname { */
-  /* font-size: 0.75rem; */
-  /* text-align: left; */
-/* } */
+.cid-sdQjI1ufdP .post-hostname {
+  font-size: 0.75rem;
+  text-align: left;
+}
 .cid-sdQjI1ufdP .post-description {
   line-height: 1;
   display: -webkit-box;
@@ -333,9 +334,9 @@ form .d-flex {
   text-overflow: ellipsis;
   word-break: break-word;
 }
-/* .cid-sdQjI1ufdP .post-og-type { */
-  /* padding-top: 1rem; */
-/* } */
+.cid-sdQjI1ufdP .post-og-type {
+  align-self: flex-end;
+}
 .cid-sdQjI1ufdP .post-title {
   padding-top: 5px;
   padding-bottom: 5px;
@@ -351,8 +352,6 @@ form .d-flex {
   object-fit: cover;
   height: 150px;
   background-color: #cecece;
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
 }
 
 /* <section class="footer7 cid-sooWFAfKdL" once="footers" id="footer7-1n"> */
