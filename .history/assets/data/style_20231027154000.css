@@ -421,8 +421,8 @@ form .d-flex {
 
 .cid-sooWFAfKdL .fab {
   vertical-align: middle;
-  padding-left: 5px;
-  padding-right: 5px;
+  padding-left: 0.5rem;
+  padding-right: rem;
 }
 
 /* --- responsive rules section --- */

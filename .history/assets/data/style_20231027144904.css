@@ -372,43 +372,18 @@ form .d-flex {
 .cid-sooWFAfKdL .container {
   height: fit-content;
   max-width: 100%;
+  display: flex;
+  justify-content: space-between;
 }
 
-.footer-row {
-  display: flex;
-  justify-content: center;
-  align-items: center;}
+.footer
 
 .first-item {
   align-self: center;
 }
 
-.second-items {
-  margin-left: 1rem;
-}
-
-.hover-link {
-  position: relative;
-}
-
-.hover-link .hover-text {
-  visibility: hidden;
-  opacity: 0;
-  position: absolute;
-  top: -30px;
-  left: 50%;
-  transform: translateX(-50%);
-  background-color: #000;
-  color: #fff;
-  padding: 5px;
-  border-radius: 5px;
-  white-space: nowrap;
-  transition: opacity 0.3s ease, visibility 0.3s ease;
-}
-
-.hover-link:hover .hover-text {
-  visibility: visible;
-  opacity: 1;
+.second-item {
+  margin-left: auto;
 }
 
 .cid-sooWFAfKdL .copyright {
@@ -419,10 +394,20 @@ form .d-flex {
   margin: 0;
 }
 
-.cid-sooWFAfKdL .fab {
+/* .cid-sooWFAfKdL .text {
+  display: inline-block;
+  text-align: center;
   vertical-align: middle;
-  padding-left: 5px;
-  padding-right: 5px;
+} */
+
+/* .cid-sooWFAfKdL .text::after {
+  content: "";
+  display: inline-block;
+  width: 100%;
+} */
+
+.cid-sooWFAfKdL .fab.fa-github {
+  vertical-align: middle;
 }
 
 /* --- responsive rules section --- */

@@ -383,8 +383,8 @@ form .d-flex {
   align-self: center;
 }
 
-.second-items {
-  margin-left: 1rem;
+.second-item {
+  margin-left: auto;
 }
 
 .hover-link {
@@ -421,8 +421,8 @@ form .d-flex {
 
 .cid-sooWFAfKdL .fab {
   vertical-align: middle;
-  padding-left: 5px;
-  padding-right: 5px;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 /* --- responsive rules section --- */

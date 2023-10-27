@@ -321,8 +321,8 @@ form .d-flex {
   white-space: nowrap;
 }
 /* .cid-sdQjI1ufdP .post-hostname { */
-/* font-size: 0.75rem; */
-/* text-align: left; */
+  /* font-size: 0.75rem; */
+  /* text-align: left; */
 /* } */
 .cid-sdQjI1ufdP .post-description {
   line-height: 1;
@@ -334,7 +334,7 @@ form .d-flex {
   word-break: break-word;
 }
 /* .cid-sdQjI1ufdP .post-og-type { */
-/* padding-top: 1rem; */
+  /* padding-top: 1rem; */
 /* } */
 .cid-sdQjI1ufdP .post-title {
   padding-top: 5px;
@@ -373,44 +373,6 @@ form .d-flex {
   height: fit-content;
   max-width: 100%;
 }
-
-.footer-row {
-  display: flex;
-  justify-content: center;
-  align-items: center;}
-
-.first-item {
-  align-self: center;
-}
-
-.second-items {
-  margin-left: 1rem;
-}
-
-.hover-link {
-  position: relative;
-}
-
-.hover-link .hover-text {
-  visibility: hidden;
-  opacity: 0;
-  position: absolute;
-  top: -30px;
-  left: 50%;
-  transform: translateX(-50%);
-  background-color: #000;
-  color: #fff;
-  padding: 5px;
-  border-radius: 5px;
-  white-space: nowrap;
-  transition: opacity 0.3s ease, visibility 0.3s ease;
-}
-
-.hover-link:hover .hover-text {
-  visibility: visible;
-  opacity: 1;
-}
-
 .cid-sooWFAfKdL .copyright {
   text-align: center;
   padding: 1rem;
@@ -419,10 +381,9 @@ form .d-flex {
   margin: 0;
 }
 
-.cid-sooWFAfKdL .fab {
+.cid-sooWFAfKdL .fab.fa-github {
+  margin-left: 5px;
   vertical-align: middle;
-  padding-left: 5px;
-  padding-right: 5px;
 }
 
 /* --- responsive rules section --- */
