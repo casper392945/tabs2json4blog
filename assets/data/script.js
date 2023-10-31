@@ -3,6 +3,7 @@ var totalElement = document.querySelector(".navTotal");
 
 let tabs = [];
 let html = "";
+let previousDate = null;
 let loadedItems = 0;
 let currentItem = 0;
 const itemsPerPage = 24;
@@ -45,8 +46,8 @@ function fetchData(inputValue) {
         return acc;
       }, {});
       const hostnamesCount = Object.keys(uniqueHostnames).length;
-      console.log('Total unique hostnames:', hostnamesCount);
-      sortedHostnames = (Object.keys(uniqueHostnames)).sort();
+      console.log("Total unique hostnames:", hostnamesCount);
+      sortedHostnames = Object.keys(uniqueHostnames).sort();
       console.log(sortedHostnames);
 
       const uniqueOgType = tabs.reduce((acc, item) => {
@@ -54,12 +55,12 @@ function fetchData(inputValue) {
         return acc;
       }, {});
       const ogTypeCount = Object.keys(uniqueOgType).length;
-      console.log('Total unique og:type:', ogTypeCount);
-      sortedOgTypes = (Object.keys(uniqueOgType)).sort();
+      console.log("Total unique og:type:", ogTypeCount);
+      sortedOgTypes = Object.keys(uniqueOgType).sort();
       console.log(sortedOgTypes);
 
-
       totalElement.innerHTML = `<div><p>Found: ${tabs.length} of ${data.length}</p></div>`;
+
       loadMoreItems();
     })
     .catch((error) => console.log(error));
@@ -102,7 +103,6 @@ searchInput.addEventListener("keydown", function (event) {
     performSearch();
   }
 });
-
 
 // Function to handle the search action
 function performSearch() {
@@ -176,6 +176,15 @@ function loadMoreItems() {
     let image = item["og:image"];
     if (!image) {
       image = "assets/images/placeholder.png";
+    }
+
+    if (formattedDate !== previousDate) {
+      html += `
+      <div class="item-date">
+        <div>${formattedDate}</div>
+      </div>
+      `;
+      previousDate = formattedDate;
     }
 
     html += `

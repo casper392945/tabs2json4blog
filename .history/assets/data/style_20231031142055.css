@@ -273,9 +273,7 @@ form .d-flex {
   flex-wrap: wrap;
   -webkit-flex-wrap: wrap;
   justify-content: space-between;
-  /* -webkit-justify-content: space-between; */
-  -webkit-justify-content: center;
-  column-gap: 1rem;
+  -webkit-justify-content: space-between;
   margin: auto;
   padding: 2rem;
   /* height: 100%; */
@@ -357,15 +355,14 @@ form .d-flex {
   margin-bottom: 0.5rem;
 }
 .cid-sdQjI1ufdP .item-date {
-  font-size: 1rem;
-  font-style: normal;
+  font-size: 0.75rem;
+  font-style: ;
   text-align: left;
   display: flex;
   justify-content: space-between;
   white-space: nowrap;
   font-weight: 700;
-  padding-bottom: 1rem;
-  padding-left: 2rem;
+  padding: 1rem;
 }
 
 
