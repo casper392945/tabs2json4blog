@@ -15,7 +15,18 @@ function fetchData(inputValue) {
   // Perform data fetching using the inputValue
   // console.log("Fetching data for:", inputValue);
   // ...rest of the code
-  fetch("assets/data/tabs2json4blog.json", {
+
+  // Get the current date
+  const currentDate = new Date();
+  // Extract the current year and month
+  const year = currentDate.getFullYear();
+  const month = String(currentDate.getMonth() + 1).padStart(2, '0'); // Adding 1 to get the correct month (0-indexed) and padding with '0' if necessary
+  // Generate the filename
+  const filename = `assets/data/${year}-${month}-tabs.json`;
+  console.log('Generated filename:', filename);
+
+
+  fetch(filename, {
     method: "GET",
     headers: {
       "Content-Type": "application/json",
