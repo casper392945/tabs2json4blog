@@ -672,6 +672,17 @@
   },
   {
     "hostname": "codecondo.com",
+    "url": "https://codecondo.com/how-ai-tools-can-save-you-time-and-spark-creativity/",
+    "title": "How AI Tools Can Save You Time and Spark Creativity",
+    "date": "2024-04-06T05:00:28.505+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "codecondo.com",
     "url": "https://codecondo.com/how-automation-and-ai-are-transforming-the-workforce-2024-insights/",
     "title": "Know How Businesses are Leveraging AI to Empower Employees",
     "date": "2024-04-04T09:09:37.6+06:00",
@@ -5369,6 +5380,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/jorge6242/descubriendo-la-potencia-de-go-backend-inicial-con-buenas-practicas-513",
+    "title": "Descubriendo la Potencia de Go: Backend Inicial con buenas practicas - DEV Community",
+    "date": "2024-04-06T05:00:28.718+06:00",
+    "og:title": "Descubriendo la Potencia de Go: Backend Inicial con buenas practicas",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6d0scjnkdo1fi117e0a.png",
+    "og:description": "En el vasto universo de la programación, cada lenguaje tiene su brillo único, su propósito...",
+    "og:url": "https://dev.to/jorge6242/descubriendo-la-potencia-de-go-backend-inicial-con-buenas-practicas-513",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/josmel/kotlin-for-backend-development-a-game-changer-in-the-making-30nj",
     "title": "Kotlin for Backend Development: A Game-Changer in the Making - DEV Community",
     "date": "2024-04-01T02:06:59.794+06:00",
@@ -5431,6 +5453,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftknip9ypminwza4rtj5g.png",
     "og:description": "I'm not asking which is best. Which one do you like?  Some common ones:    MERN/MEVN/MEAN: MongoDB,...",
     "og:url": "https://dev.to/kaamkiya/whats-your-favorite-tech-stack-and-why-1a7e",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/kankys/jak-nainstalovat-vimplug-do-neovim-o40",
+    "title": "Jak nainstalovat vim.plug do Neovim - DEV Community",
+    "date": "2024-04-06T05:00:28.631+06:00",
+    "og:title": "Jak nainstalovat vim.plug do Neovim",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv4d3uoy01x7913lqnvow.png",
+    "og:description": "Jak nainstalovat vim.plug do Neovim   Nejprve si však zálohujte své aktuální nastavení...",
+    "og:url": "https://dev.to/kankys/jak-nainstalovat-vimplug-do-neovim-o40",
     "og:type": "article"
   },
   {
@@ -5926,6 +5959,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0phnf2kqqx5b5dllr8cw.png",
     "og:description": "I'm now trying to find my first role as a developer. It's not easy even when I have more than 10...",
     "og:url": "https://dev.to/majur/searching-for-the-first-job-with-rails-backend-2mlf",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/manhdt/convert-json-object-c7d",
+    "title": "[Convert] Json & Object - DEV Community",
+    "date": "2024-04-06T05:00:28.869+06:00",
+    "og:title": "[Convert] Json & Object",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8a8sbon66kz12566sk7t.png",
+    "og:description": "from dataclasses import dataclass from typing import TypedDict   class StudentDict(TypedDict):  ...",
+    "og:url": "https://dev.to/manhdt/convert-json-object-c7d",
     "og:type": "article"
   },
   {
@@ -6861,6 +6905,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ovkv8feybqiwg772swf.png",
     "og:description": "You can use showkey command from kbd package to quickly find out an ASCII code of a key:    showkey...",
     "og:url": "https://dev.to/onethingwell/linux-finding-ascii-code-of-a-key-8jo",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/onlinemsr/how-to-convert-string-to-date-in-javascript-p39",
+    "title": "How to Convert String to Date in JavaScript - DEV Community",
+    "date": "2024-04-06T05:00:28.566+06:00",
+    "og:title": "How to Convert String to Date in JavaScript",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd7feotz68o1sd0lf5mpz.png",
+    "og:description": "Have you ever encountered a situation where you need to convert a string to date in JavaScript?...",
+    "og:url": "https://dev.to/onlinemsr/how-to-convert-string-to-date-in-javascript-p39",
     "og:type": "article"
   },
   {
@@ -8973,6 +9028,28 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhfkwvp9fi8h0bul5449r.png",
     "og:description": "Introduction: Sorting is the process of arranging items systematically, usually in ascending or...",
     "og:url": "https://dev.to/tanujav/bubble-sort-in-java-with-intuition-dry-run-code-1hmj",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/tanujav/lets-code-4j44",
+    "title": "Let's Code - DEV Community",
+    "date": "2024-04-06T05:00:28.605+06:00",
+    "og:title": "Let's Code",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa7vdzxcc3codvv4ch2in.png",
+    "og:description": "Learn: 💬 ChatGPT is FREE 🤖 Claude is FREE 🎥 YouTube is FREE 🔍 Google is FREE 🎧 Podcasts are...",
+    "og:url": "https://dev.to/tanujav/lets-code-4j44",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/tanujav/what-are-some-of-the-must-have-apps-for-mac-23lo",
+    "title": "What are some of the must-have apps for mac? - DEV Community",
+    "date": "2024-04-06T05:00:28.982+06:00",
+    "og:title": "What are some of the must-have apps for mac?",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp4wwsvoayhr39wwbo70k.png",
+    "og:description": "A post by Tanuja V",
+    "og:url": "https://dev.to/tanujav/what-are-some-of-the-must-have-apps-for-mac-23lo",
     "og:type": "article"
   },
   {
@@ -13912,6 +13989,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/hPkuUQdRAtNjYxzsxSDo5F-1200-80.jpg",
     "og:description": "Design experts select the best ads of the 2000s, explore why they were important, and explain why they still resonate today.",
     "og:url": "https://www.creativebloq.com/features/best-adverts-2000s",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/features/day-in-the-life-liz-bernard",
+    "title": "A day in the life: Senior animation supervisor Liz Bernard | Creative Bloq",
+    "date": "2024-04-06T05:00:28.536+06:00",
+    "og:title": "A day in the life: Senior animation supervisor Liz Bernard",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/q8udUAjCTwVXzCW2tkmWYC-1200-80.jpg",
+    "og:description": "Explore a not-so-average day in the life of the Digital Domain animation mastermind.",
+    "og:url": "https://www.creativebloq.com/features/day-in-the-life-liz-bernard",
     "og:type": "article"
   },
   {
