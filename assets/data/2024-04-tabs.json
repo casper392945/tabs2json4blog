@@ -309,6 +309,17 @@
   },
   {
     "hostname": "ahrefs.com",
+    "url": "https://ahrefs.com/blog/monthly-digest-roundup/",
+    "title": "The Best of Ahrefs’ Digest: March 2024",
+    "date": "2024-04-14T05:50:45.524+06:00",
+    "og:title": "The Best of Ahrefs’ Digest: March 2024",
+    "og:image": "https://ahrefs.com/blog/wp-content/uploads/2024/04/the-best-of-ahrefs-digest-march-by-si-quan-ong-general-seo.jpg",
+    "og:description": "Discover our favourite reads from the past month.",
+    "og:url": "https://ahrefs.com/blog/monthly-digest-roundup/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "ahrefs.com",
     "url": "https://ahrefs.com/blog/seo-ai-deep-content/",
     "title": "How \"Deep Content\" Will Protect Your SEO in the AI Era",
     "date": "2024-04-01T02:02:16.103+06:00",
@@ -1090,6 +1101,17 @@
   },
   {
     "hostname": "codecondo.com",
+    "url": "https://codecondo.com/how-sora-will-change-video-editing-and-filmmaking-forever/",
+    "title": "How SORA Will Change Video Editing and Filmmaking Forever",
+    "date": "2024-04-14T05:50:45.857+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "codecondo.com",
     "url": "https://codecondo.com/how-to-personalize-your-study-space-tips-for-online-students/",
     "title": "How To Personalize Your Study Space: Tips for Online Students!",
     "date": "2024-04-10T07:13:14.465+06:00",
@@ -1658,6 +1680,17 @@
     "og:image": "",
     "og:description": "When it comes to the new generation of Warzone players, there’s a stark divide between controller players and mouse/keyboard players. It mainly stems from the use of aim assist for players using controllers, something that the mouse and keyboard users don’t have access to. Now though, they’ve found a way to hack their way around",
     "og:url": "https://designbeep.com/2024/04/11/exploiting-aim-assist-the-new-cheating-method-for-mnk-players-in-warzone/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2024/04/13/electrolyte-efficacy-how-fluids-power-your-car-battery/",
+    "title": "Electrolyte Efficacy: How Fluids Power Your Car Battery - Designbeep",
+    "date": "2024-04-14T05:50:45.556+06:00",
+    "og:title": "Electrolyte Efficacy: How Fluids Power Your Car Battery - Designbeep",
+    "og:image": "",
+    "og:description": "Picture this: You're cruising down a winding road, the wind in your hair, and the sweet sound of your favorite tunes blasting through the speakers. Suddenly, your car starts to sputter, and you feel a sinking feeling in your stomach. Could it be the dreaded car battery giving up on you? As a minister of",
+    "og:url": "https://designbeep.com/2024/04/13/electrolyte-efficacy-how-fluids-power-your-car-battery/",
     "og:type": "article"
   },
   {
@@ -20208,6 +20241,17 @@
   },
   {
     "hostname": "marketsplash.com",
+    "url": "https://marketsplash.com/hire-ui-designer/",
+    "title": "Hire The Best UI Designer At Toptal: Follow Our Easy Steps",
+    "date": "2024-04-14T08:39:58.473+06:00",
+    "og:title": "Hire The Best UI Designer At Toptal: Follow Our Easy Steps",
+    "og:image": "https://marketsplash.com/content/images/size/w1200/2024/04/MarketSplash-GRAPHIC-DESIGN-AND-UX-17.jpg",
+    "og:description": "Start your project on the right foot with Toptal! Just send them your project details, check out the portfolios of their handpicked UI designers, chat with your favorites, and pick the perfect match to jumpstart your project. It’s that easy—let’s get started!",
+    "og:url": "https://marketsplash.com/hire-ui-designer/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "marketsplash.com",
     "url": "https://marketsplash.com/hire-ux-designer/",
     "title": "Our Guide To Hiring The Best UX Designers",
     "date": "2024-04-11T03:51:00.107+06:00",
@@ -23056,6 +23100,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "moz.com",
+    "url": "https://moz.com/blog/position-one-whiteboard-friday",
+    "title": "How to Appear in Position One in 2024 — Whiteboard Friday - Moz",
+    "date": "2024-04-14T05:50:45.514+06:00",
+    "og:title": "How to Appear in Position One in 2024 — Whiteboard Friday",
+    "og:image": "https://moz.com/images/blog/Blog-OG-images/how-to-appear-in-position-one-in-2024_Card.png?w=1200&h=630&q=82&auto=format&fit=clip&dm=1712746093&s=aa66b58b199ad4445445be2b8bfdf0bb",
+    "og:description": "Unlock the secrets of SERP dominance in 2024 with Tom Capper. Discover the evolving landscape of position one rankings and seize the opportunities amidst shifting trends in SEO.",
+    "og:url": "https://moz.com/blog/position-one-whiteboard-friday",
+    "og:type": "article"
+  },
+  {
     "hostname": "mrohitsingh.medium.com",
     "url": "https://mrohitsingh.medium.com/52-frontend-interview-questions-javascript-5df3d7ffe616",
     "title": "52 Frontend Interview Questions — JavaScript | by Rohit Singh | Apr, 2024 | Medium",
@@ -24307,6 +24362,28 @@
     "og:image": "https://cdn.sstatic.net/Sites/ux/Img/apple-touch-icon@2.png?v=6891b06365c4",
     "og:description": "We are a tiny tiny team of engineers. We are working on a wedding market place.\nWe came up with the following homepage but we are not happy with how it looks. Do you have general recommendations on...",
     "og:url": "https://ux.stackexchange.com/questions/151375/general-guidance-for-a-marketplace-homepage",
+    "og:type": "website"
+  },
+  {
+    "hostname": "ux.stackexchange.com",
+    "url": "https://ux.stackexchange.com/questions/151376/is-it-ok-to-use-a-contraction-in-a-ui-such-as-a-tooltip",
+    "title": "grammar - Is it Ok to use a contraction in a UI (such as a tooltip)? - User Experience Stack Exchange",
+    "date": "2024-04-14T05:50:45.753+06:00",
+    "og:title": "Is it Ok to use a contraction in a UI (such as a tooltip)?",
+    "og:image": "https://cdn.sstatic.net/Sites/ux/Img/apple-touch-icon@2.png?v=6891b06365c4",
+    "og:description": "Is it Ok to use a contraction in a UI?\ne.g., tooltip for a checkbox:  &quot;If unchecked, items won't be changed&quot;\nThe userbase for this is native english speakers, above average in computer sk...",
+    "og:url": "https://ux.stackexchange.com/questions/151376/is-it-ok-to-use-a-contraction-in-a-ui-such-as-a-tooltip",
+    "og:type": "website"
+  },
+  {
+    "hostname": "ux.stackexchange.com",
+    "url": "https://ux.stackexchange.com/questions/151377/should-you-train-participants-during-a-formative-evaluation",
+    "title": "training - Should you train participants during a formative evaluation? - User Experience Stack Exchange",
+    "date": "2024-04-14T05:50:45.659+06:00",
+    "og:title": "Should you train participants during a formative evaluation?",
+    "og:image": "https://cdn.sstatic.net/Sites/ux/Img/apple-touch-icon@2.png?v=6891b06365c4",
+    "og:description": "When running a formative evaluation during the development process of a medical product (requires FDA clearance), should you provide any training to the participants before asking them to go throug...",
+    "og:url": "https://ux.stackexchange.com/questions/151377/should-you-train-participants-during-a-formative-evaluation",
     "og:type": "website"
   },
   {
