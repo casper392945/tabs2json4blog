@@ -495,6 +495,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "copyblogger.com",
+    "url": "https://copyblogger.com/content-marketing-small-business/",
+    "title": "Content Marketing For Small Businesses Made Simple",
+    "date": "2024-05-03T12:39:20.95+06:00",
+    "og:title": "A Simple Guide To Content Marketing For Small Businesses",
+    "og:image": "https://copyblogger.com/wp-content/uploads/2024/05/CopBloggerBlogpost1400x706SmallMarketingGuide.png",
+    "og:description": "If your content isn't getting any traffic or engagement, this content marketing guide for small businesses can help you fix the problem.",
+    "og:url": "https://copyblogger.com/content-marketing-small-business/",
+    "og:type": "article"
+  },
+  {
     "hostname": "cruncher.ch",
     "url": "https://cruncher.ch/blog/printing-music-with-css-grid/",
     "title": "Printing music with CSS Grid – Blog – Cruncher – web development agency in Lausanne",
@@ -804,6 +815,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/abhayrsr/component-in-react-5284",
+    "title": "Component in React - DEV Community",
+    "date": "2024-05-03T12:46:13.674+06:00",
+    "og:title": "Component in React",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foq2r3jmsrob4ustgkyqv.png",
+    "og:description": "## Introduction to React Components  Let's say we are designing a navigation bar for a web page in...",
+    "og:url": "https://dev.to/abhayrsr/component-in-react-5284",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/abhinavk454/building-your-wordpress-dream-home-on-aws-ec2-a-step-by-step-guide-with-security-in-mind-2d9k",
     "title": "Building Your WordPress Dream Home on AWS EC2: A Step-by-Step Guide with Security in Mind 🎉 - DEV Community",
     "date": "2024-05-03T07:47:10.255+06:00",
@@ -822,6 +844,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxyzpfhubk112j7ckqq4z.png",
     "og:description": "This is the third in a series of posts on adding an in-game chat room with React. In the first post,...",
     "og:url": "https://dev.to/ably/using-presence-in-in-game-chat-is-the-other-person-still-there-180h",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/abtosoftware/how-legacy-vb6-systems-are-endangering-healthcare-providers-3jjk",
+    "title": "How legacy VB6 systems are endangering healthcare providers - DEV Community",
+    "date": "2024-05-03T12:46:13.096+06:00",
+    "og:title": "How legacy VB6 systems are endangering healthcare providers",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqaa64uu1d3ghq0b9mz6.jpg",
+    "og:description": "This post is a quick overview of an Abto Software blog article.  In the healthcare landscape, it is...",
+    "og:url": "https://dev.to/abtosoftware/how-legacy-vb6-systems-are-endangering-healthcare-providers-3jjk",
     "og:type": "article"
   },
   {
@@ -866,6 +899,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fja726cu18oui7uyytlps.png",
     "og:description": "The journey of deploying an open-source software platform like forem can be complex and daunting, but...",
     "og:url": "https://dev.to/adifsgaid/deploying-forem-on-rendercom-promptzonecom-3721",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/adityakhare86/member-transactioncount-not-found-or-not-visible-after-argument-dependent-lookup-in-typecontract-transactionscontract-2ha8",
+    "title": "Member \"transactionCount\" not found or not visible after argument-dependent lookup in type(contract TransactionsContract). - DEV Community",
+    "date": "2024-05-03T12:46:12.081+06:00",
+    "og:title": "Member \"transactionCount\" not found or not visible after argument-dependent lookup in type(contract TransactionsContract).",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F12l5koidcs9t13jp2v3e.png",
+    "og:description": "I am getting the error:  Line: 49 in TransactionsContract.sol  Member \"transactionCount\" not found or...",
+    "og:url": "https://dev.to/adityakhare86/member-transactioncount-not-found-or-not-visible-after-argument-dependent-lookup-in-typecontract-transactionscontract-2ha8",
     "og:type": "article"
   },
   {
@@ -932,6 +976,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7hd702erk9pia0kigqks.png",
     "og:description": "Design patterns are tools that we, as programmers, invented to solve common problems when developing...",
     "og:url": "https://dev.to/adrianbailador/design-patterns-in-c-n9",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/adrianbailador/your-friendly-guide-to-understanding-grpc-in-net-with-c-4pd",
+    "title": "Your Friendly Guide to Understanding gRPC in .NET with C# - DEV Community",
+    "date": "2024-05-03T12:46:12.059+06:00",
+    "og:title": "Your Friendly Guide to Understanding gRPC in .NET with C#",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fabutjlndrtmdipaoyvx2.png",
+    "og:description": "What is gRPC?   Imagine gRPC as an incredibly efficient messenger trained by Google to carry...",
+    "og:url": "https://dev.to/adrianbailador/your-friendly-guide-to-understanding-grpc-in-net-with-c-4pd",
     "og:type": "article"
   },
   {
@@ -1053,6 +1108,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v41td1nt1l4owmkqkjr.png",
     "og:description": "Hey reader :) . Hope you are doing well. In the last post we have seen operators and conditionals in...",
     "og:url": "https://dev.to/akshat0610/day-6-of-javascript-8ia",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/akshat0610/day-7-of-30-of-javascript-3hmd",
+    "title": "Day 7 of 30 of JavaScript - DEV Community",
+    "date": "2024-05-03T12:53:48.228+06:00",
+    "og:title": "Day 7 of 30 of JavaScript",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9gah9lyu61oi5qj5wou.png",
+    "og:description": "Hey reader:).Hope you are doing well. In the last post we have seen that how loops are used in...",
+    "og:url": "https://dev.to/akshat0610/day-7-of-30-of-javascript-3hmd",
     "og:type": "article"
   },
   {
@@ -1211,6 +1277,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/andrew_panfilov/how-to-fail-as-a-cto-never-check-your-hiring-managers-1971",
+    "title": "How to fail as a CTO: never check your hiring managers - DEV Community",
+    "date": "2024-05-03T12:46:16.604+06:00",
+    "og:title": "How to fail as a CTO: never check your hiring managers",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0y81r5rnrncjr9h6kt9t.png",
+    "og:description": "This post was originally published here...",
+    "og:url": "https://dev.to/andrew_panfilov/how-to-fail-as-a-cto-never-check-your-hiring-managers-1971",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/andrew_panfilov/llm-pipeline-for-marketing-research-insights-5bfc",
     "title": "LLM pipeline for marketing research insights - DEV Community",
     "date": "2024-05-01T06:16:42.652+06:00",
@@ -1218,6 +1295,28 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnwcyzxmiplfq9j3dhel1.png",
     "og:description": "Originally this article was published here...",
     "og:url": "https://dev.to/andrew_panfilov/llm-pipeline-for-marketing-research-insights-5bfc",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/andrew_panfilov/similarities-of-a-startup-and-museum-of-art-the-role-of-an-architect-ibm",
+    "title": "Similarities of a startup and museum of art. The role of an architect. - DEV Community",
+    "date": "2024-05-03T12:46:12.064+06:00",
+    "og:title": "Similarities of a startup and museum of art. The role of an architect.",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiufbgxzeirj7cbwcbno1.png",
+    "og:description": "This post was originally published here:...",
+    "og:url": "https://dev.to/andrew_panfilov/similarities-of-a-startup-and-museum-of-art-the-role-of-an-architect-ibm",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/andrewchaa/mocking-es6-class-instances-with-jest-p6c",
+    "title": "Mocking ES6 Class Instances with Jest - DEV Community",
+    "date": "2024-05-03T12:46:17.484+06:00",
+    "og:title": "Mocking ES6 Class Instances with Jest",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8pdv0uxbanzxdh7n4e63.png",
+    "og:description": "Jest can be used to mock ES6 classes. ES6 classes are essentially constructor functions with some...",
+    "og:url": "https://dev.to/andrewchaa/mocking-es6-class-instances-with-jest-p6c",
     "og:type": "article"
   },
   {
@@ -1640,6 +1739,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/asfiaaiman/optimizing-the-use-of-laravel-observer-and-mutator-an-all-inclusive-guide-with-practical-examples-33cg",
+    "title": "Optimizing the Use of Laravel Observer and Mutator: An All-Inclusive Guide with Practical Examples - DEV Community",
+    "date": "2024-05-03T12:46:16.494+06:00",
+    "og:title": "Optimizing the Use of Laravel Observer and Mutator: An All-Inclusive Guide with Practical Examples",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F98tugx49wab5tp4rh65h.png",
+    "og:description": "Understanding when to use Observers and Mutators may significantly influence the effectiveness and...",
+    "og:url": "https://dev.to/asfiaaiman/optimizing-the-use-of-laravel-observer-and-mutator-an-all-inclusive-guide-with-practical-examples-33cg",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/ashok6266/some-title-1o9d",
     "title": "Securing AWS Infrastructure: How to Safely Connect Lambda Functions to RDS Databases via Secrets Manager - DEV Community",
     "date": "2024-05-02T02:07:18.557+06:00",
@@ -1684,6 +1794,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/askepit/what-we-lack-in-c-1704",
+    "title": "What we lack in C++ - DEV Community",
+    "date": "2024-05-03T12:53:48.667+06:00",
+    "og:title": "What we lack in C++",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5almkoz4texgljao9yge.png",
+    "og:description": "C++ has been evolving rapidly for the past decade and more. Nevertheless, in our codebases, there are...",
+    "og:url": "https://dev.to/askepit/what-we-lack-in-c-1704",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/askrodney/macroquad-egui-devtools-rust-game-debugging-ui-n36",
     "title": "Macroquad egui DevTools: Rust Game Debugging UI - DEV Community",
     "date": "2024-05-03T01:28:58.815+06:00",
@@ -1717,6 +1838,28 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/attaelahi/becoming-a-figma-pro-mastering-the-leading-design-tool-514l",
+    "title": "Becoming a Figma Pro: Mastering the Leading Design Tool - DEV Community",
+    "date": "2024-05-03T12:46:16.773+06:00",
+    "og:title": "Becoming a Figma Pro: Mastering the Leading Design Tool",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fosbvafe0c103rxqgas6j.jpeg",
+    "og:description": "Whether you're a seasoned designer or just starting out, gaining proficiency in Figma can be a...",
+    "og:url": "https://dev.to/attaelahi/becoming-a-figma-pro-mastering-the-leading-design-tool-514l",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/attaelahi/essential-skills-for-fresh-software-engineering-graduates-32a",
+    "title": "Essential Skills for Fresh Software Engineering Graduates - DEV Community",
+    "date": "2024-05-03T12:46:16.261+06:00",
+    "og:title": "Essential Skills for Fresh Software Engineering Graduates",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffr747x10pmovc7d6rr91.jpeg",
+    "og:description": "As a fresh graduate seeking to embark on a career in software engineering, it's crucial to equip...",
+    "og:url": "https://dev.to/attaelahi/essential-skills-for-fresh-software-engineering-graduates-32a",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/audu97/efficiently-deploy-cloud-resources-on-aws-with-terraform-2cbc",
     "title": "Efficiently Deploy Cloud Resources on AWS with Terraform - DEV Community",
     "date": "2024-05-03T01:28:54.681+06:00",
@@ -1746,6 +1889,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5pn853buhq17t6x09i7u.jpg",
     "og:description": "Hello devs,  In this blog, we will learn how to implement an authorization mechanism in ReactJS...",
     "og:url": "https://dev.to/avinashdalvi_/how-to-implement-authorization-in-react-js-fbk",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/aws-builders/3gpp-insights-expert-chatbot-with-amazon-bedrock-rag-l58",
+    "title": "3GPP Insights: Expert Chatbot with Amazon Bedrock & RAG - DEV Community",
+    "date": "2024-05-03T12:46:17.374+06:00",
+    "og:title": "3GPP Insights: Expert Chatbot with Amazon Bedrock & RAG",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5kjfkvqygpryva10ong9.jpg",
+    "og:description": "Being in the Telecom field for quite a few years now, I often hear the same questions: \"Can you show...",
+    "og:url": "https://dev.to/aws-builders/3gpp-insights-expert-chatbot-with-amazon-bedrock-rag-l58",
     "og:type": "article"
   },
   {
@@ -1812,6 +1966,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmzpsktk1ke2u0tz5ig12.png",
     "og:description": "Introduction   In the previous blog post Building a Basic Forex Rate Assistant Using Agents...",
     "og:url": "https://dev.to/aws-builders/how-to-manage-an-amazon-bedrock-agent-using-terraform-1lag",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/aws-builders/large-language-model-operations-llmops-on-aws-4b86",
+    "title": "Large Language Model Operations (LLMops) on AWS - DEV Community",
+    "date": "2024-05-03T12:46:12.104+06:00",
+    "og:title": "Large Language Model Operations (LLMops) on AWS",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fddz5amclmj4rql0eowrv.png",
+    "og:description": "⚠️ Hey! This blog post was initially published on my own blog. Check it out from the source:...",
+    "og:url": "https://dev.to/aws-builders/large-language-model-operations-llmops-on-aws-4b86",
     "og:type": "article"
   },
   {
@@ -1966,6 +2131,39 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxrkh0i14dkb8vxcbg3y7.png",
     "og:description": "Introduction   Large language models (LLMs) have revolutionized the field of natural...",
     "og:url": "https://dev.to/barrisam/5-open-source-large-language-models-apis-for-developers-4j99",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/bascodes/this-week-in-python-1hkg",
+    "title": "This Week In Python - DEV Community",
+    "date": "2024-05-03T12:46:12.071+06:00",
+    "og:title": "This Week In Python",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx6rc2l6hbz4hbb3khlc1.png",
+    "og:description": "Fri, May 03, 2024    This Week in Python is a concise reading list about what happened in the past...",
+    "og:url": "https://dev.to/bascodes/this-week-in-python-1hkg",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/basel5001/mastering-aws-cost-management-budgeting-optimization-and-best-practices-1hdl",
+    "title": "Mastering AWS Cost Management: Budgeting, Optimization, and Best Practices - DEV Community",
+    "date": "2024-05-03T12:46:12.089+06:00",
+    "og:title": "Mastering AWS Cost Management: Budgeting, Optimization, and Best Practices",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foi27850ftiakvcgjdlii.png",
+    "og:description": "Managing Amazon Web Services (AWS) costs is essential for maximizing value and avoiding unexpected...",
+    "og:url": "https://dev.to/basel5001/mastering-aws-cost-management-budgeting-optimization-and-best-practices-1hdl",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/basel5001/unveiling-quantum-computing-explore-amazon-q-and-code-whisper-with-aws-1p68",
+    "title": "\"Unveiling Quantum Computing: Explore Amazon Q and Code Whisper with AWS\" - DEV Community",
+    "date": "2024-05-03T12:46:17.415+06:00",
+    "og:title": "\"Unveiling Quantum Computing: Explore Amazon Q and Code Whisper with AWS\"",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft63vcyexld7n37444foy.png",
+    "og:description": "In this post, we explored two intriguing offerings from Amazon Web Services (AWS) that are driving...",
+    "og:url": "https://dev.to/basel5001/unveiling-quantum-computing-explore-amazon-q-and-code-whisper-with-aws-1p68",
     "og:type": "article"
   },
   {
@@ -2795,6 +2993,39 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/chintanonweb/10-unique-project-ideas-and-how-to-implement-them-from-beginner-to-advanced-33fe",
+    "title": "10 Unique Project Ideas and How to Implement Them From Beginner to Advanced - DEV Community",
+    "date": "2024-05-03T12:53:48.414+06:00",
+    "og:title": "10 Unique Project Ideas and How to Implement Them From Beginner to Advanced",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpet92fzoe28eeqielh3o.jpg",
+    "og:description": "Top 10 Project Ideas From Beginner to Advanced            Introduction   Are you looking to...",
+    "og:url": "https://dev.to/chintanonweb/10-unique-project-ideas-and-how-to-implement-them-from-beginner-to-advanced-33fe",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/chintanonweb/unlocking-security-smart-auto-logout-techniques-in-angular-with-rxjs-4nlh",
+    "title": "Unlocking Security: Smart Auto-Logout Techniques in Angular with RxJS - DEV Community",
+    "date": "2024-05-03T12:46:16.17+06:00",
+    "og:title": "Unlocking Security: Smart Auto-Logout Techniques in Angular with RxJS",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fenc0pal0hwo5m9d6j76p.jpg",
+    "og:description": "Smart Auto-Logout in Angular with RxJS: Enhancing Security and User...",
+    "og:url": "https://dev.to/chintanonweb/unlocking-security-smart-auto-logout-techniques-in-angular-with-rxjs-4nlh",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/chintanonweb/unlocking-the-power-of-constructors-in-angular-applications-4g9n",
+    "title": "Unlocking the Power of Constructors in Angular Applications - DEV Community",
+    "date": "2024-05-03T12:46:17.882+06:00",
+    "og:title": "Unlocking the Power of Constructors in Angular Applications",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flav2mefoxn2vlw1f0fe5.png",
+    "og:description": "What is Constructor in Angular?   Introduction  In Angular, constructors play a pivotal role...",
+    "og:url": "https://dev.to/chintanonweb/unlocking-the-power-of-constructors-in-angular-applications-4g9n",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/choonho/survey-on-the-feasibility-of-ai-ops-agents-replacing-human-tasks-1fi6",
     "title": "Survey on the Feasibility of AI Ops Agents Replacing Human Tasks? - DEV Community",
     "date": "2024-05-02T02:07:10.867+06:00",
@@ -2846,6 +3077,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgcxazh3z8k5wjm6xuw68.png",
     "og:description": "In Trivule, rules govern how form fields are validated. You might find that the existing rules don't...",
     "og:url": "https://dev.to/claudye/how-to-add-or-modify-a-validation-rule-in-trivule-324b",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/clouddefenseai/risk-vs-threat-vs-vulnerability-whats-the-difference-555l",
+    "title": "Risk vs Threat vs Vulnerability: What’s the Difference? - DEV Community",
+    "date": "2024-05-03T12:46:17.316+06:00",
+    "og:title": "Risk vs Threat vs Vulnerability: What’s the Difference?",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff9dvbk1j5fkvt17v9qac.png",
+    "og:description": "Mastering the intricate realm of cybersecurity necessitates a firm grasp of pivotal concepts: risk,...",
+    "og:url": "https://dev.to/clouddefenseai/risk-vs-threat-vs-vulnerability-whats-the-difference-555l",
     "og:type": "article"
   },
   {
@@ -2945,6 +3187,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg1v6z09x1r7izzzfr3sq.png",
     "og:description": "Artificial Intelligence is everywhere nowadays, from your favorite music streaming service...",
     "og:url": "https://dev.to/codetradeindia/myth-vs-fact-a-common-misconceptions-about-ai-5hm1",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/codetradeindia/riverpod-state-management-package-in-flutter-319-nkk",
+    "title": "Riverpod State Management Package in Flutter 3.19 - DEV Community",
+    "date": "2024-05-03T12:46:17.787+06:00",
+    "og:title": "Riverpod State Management Package in Flutter 3.19",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flzxiio5yymx1gpzqt4an.png",
+    "og:description": "In the dynamic world of mobile app development, efficiency and scalability are paramount, especially...",
+    "og:url": "https://dev.to/codetradeindia/riverpod-state-management-package-in-flutter-319-nkk",
     "og:type": "article"
   },
   {
@@ -3088,6 +3341,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F27cpgit5wt1ktsfeonru.png",
     "og:description": "Using Azure IoT Operations (AIO) and found that issue of permissions denied and the cluster not...",
     "og:url": "https://dev.to/danuw/aio-unable-to-read-etcrancherk3sk3syaml-please-start-server-with-write-kubeconfig-mode-to-modify-permissions-3le7",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/darkwiiplayer/css-hack-named-layers-1ap7",
+    "title": "CSS Hack: \"Named Layers\" - DEV Community",
+    "date": "2024-05-03T12:46:13.785+06:00",
+    "og:title": "CSS Hack: \"Named Layers\"",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw7fivjoogs0xv82hbhl5.png",
+    "og:description": "Managing values for `z-index` is a pain. Often we resort to really high numbers to make sure things are definitely on top, only to then find out we want something to be on top of it. Here is a convenient hack to make this easier to manage.",
+    "og:url": "https://dev.to/darkwiiplayer/css-hack-named-layers-1ap7",
     "og:type": "article"
   },
   {
@@ -3554,6 +3818,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/devteam/what-was-your-win-this-week-280o",
+    "title": "What was your win this week? - DEV Community",
+    "date": "2024-05-03T12:46:13.579+06:00",
+    "og:title": "What was your win this week?",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg69qs2cyguc1b84rkuni.jpg",
+    "og:description": "What up y'all?!  Hope everybody has had a nice successful week. 🙌  Looking back on this past week,...",
+    "og:url": "https://dev.to/devteam/what-was-your-win-this-week-280o",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/devteam/whats-your-one-thing-4g7f",
     "title": "What's Your One Thing? - DEV Community",
     "date": "2024-05-01T07:59:48.154+06:00",
@@ -3825,6 +4100,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsd2beyn6erof7as9tgzq.jpg",
     "og:description": "Software development is critical to business success in today’s fast-paced digital landscape....",
     "og:url": "https://dev.to/dtechies/the-impact-of-devops-consulting-in-the-software-development-process-28mn",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/duc243/web-developers-get-ready-to-transform-your-vs-code-in-2024-2n20",
+    "title": "Web Developers, Get Ready to Transform Your VS Code in 2024! - DEV Community",
+    "date": "2024-05-03T12:46:13.91+06:00",
+    "og:title": "Web Developers, Get Ready to Transform Your VS Code in 2024!",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8qgrrxbesvv4svdg9ean.png",
+    "og:description": "In the fast-paced world of web development, your coding environment is not just a tool; it's your...",
+    "og:url": "https://dev.to/duc243/web-developers-get-ready-to-transform-your-vs-code-in-2024-2n20",
     "og:type": "article"
   },
   {
@@ -4225,6 +4511,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/faiqahsan/build-your-own-ai-chatbot-on-your-machine-32f3",
+    "title": "Build your own AI ChatBot on your machine - DEV Community",
+    "date": "2024-05-03T12:46:16.919+06:00",
+    "og:title": "Build your own AI ChatBot on your machine",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffyr8fwbdsl4rpvltzi4f.png",
+    "og:description": "By now everyone knows and love ChatGPT and GenAI has the world by storm but do you know now you can...",
+    "og:url": "https://dev.to/faiqahsan/build-your-own-ai-chatbot-on-your-machine-32f3",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/fanatixan/replacing-type-code-with-statestrategy-mfk",
     "title": "Replacing Type Code With State/Strategy - DEV Community",
     "date": "2024-05-02T07:54:19.931+06:00",
@@ -4445,6 +4742,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/gamedevdigest/game-dev-digest-issue-231-new-and-retro-2mbf",
+    "title": "Game Dev Digest — Issue #231 - New And Retro - DEV Community",
+    "date": "2024-05-03T12:53:48.149+06:00",
+    "og:title": "Game Dev Digest — Issue #231 - New And Retro",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmmhqefetwb23g2j5hlpg.png",
+    "og:description": "Issue #231 - New And Retro   This article was originally published on...",
+    "og:url": "https://dev.to/gamedevdigest/game-dev-digest-issue-231-new-and-retro-2mbf",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/gayu1999/functional-and-non-functional-testing-1c4n",
     "title": "Functional and Non-Functional Testing - DEV Community",
     "date": "2024-05-01T06:11:59.902+06:00",
@@ -4496,6 +4804,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuikem1v6ag678dsbf81w.png",
     "og:description": "Happy World Password Day! (In 2024, it's being celebrated on May 2nd). Remembering loads of passwords...",
     "og:url": "https://dev.to/gearoidotreasaigh/password-management-the-basics-4d40",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/gem_corporation/data-visualization-turning-big-data-into-actionable-insights-1976",
+    "title": "Data Visualization: turning Big Data into actionable insights - DEV Community",
+    "date": "2024-05-03T12:46:16.408+06:00",
+    "og:title": "Data Visualization: turning Big Data into actionable insights",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvpbyq4u34n8r9urrupjc.png",
+    "og:description": "Standard techniques of data visualization   Depending on the kind of data you’re working...",
+    "og:url": "https://dev.to/gem_corporation/data-visualization-turning-big-data-into-actionable-insights-1976",
     "og:type": "article"
   },
   {
@@ -4672,6 +4991,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F94jc59q148tx46sgcqyx.png",
     "og:description": "When choosing software for a project, developers have a number of factors to consider. Prime on the...",
     "og:url": "https://dev.to/gitguardian/why-understanding-your-open-source-licenses-matters-1pkl",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/github/release-radar-april-2024-edition-major-updates-from-the-open-source-community-37k1",
+    "title": "Release Radar · April 2024 Edition: Major updates from the open source community - DEV Community",
+    "date": "2024-05-03T12:46:17.058+06:00",
+    "og:title": "Release Radar · April 2024 Edition: Major updates from the open source community",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvj4exhgqb2ax5qbctz3a.jpg",
+    "og:description": "We're right into the thick of the year, and developers worldwide are shipping software in all...",
+    "og:url": "https://dev.to/github/release-radar-april-2024-edition-major-updates-from-the-open-source-community-37k1",
     "og:type": "article"
   },
   {
@@ -4870,6 +5200,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffkbk0o6hasl68ymfqduv.png",
     "og:description": "One of the biggest advantages of TypeScript is the size of its community.  Lots of people use the...",
     "og:url": "https://dev.to/henriqueleite42/typescript-dev-tools-in-the-golang-world-3l41",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/henriquevital/entenda-o-nextjs-13-pages-router-vs-app-router-1nim",
+    "title": "Entenda o Next.js 13! Pages Router vs App Router - DEV Community",
+    "date": "2024-05-03T12:46:16.645+06:00",
+    "og:title": "Entenda o Next.js 13! Pages Router vs App Router",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb7nflss0hj0zfnhlojbf.png",
+    "og:description": "Nivelando o conhecimento   Se você está chegando agora ao mundo do Next.js - ou ainda não...",
+    "og:url": "https://dev.to/henriquevital/entenda-o-nextjs-13-pages-router-vs-app-router-1nim",
     "og:type": "article"
   },
   {
@@ -5083,6 +5424,28 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/isasharafdin/unleashing-efficiency-in-backend-development-with-yonode-3pbb",
+    "title": "Unleashing Efficiency in Backend Development with Yonode - DEV Community",
+    "date": "2024-05-03T12:46:15.256+06:00",
+    "og:title": "Unleashing Efficiency in Backend Development with Yonode",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F65a2druunpelcjadi5o0.jpeg",
+    "og:description": "Discover how Yonode empowers both JavaScript and TypeScript developers with ready-made templates and...",
+    "og:url": "https://dev.to/isasharafdin/unleashing-efficiency-in-backend-development-with-yonode-3pbb",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/itlearntogether/create-a-chat-ui-with-tailwind-css-and-nextjs-1o2c",
+    "title": "Create a Chat UI with Tailwind CSS and Next.js - DEV Community",
+    "date": "2024-05-03T12:46:12.111+06:00",
+    "og:title": "Create a Chat UI with Tailwind CSS and Next.js",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjh7ppr6npawmthzzucu.png",
+    "og:description": "Chat UI Template with Tailwind CSS and Next.js (HTML &amp; CSS)  Follow the tutorial and create you...",
+    "og:url": "https://dev.to/itlearntogether/create-a-chat-ui-with-tailwind-css-and-nextjs-1o2c",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/itselftools/building-a-search-form-in-react-with-nextjs-and-userouter-14de",
     "title": "Building a Search Form in React with Next.js and useRouter - DEV Community",
     "date": "2024-05-03T01:28:59.163+06:00",
@@ -5112,6 +5475,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpsfqrplwygjf3oh42fcb.png",
     "og:description": "A detailed guide on how to measure user interaction time within components in React applications using a custom hook.",
     "og:url": "https://dev.to/itselftools/understanding-the-useinteractiontimer-hook-measuring-component-interaction-time-in-react-3cbf",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/itselftools/unlocking-internationalization-in-nextjs-with-serversidetranslations-2iof",
+    "title": "Unlocking Internationalization in Next.js with serverSideTranslations - DEV Community",
+    "date": "2024-05-03T12:46:15.445+06:00",
+    "og:title": "Unlocking Internationalization in Next.js with serverSideTranslations",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzf9yp1mb2nnxqo6rvqad.png",
+    "og:description": "Learn about how to implement serverSideTranslations for internationalization in Next.js apps.",
+    "og:url": "https://dev.to/itselftools/unlocking-internationalization-in-nextjs-with-serversidetranslations-2iof",
     "og:type": "article"
   },
   {
@@ -5347,6 +5721,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/jennife05918349/the-guide-to-integrating-generative-ai-into-unified-continuous-testing-platforms-2m4n",
+    "title": "The Guide to Integrating Generative AI into Unified Continuous Testing Platforms - DEV Community",
+    "date": "2024-05-03T12:46:13.22+06:00",
+    "og:title": "The Guide to Integrating Generative AI into Unified Continuous Testing Platforms",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F91mpwqv1qamakjxco77q.png",
+    "og:description": "Many specialized tools cater to distinct stages within the software development lifecycle (SDLC)....",
+    "og:url": "https://dev.to/jennife05918349/the-guide-to-integrating-generative-ai-into-unified-continuous-testing-platforms-2m4n",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/jenueldev/javascript-ways-to-manipulate-string-3gab",
     "title": "Ways To Manipulate String - DEV Community",
     "date": "2024-05-01T06:01:45.474+06:00",
@@ -5431,6 +5816,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmmwgnap7435hosfskqon.png",
     "og:description": "I just built an exciting tool for all the gamers and Harry Potter fans out there—the Harry Potter...",
     "og:url": "https://dev.to/jiajunyan/i-made-a-harry-potter-name-generator-to-create-my-hogwarts-legacy-character-a3h",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/jigar_online/native-vs-cross-platform-the-best-approach-for-mobile-app-development-g2l",
+    "title": "Native vs Cross-Platform: The Best Approach for Mobile App Development - DEV Community",
+    "date": "2024-05-03T12:46:12.097+06:00",
+    "og:title": "Native vs Cross-Platform: The Best Approach for Mobile App Development",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1olh5034bx07butv12dr.jpg",
+    "og:description": "People nowadays spend most of their time on mobile devices, from seeing weather forecasts in the...",
+    "og:url": "https://dev.to/jigar_online/native-vs-cross-platform-the-best-approach-for-mobile-app-development-g2l",
     "og:type": "article"
   },
   {
@@ -5585,6 +5981,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm8sfa5i1df7my2ir1u0z.jpg",
     "og:description": "Microservices architectures revolutionize modern software development by promoting agility,...",
     "og:url": "https://dev.to/karandaid/optimizing-database-scalability-in-microservices-ca8",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/karleb/165-compare-version-numbers-25h8",
+    "title": "#165. Compare Version Numbers - DEV Community",
+    "date": "2024-05-03T12:46:15.018+06:00",
+    "og:title": "#165. Compare Version Numbers",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F11uj075ol1og05079esd.png",
+    "og:description": "https://leetcode.com/problems/compare-version-numbers/description/?envType=daily-question&amp;envId=2...",
+    "og:url": "https://dev.to/karleb/165-compare-version-numbers-25h8",
     "og:type": "article"
   },
   {
@@ -6271,6 +6678,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/lucasc/setting-up-linters-in-gitlab-ci-for-c-and-groovy-jenkins-code-3m4l",
+    "title": "Setting up linters in Gitlab CI for C++ and Groovy / Jenkins code - DEV Community",
+    "date": "2024-05-03T12:46:12.14+06:00",
+    "og:title": "Setting up linters in Gitlab CI for C++ and Groovy / Jenkins code",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvxmai8mvqqniry5ok5k0.png",
+    "og:description": "A very short blog post to share some minimal code snippets on how to quickly and easily setup static...",
+    "og:url": "https://dev.to/lucasc/setting-up-linters-in-gitlab-ci-for-c-and-groovy-jenkins-code-3m4l",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/lucaschitolina/what-months-of-failing-in-my-habits-taught-me-3198",
     "title": "What Months of Failing in My Habits Taught Me - DEV Community",
     "date": "2024-05-03T01:28:55.346+06:00",
@@ -6333,6 +6751,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt72ememajs3xifv3adk.png",
     "og:description": "React Server Components (RSCs) represent the latest advancement in pre-rendering content on the web....",
     "og:url": "https://dev.to/madeelchaudhary/mastering-react-server-components-and-server-actions-a-comprehensive-guide-3p6g",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/madsstoumann/animating-numbers-1oc8",
+    "title": "Animating Numbers - DEV Community",
+    "date": "2024-05-03T12:46:15.868+06:00",
+    "og:title": "Animating Numbers",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F97xxnoi1ljivovxk53ra.jpg",
+    "og:description": "This tutorial will look into creating a small web component for animating numbers — and all the...",
+    "og:url": "https://dev.to/madsstoumann/animating-numbers-1oc8",
     "og:type": "article"
   },
   {
@@ -6469,6 +6898,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/marianvarga/asyncapi-a-practical-look-2hln",
+    "title": "AsyncAPI: a practical look - DEV Community",
+    "date": "2024-05-03T12:46:14.015+06:00",
+    "og:title": "AsyncAPI: a practical look",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F43s7hksgh9agojli37l2.png",
+    "og:description": "On the occasion of the release of the new major version of the AsyncAPI I wrote a rather theoretical...",
+    "og:url": "https://dev.to/marianvarga/asyncapi-a-practical-look-2hln",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/mariliatirachi62/exploring-supply-chain-and-cybersecurity-innovations-in-full-stack-coding-an-insiders-take-4823",
     "title": "Exploring Supply Chain and Cybersecurity Innovations in Full Stack Coding: An Insider's Take - DEV Community",
     "date": "2024-05-03T01:28:57.071+06:00",
@@ -6524,6 +6964,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/marklouisalter/simplified-sql-harnessing-the-power-of-aliases-3j98",
+    "title": "Simplified SQL: Harnessing the Power of Aliases - DEV Community",
+    "date": "2024-05-03T12:53:48.79+06:00",
+    "og:title": "Simplified SQL: Harnessing the Power of Aliases",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw3holks1cp5b4w89ajao.png",
+    "og:description": "Hello there its me again,  So by now, you know what this is all about. But let me clarify once again...",
+    "og:url": "https://dev.to/marklouisalter/simplified-sql-harnessing-the-power-of-aliases-3j98",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/marklouisalter/sql-aggregate-functions-5g3d",
     "title": "SQL AGGREGATE FUNCTIONS - DEV Community",
     "date": "2024-05-02T02:07:18.232+06:00",
@@ -6564,6 +7015,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4plybk2sh2h1x4irffxq.jpg",
     "og:description": "Introduction: In the vast landscape of artificial intelligence, heuristic search algorithms are a...",
     "og:url": "https://dev.to/markyu/demystifying-heuristic-search-algorithms-59lh",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/martinbaldwin127/unlocking-geolocation-data-the-power-of-ip-address-to-location-apis-35eb",
+    "title": "Unlocking Geolocation Data: The Power of IP Address to Location APIs - DEV Community",
+    "date": "2024-05-03T12:46:14.346+06:00",
+    "og:title": "Unlocking Geolocation Data: The Power of IP Address to Location APIs",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fypahxhty09io702sg8r8.png",
+    "og:description": "Introduction In today's digital age, understanding the geographical location of users is paramount...",
+    "og:url": "https://dev.to/martinbaldwin127/unlocking-geolocation-data-the-power-of-ip-address-to-location-apis-35eb",
     "og:type": "article"
   },
   {
@@ -7096,6 +7558,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/mrstealthyflag/cryptocurrency-tracing-with-a-proven-track-record-hk4",
+    "title": "Cryptocurrency Tracing with a Proven Track Record - DEV Community",
+    "date": "2024-05-03T12:46:17.255+06:00",
+    "og:title": "Cryptocurrency Tracing with a Proven Track Record",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjdd7a31blzyugnogr627.jpg",
+    "og:description": "**Introduction: **In the fast-paced world of cryptocurrency, where transactions occur in the blink of...",
+    "og:url": "https://dev.to/mrstealthyflag/cryptocurrency-tracing-with-a-proven-track-record-hk4",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/msdousti/postgres-partitioning-performance-hash-vs-list-2ppn",
     "title": "Postgres partitioning performance: Hash vs. List - DEV Community",
     "date": "2024-05-02T02:07:10.895+06:00",
@@ -7147,6 +7620,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl7h7awc3m8qdh506fpg6.png",
     "og:description": "As a frontend developer building dApps on Ethereum, you need to know the difference between \"view\"...",
     "og:url": "https://dev.to/muratcanyuksel/write-and-view-functions-in-solidity-38gl",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/muzammil-cyber/git-commit-message-decoder-new-coder-edition-48l7",
+    "title": "Git Commit Message Decoder: New Coder Edition - DEV Community",
+    "date": "2024-05-03T12:46:12.935+06:00",
+    "og:title": "Git Commit Message Decoder: New Coder Edition",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4yjn8ooyuix89mpcoi17.png",
+    "og:description": "Confused by feat, fix, and other Git prefixes? Here's a quick guide:    feat 🎉: New feature...",
+    "og:url": "https://dev.to/muzammil-cyber/git-commit-message-decoder-new-coder-edition-48l7",
     "og:type": "article"
   },
   {
@@ -7316,6 +7800,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/ngviethoang/integrate-copilot-feature-into-your-react-applications-using-copilotkit-2nga",
+    "title": "Integrate Copilot feature into your React applications using CopilotKit - DEV Community",
+    "date": "2024-05-03T12:46:16.979+06:00",
+    "og:title": "Integrate Copilot feature into your React applications using CopilotKit",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftg94htkuc6nh2d77c04a.jpg",
+    "og:description": "Introduction   In the ever-evolving landscape of web development, enhancing user experience...",
+    "og:url": "https://dev.to/ngviethoang/integrate-copilot-feature-into-your-react-applications-using-copilotkit-2nga",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/nhannguyendevjs/angular-signals-update-function-59b3",
     "title": "Angular Signals update function - DEV Community",
     "date": "2024-05-02T05:20:22.727+06:00",
@@ -7356,6 +7851,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwac4wzut8yrz45b88drt.png",
     "og:description": "Introduction   Large Language Models excel at text-related tasks. But what if you need to...",
     "og:url": "https://dev.to/nikolayaimlapi/multimodal-experience-with-aiml-api-in-nodejs-jb0",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/niladridas/automating-network-configuration-with-python-22kh",
+    "title": "Automating Network Configuration with Python - DEV Community",
+    "date": "2024-05-03T12:46:14.811+06:00",
+    "og:title": "Automating Network Configuration with Python",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdcsjbv3in2vbcemsum2g.png",
+    "og:description": "In the world of networking, configuration of network devices can be a tedious task, especially when...",
+    "og:url": "https://dev.to/niladridas/automating-network-configuration-with-python-22kh",
     "og:type": "article"
   },
   {
@@ -7470,6 +7976,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/nunosaa/react-native-scrollview-not-work-on-webbrowser-chrome-but-on-ios-simulator-work-well-2012",
+    "title": "React Native - ScrollView not work on WebBrowser (Chrome) but on IOS Simulator work well - DEV Community",
+    "date": "2024-05-03T12:46:14.533+06:00",
+    "og:title": "React Native - ScrollView not work on WebBrowser (Chrome) but on IOS Simulator work well",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgs7virod9guv3vv9e8l0.png",
+    "og:description": "Im trying to develop an app using react native, but im facing some issues on web version. In this...",
+    "og:url": "https://dev.to/nunosaa/react-native-scrollview-not-work-on-webbrowser-chrome-but-on-ios-simulator-work-well-2012",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/odevio/what-is-odevio-exploring-ios-deployment-on-windows-linux-44oe",
     "title": "What is Odevio? Exploring iOS Deployment on Windows & Linux - DEV Community",
     "date": "2024-05-03T01:28:57.896+06:00",
@@ -7536,6 +8053,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/onlineinterviewquestions/top-7-phalcon-interview-questions-and-answers-1fjf",
+    "title": "Top 7 Phalcon Interview Questions and Answers - DEV Community",
+    "date": "2024-05-03T12:46:15.35+06:00",
+    "og:title": "Top 7 Phalcon Interview Questions and Answers",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa21l9gzljjuxeu52t8n9.png",
+    "og:description": "There are the following Top 7 Phalcon Interview Questions and Answers below:   Q1. What is...",
+    "og:url": "https://dev.to/onlineinterviewquestions/top-7-phalcon-interview-questions-and-answers-1fjf",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/onumaku_bobby/control-flow-in-python-programming-3h82",
     "title": "Control flow in Python Programming - DEV Community",
     "date": "2024-05-03T01:28:58.899+06:00",
@@ -7554,6 +8082,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffogq40eyttqnvfyfb6nw.png",
     "og:description": "There is a maxim when one starts writing: do not use the second person.  I have heard this many...",
     "og:url": "https://dev.to/onwritinggames/second-person-50bg",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/onwritinggames/the-unavoidable-cost-of-interactive-fiction-2mo4",
+    "title": "the unavoidable cost of interactive fiction - DEV Community",
+    "date": "2024-05-03T12:53:48.173+06:00",
+    "og:title": "the unavoidable cost of interactive fiction",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3d5a1a8gqvqlkihw23oq.png",
+    "og:description": "Interactive fiction is less costly to develop than practically any game that requires a lot of...",
+    "og:url": "https://dev.to/onwritinggames/the-unavoidable-cost-of-interactive-fiction-2mo4",
     "og:type": "article"
   },
   {
@@ -7745,6 +8284,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/paulike/case-study-determining-leap-year-and-lottery-2no7",
+    "title": "Case Study: Determining Leap Year and Lottery - DEV Community",
+    "date": "2024-05-03T12:46:16.087+06:00",
+    "og:title": "Case Study: Determining Leap Year and Lottery",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6n4neklhmp16yytr5kii.jpg",
+    "og:description": "Leap Year   A year is a leap year if it is divisible by 4 but not by 100, or if it is...",
+    "og:url": "https://dev.to/paulike/case-study-determining-leap-year-and-lottery-2no7",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/paulike/if-statements-2m9l",
     "title": "if Statements - DEV Community",
     "date": "2024-05-03T01:28:58.834+06:00",
@@ -7752,6 +8302,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk9574c2yb0enyd3ds4h0.jpg",
     "og:description": "An if statement is a construct that enables a program to specify alternative paths of execution. Java...",
     "og:url": "https://dev.to/paulike/if-statements-2m9l",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/paulike/logical-operators-4bam",
+    "title": "Logical Operators - DEV Community",
+    "date": "2024-05-03T12:46:14.158+06:00",
+    "og:title": "Logical Operators",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkk7lk5lmvodj8zatcoga.jpg",
+    "og:description": "The logical operators !, &amp;&amp;, ||, and ^ can be used to create a compound Boolean expression....",
+    "og:url": "https://dev.to/paulike/logical-operators-4bam",
     "og:type": "article"
   },
   {
@@ -7767,6 +8328,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/paulike/switch-statements-12kh",
+    "title": "switch Statements - DEV Community",
+    "date": "2024-05-03T12:53:48.562+06:00",
+    "og:title": "switch Statements",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffs24hon1t9ce4ln0bdoy.jpg",
+    "og:description": "A switch statement executes statements based on the value of a variable or an expression. Based on...",
+    "og:url": "https://dev.to/paulike/switch-statements-12kh",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/paulike/two-way-if-else-statements-4jf4",
     "title": "Two-Way if-else Statements - DEV Community",
     "date": "2024-05-03T01:28:58.812+06:00",
@@ -7774,6 +8346,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxv1l26d4pygf5otp64zs.jpg",
     "og:description": "An if-else statement decides the execution path based on whether the condition is true or false. A...",
     "og:url": "https://dev.to/paulike/two-way-if-else-statements-4jf4",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/paulund/creating-a-local-laravel-package-3en6",
+    "title": "Creating a Local Laravel Package - DEV Community",
+    "date": "2024-05-03T12:46:15.137+06:00",
+    "og:title": "Creating a Local Laravel Package",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1sfg7s1wy8p7jneqbpov.png",
+    "og:description": "Laravel packages are a great way to encapsulate reusable code and share it across multiple projects....",
+    "og:url": "https://dev.to/paulund/creating-a-local-laravel-package-3en6",
     "og:type": "article"
   },
   {
@@ -7862,6 +8445,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi70giyloxxclqbcbm1vl.png",
     "og:description": "Uma feature muito poderosa para equipes de desenvolvimento certamente é a boa utilização das branchs...",
     "og:url": "https://dev.to/pedrovs3/otimize-seu-fluxo-de-desenvolvimento-no-github-criando-templates-de-pull-requests-para-uma-colaboracao-mais-eficiente-pl0",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/pelumisat/creating-my-first-virtual-machine-on-microsoft-azure-1gk4",
+    "title": "Creating My First Virtual Machine on Microsoft Azure - DEV Community",
+    "date": "2024-05-03T12:46:13.322+06:00",
+    "og:title": "Creating My First Virtual Machine on Microsoft Azure",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqmqm6azhvvtnxb2z9a0b.png",
+    "og:description": "Hello, I'd like to share with you how I created my first virtual machine on Microsoft Azure. To...",
+    "og:url": "https://dev.to/pelumisat/creating-my-first-virtual-machine-on-microsoft-azure-1gk4",
     "og:type": "article"
   },
   {
@@ -8115,6 +8709,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh4wjjmht6obpfy84k4qq.jpg",
     "og:description": "Inan era where distractions are ubiquitous, mastering the art of focus is more crucial than ever. One...",
     "og:url": "https://dev.to/productivity/the-power-of-the-pomodoro-technique-jeh",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/productivity/time-blocking-method-a-comprehensive-guide-2b60",
+    "title": "Time Blocking Method: A Comprehensive Guide - DEV Community",
+    "date": "2024-05-03T12:46:12.501+06:00",
+    "og:title": "Time Blocking Method: A Comprehensive Guide",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvk9798gptm7yb57jrqs.jpg",
+    "og:description": "In the world of work and personal commitments, managing time efficiently is more crucial than ever....",
+    "og:url": "https://dev.to/productivity/time-blocking-method-a-comprehensive-guide-2b60",
     "og:type": "article"
   },
   {
@@ -8559,6 +9164,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/rishabhjaincodes/mastering-dataset-acquisition-a-comprehensive-guide-e54",
+    "title": "Mastering Dataset Acquisition: A Comprehensive Guide - DEV Community",
+    "date": "2024-05-03T12:46:14.429+06:00",
+    "og:title": "Mastering Dataset Acquisition: A Comprehensive Guide",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8dug6xxadpdlq72c1p0.png",
+    "og:description": "While learning, performing, practicing, or constructing a Machine Learning task, the foremost...",
+    "og:url": "https://dev.to/rishabhjaincodes/mastering-dataset-acquisition-a-comprehensive-guide-e54",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/rithmschool/on-defining-success-coaching-career-transitions-at-rithm-school-n63",
     "title": "On Defining Success: Coaching Career Transitions at Rithm School - DEV Community",
     "date": "2024-05-03T01:28:54.69+06:00",
@@ -8636,6 +9252,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/robertadler/custom-web-application-development-building-solutions-that-fit-your-business-like-a-glove-338a",
+    "title": "Custom Web Application Development: Building Solutions that Fit Your Business Like a Glove - DEV Community",
+    "date": "2024-05-03T12:46:17.507+06:00",
+    "og:title": "Custom Web Application Development: Building Solutions that Fit Your Business Like a Glove",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4v42w628wmfbjvib0h8k.png",
+    "og:description": "In today's digital landscape, businesses face unique challenges that often require tailored solutions...",
+    "og:url": "https://dev.to/robertadler/custom-web-application-development-building-solutions-that-fit-your-business-like-a-glove-338a",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/robertadler/maximizing-conversions-key-principles-of-conversion-centric-web-design-29oc",
     "title": "Maximizing Conversions: Key Principles of Conversion-Centric Web Design - DEV Community",
     "date": "2024-05-03T01:28:59.112+06:00",
@@ -8665,6 +9292,28 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fknfjfcdm35f12usjgnnf.jpg",
     "og:description": "One of the tasks Generative AI models are good at is summarizing texts. However, if you want to...",
     "og:url": "https://dev.to/rogiia/how-to-use-llms-summarize-long-documents-4ee1",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/rohiturane/how-to-create-custom-facade-in-laravel-10mp",
+    "title": "How to Create Custom Facade in laravel? - DEV Community",
+    "date": "2024-05-03T12:46:15.641+06:00",
+    "og:title": "How to Create Custom Facade in laravel?",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feymrsy5mvpbn3qjz4vzx.png",
+    "og:description": "In this article, We are studying facades in laravel. A facade is a design pattern that provides a...",
+    "og:url": "https://dev.to/rohiturane/how-to-create-custom-facade-in-laravel-10mp",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/roma_i_m/lets-understand-the-stablecoin-on-ton-blockchain-or-how-your-funds-can-be-blocked-2d3c",
+    "title": "Let's understand the stablecoin on TON blockchain or how your funds can be blocked - DEV Community",
+    "date": "2024-05-03T12:46:14.24+06:00",
+    "og:title": "Let's understand the stablecoin on TON blockchain or how your funds can be blocked",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuxr9e1xnqojtydkvdy0p.jpg",
+    "og:description": "On April 19, at the Token2049 conference, after a speech by Pavel Durov, the appearance of a...",
+    "og:url": "https://dev.to/roma_i_m/lets-understand-the-stablecoin-on-ton-blockchain-or-how-your-funds-can-be-blocked-2d3c",
     "og:type": "article"
   },
   {
@@ -8709,6 +9358,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3pm8khix1fwoi1gtskyf.PNG",
     "og:description": "What is Docker? Docker is an open-source software platform that enables developers to run...",
     "og:url": "https://dev.to/rubab2020/docker-for-beginners-25oe",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/rudransh61/lets-code-your-ideas--l2d",
+    "title": "Let's Code your Ideas ! 🔥 - DEV Community",
+    "date": "2024-05-03T12:46:15.991+06:00",
+    "og:title": "Let's Code your Ideas ! 🔥",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fut0xgjxffdj39qpn6tp3.png",
+    "og:description": "So , its  a short post   sO , My brain is too small , (its smaller than a nut)  I want projects idea...",
+    "og:url": "https://dev.to/rudransh61/lets-code-your-ideas--l2d",
     "og:type": "article"
   },
   {
@@ -9351,6 +10011,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/spatialpoet/threejs-gamedev-ai-code-generator-41hf",
+    "title": "Three.js/ Gamedev AI code generator - DEV Community",
+    "date": "2024-05-03T12:46:15.764+06:00",
+    "og:title": "Three.js/ Gamedev AI code generator",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1d8cxyxig4f86jm3gj9o.png",
+    "og:description": "I am exploring the need for a specialised three.js code generator that can help early-level...",
+    "og:url": "https://dev.to/spatialpoet/threejs-gamedev-ai-code-generator-41hf",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/srishtikprasad/error-handling-with-express-40pk",
     "title": "Error Handling with Express - DEV Community",
     "date": "2024-05-01T05:29:27.856+06:00",
@@ -9648,6 +10319,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/szabgab/sponsoring-the-rust-based-rocket-web-framework-2h39",
+    "title": "Sponsoring the Rust-based Rocket Web framework - DEV Community",
+    "date": "2024-05-03T12:46:13.472+06:00",
+    "og:title": "Sponsoring the Rust-based Rocket Web framework",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8utpvz1x52pu7k2k3kf4.png",
+    "og:description": "Sponsor Rocket, the Rust-based web framework!",
+    "og:url": "https://dev.to/szabgab/sponsoring-the-rust-based-rocket-web-framework-2h39",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/szymonhalucha/automatic-interfaces-generation-in-the-c-469k",
     "title": "Automatic interfaces generation in the C# - DEV Community",
     "date": "2024-05-03T04:56:49.547+06:00",
@@ -9721,6 +10403,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9numrniz1zsbvze72p3.png",
     "og:description": "Hey developers 👋,  ever wondered about how secure your application really is? This guide will show...",
     "og:url": "https://dev.to/tdudek/the-ultimate-developers-guide-to-aes-gcm-encrypt-and-decrypt-with-javascript-and-the-web-cryptography-api-3a87",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/techdogs_inc/ai-in-finance-redefining-investment-and-risk-analysis-2l1h",
+    "title": "AI In Finance: Redefining Investment And Risk Analysis - DEV Community",
+    "date": "2024-05-03T12:46:14.916+06:00",
+    "og:title": "AI In Finance: Redefining Investment And Risk Analysis",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8159bibfjwr392dr6ol8.png",
+    "og:description": "Picture this: Wall Street. Sharks circling, deals being brokered, and fortunes won and lost in the...",
+    "og:url": "https://dev.to/techdogs_inc/ai-in-finance-redefining-investment-and-risk-analysis-2l1h",
     "og:type": "article"
   },
   {
@@ -10132,6 +10825,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/tubwe12/best-ai-tools-for-teachers-29pa",
+    "title": "Best AI Tools for Teachers - DEV Community",
+    "date": "2024-05-03T12:46:15.531+06:00",
+    "og:title": "Best AI Tools for Teachers",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzsqlwfkq12sknopucl0h.png",
+    "og:description": "AI tools for teachers can be incredibly beneficial for teachers, offering a range of functionalities...",
+    "og:url": "https://dev.to/tubwe12/best-ai-tools-for-teachers-29pa",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/turalsuleymani/c-delegates-in-practice-implementing-observer-pattern-with-delegates-54dh",
     "title": "C# Delegates In Practice — Implementing Observer Pattern With Delegates - DEV Community",
     "date": "2024-05-02T02:07:15.366+06:00",
@@ -10249,6 +10953,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F413gjfx3h957037bt6tr.png",
     "og:description": "In today's fast-paced digital landscape, the need for skilled professionals in the tech industry...",
     "og:url": "https://dev.to/veronicajoseph/future-proof-your-career-java-training-and-placement-j10",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/vigneshwar0311/integrate-a-real-time-chat-solution-using-firebase-48h7",
+    "title": "Integrate a Real-time Chat Solution using Firebase - DEV Community",
+    "date": "2024-05-03T12:46:17.459+06:00",
+    "og:title": "Integrate a Real-time Chat Solution using Firebase",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fefyt9075mttlhqh9lwud.jpg",
+    "og:description": "Creating resilient and top-notch mobile applications requires a lot of dedication. More importantly,...",
+    "og:url": "https://dev.to/vigneshwar0311/integrate-a-real-time-chat-solution-using-firebase-48h7",
     "og:type": "article"
   },
   {
@@ -10638,6 +11353,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/willemturkstra/simple-dx-improvement-in-phpstorm-50aa",
+    "title": "Simple DX improvement in PHPStorm - DEV Community",
+    "date": "2024-05-03T12:46:17.167+06:00",
+    "og:title": "Simple DX improvement in PHPStorm",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1g7t7od98l8r27v0z0gs.png",
+    "og:description": "For the longest time i always started my development environment manually. This meant that I opened...",
+    "og:url": "https://dev.to/willemturkstra/simple-dx-improvement-in-phpstorm-50aa",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/winglang/inflight-magazine-no-9-4fdh",
     "title": "Local simulation of serverless function concurrency - DEV Community",
     "date": "2024-05-02T02:07:17.765+06:00",
@@ -10759,6 +11485,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/yogini16/making-the-right-database-choice-nosql-vs-relational-databases-148d",
+    "title": "Making the Right Database Choice: NoSQL vs. Relational Databases - DEV Community",
+    "date": "2024-05-03T12:46:14.715+06:00",
+    "og:title": "Making the Right Database Choice: NoSQL vs. Relational Databases",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flb5wxxhzar5iheujcito.png",
+    "og:description": "Recently went through some study for one of my project for making choice NoSQL vs relational DB, so...",
+    "og:url": "https://dev.to/yogini16/making-the-right-database-choice-nosql-vs-relational-databases-148d",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/yoshrubin/exploring-torah-live-upgrading-to-nuxt-3-1c2a",
     "title": "🚀 Exploring Upgrading to Nuxt 3 - DEV Community",
     "date": "2024-05-03T01:28:57.246+06:00",
@@ -10843,6 +11580,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzvzswsdthihdw91mhrn.png",
     "og:description": "This is a blog version of the talk I gave at TorontoJS Lightning Talks event on Apr 30, 2024.       ...",
     "og:url": "https://dev.to/zin_kg/why-write-a-library-4ceb",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/zinrelo/financial-planning-strategies-for-a-successful-loyalty-program-ai5",
+    "title": "Financial Planning Strategies for a Successful Loyalty Program - DEV Community",
+    "date": "2024-05-03T12:46:14.621+06:00",
+    "og:title": "Financial Planning Strategies for a Successful Loyalty Program",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1teumhzg5x85metrsqtq.png",
+    "og:description": "In today’s competitive business landscape, loyalty programs have become a crucial tool for retaining...",
+    "og:url": "https://dev.to/zinrelo/financial-planning-strategies-for-a-successful-loyalty-program-ai5",
     "og:type": "article"
   },
   {
@@ -11529,6 +12277,17 @@
   },
   {
     "hostname": "mailchi.mp",
+    "url": "https://mailchi.mp/codrops/collective835-teyw",
+    "title": "The Collective #835",
+    "date": "2024-05-03T12:40:19.795+06:00",
+    "og:title": "The Collective #835",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "mailchi.mp",
     "url": "https://mailchi.mp/webtoolsweekly/web-tools-563",
     "title": "Web Tools #563 - Frameworks, JSON/DB Tools, Vue, Nuxt.js",
     "date": "2024-05-03T01:25:09.335+06:00",
@@ -11569,6 +12328,17 @@
     "og:image": "https://matthewstrom.com/images/og/Vhi2Zt3qX_-1200.jpeg",
     "og:description": "",
     "og:url": "https://matthewstrom.com/writing/the-polish-paradox/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@_azwar/mengatasi-is-not-a-recognized-css-property-25f3718f8e6e",
+    "title": "Mengatasi is not a recognized CSS property. | by azwar | May, 2024 | Medium",
+    "date": "2024-05-03T12:39:20.965+06:00",
+    "og:title": "Mengatasi is not a recognized CSS property.",
+    "og:image": "https://miro.medium.com/v2/resize:fit:290/0*Xrdzhlxf6jIQQQFN.png",
+    "og:description": "Pesan kesalahan tersebut muncul karena beberapa properti CSS yang digunakan tidak dikenali oleh validator CSS. Ini bisa disebabkan oleh…",
+    "og:url": "https://medium.com/@_azwar/mengatasi-is-not-a-recognized-css-property-25f3718f8e6e",
     "og:type": "article"
   },
   {
@@ -11749,6 +12519,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@fixitblog/solved-html-changing-horizontal-align-of-elements-depending-on-the-direction-setting-3a53e96e01bf",
+    "title": "html changing horizontal align of elements depending on the DIRECTION setting | by Ted James | May, 2024 | Medium",
+    "date": "2024-05-03T12:53:48.106+06:00",
+    "og:title": "[SOLVED] html changing horizontal align of elements depending on the DIRECTION setting",
+    "og:image": "",
+    "og:description": "I have a site that is due to support all languages, including RTL (Hebrew, Arabic, Persian, etc.). The applications is developed using AngularJS, Bootstrap and JavaScript. By setting dir=\"auto\" I get…",
+    "og:url": "https://medium.com/@fixitblog/solved-html-changing-horizontal-align-of-elements-depending-on-the-direction-setting-3a53e96e01bf",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@forlearning1024/configurable-retry-http-calls-interceptor-in-angular-b0300b3af023",
     "title": "Configurable Retry Interceptor in Angular For HTTP Calls | by Lovepreet Singh | May, 2024 | Medium",
     "date": "2024-05-01T03:49:05.891+06:00",
@@ -11859,6 +12640,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@kemaltf_/react-folder-structure-82a50ce012f7",
+    "title": "React folder structure. React doesn’t have opinions on how you… | by Taufik Ozora | May, 2024 | Medium",
+    "date": "2024-05-03T12:39:20.955+06:00",
+    "og:title": "React folder structure",
+    "og:image": "https://miro.medium.com/v2/resize:fit:286/0*nywsGKFVvTq2PH-C.png",
+    "og:description": "React doesn’t have opinions on how you put files into folders. That said there are a few common approaches popular in the ecosystem you may…",
+    "og:url": "https://medium.com/@kemaltf_/react-folder-structure-82a50ce012f7",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@linusm/the-ultimate-guide-to-dom-manipulation-beginner-to-expert-8d2f0db9b6cd",
     "title": "The Ultimate Guide to DOM Manipulation: Beginner to Expert | by Linus Mwiti | May, 2024 | Medium",
     "date": "2024-05-03T01:25:09.819+06:00",
@@ -11877,6 +12669,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*BRP4YlpUVfIv_xGmek4apg.png",
     "og:description": "A three-piece Bootstrap project about the show Normal People.",
     "og:url": "https://medium.com/@lombardimorgan/nmix4010-bootstrap-triptych-project-94c2822fd502",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@magda.sawyer/replacing-deprecated-flexbox-layout-with-flexbox-0e2768a7b670",
+    "title": "Replacing deprecated flexbox-layout with Flexbox | by Magda Sawyer | May, 2024 | Medium",
+    "date": "2024-05-03T12:39:21.031+06:00",
+    "og:title": "Replacing deprecated flexbox-layout with Flexbox",
+    "og:image": "",
+    "og:description": "How to migrate specifc @angular/flexbox-layout features to standard Flexbox",
+    "og:url": "https://medium.com/@magda.sawyer/replacing-deprecated-flexbox-layout-with-flexbox-0e2768a7b670",
     "og:type": "article"
   },
   {
@@ -12013,6 +12816,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@moonlinesagency/websites-on-the-move-54c2dbb9552e",
+    "title": "Websites on the Move. Why Responsive Design is Your Best… | by MOON LINES | May, 2024 | Medium",
+    "date": "2024-05-03T12:40:19.813+06:00",
+    "og:title": "Websites on the Move",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*kLyetY9eW0OT7955rIyKXw.jpeg",
+    "og:description": "Why Responsive Design is Your Best Friend",
+    "og:url": "https://medium.com/@moonlinesagency/websites-on-the-move-54c2dbb9552e",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@nimshaerin9/seamless-user-experiences-with-responsive-design-66c68922571d",
     "title": "Seamless User Experiences with Responsive Design | by Nimsha Erin | May, 2024 | Medium",
     "date": "2024-05-03T01:25:11.194+06:00",
@@ -12112,6 +12926,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@rapidreact/new-year-new-quiz-5abf7487e06c",
+    "title": "NEW YEAR, NEW QUIZ!!!! - Rapid React App - Medium",
+    "date": "2024-05-03T12:39:20.975+06:00",
+    "og:title": "NEW YEAR, NEW QUIZ!!!!",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*Z7qUSyoV31DViGVwFv5NlA.png",
+    "og:description": "Not even a year has passed since our last released React Developer Quiz, and we’ve already created a new one due to fan pressure. New…",
+    "og:url": "https://medium.com/@rapidreact/new-year-new-quiz-5abf7487e06c",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@rashmipatil24/css-transition-effects-d1e995e3d5c9",
     "title": "An Introduction to CSS Transition Effects | Medium",
     "date": "2024-05-03T04:56:49.546+06:00",
@@ -12207,6 +13032,17 @@
     "og:image": "https://miro.medium.com/v2/da:true/resize:fit:1000/0*9s6A4McA5WohBDkm",
     "og:description": "In this comparison, I’ll share my experience developing Todo applications using vanilla JavaScript and React.",
     "og:url": "https://medium.com/@tashagerlitz/comparative-analysis-vanilla-javascript-vs-react-todo-apps-1e7f7f25b6d0",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@tdkentertainment42/angular-17-oninit-vs-constructor-081e22daccf8",
+    "title": "Angular 17 — OnInit VS Constructor | by tdkentertainment | May, 2024 | Medium",
+    "date": "2024-05-03T12:39:20.993+06:00",
+    "og:title": "Angular 17 — OnInit VS Constructor",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/0*D6QYeyU7SEqiITdN.jpeg",
+    "og:description": "JavaScript serves as the bedrock of Angular, embodying both its prototype-based heritage and the class-based syntax introduced by ES6.",
+    "og:url": "https://medium.com/@tdkentertainment42/angular-17-oninit-vs-constructor-081e22daccf8",
     "og:type": "article"
   },
   {
@@ -12394,6 +13230,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:563/0*L-bRWW-yRP1QUXm-.png",
     "og:description": "Flexbox is a popular CSS layout used in the Frontend world. The flexbox is one-dimensional. Sometimes, we catch some issues with sizing…",
     "og:url": "https://medium.com/@win.le/an-edge-case-in-css-flexbox-layout-size-d417f2b75de8",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@woodpeckerseo8/5-key-considerations-when-migrating-sas-enterprise-guide-projects-to-viya-4-10020b8db2d7",
+    "title": "5 Key Considerations When Migrating SAS Enterprise Guide Projects to Viya 4 | by Woodpecker | May, 2024 | Medium",
+    "date": "2024-05-03T12:53:48.136+06:00",
+    "og:title": "5 Key Considerations When Migrating SAS Enterprise Guide Projects to Viya 4",
+    "og:image": "",
+    "og:description": "SAS Viya 4 represents a significant leap forward in analytical capabilities, offering enhanced performance, scalability, and a cloud-native…",
+    "og:url": "https://medium.com/@woodpeckerseo8/5-key-considerations-when-migrating-sas-enterprise-guide-projects-to-viya-4-10020b8db2d7",
     "og:type": "article"
   },
   {
@@ -13641,6 +14488,17 @@
   },
   {
     "hostname": "www.awwwards.com",
+    "url": "https://www.awwwards.com/sites/docusign-brand",
+    "title": "Docusign Brand - Awwwards SOTD",
+    "date": "2024-05-03T12:40:19.834+06:00",
+    "og:title": "Docusign Brand - Awwwards SOTD",
+    "og:image": "https://assets.awwwards.com/awards/submissions/2024/04/661f26e50ea9b289855081.png",
+    "og:description": "To celebrate their rebrand, Docusign partnered with us to give visitors an interactive behind-the-scenes tour of their new brand.",
+    "og:url": "https://www.awwwards.com/sites/docusign-brand",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.awwwards.com",
     "url": "https://www.awwwards.com/sites/wrights-ferry-mansion",
     "title": "Wright's Ferry Mansion - Awwwards SOTD",
     "date": "2024-05-01T04:06:25.167+06:00",
@@ -13758,6 +14616,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/pLLMykmwVrFmTi7BkUzJjE-1200-80.jpg",
     "og:description": "As multi-channel campaigns evolved, brands turned to brazen adverts, stripped-back logos and brand new names",
     "og:url": "https://www.creativebloq.com/features/the-best-rebrands-of-the-2010s",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/how-to/clear-cache-on-ipad",
+    "title": "How to clear cache on iPad | Creative Bloq",
+    "date": "2024-05-03T12:40:19.844+06:00",
+    "og:title": "How to clear cache on iPad",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/WHW2b4jicxmyUEErB2b86b-1200-80.jpg",
+    "og:description": "Boost performance and free up space with these easy steps.",
+    "og:url": "https://www.creativebloq.com/how-to/clear-cache-on-ipad",
     "og:type": "article"
   },
   {
@@ -13938,6 +14807,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/news/tess-ai-art-generator",
+    "title": "Artists are collaborating with a new 'ethical' AI image generator | Creative Bloq",
+    "date": "2024-05-03T12:40:19.8+06:00",
+    "og:title": "Artists are collaborating with a new 'ethical' AI image generator",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/r7b7axcjNjEQSy74n7Typd-1200-80.jpg",
+    "og:description": "Is it too good to be true?",
+    "og:url": "https://www.creativebloq.com/news/tess-ai-art-generator",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/news/the-period-conversation",
     "title": "The Period Conversation embraces organic design to get the dialogue flowing | Creative Bloq",
     "date": "2024-05-01T04:06:30.36+06:00",
@@ -14000,6 +14880,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/pjL9JbNoERT3xniiQ2Qrkb-1200-80.jpg",
     "og:description": "Creating lifelike 3D clothes just became even easier.",
     "og:url": "https://www.creativebloq.com/reviews/marvelous-designer-2024",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/reviews/maya-2025",
+    "title": "Maya 2025 review: lacks innovation but a solid update | Creative Bloq",
+    "date": "2024-05-03T12:40:19.807+06:00",
+    "og:title": "Maya 2025 review: lacks innovation but a solid update",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/Hi8dUKMwiTtzyZ2TNNTtvn-1200-80.jpg",
+    "og:description": "Does this year's animation, modelling, simulation and rendering toolset impress?",
+    "og:url": "https://www.creativebloq.com/reviews/maya-2025",
     "og:type": "article"
   },
   {
