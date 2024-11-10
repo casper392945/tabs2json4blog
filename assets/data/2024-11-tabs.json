@@ -165,6 +165,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "animate.style",
+    "url": "https://animate.style/",
+    "title": "Animate.css | A cross-browser library of CSS animations.",
+    "date": "2024-11-10T04:22:42.526+06:00",
+    "og:title": "Animate.css | A cross-browser library of CSS animations.",
+    "og:image": "https://animate.style/img/animatecss-opengraph.jpg",
+    "og:description": "Animate.css is a library of ready-to-use, cross-browser animations for you to use in your projects. Great for emphasis, home pages, sliders, and attention-guiding hints.",
+    "og:url": "https://animate.style",
+    "og:type": "website"
+  },
+  {
     "hostname": "app.daily.dev",
     "url": "https://app.daily.dev/posts/0C3Zvie1B",
     "title": "The horrors of software bugs | daily.dev",
@@ -933,6 +944,17 @@
     "og:description": "",
     "og:url": "",
     "og:type": ""
+  },
+  {
+    "hostname": "cdnjs.com",
+    "url": "https://cdnjs.com/",
+    "title": "cdnjs - The #1 free and open source CDN built to make life easier for developers",
+    "date": "2024-11-10T04:22:42.551+06:00",
+    "og:title": "cdnjs - The #1 free and open source CDN built to make life easier for developers",
+    "og:image": "https://cdnjs.com/banner.png",
+    "og:description": "Simple. Fast. Reliable. Content delivery at its finest. cdnjs is a free and open-source CDN service trusted by over 12.5% of all websites, serving over 200 billion requests each month, powered by Cloudflare. We make it faster and easier to load library files on your websites.",
+    "og:url": "https://cdnjs.com/",
+    "og:type": "website"
   },
   {
     "hostname": "chriscoyier.net",
@@ -33518,6 +33540,28 @@
   },
   {
     "hostname": "github.com",
+    "url": "https://github.com/google/material-design-lite",
+    "title": "google/material-design-lite: Material Design Components in HTML/CSS/JS",
+    "date": "2024-11-10T04:22:42.596+06:00",
+    "og:title": "google/material-design-lite: Material Design Components in HTML/CSS/JS",
+    "og:image": "https://opengraph.githubassets.com/559d22705afdcbf294f5ffad69b97ad43b5926ed6e23c94579d50c77bf956680/google/material-design-lite",
+    "og:description": "Material Design Components in HTML/CSS/JS. Contribute to google/material-design-lite development by creating an account on GitHub.",
+    "og:url": "https://github.com/google/material-design-lite",
+    "og:type": "object"
+  },
+  {
+    "hostname": "github.com",
+    "url": "https://github.com/HiveSpaceAI/HiveSpace",
+    "title": "HiveSpaceAI/HiveSpace",
+    "date": "2024-11-10T04:22:42.634+06:00",
+    "og:title": "HiveSpaceAI/HiveSpace",
+    "og:image": "https://opengraph.githubassets.com/f47d6820d4555a99423fe74ba6039c667f9ae074caac58e64667709bf5be8a12/HiveSpaceAI/HiveSpace",
+    "og:description": "Contribute to HiveSpaceAI/HiveSpace development by creating an account on GitHub.",
+    "og:url": "https://github.com/HiveSpaceAI/HiveSpace",
+    "og:type": "object"
+  },
+  {
+    "hostname": "github.com",
     "url": "https://github.com/hustcc/timeago.js",
     "title": "hustcc/timeago.js: :clock8: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.",
     "date": "2024-11-01T08:09:13.834+06:00",
@@ -33580,6 +33624,17 @@
     "og:image": "https://repository-images.githubusercontent.com/282430577/bcea9e80-660e-11eb-901a-b140b05c9c2c",
     "og:description": "📅 A customizable calendar JavaScript UI widget/component library with the ability to show events. - PawanKolhe/color-calendar",
     "og:url": "https://github.com/PawanKolhe/color-calendar",
+    "og:type": "object"
+  },
+  {
+    "hostname": "github.com",
+    "url": "https://github.com/WickyNilliams/headroom.js",
+    "title": "WickyNilliams/headroom.js: Give your pages some headroom. Hide your header until you need it",
+    "date": "2024-11-10T04:22:42.666+06:00",
+    "og:title": "WickyNilliams/headroom.js: Give your pages some headroom. Hide your header until you need it",
+    "og:image": "https://opengraph.githubassets.com/95387fe1b744f12401c7c53e84d61aef8f6f37ee3c11906b1dc7150060ebecc8/WickyNilliams/headroom.js",
+    "og:description": "Give your pages some headroom. Hide your header until you need it - WickyNilliams/headroom.js",
+    "og:url": "https://github.com/WickyNilliams/headroom.js",
     "og:type": "object"
   },
   {
@@ -33702,6 +33757,17 @@
     "og:description": "Golden Rules in Web design",
     "og:url": "https://hanjing.medium.com/font-sizing-4259801c04c1",
     "og:type": "article"
+  },
+  {
+    "hostname": "huggingface.co",
+    "url": "https://huggingface.co/spaces/ohayonguy/PMRF",
+    "title": "PMRF - a Hugging Face Space by ohayonguy",
+    "date": "2024-11-10T04:22:42.673+06:00",
+    "og:title": "PMRF - a Hugging Face Space by ohayonguy",
+    "og:image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/spaces/ohayonguy/PMRF.png",
+    "og:description": "",
+    "og:url": "https://huggingface.co/spaces/ohayonguy/PMRF",
+    "og:type": "website"
   },
   {
     "hostname": "iamdtms.medium.com",
@@ -36927,6 +36993,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "sweetalert.js.org",
+    "url": "https://sweetalert.js.org/",
+    "title": "SweetAlert",
+    "date": "2024-11-10T04:22:42.699+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
     "hostname": "t.me",
     "url": "https://t.me/free_html_lessons/1639",
     "title": "Telegram: Contact @free_html_lessons",
@@ -39114,6 +39191,17 @@
     "og:description": "Create sticky headers that respect parent container boundaries using this jQuery plugin. Perfect for tables and complex layouts.",
     "og:url": "https://www.jqueryscript.net/layout/container-relative-sticky.html",
     "og:type": "article"
+  },
+  {
+    "hostname": "www.jsondataai.com",
+    "url": "https://www.jsondataai.com/",
+    "title": "JSON Data AI",
+    "date": "2024-11-10T04:22:42.727+06:00",
+    "og:title": "JSON Data AI",
+    "og:image": "https://jsondataai.com/opengraph-image.png?a3d80ae6749bdebd",
+    "og:description": "Get JSON data about anything depending on your prompt",
+    "og:url": "",
+    "og:type": "website"
   },
   {
     "hostname": "www.mayank.co",
