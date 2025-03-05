@@ -661,6 +661,28 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/_arpy/from-spaghetti-to-scalable-how-i-modularized-a-growing-frontend-codebase-33c6?",
+    "title": "From Spaghetti to Scalable: How I Modularized a Growing Frontend Codebase - DEV Community",
+    "date": "2025-03-05T02:08:39.984+06:00",
+    "og:title": "From Spaghetti to Scalable: How I Modularized a Growing Frontend Codebase",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1yhxeqfidrhdwgnt7902.jpg",
+    "og:description": "Introduction: The \"Oh No\" Moment   At some point in my career, I took over a large React app...",
+    "og:url": "https://dev.to/_arpy/from-spaghetti-to-scalable-how-i-modularized-a-growing-frontend-codebase-33c6",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/alessandrofoglia07/how-i-implemented-a-dht-with-the-chord-protocol-in-c-3077?context=digest",
+    "title": "How I implemented a DHT with the Chord protocol in C - DEV Community",
+    "date": "2025-03-05T02:10:03.634+06:00",
+    "og:title": "How I implemented a DHT with the Chord protocol in C",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5ejjq8k11wkrdy70uxlk.png",
+    "og:description": "Table of Contents    Introduction The Idea  The Actual Implementation   DHTs Introduction to...",
+    "og:url": "https://dev.to/alessandrofoglia07/how-i-implemented-a-dht-with-the-chord-protocol-in-c-3077",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/andersonbosa/subdomain-or-subfolder-which-is-better-for-your-sites-seo-paf?context=digest",
     "title": "Subdomain or Subfolder: Which Is Better for Your Site’s SEO? - DEV Community",
     "date": "2025-03-01T02:26:00.609+06:00",
@@ -668,6 +690,39 @@
     "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fys1bycsqcuyb0y7ljsvi.png",
     "og:description": "When it comes to search engine optimization (SEO), a common question for developers and site owners...",
     "og:url": "https://dev.to/andersonbosa/subdomain-or-subfolder-which-is-better-for-your-sites-seo-paf",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/andyhaskell/conferencing-tips-as-an-autistic-adhd-conference-goer-8pk?",
+    "title": "Conferencing tips as an autistic + ADHD conference-goer - DEV Community",
+    "date": "2025-03-05T02:08:39.989+06:00",
+    "og:title": "Conferencing tips as an autistic + ADHD conference-goer",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftg0wslfyk9xdukb3a6g5.png",
+    "og:description": "I'm an AuDHD (autistic+ADHD) software engineer, and I've been going to tech conferences since OWASP...",
+    "og:url": "https://dev.to/andyhaskell/conferencing-tips-as-an-autistic-adhd-conference-goer-8pk",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/aws/whatre-inside-opentelemetry-collector-and-adot-152e?context=digest",
+    "title": "What're inside OpenTelemetry Collector and ADOT? - DEV Community",
+    "date": "2025-03-05T02:10:03.632+06:00",
+    "og:title": "What're inside OpenTelemetry Collector and ADOT?",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fstltzi5of0b6v0uf6oj4.png",
+    "og:description": "ADOT is just a variety of OpenTelemery Collector distribution. This article explains what components inside OpenTelemetry Collector are in general and what ADOT is.",
+    "og:url": "https://dev.to/aws/whatre-inside-opentelemetry-collector-and-adot-152e",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/bekahhw/the-quiet-revolution-ai-critical-thinking-and-a-home-for-technical-humanities-4d5m?",
+    "title": "The Quiet Revolution: AI, Critical Thinking, and a Home for Technical Humanities - DEV Community",
+    "date": "2025-03-05T02:08:39.992+06:00",
+    "og:title": "The Quiet Revolution: AI, Critical Thinking, and a Home for Technical Humanities",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fywq45mtr9l97dok1fp6j.png",
+    "og:description": "Discover the intersection of AI logic and human critical thinking in software development. Explore how AI’s systematic reasoning complements human intuition, the role of open source in AI transparency, and why critical thinking is more vital than ever in an AI-driven world.",
+    "og:url": "https://dev.to/bekahhw/the-quiet-revolution-ai-critical-thinking-and-a-home-for-technical-humanities-4d5m",
     "og:type": "article"
   },
   {
@@ -716,6 +771,50 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-114-pair-swap-in-an-array-5h5e?context=digest",
+    "title": "Daily JavaScript Challenge #JS-114: Pair Swap In an Array - DEV Community",
+    "date": "2025-03-05T02:10:03.645+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-114: Pair Swap In an Array",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5dg1t4y8uh7t1us7xmuc.png",
+    "og:description": "Daily JavaScript Challenge: Pair Swap In an Array   Hey fellow developers! 👋 Welcome to...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-114-pair-swap-in-an-array-5h5e",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-115-calculate-maximum-subarray-sum-4dg2?context=digest",
+    "title": "Daily JavaScript Challenge #JS-115: Calculate Maximum Subarray Sum - DEV Community",
+    "date": "2025-03-05T02:10:03.652+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-115: Calculate Maximum Subarray Sum",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F00ws17f75slslxqhpdnp.png",
+    "og:description": "Daily JavaScript Challenge: Calculate Maximum Subarray Sum   Hey fellow developers! 👋...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-115-calculate-maximum-subarray-sum-4dg2",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-116-flatten-a-nested-array-18ig?context=digest",
+    "title": "Daily JavaScript Challenge #JS-116: Flatten a Nested Array - DEV Community",
+    "date": "2025-03-05T02:10:03.636+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-116: Flatten a Nested Array",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fna11w56tzhar16vhyggi.png",
+    "og:description": "Daily JavaScript Challenge: Flatten a Nested Array   Hey fellow developers! 👋 Welcome to...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-116-flatten-a-nested-array-18ig",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dzakh/javascript-schema-library-from-the-future-5420?",
+    "title": "JavaScript schema library from the Future 🧬 - DEV Community",
+    "date": "2025-03-05T02:08:39.987+06:00",
+    "og:title": "JavaScript schema library from the Future 🧬",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn102ksd9w1xo5ysgxbur.png",
+    "og:description": "ReScript Schema - The fastest parser in the entire JavaScript ecosystem with a focus on small bundle...",
+    "og:url": "https://dev.to/dzakh/javascript-schema-library-from-the-future-5420",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/lokesh_singh/i-hope-you-git-it-the-ultimate-git-guide-for-beginners-30jg",
     "title": "I Hope You Git It! - The Ultimate Git Guide for Beginners🚀 - DEV Community",
     "date": "2025-03-03T07:53:19.796+06:00",
@@ -723,6 +822,50 @@
     "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fii01cxtyuktb4mbwzvmt.jpg",
     "og:description": "📘 Introduction: What is Git?     Ever wished you had a time machine for your code? Well,...",
     "og:url": "https://dev.to/lokesh_singh/i-hope-you-git-it-the-ultimate-git-guide-for-beginners-30jg",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/luxonauta/beyond-visual-why-we-should-be-using-more-haptic-feedback-on-the-web-1adg?",
+    "title": "Beyond Visual: Why We Should Be Using More Haptic Feedback on the Web - DEV Community",
+    "date": "2025-03-05T02:08:39.985+06:00",
+    "og:title": "Beyond Visual: Why We Should Be Using More Haptic Feedback on the Web",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuwbjykwagwyokbklczrf.png",
+    "og:description": "Visual experiences dominate the web.  There are a few that also use auditory ones. However, I would...",
+    "og:url": "https://dev.to/luxonauta/beyond-visual-why-we-should-be-using-more-haptic-feedback-on-the-web-1adg",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/madgan95/introduction-to-android-development-6hl?context=digest",
+    "title": "Introduction to Android Development - DEV Community",
+    "date": "2025-03-05T02:10:03.644+06:00",
+    "og:title": "Introduction to Android Development",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi83fgy5qbcvm9c1hnofo.png",
+    "og:description": "Android Debug Bridge (adb)   It is a versatile command-line tool that enables developers to...",
+    "og:url": "https://dev.to/madgan95/introduction-to-android-development-6hl",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/mobolanleadebesin/writing-human-readable-code-to-name-or-not-to-name-2jci?",
+    "title": "Writing Human Readable Code: To Name or Not To Name - DEV Community",
+    "date": "2025-03-05T02:08:39.993+06:00",
+    "og:title": "Writing Human Readable Code: To Name or Not To Name",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F24guxwmwsuo1pbikya31.jpg",
+    "og:description": "I waffled back and forth about the title of this post, but in the end, I couldn't resist the Hamlet...",
+    "og:url": "https://dev.to/mobolanleadebesin/writing-human-readable-code-to-name-or-not-to-name-2jci",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/sfundomhlungu/how-to-build-a-raw-tcp-server-where-every-millisecond-counts-55lm?",
+    "title": "How To Build A Raw TCP Server Where Every Millisecond Counts. - DEV Community",
+    "date": "2025-03-05T02:08:39.99+06:00",
+    "og:title": "How To Build A Raw TCP Server Where Every Millisecond Counts.",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdgzt7fizgjfynqhfsw4k.jpg",
+    "og:description": "TCP is blazingly fast. 🦀  When every millisecond matters - real-time systems, database engines,...",
+    "og:url": "https://dev.to/sfundomhlungu/how-to-build-a-raw-tcp-server-where-every-millisecond-counts-55lm",
     "og:type": "article"
   },
   {
@@ -745,6 +888,17 @@
     "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkcmcqzg0xth2q557llsg.png",
     "og:description": "Welcome back gentle reader. My name is Silent-Mobius, AKA Alex M. Schapelle, log utility to your...",
     "og:url": "https://dev.to/vaiolabs_io/logging-your-steps-3afa",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/zeedu_dev/fine-tuning-a-llm-small-practical-guide-with-resources-bg5?context=digest",
+    "title": "Fine-Tuning A LLM Small Practical Guide With Resources - DEV Community",
+    "date": "2025-03-05T02:10:03.63+06:00",
+    "og:title": "Fine-Tuning A LLM Small Practical Guide With Resources",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi0ec97ms39gxmtf17vli.jpg",
+    "og:description": "I tried to fine-tune a DeepSeek model but failed, then I tried to do it with Llama and I couldn't...",
+    "og:url": "https://dev.to/zeedu_dev/fine-tuning-a-llm-small-practical-guide-with-resources-bg5",
     "og:type": "article"
   },
   {
