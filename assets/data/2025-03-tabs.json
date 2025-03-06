@@ -663,7 +663,7 @@
     "hostname": "css-tricks.com",
     "url": "https://css-tricks.com/toe-dipping-into-view-transitions/",
     "title": "Toe Dipping Into View Transitions | CSS-Tricks",
-    "date": "2025-03-06T02:20:37.269+06:00",
+    "date": "2025-03-06T06:29:59.72+06:00",
     "og:title": "Toe Dipping Into View Transitions | CSS-Tricks",
     "og:image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png",
     "og:description": "The View Transitions API is more a set of features than it is about any one particular thing. And it gets complex fast. But in this post, we’ll cover a couple ways to dip your toes into the waters without having to dive in head-first.",
@@ -969,6 +969,17 @@
   },
   {
     "hostname": "designshack.net",
+    "url": "https://designshack.net/articles/graphics/timeless-logo-design/",
+    "title": "Timeless Logos: What Makes a Design Last for Decades? | Design Shack",
+    "date": "2025-03-06T06:28:51.976+06:00",
+    "og:title": "Timeless Logos: What Makes a Design Last for Decades?",
+    "og:image": "https://designshack.net/wp-content/uploads/timeless-logo-design.jpg",
+    "og:description": "A great logo is more than just a design—it’s an identity. Some logos stand the test of time, remaining relevant and recognizable for decades. Think of brands like Coca-Cola, Nike, or Apple. Their logos have evolved slightly over the years, but their core design remains intact, continui...",
+    "og:url": "https://designshack.net/articles/graphics/timeless-logo-design/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designshack.net",
     "url": "https://designshack.net/articles/inspiration/camo-patterns/",
     "title": "20+ Best Camo Patterns, Textures & Background Graphics | Design Shack",
     "date": "2025-03-05T04:27:54.963+06:00",
@@ -1092,7 +1103,7 @@
     "hostname": "dev.to",
     "url": "https://dev.to/alessandrofoglia07/how-i-implemented-a-dht-with-the-chord-protocol-in-c-3077?context=digest",
     "title": "How I implemented a DHT with the Chord protocol in C - DEV Community",
-    "date": "2025-03-05T02:10:03.634+06:00",
+    "date": "2025-03-06T06:28:52.669+06:00",
     "og:title": "How I implemented a DHT with the Chord protocol in C",
     "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5ejjq8k11wkrdy70uxlk.png",
     "og:description": "Table of Contents    Introduction The Idea  The Actual Implementation   DHTs Introduction to...",
@@ -1152,6 +1163,28 @@
     "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz7ptv74xc3b6gx4gzun9.png",
     "og:description": "Hey everyone👋   I'm a DevRel and manage our community at CopilotKit, a free and open-source framework...",
     "og:url": "https://dev.to/copilotkit/how-to-build-a-full-stack-agentic-researcher-in-5-minutes-19dp",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dev-to-rater-org/the-biggest-frontend-mistakes-you-can-do-bng",
+    "title": "The biggest frontend mistakes you can do - DEV Community",
+    "date": "2025-03-06T06:28:52.354+06:00",
+    "og:title": "The biggest frontend mistakes you can do",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8cgvawrcesh04f8b8pyb.png",
+    "og:description": "Hello, fellow devs!  Frontend development can be very interesting because we can immediately see the...",
+    "og:url": "https://dev.to/dev-to-rater-org/the-biggest-frontend-mistakes-you-can-do-bng",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dhaval_upadhyay_30f8292a8/install-docker-using-command-line-and-pull-code-from-github-2l6c?context=digest",
+    "title": "Install Docker using command line and pull code from github - DEV Community",
+    "date": "2025-03-06T06:28:52.62+06:00",
+    "og:title": "Install Docker using command line and pull code from github",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcny7jpyxqr0vjocp0wg4.jpg",
+    "og:description": "Introduction    Briefly introduce the importance of CI/CD in modern application...",
+    "og:url": "https://dev.to/dhaval_upadhyay_30f8292a8/install-docker-using-command-line-and-pull-code-from-github-2l6c",
     "og:type": "article"
   },
   {
@@ -1233,6 +1266,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/googleworkspace/why-amits-add-ons-are-so-successful-3bj1?context=digest",
+    "title": "Why Amit's add-ons are so successful - DEV Community",
+    "date": "2025-03-06T06:28:52.584+06:00",
+    "og:title": "Why Amit's add-ons are so successful",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnnsspk22yve8ksbi2k0b.png",
+    "og:description": "Amit has created and published multiple Google Workspace Add-ons which have combined more than 46M+ installs on the Google Workspace Marketplace. ...",
+    "og:url": "https://dev.to/googleworkspace/why-amits-add-ons-are-so-successful-3bj1",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/lokesh_singh/i-hope-you-git-it-the-ultimate-git-guide-for-beginners-30jg",
     "title": "I Hope You Git It! - The Ultimate Git Guide for Beginners🚀 - DEV Community",
     "date": "2025-03-03T07:53:19.796+06:00",
@@ -1273,6 +1317,17 @@
     "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F24guxwmwsuo1pbikya31.jpg",
     "og:description": "I waffled back and forth about the title of this post, but in the end, I couldn't resist the Hamlet...",
     "og:url": "https://dev.to/mobolanleadebesin/writing-human-readable-code-to-name-or-not-to-name-2jci",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/roddydev/self-taught-to-jpmorgan-chase-my-cloud-resume-challenge-journey-4nda?context=digest",
+    "title": "Self-taught to JPMorgan Chase: My Cloud Resume Challenge Journey - DEV Community",
+    "date": "2025-03-06T06:28:52.707+06:00",
+    "og:title": "Self-taught to JPMorgan Chase: My Cloud Resume Challenge Journey",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsvw9kk05dcdei9vo1ebi.png",
+    "og:description": "How it Started   In January 2023, I learned about the Cloud Resume Challenge. A project that...",
+    "og:url": "https://dev.to/roddydev/self-taught-to-jpmorgan-chase-my-cloud-resume-challenge-journey-4nda",
     "og:type": "article"
   },
   {
@@ -1389,7 +1444,7 @@
     "hostname": "evilmartians.com",
     "url": "https://evilmartians.com/chronicles/better-web-video-with-av1-codec",
     "title": "How to make web videos way smaller in 2025 using the AV1 codec—Martian Chronicles, Evil Martians’ team blog",
-    "date": "2025-03-05T02:47:29.643+06:00",
+    "date": "2025-03-06T06:28:52.427+06:00",
     "og:title": "How to make web videos way smaller in 2025 using the AV1 codec—Martian Chronicles, Evil Martians’ team blog",
     "og:image": "https://evilmartians.com/social-cards/chronicles/better-web-video-with-av1-codec.jpg",
     "og:description": "Learn to use AV1 to make videos on your website smaller and better quality. CLI instructions and cross-browser tricks.",
@@ -1433,7 +1488,7 @@
     "hostname": "frontendmasters.com",
     "url": "https://frontendmasters.com/blog/how-to-use-attr-in-css-for-columns-colors-and-font-size/",
     "title": "How to Use attr() in CSS for Columns, Colors, and Font-Size – Frontend Masters Blog",
-    "date": "2025-03-06T02:20:36.753+06:00",
+    "date": "2025-03-06T06:29:58.702+06:00",
     "og:title": "",
     "og:image": "https://frontendmasters.com/blog/wp-json/social-image-generator/v1/image/5224",
     "og:description": "",
@@ -1460,6 +1515,28 @@
     "og:image": "https://opengraph.githubassets.com/7cacc203adaf0475914a8ae98286cb496c3ea8ded4729890be23f5214b1c0048/Aerolab/midnight.js",
     "og:description": "Switch your nav's design on the fly. Contribute to Aerolab/midnight.js development by creating an account on GitHub.",
     "og:url": "https://github.com/Aerolab/midnight.js",
+    "og:type": "object"
+  },
+  {
+    "hostname": "github.com",
+    "url": "https://github.com/BoltAI/OhOnePro",
+    "title": "BoltAI/OhOnePro: Oh One Pro is a free utility that allows you to analyze PDFs, source code, and other documents using ChatGPT o1-pro. https://ohonepro.com",
+    "date": "2025-03-06T06:28:52.19+06:00",
+    "og:title": "BoltAI/OhOnePro: Oh One Pro is a free utility that allows you to analyze PDFs, source code, and other documents using ChatGPT o1-pro. https://ohonepro.com",
+    "og:image": "https://opengraph.githubassets.com/3fb12afa3b731d83a12a8b0fc12f23d5df37d111d2524bb2201bfbc0ec001c0d/BoltAI/OhOnePro",
+    "og:description": "Oh One Pro is a free utility that allows you to analyze PDFs, source code, and other documents using ChatGPT o1-pro. https://ohonepro.com - BoltAI/OhOnePro",
+    "og:url": "https://github.com/BoltAI/OhOnePro",
+    "og:type": "object"
+  },
+  {
+    "hostname": "github.com",
+    "url": "https://github.com/BuilderIO/gpt-crawler",
+    "title": "BuilderIO/gpt-crawler: Crawl a site to generate knowledge files to create your own custom GPT from a URL",
+    "date": "2025-03-06T06:28:52.267+06:00",
+    "og:title": "BuilderIO/gpt-crawler: Crawl a site to generate knowledge files to create your own custom GPT from a URL",
+    "og:image": "https://opengraph.githubassets.com/3b061e598c3fcd01820ae6953d1d446d44a5ff6611d7a45a26fc0cb95004f6a6/BuilderIO/gpt-crawler",
+    "og:description": "Crawl a site to generate knowledge files to create your own custom GPT from a URL - BuilderIO/gpt-crawler",
+    "og:url": "https://github.com/BuilderIO/gpt-crawler",
     "og:type": "object"
   },
   {
@@ -1609,7 +1686,7 @@
     "hostname": "growth.design",
     "url": "https://growth.design/case-studies/5-product-onboarding-mistakes-to-avoid",
     "title": "5 Deadly Onboarding Mistakes You Should Avoid",
-    "date": "2025-03-06T02:20:36.735+06:00",
+    "date": "2025-03-06T06:29:58.556+06:00",
     "og:title": "5 Deadly Onboarding Mistakes You Should Avoid",
     "og:image": "https://s3.amazonaws.com/files.growth.design/cms/cktkhodro000f0tmrcz19a393.png",
     "og:description": "When things go south... Erase & Restart! Make sure you ban these 💀5 deadly onboarding mistakes from your product right away. Enjoy this growth case study!",
@@ -1771,6 +1848,28 @@
     "og:type": "article"
   },
   {
+    "hostname": "inspiretrends.com",
+    "url": "https://inspiretrends.com/trending-hookahs-the-best-choices-for-2025/",
+    "title": "Trending Hookahs: The Best Choices for 2025 - Inspire Trends",
+    "date": "2025-03-06T05:14:38.713+06:00",
+    "og:title": "Trending Hookahs: The Best Choices for 2025 - Inspire Trends",
+    "og:image": "https://inspiretrends.com/wp-content/uploads/2025/03/amotion-futr-hookah-cobalt-600x600-1.webp",
+    "og:description": "The hookah industry is constantly evolving, and every year, new designs and innovations hit the market, capturing the attention of both seasoned enthusiasts and newcomers alike. In 2025, the hookah scene is more dynamic than ever, with sleek, high-performance models dominating the conversation. Whether you’re looking for a modern, high-tech setup or a traditional handcrafted […]",
+    "og:url": "https://inspiretrends.com/trending-hookahs-the-best-choices-for-2025/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "itsthatlady.dev",
+    "url": "https://itsthatlady.dev/blog/migrate-from-wordpress-to-astro/",
+    "title": "How I Migrated from WordPress to Astro <meta name=\"astro-view-transitions-enabled\" content=\"true\"><meta name=\"astro-view-transitions-fallback\" content=\"animate\"><script type=\"module\" src=\"/_astro/ClientRouter.astro_astro_type_script_index_0_lang.BScVxmeO.js\"></script> <meta name=\"title\" content=\"How I Migrated from WordPress to Astro\"> <meta name=\"description\" content=\"I migrated my blog from WordPress to Astro in 3 days!\"> <link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/favicon/apple-touch-icon.png\"> <link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/favicon/favicon-32x32.png\"> <link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"/favicon/favicon-16x16.png\"> <link rel=\"manifest\" href=\"/favicon/site.webmanifest\"> <!-- Open Graph / Facebook --> <meta property=\"og:type\" content=\"website\"> <meta property=\"og:url\" content=\"http://localhost:4321/blog/migrate-from-wordpress-to-astro/\"> <meta property=\"og:title\" content=\"How I Migrated from WordPress to Astro\"> <meta property=\"og:description\" content=\"I migrated my blog from WordPress to Astro in 3 days!\"> <meta property=\"og:image\" content=\"http://localhost:4321/screenshot.jpg\"> <!-- Twitter --> <meta property=\"twitter:card\" content=\"summary_large_image\"> <meta property=\"twitter:url\" content=\"http://localhost:4321/blog/migrate-from-wordpress-to-astro/\"> <meta property=\"twitter:title\" content=\"How I Migrated from WordPress to Astro\"> <meta property=\"twitter:description\" content=\"I migrated my blog from WordPress to Astro in 3 days!\"> <meta property=\"twitter:image\" content=\"http://localhost:4321/screenshot.jpg\">",
+    "date": "2025-03-06T06:28:52.481+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
     "hostname": "ivishalchaubey.medium.com",
     "url": "https://ivishalchaubey.medium.com/setting-up-react-native-web-in-react-native-cli-d2026d4398c9",
     "title": "Setting Up React Native Web in React Native CLI | by Vishal Chaturvedi | Mar, 2025 | Medium",
@@ -1807,7 +1906,7 @@
     "hostname": "kinsta.com",
     "url": "https://kinsta.com/",
     "title": "Kinsta® - Fast, secure, feature-rich hosting for WordPress",
-    "date": "2025-03-06T02:20:36.731+06:00",
+    "date": "2025-03-06T06:29:58.543+06:00",
     "og:title": "Kinsta® - Fast, secure, feature-rich WordPress hosting",
     "og:image": "https://kinsta.com/wp-content/uploads/2024/12/kinsta-managed-hosting-for-wordpress.jpg",
     "og:description": "Join the growing club of companies, developers & entrepreneurs who made the switch to Kinsta for simpler, faster, more reliable hosting for WordPress.",
@@ -2663,6 +2762,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@Fredtaylor1/is-php-front-end-or-back-end-129ee551e903",
+    "title": "Is PHP Front-End or Back-End?. In recent years, technology in the… | by Frederick Taylor | Mar, 2025 | Medium",
+    "date": "2025-03-06T02:57:28.988+06:00",
+    "og:title": "Is PHP Front-End or Back-End?",
+    "og:image": "https://miro.medium.com/v2/da:true/resize:fit:640/0*-OWzRtKzSQMyHEMJ",
+    "og:description": "In recent years, technology in the fields of websites and applications has made significant advances, prompting developers to seek more…",
+    "og:url": "https://medium.com/@Fredtaylor1/is-php-front-end-or-back-end-129ee551e903",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@gersonjunior12/micro-front-end-with-vue-js-3-module-federation-93188cad8bd7",
     "title": "Micro Front-end with Vue.js 3 + Module Federation | by Gerson da Silva Junior | Mar, 2025 | Medium",
     "date": "2025-03-06T02:13:39.207+06:00",
@@ -3055,6 +3165,17 @@
     "og:image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*CPRidiwWrugL-1As",
     "og:description": "In today’s digital era, internet users access websites from various devices with different screen sizes, ranging from desktop computers…",
     "og:url": "https://medium.com/@pann.tech/still-making-non-responsive-design-08b8ec2147fd",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@pratik111098/top-10-css-one-liners-that-will-save-you-hours-of-work-ec7d041b3eee",
+    "title": "Top 10 CSS One-Liners That Will Save You Hours of Work | by Pratik Tamhane | Mar, 2025 | Medium",
+    "date": "2025-03-06T03:54:39.223+06:00",
+    "og:title": "Top 10 CSS One-Liners That Will Save You Hours of Work",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*s4lgJYwWQJrW0yCdDIiGjQ.jpeg",
+    "og:description": "Mastering Efficiency with Simple Tricks",
+    "og:url": "https://medium.com/@pratik111098/top-10-css-one-liners-that-will-save-you-hours-of-work-ec7d041b3eee",
     "og:type": "article"
   },
   {
@@ -3619,6 +3740,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "ohonepro.com",
+    "url": "https://ohonepro.com/",
+    "title": "Oh One Pro - Analyze PDFs and other documents with o1-pro and o3-mini",
+    "date": "2025-03-06T06:28:52.149+06:00",
+    "og:title": "Oh One Pro - Analyze PDFs and other documents with o1-pro and o3-mini",
+    "og:image": "https://ohonepro.com/images/og-image.jpeg",
+    "og:description": "Oh One Pro is an utility that allows you to analyze documents using ChatGPT o1-pro and o3-mini models.",
+    "og:url": "https://ohonepro.com",
+    "og:type": "website"
+  },
+  {
     "hostname": "oklch.com",
     "url": "https://oklch.com/#70,0.1,332,100",
     "title": "OKLCH Color Picker & Converter",
@@ -3765,7 +3897,7 @@
     "hostname": "red-website-design.co.uk",
     "url": "https://red-website-design.co.uk/effective-web-design/",
     "title": "21 Psychological Elements that Power Effective Web Design",
-    "date": "2025-03-05T02:47:30.011+06:00",
+    "date": "2025-03-06T06:28:52.01+06:00",
     "og:title": "21 Psychological Elements that Power Effective Web Design",
     "og:image": "https://red-website-design.co.uk/wp-content/uploads/21-Psychological-Elements-that-Power-Effective-Web-Design.webp",
     "og:description": "Are you looking for ways to make your business website more effective? Want to use simple psychology to guide your web design process?",
@@ -3798,7 +3930,7 @@
     "hostname": "scottberkun.com",
     "url": "https://scottberkun.com/essays/22-the-list-of-reasons-ease-of-use-doesnt-happen-on-engineering-projects/",
     "title": "The Real Reasons Bad Design Happens | Scott Berkun",
-    "date": "2025-03-04T02:21:04.709+06:00",
+    "date": "2025-03-06T06:29:59.481+06:00",
     "og:title": "The Real Reasons Bad Design Happens",
     "og:image": "https://scottberkun.com/siteimage.jpg",
     "og:description": "[first published November 2002] No one intends to make bad things, yet we know how much of the world is not  well designed. Most designers assume conveniently that the problems are obvious and easy…",
@@ -3809,7 +3941,7 @@
     "hostname": "shadergpt.14islands.com",
     "url": "https://shadergpt.14islands.com/",
     "title": "ShaderGPT",
-    "date": "2025-03-05T04:27:53.955+06:00",
+    "date": "2025-03-06T06:29:58.816+06:00",
     "og:title": "ShaderGPT",
     "og:image": "https://shadergpt.14islands.com/og-image.png",
     "og:description": "A fragment shader AI experiment by @14islands",
@@ -4280,6 +4412,17 @@
   },
   {
     "hostname": "tympanus.net",
+    "url": "https://tympanus.net/codrops/2025/02/24/100-days-of-web-experiments-a-designers-journey-into-the-unknown/",
+    "title": "100 Days of Web Experiments: A Designer’s Journey into the Unknown | Codrops",
+    "date": "2025-03-06T06:28:52.054+06:00",
+    "og:title": "100 Days of Web Experiments: A Designer’s Journey into the Unknown | Codrops",
+    "og:image": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2025/02/Suz-x-Codrops-Cover.jpg?x17434",
+    "og:description": "A designer’s journey of creative exploration—100 days, 100 experiments, and the lessons learned along the way.",
+    "og:url": "https://tympanus.net/codrops/2025/02/24/100-days-of-web-experiments-a-designers-journey-into-the-unknown/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "tympanus.net",
     "url": "https://tympanus.net/codrops/2025/02/26/webgpu-fluid-simulations-high-performance-real-time-rendering/",
     "title": "WebGPU Fluid Simulations: High Performance & Real-Time Rendering | Codrops",
     "date": "2025-03-03T07:53:17.944+06:00",
@@ -4332,6 +4475,17 @@
     "og:description": "An article behind the process of Stefan's 2025 creative dev portfolio — a minimalist design, dynamic visuals and shader effects.",
     "og:url": "https://tympanus.net/codrops/2025/03/05/case-study-stefan-vitasovic-portfolio-2025/",
     "og:type": "article"
+  },
+  {
+    "hostname": "unicornclub.dev",
+    "url": "https://unicornclub.dev/sponsor/#classified-placement",
+    "title": "Sponsor | Unicorn Club",
+    "date": "2025-03-06T06:29:58.971+06:00",
+    "og:title": "Sponsor | Unicorn Club",
+    "og:image": "https://unicornclub.dev/assets/img/share-image.png",
+    "og:description": "Sponsor the Unicorn Club. Our audience is made up of the next generation of cross-disciplinary talent, constantly pushing boundaries to build better, more user-centric products.",
+    "og:url": "https://unicornclub.dev/sponsor/",
+    "og:type": "website"
   },
   {
     "hostname": "ux-news.com",
@@ -4807,6 +4961,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "webdesign.tutsplus.com",
+    "url": "https://webdesign.tutsplus.com/how-to-create-a-blob-generator-tool-in-javascript--cms-109107t",
+    "title": "How to create a “blob generator” tool in JavaScript (Canvas tutorial) | Envato Tuts+",
+    "date": "2025-03-06T06:28:52.539+06:00",
+    "og:title": "How to create a “blob generator” tool in JavaScript (Canvas tutorial) | Envato Tuts+",
+    "og:image": "https://cms-assets.tutsplus.com/uploads/users/30/posts/109107/preview_image/blob.jpg",
+    "og:description": "A slightly weird one, but in this tutorial, we’ll learn how to create a blob generator tool using HTML, CSS, and JavaScript. There’s a lot to learn!",
+    "og:url": "https://webdesign.tutsplus.com/how-to-create-a-blob-generator-tool-in-javascript--cms-109107t",
+    "og:type": "article"
+  },
+  {
     "hostname": "webdesigndev.com",
     "url": "https://webdesigndev.com/how-to-create-a-wireframe-for-a-website/",
     "title": "How to Create a Wireframe for a Website",
@@ -4826,6 +4991,17 @@
     "og:image": "https://webdesignerdepot-wp.s3.us-east-2.amazonaws.com/2024/11/23053724/Google_Glass_detail.jpg",
     "og:description": "Even tech giants like Google stumble, with flops like Google+ and Google Glass proving that not every idea sticks. Often caused by overestimating demand or poor execution, these failures show that even the boldest innovators sometimes miss the mark.",
     "og:url": "https://webdesignerdepot.com/compilation-15-hilarious-google-flops/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "webdesignerdepot.com",
+    "url": "https://webdesignerdepot.com/design-handoff-pitfalls-common-mistakes-and-how-to-avoid-them/",
+    "title": "Design Handoff Pitfalls: Common Mistakes and How to Avoid Them | Web Designer Depot",
+    "date": "2025-03-06T06:28:51.975+06:00",
+    "og:title": "Design Handoff Pitfalls: Common Mistakes and How to Avoid Them | Web Designer Depot",
+    "og:image": "https://webdesignerdepot-wp.s3.us-east-2.amazonaws.com/2025/02/07100307/234.jpg",
+    "og:description": "Design handoffs often fail due to misunderstandings over specs, missing assets, and poor communication between designers and developers. To avoid these pitfalls, designers should standardize documentation, provide clear context, and maintain ongoing collaboration throughout the development process.",
+    "og:url": "https://webdesignerdepot.com/design-handoff-pitfalls-common-mistakes-and-how-to-avoid-them/",
     "og:type": "article"
   },
   {
@@ -4871,6 +5047,17 @@
     "og:description": "",
     "og:url": "",
     "og:type": ""
+  },
+  {
+    "hostname": "webtoolsweekly.com",
+    "url": "https://webtoolsweekly.com/archives/issue-607/",
+    "title": "Web Tools Weekly Issue #607 (JS Utils, Media, AI Tools)",
+    "date": "2025-03-06T03:04:26.315+06:00",
+    "og:title": "Web Tools Weekly Issue #607",
+    "og:image": "https://gallery.mailchimp.com/ea228d7061e8bbfa8639666ad/images/f9d20a48-0025-4081-910a-57bd1940d017.png",
+    "og:description": "Web Tools Weekly Issue #607 - JS Utils, Media, AI Tools.",
+    "og:url": "http://eepurl.com/hivKuf",
+    "og:type": "article"
   },
   {
     "hostname": "wf-blog-2021.webflow.io",
@@ -5047,6 +5234,17 @@
     "og:description": "Beware when working with coordinates on View Transition pseudos like ::view-transition-group(*). Depending on where you read/write those coordinates from/to, you might end up with layout jumps. This post details the pitfalls and how to deal with them, unlocking more performant animations on ::view-transition-group() pseudos.",
     "og:url": "https://www.bram.us/2025/03/04/view-transitions-snapshot-containing-block/",
     "og:type": ""
+  },
+  {
+    "hostname": "www.builder.io",
+    "url": "https://www.builder.io/blog/custom-gpt",
+    "title": "Introducing GPT Crawler",
+    "date": "2025-03-06T06:28:52.223+06:00",
+    "og:title": "Introducing GPT Crawler - Turn Any Site Into a Custom GPT With Just a URL",
+    "og:image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fb733f96cd1224cc68534776cb473e57e?width=1200",
+    "og:description": "Discover how to create a custom GPT in minutes using this new open-source tool. Learn to crawl websites for tailored AI assistance in your apps",
+    "og:url": "https://www.builder.io/blog/custom-gpt",
+    "og:type": "website"
   },
   {
     "hostname": "www.bypeople.com",
@@ -5778,7 +5976,7 @@
     "hostname": "www.dupple.com",
     "url": "https://www.dupple.com/techpresso?rh_partner=b72d447f42",
     "title": "Techpresso - Free Daily Tech Newsletter",
-    "date": "2025-03-03T07:53:20.366+06:00",
+    "date": "2025-03-06T06:29:59.195+06:00",
     "og:title": "Techpresso - Free Daily Tech Newsletter",
     "og:image": "https://cdn.prod.website-files.com/628535ab8900e721d61b7f8a/64da7e3be81c3342557ee161_3.jpg",
     "og:description": "Techpresso is the free daily newsletter with the most interesting tech news and insights. It's the best way to stay ahead in just a few minutes.",
@@ -5885,6 +6083,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.loras.dev",
+    "url": "https://www.loras.dev/",
+    "title": "Loras – Generate AI Images with LoRAs",
+    "date": "2025-03-06T06:28:52.104+06:00",
+    "og:title": "Loras – Generate AI Images with LoRAs",
+    "og:image": "https://www.loras.dev/opengraph-image.png?b82e24cf7e49e806",
+    "og:description": "Generate AI Images with LoRAs in seconds.",
+    "og:url": "https://www.loras.dev/",
+    "og:type": "website"
+  },
+  {
     "hostname": "www.makingsoftware.co",
     "url": "https://www.makingsoftware.co/",
     "title": "MAKING SOFTWARE",
@@ -5899,7 +6108,7 @@
     "hostname": "www.nngroup.com",
     "url": "https://www.nngroup.com/articles/aesthetic-usability-effect/",
     "title": "The Aesthetic-Usability Effect",
-    "date": "2025-03-06T02:20:36.798+06:00",
+    "date": "2025-03-06T06:29:58.759+06:00",
     "og:title": "The Aesthetic-Usability Effect",
     "og:image": "https://media.nngroup.com/media/articles/opengraph_images/Aesthetic-Usability_openg_.png",
     "og:description": "Users are more tolerant of minor usability issues when they find an interface visually appealing. This aesthetic-usability effect can mask UI problems during usability testing.",
@@ -6282,6 +6491,28 @@
   },
   {
     "hostname": "www.siteinspire.com",
+    "url": "https://www.siteinspire.com/website/12980-array",
+    "title": "Array — Web Design Inspiration — Siteinspire",
+    "date": "2025-03-06T04:04:56.197+06:00",
+    "og:title": "Array",
+    "og:image": "https://www.siteinspire.com/website/12980-array/opengraph-image-rnn5kr?81d91e047fd3d813",
+    "og:description": "Array, featured on Siteinspire: A showcase of the web’s finest design + talent",
+    "og:url": "https://www.siteinspire.com/website/12980-array",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.siteinspire.com",
+    "url": "https://www.siteinspire.com/website/12981-nina-ricci",
+    "title": "Nina Ricci — Web Design Inspiration — Siteinspire",
+    "date": "2025-03-06T02:57:28.987+06:00",
+    "og:title": "Nina Ricci",
+    "og:image": "https://www.siteinspire.com/website/12981-nina-ricci/opengraph-image-rnn5kr?81d91e047fd3d813",
+    "og:description": "Nina Ricci, featured on Siteinspire: A showcase of the web’s finest design + talent",
+    "og:url": "https://www.siteinspire.com/website/12981-nina-ricci",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.siteinspire.com",
     "url": "https://www.siteinspire.com/website/12982-height",
     "title": "Height — Web Design Inspiration — Siteinspire",
     "date": "2025-03-06T02:14:45.823+06:00",
@@ -6641,6 +6872,28 @@
     "og:image": "https://i.ytimg.com/vi/iplMoBIFlx4/maxresdefault.jpg",
     "og:description": "Today we are checking out amazing new UX/UI design tools for the month of February, 2025. These include AI design tools, major Figma updates, an AI freelanci...",
     "og:url": "https://www.youtube.com/watch?v=iplMoBIFlx4",
+    "og:type": "video.other"
+  },
+  {
+    "hostname": "www.youtube.com",
+    "url": "https://www.youtube.com/watch?v=Lb1otBxXCz8",
+    "title": "Web Design Inspiration: 10 Trending Styles for 2025 - YouTube",
+    "date": "2025-03-06T06:28:51.973+06:00",
+    "og:title": "Web Design Inspiration: 10 Trending Styles for 2025",
+    "og:image": "https://i.ytimg.com/vi/Lb1otBxXCz8/maxresdefault.jpg",
+    "og:description": "A regular diet of quality inspiration is a must for developing a designer’s style and taste. Check out these beautiful websites showcasing trending styles fo...",
+    "og:url": "https://www.youtube.com/watch?v=Lb1otBxXCz8",
+    "og:type": "video.other"
+  },
+  {
+    "hostname": "www.youtube.com",
+    "url": "https://www.youtube.com/watch?v=LR2AediwJbI",
+    "title": "CSS Only Scroll-Based Animations — It's so easy, and totally rad! - YouTube",
+    "date": "2025-03-06T06:28:52.322+06:00",
+    "og:title": "CSS Only Scroll-Based Animations — It's so easy, and totally rad!",
+    "og:image": "https://i.ytimg.com/vi/LR2AediwJbI/maxresdefault.jpg",
+    "og:description": "A client recently asked for an effect I thought would be tricky—but it turned out to be super simple! In this video, I’ll show you how to create scroll-drive...",
+    "og:url": "https://www.youtube.com/watch?v=LR2AediwJbI",
     "og:type": "video.other"
   },
   {
