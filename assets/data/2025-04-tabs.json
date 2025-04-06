@@ -99,6 +99,17 @@
     "og:type": "website"
   },
   {
+    "hostname": "algomaster.io",
+    "url": "https://algomaster.io/",
+    "title": "AlgoMaster.io - Master Coding Interviews",
+    "date": "2025-04-05T04:46:09.426+06:00",
+    "og:title": "AlgoMaster.io - Master Coding Interviews",
+    "og:image": "https://algomaster.io/og-image.png",
+    "og:description": "Practice problems grouped by patterns and ace your technical interviews.",
+    "og:url": "https://algomaster.io",
+    "og:type": "website"
+  },
+  {
     "hostname": "alvaromontoro.medium.com",
     "url": "https://alvaromontoro.medium.com/10-cool-codepen-demos-from-march-2025-904584b16db7",
     "title": "10 Cool CodePen Demos from March 2025 | by Alvaro Montoro | Apr, 2025 | Medium",
@@ -781,6 +792,28 @@
     "og:type": "website"
   },
   {
+    "hostname": "github.com",
+    "url": "https://github.com/marmelab/gremlins.js",
+    "title": "marmelab/gremlins.js: Monkey testing library for web apps and Node.js",
+    "date": "2025-04-05T04:46:09.051+06:00",
+    "og:title": "marmelab/gremlins.js: Monkey testing library for web apps and Node.js",
+    "og:image": "https://opengraph.githubassets.com/553bbea862701f7a6513152cf2751c134999bc583c5b0c3137e2b61fe784ed0e/marmelab/gremlins.js",
+    "og:description": "Monkey testing library for web apps and Node.js. Contribute to marmelab/gremlins.js development by creating an account on GitHub.",
+    "og:url": "https://github.com/marmelab/gremlins.js",
+    "og:type": "object"
+  },
+  {
+    "hostname": "github.com",
+    "url": "https://github.com/Nobledsmarts/formCatcher",
+    "title": "Nobledsmarts/formCatcher: formCatcherjs - a lightweight javascript library for form validations",
+    "date": "2025-04-05T04:46:09.311+06:00",
+    "og:title": "Nobledsmarts/formCatcher: formCatcherjs - a lightweight javascript library for form validations",
+    "og:image": "https://repository-images.githubusercontent.com/302988833/f3ac4a00-0ce9-11eb-9d4f-f5d1599c8448",
+    "og:description": "formCatcherjs - a lightweight javascript library for form validations - Nobledsmarts/formCatcher",
+    "og:url": "https://github.com/Nobledsmarts/formCatcher",
+    "og:type": "object"
+  },
+  {
     "hostname": "graphicdesignjunction.com",
     "url": "https://graphicdesignjunction.com/2025/03/modern-brand-guidelines-templates/",
     "title": "Modern Brand Guidelines Templates - Graphic Design Junction",
@@ -855,6 +888,83 @@
     "og:image": "https://s3.amazonaws.com/files.growth.design/cms/cl2pkio1c000b0ulcf4oe4t8c.png",
     "og:description": "Ads are everywhere, so our brain blocks them... except a few. This case study uncovers why some ads work better than others using psychology.",
     "og:url": "https://growth.design/case-studies/balance-psychology",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/762132/",
+    "title": "Мои первые шаги в создании браузерных 2D игр на чистом JavaScript + Canvas. Часть 1. Прототип / Хабр",
+    "date": "2025-04-05T04:38:27.966+06:00",
+    "og:title": "Мои первые шаги в создании браузерных 2D игр на чистом JavaScript + Canvas. Часть 1. Прототип",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/4fd/13c/4a9/4fd13c4a9fea6106da678cb75592d086.png",
+    "og:description": "Всем привет! Поделюсь с Вами моим первым опытом в создании двумерных браузерных игр. В деле этом я новичок, поэтому прошу не судить строго. Статья рассчитана в основном на изучающих JavaScript, а...",
+    "og:url": "https://habr.com/ru/articles/762132/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/764254/",
+    "title": "Как декораторы могут упростить разработку веб-форм / Хабр",
+    "date": "2025-04-05T04:38:27.958+06:00",
+    "og:title": "Как декораторы могут упростить разработку веб-форм",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/77d/6d0/43f/77d6d043f5fb46de3d4ad7dd2bdea1aa.png",
+    "og:description": "Относительно недавно в TC39 предложение с реализацией декораторов в EcmaScript вышло на 3-ю предфинальную стадию. Чуть позже MicroSoft выпустил 5-ю мажорную версию TypeScript, в которой новая...",
+    "og:url": "https://habr.com/ru/articles/764254/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/783440/",
+    "title": "DagazBot — Хранитель ключей и мётел / Хабр",
+    "date": "2025-04-05T04:38:29.183+06:00",
+    "og:title": "DagazBot — Хранитель ключей и мётел",
+    "og:image": "https://habrastorage.org/webt/4i/sc/k4/4isck4toxbws20hsk3nrqghdkoy.png",
+    "og:description": "История проекта Dagaz прошла у вас перед глазами. Когда я только начинал писать про Zillions , главным возражением было то, что платформа эта платная и запускается только под Windows. Появился Dagaz —...",
+    "og:url": "https://habr.com/ru/articles/783440/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/783742/",
+    "title": "Css «карточки» в динамически генерируемом web документе — моя реализация / Хабр",
+    "date": "2025-04-05T04:38:28.93+06:00",
+    "og:title": "Css «карточки» в динамически генерируемом web документе — моя реализация",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/10e/d50/d86/10ed50d868d41f1463dc41c3c747237e.jpeg",
+    "og:description": "Карточный вид содержимого вэб страниц - один из довольно популярных уже долгое время. Недавно встала задача таковые web карточки сверстать на CMS генерируемых страничках, где - естественно -...",
+    "og:url": "https://habr.com/ru/articles/783742/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/783848/",
+    "title": "Бинарный поиск / Хабр",
+    "date": "2025-04-05T04:38:28.353+06:00",
+    "og:title": "Бинарный поиск",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/eab/c52/a9b/eabc52a9b1ed74a2d4d7af54295303fb.jpg",
+    "og:description": "Условия задачи Нам нужно написать функцию, которая принимает отсортированный массив чисел numberArray и возвращает индекс найденного числа. Если индекс не найден, тогда возвращается -1 . Сразу уделю...",
+    "og:url": "https://habr.com/ru/articles/783848/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/783858/",
+    "title": "Типы событий в React и TypeScript / Хабр",
+    "date": "2025-04-05T04:38:28.15+06:00",
+    "og:title": "Типы событий в React и TypeScript",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/5eb/eb8/7df/5ebeb87dff5e96aee5c2dffbadd57371.jpg",
+    "og:description": "Эта статья — перевод оригинальной статьи&nbsp;&quot; Event Types in React and TypeScript &quot;. Также я веду телеграм канал “ Frontend по-флотски ”, где рассказываю про интересные вещи из мира разработки...",
+    "og:url": "https://habr.com/ru/articles/783858/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/it-guide/articles/782710/",
+    "title": "Увлекательный мир фронтенда / Хабр",
+    "date": "2025-04-05T04:38:28.648+06:00",
+    "og:title": "Увлекательный мир фронтенда",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/51f/51b/f27/51f51bf279d39d6d9e90f1fde044b382.jpg",
+    "og:description": "Фронтенд-разработка — это как собирать лего без инструкции: иногда весело и творчески, но порой ты забираешься на кровать и кричишь: «*@#%*, да где же этот пропавший блок?!» Каждый новый проект во...",
+    "og:url": "https://habr.com/ru/companies/it-guide/articles/782710/",
     "og:type": "article"
   },
   {
@@ -2783,6 +2893,17 @@
     "og:type": "website"
   },
   {
+    "hostname": "nuancesprog.ru",
+    "url": "https://nuancesprog.ru/p/19558/",
+    "title": "Обработка событий в JavaScript: всплытие, перехват, делегирование и распространение событий",
+    "date": "2025-04-05T04:38:27.971+06:00",
+    "og:title": "Обработка событий в JavaScript: всплытие, перехват, делегирование и распространение событий",
+    "og:image": "https://nuancesprog.ru/wp-content/uploads/2024/01/JS-pattern-1.png",
+    "og:description": "JavaScript поможет сделать веб-приложение интерактивным и отзывчивым. Важно только освоить методы обработки событий, которые заставляют приложения адекватно реагировать на действия пользователей и предотвращают неожиданное поведение.",
+    "og:url": "https://nuancesprog.ru/p/19558/",
+    "og:type": "article"
+  },
+  {
     "hostname": "onepagelove.com",
     "url": "https://onepagelove.com/bondfire-inc",
     "title": "Bondfire Inc. - One Page Website Award",
@@ -3056,6 +3177,17 @@
     "og:description": "A deep dive into the code, craft, and chaos behind a pop-art-inspired digital experience powered by GSAP and Webflow.",
     "og:url": "https://tympanus.net/codrops/2025/04/01/warhol-arts-a-digital-playground-of-pop-pixels-and-pure-motion/",
     "og:type": "article"
+  },
+  {
+    "hostname": "uiverse.io",
+    "url": "https://uiverse.io/",
+    "title": "Uiverse | The Largest Library of Open-Source UI elements",
+    "date": "2025-04-05T04:46:09.083+06:00",
+    "og:title": "",
+    "og:image": "https://imagedelivery.net/KMb5EadhEKC1gAE0LkjL1g/c802e23e-4d13-44ef-a2fe-46c467571900/public",
+    "og:description": "Community-made library of free and customizable UI elements made with CSS or Tailwind. It's all free to copy and use in your projects. Uiverse can save you many hours spent on building & customizing UI components for your next project.",
+    "og:url": "https://uiverse.io",
+    "og:type": ""
   },
   {
     "hostname": "ux.stackexchange.com",
@@ -3550,6 +3682,17 @@
     "og:image": "https://framerusercontent.com/images/aAJj18ZYaem8ZyGSvoFClgg1rY.png",
     "og:description": "This is the process. Every day sketches, brainfarts and ideas flying around in my backpack and apartment. I hope they can inspire or help someone out there.",
     "og:url": "https://www.carlhauser.com/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.clear-background.com",
+    "url": "https://www.clear-background.com/remove-bg",
+    "title": "Remove background from image for free - clear background",
+    "date": "2025-04-05T04:46:09.056+06:00",
+    "og:title": "Remove background from image for free - clear background",
+    "og:image": "",
+    "og:description": "Remove backgrounds form images instantly 100% automatically and free. Get perfect results in seconds for remove bg. Bg remove tool save your time and money.",
+    "og:url": "",
     "og:type": "website"
   },
   {
@@ -4191,6 +4334,17 @@
     "og:type": ""
   },
   {
+    "hostname": "www.cutout.pro",
+    "url": "https://www.cutout.pro/photo-enhancer-sharpener-upscaler/upload",
+    "title": "Upload Image to Sharpen & Upscale it - Cutout.Pro",
+    "date": "2025-04-05T04:46:09.044+06:00",
+    "og:title": "Upload Image to Sharpen & Upscale it - Cutout.Pro",
+    "og:image": "https://d38b044pevnwc9.cloudfront.net/site/en/static/SEO/home.jpg",
+    "og:description": "Select an image to increase image resolution without quality loss. Fix blurring, pixelated Images, sharpness image and old photo noise deduction.",
+    "og:url": "https://www.cutout.pro/",
+    "og:type": ""
+  },
+  {
     "hostname": "www.debugbear.com",
     "url": "https://www.debugbear.com/blog/properly-size-images",
     "title": "How to Properly Size Images to Improve Core Web Vitals | DebugBear",
@@ -4299,6 +4453,17 @@
     "og:description": "The short-term rental market is thriving, with travelers increasingly opting for unique stays over traditional hotels. Platforms like Airbnb and Vrbo",
     "og:url": "https://www.noupe.com/business-online/how-to-optimize-your-short-term-rental-website-for-maximum-bookings.html",
     "og:type": "article"
+  },
+  {
+    "hostname": "www.recraft.ai",
+    "url": "https://www.recraft.ai/",
+    "title": "Infinite AI Artboard - Recraft",
+    "date": "2025-04-05T04:46:09.193+06:00",
+    "og:title": "Infinite AI Artboard - Recraft",
+    "og:image": "https://www.recraft.ai/images/recraftai-og.jpg?1",
+    "og:description": "Premium image generation and editing tool. Store and share your own styles, create, fine-tune, upscale, and perfect your visuals.",
+    "og:url": "https://www.recraft.ai/",
+    "og:type": "website"
   },
   {
     "hostname": "www.sitepoint.com",
