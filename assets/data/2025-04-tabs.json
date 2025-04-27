@@ -551,6 +551,17 @@
   },
   {
     "hostname": "android-developers.googleblog.com",
+    "url": "https://android-developers.googleblog.com/2025/04/boost-app-performance-and-battery-life-android-vitals-metrics.html",
+    "title": "Android Developers Blog: Boost app performance and battery life: New Android Vitals Metrics are here",
+    "date": "2025-04-27T09:01:25.066+06:00",
+    "og:title": "Boost app performance and battery life: New Android Vitals Metrics are here",
+    "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4lyWrXvp6Bl4WtwloPRU59zBWwUHchEfs6VyjmVcMARLQwsI1VhZmEFqPMqceP8mAi5_GNgf89IputZeoDICTSK1BcJ451v_DTJTM5C9b8R54kH8rvCf7QjddoPsboYaAZjoAdZuNO5ZjaWeqkCXw4OIEmbtsjZcOJypLbEKLmbDEive6wA9rVZiUtvY/s1600/Droid%20and%20phone%20Gemini%20-%20blog%20social@2x.png",
+    "og:description": "New Android Vitals metrics focusing on excessive wake locks, giving developers tools to resolve consumption issues and improve app performance.",
+    "og:url": "https://android-developers.googleblog.com/2025/04/boost-app-performance-and-battery-life-android-vitals-metrics.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "android-developers.googleblog.com",
     "url": "https://android-developers.googleblog.com/2025/04/gemini-in-android-studio-for-business.html",
     "title": "Android Developers Blog: Gemini in Android Studio for businesses: Develop with confidence, powered by AI",
     "date": "2025-04-09T03:02:08.495+06:00",
@@ -562,6 +573,17 @@
   },
   {
     "hostname": "android-developers.googleblog.com",
+    "url": "https://android-developers.googleblog.com/2025/04/google-io-program-lineup-revealed.html",
+    "title": "Android Developers Blog: Get ready for Google I/O: Program lineup revealed",
+    "date": "2025-04-27T09:01:24.692+06:00",
+    "og:title": "Get ready for Google I/O: Program lineup revealed",
+    "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyhYNHpYLcalnGsxGGn5PA9_eMEje3Dr84RADx8w7IJ8V5LS7xOEJiaBNsLj4nYKlW7hqDaUYkYDtMhTgEAc-Wd_tU_-qYgcPKUEPGHniLmIBXqnFKnyvXbDrMAgWICWrX9cA38Br3Ljs2oSYOpStu6gk0zD3NOh1XMYDNzKDgyDdWEWH6J6vy5_Kka5k/s1600/Blog%20Post%20Metadata%20Wagtail%201600x873%201.jpg",
+    "og:description": "Google I/O's agenda is live. Register now to explore the full program, and join us during the event for livestreams, on-demand sessions, and codelabs.",
+    "og:url": "https://android-developers.googleblog.com/2025/04/google-io-program-lineup-revealed.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "android-developers.googleblog.com",
     "url": "https://android-developers.googleblog.com/2025/04/google-play-empowering-developers-to-build-user-trust-through-privacy.html",
     "title": "Android Developers Blog: Prioritize media privacy with Android Photo Picker and build user trust",
     "date": "2025-04-10T06:00:04.673+06:00",
@@ -569,6 +591,39 @@
     "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ1dyUfP2jaywev7pvinUdt7MN2xk0-Ht-PMBKv1mcwyKMjoMJW7A76tZnD5iGi6p9mMcqGcziH7rwF8rvC-xbZwQ_w8PWfqhTplQPztYa_YgV9OvKiDPA6UQcepbYl6YAbqdO9npTQUWakW11lB9d-0XIVbfbhnw7S2qfYpTMxWl8w8P_6nuBK9Abh0U/s1600/PlayGenericBlogHeader_Wagtail.jpg",
     "og:description": "Adopt best practices to emphasize privacy and trust to users, such as using the Android Photo Picker, clearly explaining data usage, and more.",
     "og:url": "https://android-developers.googleblog.com/2025/04/google-play-empowering-developers-to-build-user-trust-through-privacy.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "android-developers.googleblog.com",
+    "url": "https://android-developers.googleblog.com/2025/04/play-console-insights.html",
+    "title": "Android Developers Blog: From dashboards to deeper data: Improve app quality and performance with new Play Console insights",
+    "date": "2025-04-27T09:01:24.956+06:00",
+    "og:title": "From dashboards to deeper data: Improve app quality and performance with new Play Console insights",
+    "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkYTY17vrtw3-dlooIu9n7R7mYFgOwyiCwEtJiFJTuxk4sOCKJ-OVaftSPKX7CfONCn2AMMV70TNP9qfo5avZBaMBn4BGS5DW6wPlbRY2ZZRgBXMEI5HbzduVdwj790uDattXfmQtkE8JJ_OptUUDFpCdJZWKVO_mOuL408H4svVQlt58TcjQe8JWfC5g/s1600/app-quality-performance-play-console-insights-meta.png",
+    "og:description": "Google Play Console introduces a redesigned app dashboard centralizing new quality-focused metrics to improve app performance and user experience.",
+    "og:url": "https://android-developers.googleblog.com/2025/04/play-console-insights.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "android-developers.googleblog.com",
+    "url": "https://android-developers.googleblog.com/2025/04/the-fourth-beta-of-android-16.html",
+    "title": "Android Developers Blog: The Fourth Beta of Android 16",
+    "date": "2025-04-27T09:01:24.842+06:00",
+    "og:title": "The Fourth Beta of Android 16",
+    "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc6KbFCPUa_RB6bL1i4NhyphenhyphencptybHQM-joo2Bj19ZMT8wtRnHHHQPMcWnudH1X5rh5i7JJt81hPBw6WSB5joOyCEswbtfONT8qG_CtHZelak8VFk2sUvzkxeVCt6Tc3MZUUFsSdrnGMr19cTLzEFtaA7zSGVdqH3iXr6rF-qL2Ll2iQ8cWZUzqvNjHXPeU/s1600/A16-moving.gif",
+    "og:description": "Android 16 Beta 4, the final scheduled update, is now available with developer APIs and app-facing behaviors finalized, marking platform stability.",
+    "og:url": "https://android-developers.googleblog.com/2025/04/the-fourth-beta-of-android-16.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "android-developers.googleblog.com",
+    "url": "https://android-developers.googleblog.com/2025/04/whats-new-in-jetpack-compose-april-25.html",
+    "title": "Android Developers Blog: What’s new in the Jetpack Compose April ’25 release",
+    "date": "2025-04-27T09:01:24.551+06:00",
+    "og:title": "What’s new in the Jetpack Compose April ’25 release",
+    "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdOwvBYrmKW1rvffeHcnWS-uHo-QoapFTLsndqTmAv2Qaq77PABt76CKqWxX1q1lym-ZxzsPgV4nFypCbQ6qV3NFoPenaMVF5UCGa3-RUvnp9TOGwactsq8QZ61TEtgah-oom1s_KTKFxoJdz5ejzzl4iXxU0w-cHhmsWyAulSUrOVlEb2vEsyHTeA7ow/s1600/Jetpack-Compose-Release-April-25%20%282%29.png",
+    "og:description": "Upgrade your Android UI development with Jetpack Compose 1.8:  autofill integration, text enhancements, visibility tracking, stabilized APIs, and more",
+    "og:url": "https://android-developers.googleblog.com/2025/04/whats-new-in-jetpack-compose-april-25.html",
     "og:type": "article"
   },
   {
@@ -1243,6 +1298,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "bootstrapmade.com",
+    "url": "https://bootstrapmade.com/fashion-store-bootstrap-template/",
+    "title": "FashionStore | Modern Bootstrap Fashion eCommerce HTML Template | BootstrapMade",
+    "date": "2025-04-27T09:01:22.704+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
     "hostname": "bradfrost.com",
     "url": "https://bradfrost.com/blog/link/brad-frost-design-systems-are-about-human-relationships/",
     "title": "Brad Frost: Design systems are about human relationships | Brad Frost",
@@ -1768,6 +1834,17 @@
     "og:image": "",
     "og:description": "…in ~139 characters of zero-dependency js!",
     "og:url": "https://coemgenri.medium.com/custom-dynamic-media-queries-today-f9c26d018956",
+    "og:type": "article"
+  },
+  {
+    "hostname": "copyblogger.com",
+    "url": "https://copyblogger.com/get-clients-on-linkedin/",
+    "title": "How To Get Clients On LinkedIn: Step by Step Process",
+    "date": "2025-04-27T09:01:22.542+06:00",
+    "og:title": "How To Get Clients On LinkedIn: Step by Step Process",
+    "og:image": "https://copyblogger.com/wp-content/uploads/2025/04/CopBloggerBlogpost1400x706LinkedInClients-1.png",
+    "og:description": "This is an actionable step by step guide to get clients on LinkedIn from a seven figure entrepreneur.",
+    "og:url": "https://copyblogger.com/get-clients-on-linkedin/",
     "og:type": "article"
   },
   {
@@ -2879,6 +2956,28 @@
     "og:image": "https://designbeep.com/wp-content/uploads/2025/04/web-design.jpg",
     "og:description": "Discover how AI website builders are revolutionizing web design in 2025 and learn to leverage their potential for your projects.",
     "og:url": "https://designbeep.com/2025/04/25/best-ai-website-builders/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/04/25/css-grid-tutorial/",
+    "title": "CSS Grid Layout Tutorials : A Step-by-Step Journey from Beginner to Expert - Designbeep",
+    "date": "2025-04-27T09:01:24.3+06:00",
+    "og:title": "CSS Grid Layout Tutorials : A Step-by-Step Journey from Beginner to Expert - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/04/css-featured-image-804x350-2.jpg",
+    "og:description": "CSS Grid Layout has revolutionized how we design websites, offering unprecedented control over two-dimensional layouts. Unlike older techniques that required",
+    "og:url": "https://designbeep.com/2025/04/25/css-grid-tutorial/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/04/25/explore-the-best-20-free-western-fonts-for-your-next-project/",
+    "title": "Explore The Best 20 Free Western Fonts for Your Next Project - Designbeep",
+    "date": "2025-04-27T09:01:24.429+06:00",
+    "og:title": "Explore The Best 20 Free Western Fonts for Your Next Project - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/04/western-font.jpg",
+    "og:description": "Discover the best 20 free western fonts perfect for enhancing your projects. Elevate your design with unique western typography today!",
+    "og:url": "https://designbeep.com/2025/04/25/explore-the-best-20-free-western-fonts-for-your-next-project/",
     "og:type": "article"
   },
   {
@@ -14510,6 +14609,17 @@
   },
   {
     "hostname": "moz.com",
+    "url": "https://moz.com/blog/saas-landing-page-optimization-whiteboard-friday",
+    "title": "Optimizing Your SaaS Landing Pages in 2025 — Whiteboard Friday - Moz",
+    "date": "2025-04-27T09:01:22.562+06:00",
+    "og:title": "Optimizing Your SaaS Landing Pages in 2025 — Whiteboard Friday",
+    "og:image": "https://moz.com/images/blog/Blog-OG-images/Optimizing-Your-SaaS-Landing-Pages-in-2025-Social_Card.png?w=1200&h=630&q=82&auto=format&fit=crop&dm=1745013584&s=a31fbbd25c991ccabf936bdcf22a01c6",
+    "og:description": "Looking to take your product and solutions pages to the next level? In this week’s episode of Whiteboard Friday, Liraz talks us through how we can optimize our product pages in the multi-search engine optimization. She provides a detailed breakdown of page structure and how to bridge the gap…",
+    "og:url": "https://moz.com/blog/saas-landing-page-optimization-whiteboard-friday",
+    "og:type": "article"
+  },
+  {
+    "hostname": "moz.com",
     "url": "https://moz.com/blog/seo-recommendation-execution",
     "title": "How to Close the Gap Between SEO Recommendation and Execution - Moz",
     "date": "2025-04-09T03:02:08.493+06:00",
@@ -14561,6 +14671,17 @@
     "og:image": "",
     "og:description": "High-converting product landing pages designed to highlight features, drive sales, and engage customers with clear calls-to-action.",
     "og:url": "https://muffingroup.com/blog/product-landing-pages/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "muffingroup.com",
+    "url": "https://muffingroup.com/blog/startup-landing-pages/",
+    "title": "Inspiring Examples of Startup Landing Pages",
+    "date": "2025-04-27T09:01:24.211+06:00",
+    "og:title": "Inspiring Examples of Startup Landing Pages",
+    "og:image": "",
+    "og:description": "Create stunning startup landing pages that boost conversions, showcase your brand, and captivate visitors from the first click.",
+    "og:url": "https://muffingroup.com/blog/startup-landing-pages/",
     "og:type": "article"
   },
   {
@@ -15540,6 +15661,17 @@
     "og:image": "https://snk.ms/logo.gif",
     "og:description": "Growing up, my mom didn’t have much money. As such, pursuing hobbies meant making due with what she could afford.\n\nHockey gear was second hand and a few seasons out of date. My bike was a rust gol...",
     "og:url": "https://snook.ca/archives/other/the-best-tools",
+    "og:type": "article"
+  },
+  {
+    "hostname": "snook.ca",
+    "url": "https://snook.ca/archives/writing/subversive",
+    "title": "Subversive - Snook.ca",
+    "date": "2025-04-27T09:01:23.885+06:00",
+    "og:title": "Subversive",
+    "og:image": "https://snk.ms/logo.gif",
+    "og:description": "\n“The most subversive thing you can do right now is blog.”\n\nThat was a thought I had and considered just posting that line. As I tend to do, I analyze it. \n\n“Most? Really? There are most ce...",
+    "og:url": "https://snook.ca/archives/writing/subversive",
     "og:type": "article"
   },
   {
@@ -16541,6 +16673,28 @@
     "og:image": "https://cdn.sstatic.net/Sites/ux/Img/apple-touch-icon@2.png?v=6891b06365c4",
     "og:description": "I found a design principle according to my perception which I use as a heuristic to distinguish good vs. bad automation features in technology design.\nDo you know, if there is also a name or scient...",
     "og:url": "https://ux.stackexchange.com/questions/153557/name-of-a-design-principle-for-usable-automation",
+    "og:type": "website"
+  },
+  {
+    "hostname": "ux.stackexchange.com",
+    "url": "https://ux.stackexchange.com/questions/153561/what-are-the-advantages-of-having-a-menu-bar-on-each-window-windows-style-inst",
+    "title": "What are the advantages of having a menu bar on each window (Windows style) instead of one at the top of the screen (Mac style)? - User Experience Stack Exchange",
+    "date": "2025-04-27T09:01:23.039+06:00",
+    "og:title": "What are the advantages of having a menu bar on each window (Windows style) instead of one at the top of the screen (Mac style)?",
+    "og:image": "https://cdn.sstatic.net/Sites/ux/Img/apple-touch-icon@2.png?v=6891b06365c4",
+    "og:description": "I’ve used Macs all my life and freely admit I’m a snob. I was talking to a friend who asked why Microsoft chose to put a menu bar in every window instead of using a single dynamic menu bar like Mac...",
+    "og:url": "https://ux.stackexchange.com/questions/153561/what-are-the-advantages-of-having-a-menu-bar-on-each-window-windows-style-inst",
+    "og:type": "website"
+  },
+  {
+    "hostname": "ux.stackexchange.com",
+    "url": "https://ux.stackexchange.com/questions/153563/novel-ui-design-ideas-for-organizing-consonant-charts-for-various-languages-fo",
+    "title": "tables - Novel UI/design ideas for organizing \"consonant charts\" for various languages for mobile screen? - User Experience Stack Exchange",
+    "date": "2025-04-27T09:01:22.82+06:00",
+    "og:title": "Novel UI/design ideas for organizing \"consonant charts\" for various languages for mobile screen?",
+    "og:image": "https://cdn.sstatic.net/Sites/ux/Img/apple-touch-icon@2.png?v=6891b06365c4",
+    "og:description": "Your typical consonant chart looks like this in its full form\n\nThis doesn't work super nicely IMO on mobile, as you'd have to scroll horizontally and vertically a lot to see everything.\nThat chart ...",
+    "og:url": "https://ux.stackexchange.com/questions/153563/novel-ui-design-ideas-for-organizing-consonant-charts-for-various-languages-fo",
     "og:type": "website"
   },
   {
@@ -17953,6 +18107,28 @@
   },
   {
     "hostname": "wf-blog-2021.webflow.io",
+    "url": "https://wf-blog-2021.webflow.io/blog/ai-powered-website-optimization",
+    "title": "How we built Webflow&#39;s AI-powered website optimization solution",
+    "date": "2025-04-27T09:01:24.129+06:00",
+    "og:title": "How we built Webflow's AI-powered website optimization solution | Webflow Blog",
+    "og:image": "https://cdn.prod.website-files.com/6009ec8cda7f305645c9d91b/662bcfdfcdbe9e0c75a6ef96_BlogHeader_Engineering%20and%20tech-APIs-2-2400x1260.jpg",
+    "og:description": "Engineering for speed, scalability, and accuracy",
+    "og:url": "https://webflow.com/blog/ai-powered-website-optimization",
+    "og:type": "website"
+  },
+  {
+    "hostname": "wf-blog-2021.webflow.io",
+    "url": "https://wf-blog-2021.webflow.io/blog/banner-ad-sizes",
+    "title": "The most effective banner ad sizes for online advertising",
+    "date": "2025-04-27T09:01:23.429+06:00",
+    "og:title": "The most effective banner ad sizes for online advertising | Webflow Blog",
+    "og:image": "https://cdn.prod.website-files.com/6009ec8cda7f305645c9d91b/65553116ccd3ee6fff35b7e7_317_MarketingBlogHeader_2400x1260.jpg",
+    "og:description": "Learn about the IAB’s standard banner ad sizes and discover best practices for selecting the right sizes and designs to optimize their visibility.",
+    "og:url": "https://webflow.com/blog/banner-ad-sizes",
+    "og:type": "website"
+  },
+  {
+    "hostname": "wf-blog-2021.webflow.io",
     "url": "https://wf-blog-2021.webflow.io/blog/best-wordpress-hosting",
     "title": "The best WordPress hosting solutions + alternatives for your site",
     "date": "2025-04-03T02:13:41.027+06:00",
@@ -18004,6 +18180,17 @@
     "og:image": "https://cdn.prod.website-files.com/6009ec8cda7f305645c9d91b/680a911deb4e853cd2e847b4_CONTENT%20MARKETING2_BlogHeader_orange_2400x1260.jpg",
     "og:description": "An exploration of how Webflow's visual, composable CMS is transforming content marketing workflows.",
     "og:url": "https://webflow.com/blog/content-marketers-cms",
+    "og:type": "website"
+  },
+  {
+    "hostname": "wf-blog-2021.webflow.io",
+    "url": "https://wf-blog-2021.webflow.io/blog/content-promotion-strategies",
+    "title": "14 content promotion strategies to boost your brand’s online presence",
+    "date": "2025-04-27T09:01:23.274+06:00",
+    "og:title": "14 content promotion strategies to boost your brand’s online presence | Webflow Blog",
+    "og:image": "https://cdn.prod.website-files.com/6009ec8cda7f305645c9d91b/680c0e3d451c1c147fea9eac_CONTENT%20MARKETING2_BlogHeader_green_2400x1260.jpg",
+    "og:description": "Learn why content promotion strategies are important for business growth and use 14 best practices to expand your online presence and brand reach.",
+    "og:url": "https://webflow.com/blog/content-promotion-strategies",
     "og:type": "website"
   },
   {
@@ -18081,6 +18268,17 @@
     "og:image": "https://cdn.prod.website-files.com/6009ec8cda7f305645c9d91b/67eaee86cff6138fd9a8deee_BlogHeader_ANALYZE.jpg",
     "og:description": "Unlock the power of website analytics to drive better decisions and boost conversions.",
     "og:url": "https://webflow.com/blog/website-analytics-101",
+    "og:type": "website"
+  },
+  {
+    "hostname": "wf-blog-2021.webflow.io",
+    "url": "https://wf-blog-2021.webflow.io/blog/website-copy",
+    "title": "How to craft website copy that engages readers",
+    "date": "2025-04-27T09:01:23.606+06:00",
+    "og:title": "How to craft website copy that engages readers | Webflow Blog",
+    "og:image": "https://cdn.prod.website-files.com/6009ec8cda7f305645c9d91b/680c0462d1276501ab90dd89_CONTENTMARKETING_BlogHeader_red_2400x1260.jpg",
+    "og:description": "Discover how to write website copy that engages readers and increases conversion rates. Learn about the benefits that good web copy can provide.",
+    "og:url": "https://webflow.com/blog/website-copy",
     "og:type": "website"
   },
   {
@@ -22386,6 +22584,17 @@
   },
   {
     "hostname": "www.noupe.com",
+    "url": "https://www.noupe.com/business-online/how-to-boost-a-low-conversion-rate.html",
+    "title": "How to Boost a Low Conversion Rate - noupe",
+    "date": "2025-04-27T09:01:23.745+06:00",
+    "og:title": "How to Boost a Low Conversion Rate - noupe",
+    "og:image": "https://www.noupe.com/wp-content/uploads/2025/04/carlos-muza-hpjSkU2UYSU-unsplash.jpg",
+    "og:description": "Read our informative article to learn how you can boost a low conversion rate with actionable steps and tips.",
+    "og:url": "https://www.noupe.com/business-online/how-to-boost-a-low-conversion-rate.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.noupe.com",
     "url": "https://www.noupe.com/business-online/how-to-optimize-your-short-term-rental-website-for-maximum-bookings.html",
     "title": "How to Optimize Your Short-Term Rental Website for Maximum Bookings - noupe",
     "date": "2025-04-04T02:21:31.623+06:00",
@@ -23725,6 +23934,17 @@
     "og:description": "Get a clearer view of your code's performance. The Performance panel now lets you add irrelevant scripts to the ignore list, helping you focus on what matter...",
     "og:url": "https://www.youtube.com/watch?v=P6JA6dFf7zs",
     "og:type": "video.other"
+  },
+  {
+    "hostname": "www.youtube.com",
+    "url": "https://www.youtube.com/watch?v=pMMZ80vd_OE",
+    "title": "Play Whack-a-Mole in your web browser with Chrome Extensions - YouTube",
+    "date": "2025-04-27T09:01:24.033+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
   },
   {
     "hostname": "www.youtube.com",
