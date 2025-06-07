@@ -231,6 +231,61 @@
     "og:type": "article"
   },
   {
+    "hostname": "app.daily.dev",
+    "url": "https://app.daily.dev/posts/aqnyyJfEf",
+    "title": "(comic) Reward for Good Work | daily.dev",
+    "date": "2025-06-07T05:31:38.162+06:00",
+    "og:title": "(comic) Reward for Good Work | daily.dev",
+    "og:image": "https://og.daily.dev/api/posts/aqnyyJfEf",
+    "og:description": "A comic strip illustrating the common scenario of how employees are rewarded for their good work, created with humor and love for the workplace culture.",
+    "og:url": "/posts/comic-reward-for-good-work-aqnyyjfef",
+    "og:type": "website"
+  },
+  {
+    "hostname": "app.daily.dev",
+    "url": "https://app.daily.dev/posts/grdtd5Df1",
+    "title": "Introducing the Supabase UI Library | daily.dev",
+    "date": "2025-06-07T05:31:38.155+06:00",
+    "og:title": "Introducing the Supabase UI Library | daily.dev",
+    "og:image": "https://og.daily.dev/api/posts/grdtd5Df1",
+    "og:description": "Supabase has released an official UI Library consisting of ready-to-use components built on shadcn/ui, compatible with various React frameworks. The library includes components for password-based authentication, file uploads, real-time cursor sharing, user avatars, and chat functionalities. These components are fully customizable with Tailwind CSS and designed to simplify the integration of complex features in your projects. Additionally, Supabase provides AI code editor rules to enhance development with Supabase and Postgres.",
+    "og:url": "/posts/introducing-the-supabase-ui-library-grdtd5df1",
+    "og:type": "website"
+  },
+  {
+    "hostname": "app.daily.dev",
+    "url": "https://app.daily.dev/posts/Pahg487q0",
+    "title": "The 13 software engineering laws | daily.dev",
+    "date": "2025-06-07T05:31:38.131+06:00",
+    "og:title": "The 13 software engineering laws | daily.dev",
+    "og:image": "https://og.daily.dev/api/posts/Pahg487q0",
+    "og:description": "Explore 13 key software engineering 'laws' like Parkinson’s Law, Hofstadter’s Law, Conway’s Law, and Murphy’s Law. These guidelines help engineering managers and developers understand and navigate common challenges in project estimation, team dynamics, product management, and feature creep.",
+    "og:url": "/posts/the-13-software-engineering-laws-pahg487q0",
+    "og:type": "website"
+  },
+  {
+    "hostname": "app.daily.dev",
+    "url": "https://app.daily.dev/posts/wnewWn11x",
+    "title": "(comic) This place can't function without me | daily.dev",
+    "date": "2025-06-07T05:31:38.15+06:00",
+    "og:title": "(comic) This place can't function without me | daily.dev",
+    "og:image": "https://og.daily.dev/api/posts/wnewWn11x",
+    "og:description": "No one is irreplaceable at work, and the company will continue without you. It's beneficial to document your work, train others, and be ready to move on to new opportunities. Layoffs can be a challenging experience.",
+    "og:url": "/posts/comic-this-place-can-t-function-without-me-wnewwn11x",
+    "og:type": "website"
+  },
+  {
+    "hostname": "app.daily.dev",
+    "url": "https://app.daily.dev/posts/xks1q8tl6",
+    "title": "Shared post at PHP Dev | daily.dev",
+    "date": "2025-06-07T05:31:38.136+06:00",
+    "og:title": "Shared post at PHP Dev | daily.dev",
+    "og:image": "https://og.daily.dev/api/posts/xks1q8tl6",
+    "og:description": "Join us to the discussion about \"An early look at PHP 9.0's new features and changes\" on daily.dev ✌️",
+    "og:url": "/posts/xks1q8tl6",
+    "og:type": "website"
+  },
+  {
     "hostname": "aravishack.medium.com",
     "url": "https://aravishack.medium.com/why-typeof-null-is-object-javascripts-oldest-bug-explained-2fd9e54f5310",
     "title": "Why typeof null is \"object\": JavaScript’s Oldest Bug Explained | by Aravind S | Jun, 2025 | Medium",
@@ -308,6 +363,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "cassidoo.co",
+    "url": "https://cassidoo.co/post/input-type-date/?ref=unicornclub.dev",
+    "title": "Styling the icon for HTML date and time types",
+    "date": "2025-06-07T05:16:00.795+06:00",
+    "og:title": "Styling the icon for HTML date and time types",
+    "og:image": "https://cassidoo.co/blog-card.png",
+    "og:description": "If you want a custom-styled icon for HTML date/time types, there's some options for you.",
+    "og:url": "https://cassidoo.co/post/input-type-date/",
+    "og:type": "website"
+  },
+  {
     "hostname": "code-basics.com",
     "url": "https://code-basics.com/ru/languages/typescript",
     "title": "Курс TypeScript: бесплатное обучение для разработчиков | CodeBasics",
@@ -349,6 +415,39 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/0*AfPL_3qjUo5HkFTn.jpg",
     "og:description": "CSS (Cascading Style Sheets) is constantly evolving to make web design more efficient, powerful, and responsive. As the web becomes more…",
     "og:url": "https://codewithbilal.medium.com/new-css-features-you-should-know-in-2025-a9d42f203587",
+    "og:type": "article"
+  },
+  {
+    "hostname": "community.codenewbie.org",
+    "url": "https://community.codenewbie.org/sharon428931/testing-safeline-waf-can-it-block-sql-injection-330a?context=digest",
+    "title": "Testing SafeLine WAF: Can It Block SQL Injection? - CodeNewbie Community 🌱",
+    "date": "2025-06-07T04:50:17.672+06:00",
+    "og:title": "Testing SafeLine WAF: Can It Block SQL Injection?",
+    "og:image": "https://community.codenewbie.org/images/KdvoocczFMb5zk08dSItS2w8U0W3J8JZCX7XZMtmA44/rs:fill:1000:500/g:sm/mb:500000/ar:1/aHR0cHM6Ly9jb21t/dW5pdHkuY29kZW5l/d2JpZS5vcmcvcmVt/b3RlaW1hZ2VzL3Vw/bG9hZHMvYXJ0aWNs/ZXMveDR1emo1MTFy/cHVqNHBucXExaWQu/cG5n",
+    "og:description": "Many developers have heard about SafeLine WAF and its strong protection capabilities. But unless...",
+    "og:url": "https://community.codenewbie.org/sharon428931/testing-safeline-waf-can-it-block-sql-injection-330a",
+    "og:type": "article"
+  },
+  {
+    "hostname": "community.codenewbie.org",
+    "url": "https://community.codenewbie.org/sharon428931/which-free-waf-performs-best-safeline-vs-cloudflare-vs-modsecurity-4i4k?context=digest",
+    "title": "Which Free WAF Performs Best? SafeLine vs Cloudflare vs ModSecurity - CodeNewbie Community 🌱",
+    "date": "2025-06-07T04:50:17.677+06:00",
+    "og:title": "Which Free WAF Performs Best? SafeLine vs Cloudflare vs ModSecurity",
+    "og:image": "https://community.codenewbie.org/images/J7z02oOCI3tYBKcmlFD48PzMbAty-3bbQyME6kcYe1E/rs:fill:1000:500/g:sm/mb:500000/ar:1/aHR0cHM6Ly9jb21t/dW5pdHkuY29kZW5l/d2JpZS5vcmcvcmVt/b3RlaW1hZ2VzL3Vw/bG9hZHMvYXJ0aWNs/ZXMvN25pMjRnNmM3/YmU3N2lmNGFnbWcu/cG5n",
+    "og:description": "BlazeHTTP   BlazeHTTP stands as a user-friendly WAF protection efficacy evaluation tool.   📦...",
+    "og:url": "https://community.codenewbie.org/sharon428931/which-free-waf-performs-best-safeline-vs-cloudflare-vs-modsecurity-4i4k",
+    "og:type": "article"
+  },
+  {
+    "hostname": "community.codenewbie.org",
+    "url": "https://community.codenewbie.org/sharon428931/why-your-website-needs-a-waf-in-2025-50kp?context=digest",
+    "title": "Why Your Website Needs a WAF in 2025 - CodeNewbie Community 🌱",
+    "date": "2025-06-07T04:50:17.667+06:00",
+    "og:title": "Why Your Website Needs a WAF in 2025",
+    "og:image": "https://community.codenewbie.org/images/mycsHYoXvekDZ8VC2aJIc3DGn8cCN25UPSi_TRFbs-A/rs:fill:1000:500/g:sm/mb:500000/ar:1/aHR0cHM6Ly9jb21t/dW5pdHkuY29kZW5l/d2JpZS5vcmcvcmVt/b3RlaW1hZ2VzL3Vw/bG9hZHMvYXJ0aWNs/ZXMveGY3M3BmZjQx/cnRrenNvN2pvb2Qu/cG5n",
+    "og:description": "When it comes to web security, most developers think of HTTPS, firewalls, and maybe some...",
+    "og:url": "https://community.codenewbie.org/sharon428931/why-your-website-needs-a-waf-in-2025-50kp",
     "og:type": "article"
   },
   {
@@ -492,6 +591,17 @@
     "og:image": "",
     "og:description": "Por que Web Components Nativos ainda não são populares na comunidade Frontend",
     "og:url": "https://demgoncalves.medium.com/web-components-s%C3%A3o-bons-demais-para-a-comunidade-ee08fcd7362f",
+    "og:type": "article"
+  },
+  {
+    "hostname": "deno.com",
+    "url": "https://deno.com/blog/history-of-javascript?ref=unicornclub.dev",
+    "title": "A brief history of JavaScript | Deno",
+    "date": "2025-06-07T05:16:01.316+06:00",
+    "og:title": "A brief history of JavaScript | Deno",
+    "og:image": "https://deno.com/blog/history-of-javascript/og.webp",
+    "og:description": "In 30 years, JavaScript went from being a little scripting language to one of the world's most popular. Here are key moments to show how it has evolved and where it is headed.",
+    "og:url": "",
     "og:type": "article"
   },
   {
@@ -704,6 +814,270 @@
     "og:type": "article"
   },
   {
+    "hostname": "dev.to",
+    "url": "https://dev.to/abbeyperini/state-management-in-front-end-web-development-state-101-48g3?context=digest",
+    "title": "State Management in Front-end Web Development: State 101 - DEV Community",
+    "date": "2025-06-07T04:50:17.577+06:00",
+    "og:title": "State Management in Front-end Web Development: State 101",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtgpq5mw6oy7orgbk9j3.png",
+    "og:description": "Learn where to keep your variables to improve your app design, performance, and readability.         ...",
+    "og:url": "https://dev.to/abbeyperini/state-management-in-front-end-web-development-state-101-48g3",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/cassidoo/what-does-it-mean-to-flatten-an-array-fog?context=digest",
+    "title": "What does it mean to flatten an array? - DEV Community",
+    "date": "2025-06-07T05:01:49.94+06:00",
+    "og:title": "What does it mean to flatten an array?",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnls10i66t33ykkfrqe52.png",
+    "og:description": "When you have an array that has multiple dimensions, it might be referred to as a 2D or 3D (etc)...",
+    "og:url": "https://dev.to/cassidoo/what-does-it-mean-to-flatten-an-array-fog",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/devteam/join-the-postmark-challenge-inbox-innovators-3000-in-prizes-497l?",
+    "title": "Join the Postmark Challenge: Inbox Innovators - $3,000 in Prizes! - DEV Community",
+    "date": "2025-06-07T05:07:42.358+06:00",
+    "og:title": "Join the Postmark Challenge: Inbox Innovators - $3,000 in Prizes!",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqenvkq0ovvj9z3w4xb4.png",
+    "og:description": "We are thrilled to partner with Postmark to bring the community a brand new DEV challenge.  Running...",
+    "og:url": "https://dev.to/devteam/join-the-postmark-challenge-inbox-innovators-3000-in-prizes-497l",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-186-calculate-the-product-of-all-odd-numbers-in-an-array-42jd?context=digest",
+    "title": "Daily JavaScript Challenge #JS-186: Calculate the Product of All Odd Numbers in an Array - DEV Community",
+    "date": "2025-06-07T05:18:18.006+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-186: Calculate the Product of All Odd Numbers in an Array",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8vqq6zexdq88x77ark6.png",
+    "og:description": "Daily JavaScript Challenge: Calculate the Product of All Odd Numbers in an Array   Hey...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-186-calculate-the-product-of-all-odd-numbers-in-an-array-42jd",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-187-find-the-shortest-word-in-a-sentence-1d2k?context=digest",
+    "title": "Daily JavaScript Challenge #JS-187: Find the Shortest Word in a Sentence - DEV Community",
+    "date": "2025-06-07T05:18:17.993+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-187: Find the Shortest Word in a Sentence",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgnvsone3lf5esoyu0d9e.png",
+    "og:description": "Daily JavaScript Challenge: Find the Shortest Word in a Sentence   Hey fellow developers! 👋...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-187-find-the-shortest-word-in-a-sentence-1d2k",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-188-calculate-running-median-of-a-stream-of-numbers-227j?context=digest",
+    "title": "Daily JavaScript Challenge #JS-188: Calculate Running Median of a Stream of Numbers - DEV Community",
+    "date": "2025-06-07T05:18:18.011+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-188: Calculate Running Median of a Stream of Numbers",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa9z7fd5or9ote7bcdgj7.png",
+    "og:description": "Daily JavaScript Challenge: Calculate Running Median of a Stream of Numbers   Hey fellow...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-188-calculate-running-median-of-a-stream-of-numbers-227j",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-189-group-anagrams-5f0i?context=digest",
+    "title": "Daily JavaScript Challenge #JS-189: Group Anagrams - DEV Community",
+    "date": "2025-06-07T05:18:17.998+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-189: Group Anagrams",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpj48v7aiek7rmfxxln9z.png",
+    "og:description": "Daily JavaScript Challenge: Group Anagrams   Hey fellow developers! 👋 Welcome to today's...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-189-group-anagrams-5f0i",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-190-rotate-a-matrix-90-degrees-clockwise-5ee2?context=digest",
+    "title": "Daily JavaScript Challenge #JS-190: Rotate a Matrix 90 Degrees Clockwise - DEV Community",
+    "date": "2025-06-07T05:16:03.019+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-190: Rotate a Matrix 90 Degrees Clockwise",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo44qva6rx40hgjek7x0l.png",
+    "og:description": "Daily JavaScript Challenge: Rotate a Matrix 90 Degrees Clockwise   Hey fellow developers! 👋...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-190-rotate-a-matrix-90-degrees-clockwise-5ee2",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-193-calculate-fibonacci-number-using-dynamic-programming-547m?context=digest",
+    "title": "Daily JavaScript Challenge #JS-193: Calculate Fibonacci Number Using Dynamic Programming - DEV Community",
+    "date": "2025-06-07T05:01:49.944+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-193: Calculate Fibonacci Number Using Dynamic Programming",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb5jhv2cxww9uzhf4cvvb.png",
+    "og:description": "Daily JavaScript Challenge: Calculate Fibonacci Number Using Dynamic Programming   Hey...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-193-calculate-fibonacci-number-using-dynamic-programming-547m",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-194-convert-time-from-12-hour-to-24-hour-format-4g8n?context=digest",
+    "title": "Daily JavaScript Challenge #JS-194: Convert Time from 12-hour to 24-hour Format - DEV Community",
+    "date": "2025-06-07T05:01:50.118+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-194: Convert Time from 12-hour to 24-hour Format",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb3non9ng0cellqfc3b0u.png",
+    "og:description": "Daily JavaScript Challenge: Convert Time from 12-hour to 24-hour Format   Hey fellow...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-194-convert-time-from-12-hour-to-24-hour-format-4g8n",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-195-detect-consecutive-repetitive-characters-2oe6?context=digest",
+    "title": "Daily JavaScript Challenge #JS-195: Detect Consecutive Repetitive Characters - DEV Community",
+    "date": "2025-06-07T05:01:50.201+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-195: Detect Consecutive Repetitive Characters",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjx4v8batvkcvn12m0wyt.png",
+    "og:description": "Daily JavaScript Challenge: Detect Consecutive Repetitive Characters   Hey fellow...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-195-detect-consecutive-repetitive-characters-2oe6",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-196-transform-all-vowels-to-uppercase-in-a-string-3omj?context=digest",
+    "title": "Daily JavaScript Challenge #JS-196: Transform All Vowels to Uppercase in a String - DEV Community",
+    "date": "2025-06-07T04:50:17.628+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-196: Transform All Vowels to Uppercase in a String",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd8kxcldj7briw6og96mm.png",
+    "og:description": "Daily JavaScript Challenge: Transform All Vowels to Uppercase in a String   Hey fellow...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-196-transform-all-vowels-to-uppercase-in-a-string-3omj",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-197-validate-palindrome-number-2i65?context=digest",
+    "title": "Daily JavaScript Challenge #JS-197: Validate Palindrome Number - DEV Community",
+    "date": "2025-06-07T04:50:17.639+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-197: Validate Palindrome Number",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe2cskvg2g3re1w9e82i6.png",
+    "og:description": "Daily JavaScript Challenge: Validate Palindrome Number   Hey fellow developers! 👋 Welcome to...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-197-validate-palindrome-number-2i65",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/madza/9-modern-developer-tools-to-improve-your-coding-workflow-1onn?context=digest",
+    "title": "9 Modern Developer Tools to Improve Your Coding Workflow 👨‍💻⚡ - DEV Community",
+    "date": "2025-06-07T05:16:02.559+06:00",
+    "og:title": "9 Modern Developer Tools to Improve Your Coding Workflow 👨‍💻⚡",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff0uq0nd27w0y9yag20ny.png",
+    "og:description": "With the world being so fast-paced today, having the right tools can significantly improve your...",
+    "og:url": "https://dev.to/madza/9-modern-developer-tools-to-improve-your-coding-workflow-1onn",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/omriluz1/advanced-use-of-weak-references-in-memory-management-3cl?context=digest",
+    "title": "Advanced Use of Weak References in Memory Management - DEV Community",
+    "date": "2025-06-07T04:50:17.661+06:00",
+    "og:title": "Advanced Use of Weak References in Memory Management",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fikn2exx268t6ncruw0nq.png",
+    "og:description": "Advanced Use of Weak References in Memory Management            Historical and Technical...",
+    "og:url": "https://dev.to/omriluz1/advanced-use-of-weak-references-in-memory-management-3cl",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/omriluz1/exploring-the-potential-of-reactive-programming-in-vanilla-js-3peh?context=digest",
+    "title": "Exploring the Potential of Reactive Programming in Vanilla JS - DEV Community",
+    "date": "2025-06-07T05:07:42.433+06:00",
+    "og:title": "Exploring the Potential of Reactive Programming in Vanilla JS",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcr10p47oziwrcbg8xid7.png",
+    "og:description": "Exploring the Potential of Reactive Programming in Vanilla JS           ...",
+    "og:url": "https://dev.to/omriluz1/exploring-the-potential-of-reactive-programming-in-vanilla-js-3peh",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/omriluz1/performance-implications-of-javascript-closures-2kia?context=digest",
+    "title": "Performance Implications of JavaScript Closures - DEV Community",
+    "date": "2025-06-07T05:18:17.989+06:00",
+    "og:title": "Performance Implications of JavaScript Closures",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxmv131054hyagyg4dvzm.png",
+    "og:description": "Performance Implications of JavaScript Closures: An In-Depth Exploration           ...",
+    "og:url": "https://dev.to/omriluz1/performance-implications-of-javascript-closures-2kia",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/omriluz1/understanding-the-internals-of-javascripts-engine-optimizations-3hm7?context=digest",
+    "title": "Understanding the Internals of JavaScript's Engine Optimizations - DEV Community",
+    "date": "2025-06-07T05:07:42.446+06:00",
+    "og:title": "Understanding the Internals of JavaScript's Engine Optimizations",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvcy143idcw8jwzdz13lo.png",
+    "og:description": "Understanding the Internals of JavaScript’s Engine Optimizations   JavaScript has evolved...",
+    "og:url": "https://dev.to/omriluz1/understanding-the-internals-of-javascripts-engine-optimizations-3hm7",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/optimajet/a-true-react-hook-form-alternative-formengine-40-is-now-mit-licensed-and-free-1gke?context=digest",
+    "title": "A True React Hook Form Alternative – FormEngine Core 4.0 Is Now MIT Licensed and Free! 🚀 - DEV Community",
+    "date": "2025-06-07T05:07:42.391+06:00",
+    "og:title": "A True React Hook Form Alternative – FormEngine Core 4.0 Is Now MIT Licensed and Free! 🚀",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1hgwinkbb3fkyycmv2b.png",
+    "og:description": "React developers, here's big news! On May 15, 2025, Optimajet released FormEngine Core 4.0, making...",
+    "og:url": "https://dev.to/optimajet/a-true-react-hook-form-alternative-formengine-40-is-now-mit-licensed-and-free-1gke",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/rinkiyakedad/how-to-provide-secure-access-to-your-kubernetes-clusters-using-an-overlay-network-281g?context=digest",
+    "title": "How to Provide Secure Access to Your Kubernetes Clusters Using an Overlay Network - DEV Community",
+    "date": "2025-06-07T04:50:17.607+06:00",
+    "og:title": "How to Provide Secure Access to Your Kubernetes Clusters Using an Overlay Network",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fidv4nxw5bpeqevh0nhdg.png",
+    "og:description": "Kubernetes is complex. Securing Kubernetes clusters is even more complex. Striking the right balance...",
+    "og:url": "https://dev.to/rinkiyakedad/how-to-provide-secure-access-to-your-kubernetes-clusters-using-an-overlay-network-281g",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/sakethkowtha/from-cubicle-to-coffeeshop-why-devs-are-trading-ties-for-t-shirts-in-the-indie-hacking-revolution-2c26?context=digest",
+    "title": "From Cubicle to Coffeeshop: Why Devs Are Trading Ties for T-shirts in the Indie Hacking Revolution - DEV Community",
+    "date": "2025-06-07T05:07:42.441+06:00",
+    "og:title": "From Cubicle to Coffeeshop: Why Devs Are Trading Ties for T-shirts in the Indie Hacking Revolution",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Figpyqp5wovnz5wtv9j06.png",
+    "og:description": "The Great Developer Escape: A Caffeinated Tale   Picture this: It's 2 AM, and you're hunched...",
+    "og:url": "https://dev.to/sakethkowtha/from-cubicle-to-coffeeshop-why-devs-are-trading-ties-for-t-shirts-in-the-indie-hacking-revolution-2c26",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/ten/agile-scrum-the-easy-guide-to-self-learning-4jf?context=digest",
+    "title": "Agile Scrum - The Easy Guide to Self-Learning - DEV Community",
+    "date": "2025-06-07T05:07:42.372+06:00",
+    "og:title": "Agile Scrum - The Easy Guide to Self-Learning",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fqlqjs674.notion.site%2Fimage%2Fattachment%253A3f05ec6a-06b4-4d4e-a50f-f1d52616ef00%253AChatGPT_Image_May_22_2025_06_14_51_PM.png%3Ftable%3Dblock%26id%3D1fb930ff-582f-80ff-804b-e5a18f2d3eb4%26spaceId%3D6ab3efe6-44b5-4e5c-9d86-56543fb7f59d%26width%3D1420%26userId%3D%26cache%3Dv2",
+    "og:description": "🛠️ Agile Scrum - The Easy Guide to Self-Learning   This guide has been prepared to support...",
+    "og:url": "https://dev.to/ten/agile-scrum-the-easy-guide-to-self-learning-4jf",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-87-2hp8?context=digest",
+    "title": "Stay ahead in web development: latest news, tools, and insights #87 - DEV Community",
+    "date": "2025-06-07T04:50:17.617+06:00",
+    "og:title": "Stay ahead in web development: latest news, tools, and insights #87",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Furbanisierung.dev%2Fdevto.png",
+    "og:description": "weeklyfoo #87 is here: your weekly digest of all webdev news you need to know! This time you'll find 46 valuable links in 7 categories! Enjoy!",
+    "og:url": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-87-2hp8",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/yeisoncruz16/the-boy-scout-rule-yes-it-applies-to-nodejs-too-11c1?context=digest",
+    "title": "The Boy Scout Rule (Yes, It Applies to Node.js Too) - DEV Community",
+    "date": "2025-06-07T05:07:42.377+06:00",
+    "og:title": "The Boy Scout Rule (Yes, It Applies to Node.js Too)",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F41cqo9ve7sjitm5slgf5.png",
+    "og:description": "A simple but powerful mindset to improve your codebase little by little. With Node.js examples and no fluff.",
+    "og:url": "https://dev.to/yeisoncruz16/the-boy-scout-rule-yes-it-applies-to-nodejs-too-11c1",
+    "og:type": "article"
+  },
+  {
     "hostname": "devresourc.es",
     "url": "https://devresourc.es/",
     "title": "A Collaborative List Of 800+ Resources For Developers",
@@ -820,6 +1194,17 @@
     "date": "2025-06-06T02:15:19.112+06:00",
     "og:title": "",
     "og:image": "https://frontendmasters.com/blog/wp-json/social-image-generator/v1/image/6040",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "frontendmasters.com",
+    "url": "https://frontendmasters.com/blog/move-modal-in-on-a-shape/?ref=unicornclub.dev",
+    "title": "Move Modal in on a… shape() – Frontend Masters Blog",
+    "date": "2025-06-07T05:16:00.834+06:00",
+    "og:title": "",
+    "og:image": "https://frontendmasters.com/blog/wp-json/social-image-generator/v1/image/5917",
     "og:description": "",
     "og:url": "",
     "og:type": ""
@@ -3388,6 +3773,17 @@
     "og:type": "website"
   },
   {
+    "hostname": "openai.com",
+    "url": "https://openai.com/sam-and-jony/?ref=unicornclub.dev",
+    "title": "Sam and Jony introduce io | OpenAI",
+    "date": "2025-06-07T05:16:02.033+06:00",
+    "og:title": "Sam and Jony introduce io",
+    "og:image": "https://cdn.openai.com/sam-and-jony/social/page-recropped.jpg",
+    "og:description": "Building a family of AI products for everyone.",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
     "hostname": "owenwillia.ms",
     "url": "https://owenwillia.ms/2025/05/23/co-designing-with-ai/",
     "title": "Co-designing with AI | Owen Williams",
@@ -3408,6 +3804,17 @@
     "og:description": "",
     "og:url": "",
     "og:type": ""
+  },
+  {
+    "hostname": "piccalil.li",
+    "url": "https://piccalil.li/blog/you-can-style-alt-text-like-any-other-text/?ref=unicornclub.dev",
+    "title": "You can style alt text like any other text - Piccalilli",
+    "date": "2025-06-07T05:16:01.528+06:00",
+    "og:title": "You can style alt text like any other text",
+    "og:image": "https://api.urlbox.io/v1/ln9ptArKXobLRpDQ/d3f0e3ad7c7b86f1f0b044504aafee6dd37dcbc78e8be529812080926a2911ab/png?url=https://piccalil.li/og/you-can-style-alt-text-like-any-other-text/&width=1024&height=526&retina=true",
+    "og:description": "A fun little side quest to show you how applying styles to alt text can really elevate your user interface.",
+    "og:url": "https://piccalil.li/blog/you-can-style-alt-text-like-any-other-text/",
+    "og:type": "website"
   },
   {
     "hostname": "pjonori.blog",
@@ -3660,6 +4067,17 @@
     "og:image": "https://thecode.media/wp-content/uploads/2024/12/1s-6.png",
     "og:description": "Рассказываем, что нового есть в языке программирования JavaScript: какие появились методы, функции и приёмы, которые упрощают жизнь разработчикам.",
     "og:url": "https://thecode.media/chto-novogo-v-sovremennom-javascript/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "tldr.tech",
+    "url": "https://tldr.tech/signup?rh_partner=7678f48b9c",
+    "title": "TLDR Newsletter - Keep up with Tech in 5 minutes",
+    "date": "2025-06-07T05:16:01.166+06:00",
+    "og:title": "TLDR Newsletter - A Byte Sized Daily Tech Newsletter",
+    "og:image": "https://tldr.tech/logo-jpg.jpg",
+    "og:description": "TLDR is the free daily newsletter with the most interesting stories in startups, tech and programming!",
+    "og:url": "",
     "og:type": "article"
   },
   {
@@ -4288,6 +4706,17 @@
     "og:description": "Design systems provide shared language, reusable components, and clear guidelines that enable teams to design effectively.",
     "og:url": "https://www.browserlondon.com/blog/2025/06/03/how-to-break-your-design-system-rules/",
     "og:type": "article"
+  },
+  {
+    "hostname": "www.chrbutler.com",
+    "url": "https://www.chrbutler.com/good-design-comes-from-looking-great-design-comes-from-looking-away?ref=unicornclub.dev",
+    "title": "Good Design Comes from Looking, Great Design Comes from Looking Away - Christopher Butler",
+    "date": "2025-06-07T05:16:01.758+06:00",
+    "og:title": "Good Design Comes from Looking, Great Design Comes from Looking Away - Christopher Butler",
+    "og:image": "",
+    "og:description": "Great design comes from seeing — seeing something for what it truly is, what it needs, and what it can be — both up close and at a distance. A great",
+    "og:url": "https://www.chrbutler.com/good-design-comes-from-looking-great-design-comes-from-looking-away",
+    "og:type": "website"
   },
   {
     "hostname": "www.creativebloq.com",
@@ -4964,7 +5393,7 @@
     "hostname": "www.dupple.com",
     "url": "https://www.dupple.com/techpresso?rh_partner=b72d447f42",
     "title": "Techpresso - Free Daily Tech Newsletter",
-    "date": "2025-06-04T09:16:31.069+06:00",
+    "date": "2025-06-07T05:16:00.927+06:00",
     "og:title": "Techpresso - Free Daily Tech Newsletter",
     "og:image": "https://cdn.prod.website-files.com/628535ab8900e721d61b7f8a/64da7e3be81c3342557ee161_3.jpg",
     "og:description": "Techpresso is the free daily newsletter with the most interesting tech news and insights. It's the best way to stay ahead in just a few minutes.",
@@ -5181,6 +5610,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.postman.com",
+    "url": "https://www.postman.com/product/ai-agent-builder/",
+    "title": "Postman AI Agent Builder",
+    "date": "2025-06-07T05:31:38.141+06:00",
+    "og:title": "Postman AI Agent Builder",
+    "og:image": "https://voyager.postman.com/social-preview/ai-agent-builder-unfurl-social-preview.png",
+    "og:description": "Build AI agents faster with Postman AI Agent Builder. Access verified APIs, the latest LLMs, and tools for seamless workflows.",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
     "hostname": "www.quicksprout.com",
     "url": "https://www.quicksprout.com/best-ai-website-builder/",
     "title": "Top 5 Best AI Website Builders for 2025",
@@ -5324,6 +5764,17 @@
     "og:type": ""
   },
   {
+    "hostname": "www.uxmatters.com",
+    "url": "https://www.uxmatters.com/mt/archives/2025/05/designing-calm-ux-principles-for-reducing-users-anxiety.php?ref=unicornclub.dev",
+    "title": "Designing Calm: UX Principles for Reducing Users’ Anxiety :: UXmatters",
+    "date": "2025-06-07T05:16:00.79+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
     "hostname": "www.uxpin.com",
     "url": "https://www.uxpin.com/studio/blog/common-problems-with-design-pattern-libraries/",
     "title": "Common Problems with Design Pattern Libraries | UXPin",
@@ -5420,6 +5871,17 @@
     "og:image": "https://i.ytimg.com/vi/30LWjhZzg50/maxresdefault.jpg",
     "og:description": "Learn how to program with TypeScript in this full course for beginners. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. TypeS...",
     "og:url": "https://www.youtube.com/watch?v=30LWjhZzg50",
+    "og:type": "video.other"
+  },
+  {
+    "hostname": "www.youtube.com",
+    "url": "https://www.youtube.com/watch?v=5AQ3_WachlU",
+    "title": "Goodbye Figma, Paper is Coming - Stephen Haney, Paper - YouTube",
+    "date": "2025-06-07T05:16:02.399+06:00",
+    "og:title": "Goodbye Figma, Paper is Coming - Stephen Haney, Paper",
+    "og:image": "https://i.ytimg.com/vi/5AQ3_WachlU/maxresdefault.jpg",
+    "og:description": "Sign up here to get early access to Paper: https://paper.design📧 Subscribe to Today in Design, our 2x weekly deep dive into design, creativity, and entrepre...",
+    "og:url": "https://www.youtube.com/watch?v=5AQ3_WachlU",
     "og:type": "video.other"
   },
   {
