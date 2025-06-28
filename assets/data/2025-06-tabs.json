@@ -166,6 +166,17 @@
   },
   {
     "hostname": "abduzeedo.com",
+    "url": "https://abduzeedo.com/motion-design-sound-fletcher-munson-rebrand?utm_source=unicornclub.dev&ref=unicornclub.dev",
+    "title": "Motion Design for Sound: Fletcher + Munson Rebrand",
+    "date": "2025-06-28T04:59:00.46+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "abduzeedo.com",
     "url": "https://abduzeedo.com/pov-budapest-design-branding-and-visual-identity",
     "title": "POV Budapest: Design, Branding, and Visual Identity",
     "date": "2025-06-17T06:29:48.068+06:00",
@@ -1287,6 +1298,17 @@
     "og:type": "website"
   },
   {
+    "hostname": "bit.dev",
+    "url": "https://bit.dev/?utm_source=UnicornClub&utm_id=49&utm_medium=newsletter",
+    "title": "Bit. Composable software.",
+    "date": "2025-06-28T04:59:01.555+06:00",
+    "og:title": "Bit. Composable software.",
+    "og:image": "https://static.bit.dev/og-images/bit-marketing-og-img-facebook-2025.png",
+    "og:description": "AI-powered development workspaces with composable components, architectural clarity and zero overhead.",
+    "og:url": "https://bit.dev",
+    "og:type": "website"
+  },
+  {
     "hostname": "blog.codepen.io",
     "url": "https://blog.codepen.io/2025/06/02/chris-corner-type-stuff/",
     "title": "Chris’ Corner: Type Stuff! – CodePen",
@@ -2292,6 +2314,17 @@
     "url": "https://css-tricks.com/color-everything-in-css/?ref=unicornclub.dev",
     "title": "Color Everything in CSS | CSS-Tricks",
     "date": "2025-06-26T04:33:09.602+06:00",
+    "og:title": "Color Everything in CSS | CSS-Tricks",
+    "og:image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/03/color-wheels.jpg",
+    "og:description": "An introduction to \"Color spaces\", \"Color models\", \"Color gamuts,\" and basically all of the \"Color somethings\" in CSS.",
+    "og:url": "https://css-tricks.com/color-everything-in-css/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "css-tricks.com",
+    "url": "https://css-tricks.com/color-everything-in-css/?utm_source=unicornclub.dev&ref=unicornclub.dev",
+    "title": "Color Everything in CSS | CSS-Tricks",
+    "date": "2025-06-28T04:59:01.345+06:00",
     "og:title": "Color Everything in CSS | CSS-Tricks",
     "og:image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/03/color-wheels.jpg",
     "og:description": "An introduction to \"Color spaces\", \"Color models\", \"Color gamuts,\" and basically all of the \"Color somethings\" in CSS.",
@@ -4051,7 +4084,7 @@
     "hostname": "dev.to",
     "url": "https://dev.to/devteam/join-the-storyblok-headless-cms-challenge-3000-in-prizes-154n?",
     "title": "Join the Storyblok Headless CMS Challenge: $3,000 in Prizes! - DEV Community",
-    "date": "2025-06-24T05:50:11.59+06:00",
+    "date": "2025-06-28T04:41:07.913+06:00",
     "og:title": "Join the Storyblok Headless CMS Challenge: $3,000 in Prizes!",
     "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fytkhmk7oglgdon9nfwdz.png",
     "og:description": "We are so delighted to partner with Storyblok for a new DEV challenge.  Running through June 22 June...",
@@ -4225,6 +4258,39 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-210-check-if-array-is-sorted-and-rotated-2hi?context=digest",
+    "title": "Daily JavaScript Challenge #JS-210: Check if Array is Sorted and Rotated - DEV Community",
+    "date": "2025-06-28T04:45:14.524+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-210: Check if Array is Sorted and Rotated",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flf7jughygxqu7qg645qw.png",
+    "og:description": "Daily JavaScript Challenge: Check if Array is Sorted and Rotated   Hey fellow developers! 👋...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-210-check-if-array-is-sorted-and-rotated-2hi",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-211-merge-intervals-47kl?context=digest",
+    "title": "Daily JavaScript Challenge #JS-211: Merge Intervals - DEV Community",
+    "date": "2025-06-28T04:41:07.928+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-211: Merge Intervals",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F820x7d0a5aynuf4wqzhz.png",
+    "og:description": "Daily JavaScript Challenge: Merge Intervals   Hey fellow developers! 👋 Welcome to today's...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-211-merge-intervals-47kl",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-212-reverse-the-words-in-a-string-5df7?context=digest",
+    "title": "Daily JavaScript Challenge #JS-212: Reverse the Words in a String - DEV Community",
+    "date": "2025-06-28T04:41:07.932+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-212: Reverse the Words in a String",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fre76qh3hb9atwkpsi2hd.png",
+    "og:description": "Daily JavaScript Challenge: Reverse the Words in a String   Hey fellow developers! 👋 Welcome...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-212-reverse-the-words-in-a-string-5df7",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/end3r/enclave-games-monthly-report-may-2025-b7i?context=digest",
     "title": "Enclave Games Monthly Report: May 2025 - DEV Community",
     "date": "2025-06-12T05:52:56.708+06:00",
@@ -4324,6 +4390,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/omriluz1/building-scalable-web-applications-with-advanced-javascript-patterns-5e4c?context=digest",
+    "title": "Building Scalable Web Applications with Advanced JavaScript Patterns - DEV Community",
+    "date": "2025-06-28T04:41:07.917+06:00",
+    "og:title": "Building Scalable Web Applications with Advanced JavaScript Patterns",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy98hiynwvetmts8neq7f.png",
+    "og:description": "Building Scalable Web Applications with Advanced JavaScript Patterns            Table of...",
+    "og:url": "https://dev.to/omriluz1/building-scalable-web-applications-with-advanced-javascript-patterns-5e4c",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/omriluz1/exploring-the-potential-of-reactive-programming-in-vanilla-js-3peh?context=digest",
     "title": "Exploring the Potential of Reactive Programming in Vanilla JS - DEV Community",
     "date": "2025-06-07T05:07:42.433+06:00",
@@ -4412,6 +4489,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/sgchris/how-to-structure-a-rust-project-idiomatically-500k?context=digest",
+    "title": "How to Structure a Rust Project Idiomatically - DEV Community",
+    "date": "2025-06-28T04:41:07.921+06:00",
+    "og:title": "How to Structure a Rust Project Idiomatically",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhdbtdiy8odpl81zh4sj6.png",
+    "og:description": "How to Structure a Rust Project Idiomatically   When starting a new Rust project, you’re...",
+    "og:url": "https://dev.to/sgchris/how-to-structure-a-rust-project-idiomatically-500k",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/ten/agile-scrum-the-easy-guide-to-self-learning-4jf?context=digest",
     "title": "Agile Scrum - The Easy Guide to Self-Learning - DEV Community",
     "date": "2025-06-07T05:07:42.372+06:00",
@@ -4452,6 +4540,17 @@
     "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9uhn9x88l2a7jk40de44.png",
     "og:description": "Signup here for the newsletter to get the weekly digest right into your inbox.  Find the 11...",
     "og:url": "https://dev.to/urbanisierung/this-is-what-comes-after-dashboards-the-ai-observability-leap-2n00",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/vaib/dive-deep-into-higher-order-functions-essential-resources-for-functional-programmers-54h?context=digest",
+    "title": "Dive Deep into Higher-Order Functions: Essential Resources for Functional Programmers - DEV Community",
+    "date": "2025-06-28T04:45:14.528+06:00",
+    "og:title": "Dive Deep into Higher-Order Functions: Essential Resources for Functional Programmers",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft6xmopnje9n5jkws7flc.png",
+    "og:description": "The Magic of Functions That Manipulate Functions   In the fascinating world of programming,...",
+    "og:url": "https://dev.to/vaib/dive-deep-into-higher-order-functions-essential-resources-for-functional-programmers-54h",
     "og:type": "article"
   },
   {
@@ -4668,6 +4767,17 @@
     "url": "https://en.wikipedia.org/wiki/Verdana?ref=unicornclub.dev",
     "title": "Verdana - Wikipedia",
     "date": "2025-06-26T04:33:09.535+06:00",
+    "og:title": "Verdana - Wikipedia",
+    "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/VerdanaSpecimen.svg/1200px-VerdanaSpecimen.svg.png",
+    "og:description": "",
+    "og:url": "",
+    "og:type": "website"
+  },
+  {
+    "hostname": "en.wikipedia.org",
+    "url": "https://en.wikipedia.org/wiki/Verdana?utm_source=unicornclub.dev&ref=unicornclub.dev",
+    "title": "Verdana - Wikipedia",
+    "date": "2025-06-28T04:59:01.391+06:00",
     "og:title": "Verdana - Wikipedia",
     "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/VerdanaSpecimen.svg/1200px-VerdanaSpecimen.svg.png",
     "og:description": "",
@@ -5017,6 +5127,17 @@
   },
   {
     "hostname": "frontendmasters.com",
+    "url": "https://frontendmasters.com/blog/drawing-css-shapes-using-corner-shape/?utm_source=unicornclub.dev&ref=unicornclub.dev",
+    "title": "Drawing CSS Shapes using corner-shape – Frontend Masters Blog",
+    "date": "2025-06-28T04:59:01.244+06:00",
+    "og:title": "",
+    "og:image": "https://frontendmasters.com/blog/wp-json/social-image-generator/v1/image/6235",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "frontendmasters.com",
     "url": "https://frontendmasters.com/blog/firstchild-can-be-white-space/",
     "title": "firstChild can be white space – Frontend Masters Blog",
     "date": "2025-06-06T02:15:19.112+06:00",
@@ -5063,7 +5184,7 @@
     "hostname": "fronterabrands.com",
     "url": "https://fronterabrands.com/newsletter/?rh_partner=cf08c307db",
     "title": "How Brands Win - Frontera",
-    "date": "2025-06-26T04:33:09.767+06:00",
+    "date": "2025-06-28T04:59:00.919+06:00",
     "og:title": "How Brands Win - Frontera",
     "og:image": "https://fronterabrands.com/wp-content/uploads/2024/01/how-brands-win-cover.jpg",
     "og:description": "How Brands Win newsletter distills the strategies behind great brands and gives you insights to use in your business. Join 10,000+ executives:",
@@ -15499,6 +15620,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "newsletter.posthog.com",
+    "url": "https://newsletter.posthog.com/p/an-engineers-guide-to-vibe-design?utm_source=unicornclub.dev&ref=unicornclub.dev",
+    "title": "An engineer's guide to vibe design (with prompts)",
+    "date": "2025-06-28T04:59:00.711+06:00",
+    "og:title": "An engineer's guide to vibe design (with prompts)",
+    "og:image": "https://substackcdn.com/image/fetch/$s_!Uaqo!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F841edb0f-ed18-4fa9-b76c-4ffdab7eaae7_1200x630.jpeg",
+    "og:description": "Engineers move fast. Your design should too.",
+    "og:url": "https://newsletter.posthog.com/p/an-engineers-guide-to-vibe-design?ref=unicornclub.dev",
+    "og:type": "article"
+  },
+  {
     "hostname": "newsletter.weskao.com",
     "url": "https://newsletter.weskao.com/p/take-3-minutes-to-delete-these-words",
     "title": "Take 3 minutes to delete these words and improve your writing forever",
@@ -16097,6 +16229,17 @@
     "url": "https://pullrequestplaybook.com/?ref=unicornclub.dev",
     "title": "Pull Request Playbook",
     "date": "2025-06-26T04:33:09.847+06:00",
+    "og:title": "Pull Request Playbook",
+    "og:image": "https://pullrequestplaybook.com/og/default.png",
+    "og:description": "",
+    "og:url": "https://pullrequestplaybook.com/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "pullrequestplaybook.com",
+    "url": "https://pullrequestplaybook.com/?utm_source=unicornclub.dev&ref=unicornclub.dev",
+    "title": "Pull Request Playbook",
+    "date": "2025-06-28T04:59:00.596+06:00",
     "og:title": "Pull Request Playbook",
     "og:image": "https://pullrequestplaybook.com/og/default.png",
     "og:description": "",
@@ -17966,7 +18109,7 @@
     "hostname": "uxdesign.cc",
     "url": "https://uxdesign.cc/the-solo-designer-one-seat-all-the-hats-a6ac5df0af32",
     "title": "The solo designer: One seat, all the hats | by Ed Orozco | Jun, 2025 | UX Collective",
-    "date": "2025-06-26T04:33:09.958+06:00",
+    "date": "2025-06-28T04:59:00.436+06:00",
     "og:title": "The solo designer: One seat, all the hats",
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*18NDCcvJiBELH-RHTQjEnw.png",
     "og:description": "It will teach you everything you need, if you survive.",
@@ -22586,7 +22729,7 @@
     "hostname": "www.dupple.com",
     "url": "https://www.dupple.com/techpresso?rh_partner=b72d447f42",
     "title": "Techpresso - Free Daily Tech Newsletter",
-    "date": "2025-06-25T02:25:24.412+06:00",
+    "date": "2025-06-28T04:59:01.091+06:00",
     "og:title": "Techpresso - Free Daily Tech Newsletter",
     "og:image": "https://cdn.prod.website-files.com/628535ab8900e721d61b7f8a/64da7e3be81c3342557ee161_3.jpg",
     "og:description": "Techpresso is the free daily newsletter with the most interesting tech news and insights. It's the best way to stay ahead in just a few minutes.",
@@ -22844,6 +22987,17 @@
     "og:image": "https://substackcdn.com/image/fetch/$s_!cfe7!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1fee97b-e9c3-4a73-9653-7699fb5dab81_1086x723.png",
     "og:description": "#55: What to do when you can't directly connect your impact with ROI.",
     "og:url": "https://www.fundament.design/p/about-impact-presenting-the-change",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.fundament.design",
+    "url": "https://www.fundament.design/p/about-impact-presenting-the-change?utm_source=unicornclub.dev&ref=unicornclub.dev",
+    "title": "About Impact. Presenting the Change You've Made Through Your Decisions as a Designer",
+    "date": "2025-06-28T04:59:00.556+06:00",
+    "og:title": "About Impact. Presenting the Change You've Made Through Your Decisions as a Designer",
+    "og:image": "https://substackcdn.com/image/fetch/$s_!cfe7!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1fee97b-e9c3-4a73-9653-7699fb5dab81_1086x723.png",
+    "og:description": "#55: What to do when you can't directly connect your impact with ROI.",
+    "og:url": "https://www.fundament.design/p/about-impact-presenting-the-change?ref=unicornclub.dev",
     "og:type": "article"
   },
   {
@@ -23324,6 +23478,17 @@
     "url": "https://www.nngroup.com/videos/ux-benchmarking-vs-ux-success-metrics/?ref=unicornclub.dev",
     "title": "UX Benchmarking vs. UX Success Metrics (Video) - NN/g",
     "date": "2025-06-26T04:33:09.46+06:00",
+    "og:title": "UX Benchmarking vs. UX Success Metrics (Video)",
+    "og:image": "https://media.nngroup.com/media/videos/thumbnails/UX_Benchmarking_vs_UX_Success_Metrics_Thumbnail.jpg",
+    "og:description": "UX benchmarking allows us to track the long-term changes in the overall user experience of our product, while UX success metrics help us assess the short-term impact of a specific project or feature launch.",
+    "og:url": "https://www.nngroup.com/videos/ux-benchmarking-vs-ux-success-metrics/",
+    "og:type": "video.other"
+  },
+  {
+    "hostname": "www.nngroup.com",
+    "url": "https://www.nngroup.com/videos/ux-benchmarking-vs-ux-success-metrics/?utm_source=unicornclub.dev&ref=unicornclub.dev",
+    "title": "UX Benchmarking vs. UX Success Metrics (Video) - NN/g",
+    "date": "2025-06-28T04:59:01.519+06:00",
     "og:title": "UX Benchmarking vs. UX Success Metrics (Video)",
     "og:image": "https://media.nngroup.com/media/videos/thumbnails/UX_Benchmarking_vs_UX_Success_Metrics_Thumbnail.jpg",
     "og:description": "UX benchmarking allows us to track the long-term changes in the overall user experience of our product, while UX success metrics help us assess the short-term impact of a specific project or feature launch.",
