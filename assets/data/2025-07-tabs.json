@@ -242,6 +242,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "andrewrosario.medium.com",
+    "url": "https://andrewrosario.medium.com/modelagem-de-dom%C3%ADnio-no-frontend-por-que-voc%C3%AA-n%C3%A3o-deveria-pular-essa-etapa-422c1114ffbc",
+    "title": "Modelagem de domínio no frontend: Por que você não deveria pular essa etapa | by Andrew Rosário | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:06.957+06:00",
+    "og:title": "Modelagem de domínio no frontend: Por que você não deveria pular essa etapa",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/0*zibwB8G8WeSWISoM.jpg",
+    "og:description": "Quando estamos começando um novo projeto de frontend, a tentação de ir direto para o código é quase irresistível. Aquele Figma ou o…",
+    "og:url": "https://andrewrosario.medium.com/modelagem-de-dom%C3%ADnio-no-frontend-por-que-voc%C3%AA-n%C3%A3o-deveria-pular-essa-etapa-422c1114ffbc",
+    "og:type": "article"
+  },
+  {
     "hostname": "android-developers.googleblog.com",
     "url": "https://android-developers.googleblog.com/2025/06/get-ready-for-next-generation-gameplay-play-games-services.html",
     "title": "Android Developers Blog: Get ready for the next generation of gameplay powered by Play Games Services",
@@ -265,6 +276,17 @@
   },
   {
     "hostname": "android-developers.googleblog.com",
+    "url": "https://android-developers.googleblog.com/2025/07/android-canary.html",
+    "title": "Android Developers Blog: Evolving Android’s early-access programs: Introducing the Canary channel",
+    "date": "2025-07-11T03:07:04.28+06:00",
+    "og:title": "Evolving Android’s early-access programs: Introducing the Canary channel",
+    "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx6Cj6cigaTO2_OX34snaQyurU-Ak6rQFUiID6-OQ0QNdypeuh0PhjRUkrZyq-CphXXwUdDzv_P3cDf3VXXP7_8KJLnVtaXwP3K0b87wEpwiRc4rjIAwNoCTuCsKyK1SCjMv1xcBHza86NdeopclpbLUXd1Nl-NIgQ92gtgNCGaJxYRTB4xEzQUVazpI8/s1600/Android-Evergreen.png",
+    "og:description": "Android 16 is released, featuring updates for developers around performance, security, camera, and media to make apps more efficient and adaptive.",
+    "og:url": "https://android-developers.googleblog.com/2025/07/android-canary.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "android-developers.googleblog.com",
     "url": "https://android-developers.googleblog.com/2025/07/google-plays-indie-games-fund-latin-america-returns-2025.html",
     "title": "Android Developers Blog: Level up your game: Google Play's Indie Games Fund in Latin America returns for its 4th year",
     "date": "2025-07-02T02:21:17.896+06:00",
@@ -272,6 +294,28 @@
     "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTpOM4puPIjsryzghGhKofJXcfVQVrIGAffB0E5gTR1q8QD3stIbxs7wItvjI0tAIsB28m13rumYroFZwCdf-Cjg94K3_Y7OdBjLNXPIfvdSA7omQWrp6f7nX2hdHsD8hw2ZZ5Bj3GqW8ulzXYJm9kZwuzxMFrSKzL8MH-B26hsWIuVoWFmFrDZJpqph4/s1600/Indie-Games-Fund.gif",
     "og:description": "Google Play's Indie Games Fund in Latin America is returning, committing another $2 million to empower ten indie game studios in the region.",
     "og:url": "https://android-developers.googleblog.com/2025/07/google-plays-indie-games-fund-latin-america-returns-2025.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "android-developers.googleblog.com",
+    "url": "https://android-developers.googleblog.com/2025/07/start-building-next-generation-samsung-devices.html",
+    "title": "Android Developers Blog: Start building for the next generation of Samsung Galaxy devices",
+    "date": "2025-07-11T03:07:04.307+06:00",
+    "og:title": "Start building for the next generation of Samsung Galaxy devices",
+    "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigFjv5_DA8DXVJI-mnfHH1oPEXmJK0p1J6VnwgVkY3Czu0G63pml0j1B55Z8jYQbVwfXSZ89ak67lXPl3ilSWj65D-NrOz-nUM2RLTgwX5Waz9LTH0Fy2i8JKGNTLWvhm6LJy2sDFjd4ylM2-tVzXHzMDR7LC6gjoxQTdAe_fuL8Of6nu1RpNmPtd0vvE/s1600/samsung-unpacked-2025-meta.png.png",
+    "og:description": "Explore Samsung's new Galaxy Watch8 (Wear OS 6), Z Fold7, and Z Flip7, offering developers new tools for adaptive and personal Android experiences.",
+    "og:url": "https://android-developers.googleblog.com/2025/07/start-building-next-generation-samsung-devices.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "android-developers.googleblog.com",
+    "url": "https://android-developers.googleblog.com/2025/07/transition-to-16-kb-page-sizes-android-apps-games-android-studio.html",
+    "title": "Android Developers Blog: Transition to using 16 KB page sizes for Android apps and games using Android Studio",
+    "date": "2025-07-11T03:07:04.247+06:00",
+    "og:title": "Transition to using 16 KB page sizes for Android apps and games using Android Studio",
+    "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSiuW6RK-yJLlgCdNx3ag6e7Io6NCzfqOjpq__9r2y7faEIgvT9-jBsoQ1XWH6TyoIL3frhMbMkI6zJI-pd6TBfryXrhYjPxnsmYSZ7bw-gxyrWogUqMmhqfnKagz4AWwUGviUSnsjD1lmNvRwfc_1Y2h6cY47RBo2DZdFvIl4s-5dbXIFwKPubYya8Es/s1600/16-KB-page-size-android-studio-meta.png",
+    "og:description": "Learn about Android's upcoming move to 16KB page sizes for performance gains, with tools in Android Studio to help app developers transition.",
+    "og:url": "https://android-developers.googleblog.com/2025/07/transition-to-16-kb-page-sizes-android-apps-games-android-studio.html",
     "og:type": "article"
   },
   {
@@ -284,6 +328,17 @@
     "og:description": "Design is changing. Fast.\n\nAI is transforming the way we work — automating production, collapsing handoffs, and enabling non-designers to ship work that once required a full design team. Like it or not, we’re heading into a world where many design tasks will no longer need a designer.\n\nIf that fills you with unease, you’re not alone. But here’s the key difference between teams that will thrive and those that won’t:\n\nSome design leaders are taking control of the narrative. Others are waiting to be told what’s next.",
     "og:url": "https://andybudd.com/archives/2025/06/design-leadership-in-the-age-of-ai-seize-the-narrative-before-it-s-too-late",
     "og:type": "website"
+  },
+  {
+    "hostname": "aresluna.org",
+    "url": "https://aresluna.org/frame-of-preference/",
+    "title": "Frame of preference – Aresluna",
+    "date": "2025-07-11T03:07:05.092+06:00",
+    "og:title": "Frame of preference",
+    "og:image": "https://aresluna.org/images/frame-of-preference/ogimage.png",
+    "og:description": "A story of early Mac settings told by 10 emulators.",
+    "og:url": "",
+    "og:type": ""
   },
   {
     "hostname": "arnab-k.medium.com",
@@ -305,6 +360,17 @@
     "og:image": "https://arun.is/_astro/social.6qkEAzk1.jpg",
     "og:description": "With devices lasting longer, I now have the unique opportunity to hold on to older designs I love the most.",
     "og:url": "https://arun.is/blog/aesthetics-over-upgrades/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "arun.is",
+    "url": "https://arun.is/blog/milwaukee-many-faces/",
+    "title": "Milwaukee's many faces",
+    "date": "2025-07-11T03:07:04.525+06:00",
+    "og:title": "Milwaukee's many faces",
+    "og:image": "https://arun.is/_astro/social.DoYZK0_u.jpg",
+    "og:description": "A family trip to Milwaukee, Wisconsin showed me the surprising mix of old and new, urban and rural that this city has to offer.",
+    "og:url": "https://arun.is/blog/milwaukee-many-faces/",
     "og:type": "website"
   },
   {
@@ -385,6 +451,17 @@
     "og:type": ""
   },
   {
+    "hostname": "blog.codepen.io",
+    "url": "https://blog.codepen.io/2025/07/10/401-outgoing-email/",
+    "title": "401: Outgoing Email – CodePen",
+    "date": "2025-07-11T03:07:05.408+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
     "hostname": "blog.logrocket.com",
     "url": "https://blog.logrocket.com/ux-design/design-by-committee-failure/",
     "title": "I designed by committee — and here’s what went wrong - LogRocket Blog",
@@ -404,6 +481,17 @@
     "og:image": "https://blog.logrocket.com/wp-content/uploads/2025/06/wrapper-vs-container-classes-css.png",
     "og:description": "A breakdown of the wrapper and container CSS classes, how they’re used in real-world code, and when it makes sense to use one over the other.",
     "og:url": "https://blog.logrocket.com/wrapper-vs-container-classes-css/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "blog.pintusingh28.dev",
+    "url": "https://blog.pintusingh28.dev/responsive-vs-adaptive-design-in-flutter-know-the-difference-before-you-build-b374676247b8",
+    "title": "📱 Responsive vs Adaptive Design in Flutter - Know the Difference Before You Build | by Pintu Singh | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:05.965+06:00",
+    "og:title": "📱 Responsive vs Adaptive Design in Flutter - Know the Difference Before You Build",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*_CsBo7QIboRw-8myZZ7fCQ.jpeg",
+    "og:description": "Building for mobile? Great.\nBut what happens when your user flips to landscape? Or opens your app on a tablet? Or a browser tab at 1440px?",
+    "og:url": "https://blog.pintusingh28.dev/responsive-vs-adaptive-design-in-flutter-know-the-difference-before-you-build-b374676247b8",
     "og:type": "article"
   },
   {
@@ -583,6 +671,17 @@
     "og:type": ""
   },
   {
+    "hostname": "codepen.io",
+    "url": "https://codepen.io/spark/458",
+    "title": "CodePen Spark",
+    "date": "2025-07-11T03:07:04.431+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
     "hostname": "codequestion.medium.com",
     "url": "https://codequestion.medium.com/npx-vs-npm-install-heres-when-to-use-each-with-examples-e438f51a714d",
     "title": "npx vs npm install — When to Use Which (With Examples) | Medium",
@@ -627,6 +726,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "codewithbilal.medium.com",
+    "url": "https://codewithbilal.medium.com/how-to-theme-angular-components-like-a-pro-a-complete-developers-guide-e31fe62fbbcf",
+    "title": "How to Theme Angular Components Like a Pro: A Complete Developer’s Guide | by Code With Bilal | Jul, 2025 | Medium",
+    "date": "2025-07-11T05:22:00.738+06:00",
+    "og:title": "How to Theme Angular Components Like a Pro: A Complete Developer’s Guide",
+    "og:image": "https://miro.medium.com/v2/resize:fit:664/1*UEy5ij3GIyZlqT8r_ocm1Q.png",
+    "og:description": "When building modern web applications with Angular, clean architecture and performant code matter — but visual appeal is just as important…",
+    "og:url": "https://codewithbilal.medium.com/how-to-theme-angular-components-like-a-pro-a-complete-developers-guide-e31fe62fbbcf",
+    "og:type": "article"
+  },
+  {
     "hostname": "colormoods.co",
     "url": "https://colormoods.co/",
     "title": "Color Moods | Generate pairs of colors based on the amount of stimulation you select.",
@@ -647,6 +757,17 @@
     "og:description": "",
     "og:url": "",
     "og:type": ""
+  },
+  {
+    "hostname": "css-tip.com",
+    "url": "https://css-tip.com/element-index/",
+    "title": "Get the index of an element within its parent",
+    "date": "2025-07-11T03:07:05.768+06:00",
+    "og:title": "Get the index of an element within its parent",
+    "og:image": "/og-images/4b45ceec.png",
+    "og:description": "A native CSS function to get the index of an element among its siblings within a parent element",
+    "og:url": "https://css-tip.com/element-index/",
+    "og:type": "website"
   },
   {
     "hostname": "css-tip.com",
@@ -789,6 +910,17 @@
     "og:image": "",
     "og:description": "Por que os back-ends vivem dizendo que os fronts não sabem codar",
     "og:url": "https://demgoncalves.medium.com/front-end-ainda-%C3%A9-programa%C3%A7%C3%A3o-015e48eede70",
+    "og:type": "article"
+  },
+  {
+    "hostname": "demgoncalves.medium.com",
+    "url": "https://demgoncalves.medium.com/guia-completo-de-web-components-3ab4a53c0485",
+    "title": "Guia completo de Web Components. Guia completo de Web APIs para Web… | by deMGoncalves | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:06.472+06:00",
+    "og:title": "Guia completo de Web Components",
+    "og:image": "",
+    "og:description": "Guia completo de Web APIs para Web Components",
+    "og:url": "https://demgoncalves.medium.com/guia-completo-de-web-components-3ab4a53c0485",
     "og:type": "article"
   },
   {
@@ -1222,6 +1354,28 @@
   },
   {
     "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/07/10/30-free-procreate-fire-brushes-for-creatives/",
+    "title": "30 Free Procreate Fire Brushes For Creatives - Designbeep",
+    "date": "2025-07-11T03:07:05.991+06:00",
+    "og:title": "30 Free Procreate Fire Brushes For Creatives - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/07/procreate-fire-brush.jpg",
+    "og:description": "If you're looking to add dynamic, blazing effects to your digital artwork, Procreate Fire Brushes can be a game-changer. Whether you're illustrating fantasy",
+    "og:url": "https://designbeep.com/2025/07/10/30-free-procreate-fire-brushes-for-creatives/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/07/10/50-free-sketch-pencil-brushes-for-photoshop-users/",
+    "title": "50+ Free Sketch Pencil Brushes For Photoshop Users - Designbeep",
+    "date": "2025-07-11T03:07:06.178+06:00",
+    "og:title": "50+ Free Sketch Pencil Brushes For Photoshop Users - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/07/sketch-pencil.jpg",
+    "og:description": "If you're a digital artist looking to add authentic hand-drawn charm to your work, Sketch Pencil Brushes For Photoshop are a game-changer. These versatile",
+    "og:url": "https://designbeep.com/2025/07/10/50-free-sketch-pencil-brushes-for-photoshop-users/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
     "url": "https://designbeep.com/2025/07/10/70-free-hand-drawn-comic-bubble-brushes-for-photoshop/",
     "title": "70+ Free Hand-Drawn Comic Bubble Brushes for Photoshop - Designbeep",
     "date": "2025-07-10T07:11:28.82+06:00",
@@ -1229,6 +1383,39 @@
     "og:image": "https://designbeep.com/wp-content/uploads/2025/07/comic-bubble.jpg",
     "og:description": "Photoshop comic bubble brushes are a must-have tool. These versatile speech and thought bubble brushes make it easy to inject dialogue, inner thoughts, and visual sound effects into your artwork with a single click.",
     "og:url": "https://designbeep.com/2025/07/10/70-free-hand-drawn-comic-bubble-brushes-for-photoshop/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/07/10/free-font-of-the-day-cinzel-6-font-styles/",
+    "title": "Free Font Of The Day : Cinzel (6 Font Styles) - Designbeep",
+    "date": "2025-07-11T03:07:06.237+06:00",
+    "og:title": "Free Font Of The Day : Cinzel (6 Font Styles) - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/07/featured-image-free-font.png",
+    "og:description": "This is out daily free font of the day post.",
+    "og:url": "https://designbeep.com/2025/07/10/free-font-of-the-day-cinzel-6-font-styles/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/07/11/free-font-of-the-day-alte-haas-grotesk/",
+    "title": "Free Font Of The Day : Alte Haas Grotesk - Designbeep",
+    "date": "2025-07-11T09:52:42.514+06:00",
+    "og:title": "Free Font Of The Day : Alte Haas Grotesk - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/07/free-font-featured-image-1.png",
+    "og:description": "This is out daily free font of the day post.",
+    "og:url": "https://designbeep.com/2025/07/11/free-font-of-the-day-alte-haas-grotesk/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/07/11/procreate-glitter-brush/",
+    "title": "20 Sets Of Free Procreate Glitter Brush Sets to Add Sparkle (150+ Downloads) - Designbeep",
+    "date": "2025-07-11T09:52:42.563+06:00",
+    "og:title": "20 Sets Of Free Procreate Glitter Brush Sets to Add Sparkle (150+ Downloads) - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/07/procreate-glitter-brush.jpg",
+    "og:description": "Procreate glitter brush sets are perfect for adding shimmer, sparkle, and magic to your digital artwork. Whether you’re designing dazzling lettering, dreamy",
+    "og:url": "https://designbeep.com/2025/07/11/procreate-glitter-brush/",
     "og:type": "article"
   },
   {
@@ -1310,6 +1497,17 @@
   },
   {
     "hostname": "designyoutrust.com",
+    "url": "https://designyoutrust.com/2025/07/beautiful-nature-winning-photos-from-the-2025-bigpicture-natural-world-awards/",
+    "title": "Beautiful Nature-Winning Photos from the 2025 BigPicture Natural World Awards » Design You Trust — Design Daily Since 2007",
+    "date": "2025-07-11T03:07:04.673+06:00",
+    "og:title": "Beautiful Nature-Winning Photos from the 2025 BigPicture Natural World Awards – Design You Trust — Design Daily Since 2007",
+    "og:image": "https://designyoutrust.com/wp-content/uploads/2025/07/big-picture-natural-awards-winners-2025-01.jpg",
+    "og:description": "Winner: \"Third Eye\" by Marcin Giba, Poland The 2025 BigPicture Natural World Awards have revealed a stunning array of winning photographs that celebrate the bea",
+    "og:url": "https://designyoutrust.com/2025/07/beautiful-nature-winning-photos-from-the-2025-bigpicture-natural-world-awards/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designyoutrust.com",
     "url": "https://designyoutrust.com/2025/07/beautiful-visual-storytelling-illustrations-of-lin-ye/",
     "title": "Beautiful Visual Storytelling Illustrations of Lin Ye » Design You Trust — Design Daily Since 2007",
     "date": "2025-07-07T03:32:01.023+06:00",
@@ -1343,6 +1541,17 @@
   },
   {
     "hostname": "designyoutrust.com",
+    "url": "https://designyoutrust.com/2025/07/powerful-winning-photos-from-the-2025-earth-photo-awards-expose-climate-realities/",
+    "title": "Powerful Winning Photos from the 2025 Earth Photo Awards Expose Climate Realities » Design You Trust — Design Daily Since 2007",
+    "date": "2025-07-11T03:07:04.715+06:00",
+    "og:title": "Powerful Winning Photos from the 2025 Earth Photo Awards Expose Climate Realities – Design You Trust — Design Daily Since 2007",
+    "og:image": "https://designyoutrust.com/wp-content/uploads/2025/07/earth-photo-2025-awards-winners-10.jpg",
+    "og:description": "\"Carcass of the Ice Beast\" by Liam Man. The Royal Geographical Society – Climate of Change Award Now in its eighth year, the Earth Photo Awards continue to harn",
+    "og:url": "https://designyoutrust.com/2025/07/powerful-winning-photos-from-the-2025-earth-photo-awards-expose-climate-realities/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designyoutrust.com",
     "url": "https://designyoutrust.com/2025/07/spectacular-award-winning-black-and-white-photos-from-the-2025-refocus-photography-awards/",
     "title": "Spectacular Award-Winning Black and White Photos from the 2025 reFocus Photography Awards » Design You Trust — Design Daily Since 2007",
     "date": "2025-07-03T02:02:08.09+06:00",
@@ -1361,6 +1570,17 @@
     "og:image": "https://designyoutrust.com/wp-content/uploads/2025/07/aap-magazine-2025-portrait-winners-06.jpg",
     "og:description": "1st Place Winner: \"That Place He Goes\" by Carole Mills Noronha (Australia) The 2025 AAP Magazine Awards spotlight stirring portraits that delve into the emotion",
     "og:url": "https://designyoutrust.com/2025/07/spectacular-award-winning-portraits-from-the-2025-aap-magazine-awards/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designyoutrust.com",
+    "url": "https://designyoutrust.com/2025/07/spectacular-finalist-photos-from-the-2025-astronomy-photographer-of-the-year/",
+    "title": "Spectacular Finalist Photos From The 2025 Astronomy Photographer of the Year » Design You Trust — Design Daily Since 2007",
+    "date": "2025-07-11T03:07:04.75+06:00",
+    "og:title": "Spectacular Finalist Photos From The 2025 Astronomy Photographer of the Year – Design You Trust — Design Daily Since 2007",
+    "og:image": "https://designyoutrust.com/wp-content/uploads/2025/07/astronomy-photographer-of-the-year-2025-finalists-13.jpg",
+    "og:description": "\"Blood Moon Rising Behind the City Skyscrapers\" by Tianyao Yang The 2025 ZWO Astronomy Photographer of the Year shortlist has been unveiled, featuring 21 breath",
+    "og:url": "https://designyoutrust.com/2025/07/spectacular-finalist-photos-from-the-2025-astronomy-photographer-of-the-year/",
     "og:type": "article"
   },
   {
@@ -1464,6 +1684,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-222-sum-of-all-odd-integers-in-an-array-1c11?context=digest",
+    "title": "Daily JavaScript Challenge #JS-222: Sum of All Odd Integers in an Array - DEV Community",
+    "date": "2025-07-11T02:16:00.382+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-222: Sum of All Odd Integers in an Array",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foo7tvt72vryu52hjdtbe.png",
+    "og:description": "Daily JavaScript Challenge: Sum of All Odd Integers in an Array   Hey fellow developers! 👋...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-222-sum-of-all-odd-integers-in-an-array-1c11",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/gautammanak1/building-rest-apis-with-fastapi-a-comprehensive-guide-45f8?context=digest",
     "title": "Building REST APIs with FastAPI: A Comprehensive Guide - DEV Community",
     "date": "2025-07-01T03:14:43.209+06:00",
@@ -1497,6 +1728,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/kiani0x01/how-to-create-a-nodejs-project-in-vs-code-5h7e?context=digest",
+    "title": "How to Create a Node.js Project in VS Code - DEV Community",
+    "date": "2025-07-11T02:16:00.378+06:00",
+    "og:title": "How to Create a Node.js Project in VS Code",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmateenkiani%2Fmilddev-resources%2Fmain%2Fimages%2F1751913904299_1751913904137.webp",
+    "og:description": "Creating a Node.js project in VS Code is straightforward. You can scaffold your application, set up...",
+    "og:url": "https://dev.to/kiani0x01/how-to-create-a-nodejs-project-in-vs-code-5h7e",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/kiani0x01/javascript-phone-number-formatting-a-comprehensive-guide-3o50?context=digest",
     "title": "JavaScript Phone Number Formatting: A Comprehensive Guide - DEV Community",
     "date": "2025-07-01T03:14:43.205+06:00",
@@ -1508,6 +1750,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/mene_demogul/10-mind-blowing-javascript-tricks-every-developer-should-know-506a?context=digest",
+    "title": "10 Mind-Blowing JavaScript Tricks Every Developer Should Know - DEV Community",
+    "date": "2025-07-11T02:16:00.377+06:00",
+    "og:title": "10 Mind-Blowing JavaScript Tricks Every Developer Should Know",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffzqu2mx6ufli6ddmagvi.jpeg",
+    "og:description": "JavaScript is an incredibly versatile and powerful programming language that continues to evolve and...",
+    "og:url": "https://dev.to/mene_demogul/10-mind-blowing-javascript-tricks-every-developer-should-know-506a",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/omriluz1/advanced-patterns-for-event-handling-in-browser-environments-1jk4?context=digest",
     "title": "Advanced Patterns for Event Handling in Browser Environments - DEV Community",
     "date": "2025-07-01T03:14:43.216+06:00",
@@ -1515,6 +1768,17 @@
     "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs14ohpkzxtlr9rf7zxb4.png",
     "og:description": "Advanced Patterns for Event Handling in Browser Environments            Introduction   Event...",
     "og:url": "https://dev.to/omriluz1/advanced-patterns-for-event-handling-in-browser-environments-1jk4",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/raisingpixels/bash-aliases-that-save-parent-developers-20-more-coding-time-1cl6?context=digest",
+    "title": "🚀 Bash Aliases That Save Parent Developers 20% More Coding Time - DEV Community",
+    "date": "2025-07-11T02:16:00.381+06:00",
+    "og:title": "🚀 Bash Aliases That Save Parent Developers 20% More Coding Time",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551288049-bebda4e38f71%3Fq%3D80%26w%3D1000%26h%3D420%26fit%3Dcrop",
+    "og:description": "It's 2:30 PM on a Tuesday. You've been awake since 4:32 AM (thanks, kiddo), you've just figured out...",
+    "og:url": "https://dev.to/raisingpixels/bash-aliases-that-save-parent-developers-20-more-coding-time-1cl6",
     "og:type": "article"
   },
   {
@@ -1595,6 +1859,17 @@
     "og:type": "website"
   },
   {
+    "hostname": "developer.chrome.com",
+    "url": "https://developer.chrome.com/blog/if-article",
+    "title": "CSS conditionals with the new if() function  |  Blog  |  Chrome for Developers",
+    "date": "2025-07-11T09:52:42.231+06:00",
+    "og:title": "CSS conditionals with the new if() function  |  Blog  |  Chrome for Developers",
+    "og:image": "https://developer.chrome.com/static/blog/if-article/image/if-thumb.png",
+    "og:description": "Learn about the new CSS if function, which enables a cleaner developer interface for dynamic styles like style queries and media queries.",
+    "og:url": "https://developer.chrome.com/blog/if-article",
+    "og:type": "website"
+  },
+  {
     "hostname": "dhirajalate.medium.com",
     "url": "https://dhirajalate.medium.com/css-part-1-42b0b9ac95ba",
     "title": "CSS (Part-1). Introduction | by Dhiraj alate | Jul, 2025 | Medium",
@@ -1614,6 +1889,28 @@
     "og:image": "https://cdn.dribbble.com/userupload/42791883/file/original-d8c01c2c691ac9963fbac709bb8a0882.jpg?resize=1600x1200",
     "og:description": "Learn more about June's product releases and their early impact on lead flow to designers. ",
     "og:url": "https://dribbble.com/stories/2025/06/25/work-in-progress-part-11",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dzone.com",
+    "url": "https://dzone.com/articles/where-tailwindcss-can-be-used-instead-of-bootstrap",
+    "title": "Why Tailwind CSS Can Be Used Instead of Bootstrap CSS",
+    "date": "2025-07-11T04:35:21.643+06:00",
+    "og:title": "Why Tailwind CSS Can Be Used Instead of Bootstrap CSS",
+    "og:image": "https://dz2cdn1.dzone.com/storage/article-thumb/18504772-thumb.jpg",
+    "og:description": "In this article, we'll compare Tailwind CSS and Bootstrap for UI development. Learn setup methods, pros, and integration tips for React, Next.js, and more.",
+    "og:url": "https://dzone.com/articles/where-tailwindcss-can-be-used-instead-of-bootstrap",
+    "og:type": "article"
+  },
+  {
+    "hostname": "edwarda-johnson.medium.com",
+    "url": "https://edwarda-johnson.medium.com/when-ai-has-root-access-the-command-that-could-end-everything-50d5aa276f4a",
+    "title": "When AI Has Root Access: The Command That Could End Everything | by Edward Johnson | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:05.066+06:00",
+    "og:title": "When AI Has Root Access: The Command That Could End Everything",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*SGn8ZCqBsA6wMRSbguHKAg.jpeg",
+    "og:description": "There’s a command in Unix that every seasoned system programmer fears:",
+    "og:url": "https://edwarda-johnson.medium.com/when-ai-has-root-access-the-command-that-could-end-everything-50d5aa276f4a",
     "og:type": "article"
   },
   {
@@ -1735,6 +2032,50 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*JVDVyCcjFlxRrU0DpSzxOQ.jpeg",
     "og:description": "Migrating to Angular’s standalone components offers cleaner module-less architecture, but you might encounter several common issues. Here’s…",
     "og:url": "https://eraoftech.medium.com/common-issues-and-tips-while-migrating-to-angular-standalone-components-e3e6e985130c",
+    "og:type": "article"
+  },
+  {
+    "hostname": "evanhahn.com",
+    "url": "https://evanhahn.com/how-i-build-software-quickly/",
+    "title": "How I build software quickly",
+    "date": "2025-07-11T03:07:05.229+06:00",
+    "og:title": "How I build software quickly",
+    "og:image": "",
+    "og:description": "Know how good your code needs to be for the task at hand. Start with a rough draft. Try to soften requirements if you can. Don't get distracted. Make small changes. Practice specific skills.",
+    "og:url": "https://evanhahn.com/how-i-build-software-quickly/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "faraazmohdkhan.medium.com",
+    "url": "https://faraazmohdkhan.medium.com/rag-in-2025-do-you-still-need-pre-processing-c85cedaed0ee",
+    "title": "RAG in 2025: Do You Still Need Pre-processing? | by Faraaz Khan | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:05.291+06:00",
+    "og:title": "RAG in 2025: Do You Still Need Pre-processing?",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*tw7UYYEoGSSguEqDtZ64uA.png",
+    "og:description": "Hey folks! 👋",
+    "og:url": "https://faraazmohdkhan.medium.com/rag-in-2025-do-you-still-need-pre-processing-c85cedaed0ee",
+    "og:type": "article"
+  },
+  {
+    "hostname": "freepsddownload.com",
+    "url": "https://freepsddownload.com/the-art-of-clutching-cs2-psychology-breakdown-2/",
+    "title": "The Art of Clutching: CS2 Psychology Breakdown | Fonts",
+    "date": "2025-07-11T09:52:42.254+06:00",
+    "og:title": "The Art of Clutching: CS2 Psychology Breakdown | Fonts",
+    "og:image": "",
+    "og:description": "Counter-Strike 2 (CS2) has taken the gaming world by storm, much like its predecessors. With its intricate mechanics and fast-paced gameplay, it challenges players to not only master the technical aspects of the game but also the mental strategies that can turn the tide in their favor. One of the most exhilarating and nerve-wracking aspects",
+    "og:url": "https://freepsddownload.com/the-art-of-clutching-cs2-psychology-breakdown-2/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "freepsddownload.com",
+    "url": "https://freepsddownload.com/the-art-of-clutching-cs2-psychology-breakdown/",
+    "title": "The Art of Clutching: CS2 Psychology Breakdown | Fonts",
+    "date": "2025-07-11T03:07:04.597+06:00",
+    "og:title": "The Art of Clutching: CS2 Psychology Breakdown | Fonts",
+    "og:image": "",
+    "og:description": "m m mmm m",
+    "og:url": "https://freepsddownload.com/the-art-of-clutching-cs2-psychology-breakdown/",
     "og:type": "article"
   },
   {
@@ -2068,6 +2409,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "ingrade.medium.com",
+    "url": "https://ingrade.medium.com/why-i-moved-beyond-frontend-development-and-let-ai-run-my-applications-using-mcp-servers-337e0a1e478c",
+    "title": "Why I Moved Beyond Frontend Development and Let AI Run My Applications Using MCP Servers | by inGrade | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:06.893+06:00",
+    "og:title": "Why I Moved Beyond Frontend Development and Let AI Run My Applications Using MCP Servers",
+    "og:image": "https://miro.medium.com/v2/resize:fit:735/1*MFWNSgkk6pPo39NJ4wyUsg@2x.jpeg",
+    "og:description": "For years, frontend development was a central part of building digital experiences. From crafting intuitive interfaces to optimizing responsive design, the role of the frontend engineer was…",
+    "og:url": "https://ingrade.medium.com/why-i-moved-beyond-frontend-development-and-let-ai-run-my-applications-using-mcp-servers-337e0a1e478c",
+    "og:type": "article"
+  },
+  {
     "hostname": "ishadeed.com",
     "url": "https://ishadeed.com/article/modern-css-feature-image/",
     "title": "Solved By Modern CSS: Feature Image",
@@ -2344,6 +2696,17 @@
   },
   {
     "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/71508-ai-that-s-built-for-marketing-jasper",
+    "title": "AI that’s built for marketing – Jasper on Landbook - get inspired by landing design and more",
+    "date": "2025-07-11T03:07:05.729+06:00",
+    "og:title": "AI that’s built for marketing – Jasper on Landbook - get inspired by landing design and more",
+    "og:image": "https://land-book.com/images/og-image.webp",
+    "og:description": "AI that’s built for marketing – Jasper on Landbook - get inspired by landing design and more",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "land-book.com",
     "url": "https://land-book.com/websites/77818-slate-auto-the-customizable-ev-that-works-for-you",
     "title": "SLATE Auto | The Customizable EV That Works for You on Landbook - get inspired by landing design and more",
     "date": "2025-07-09T02:39:29.213+06:00",
@@ -2575,6 +2938,39 @@
   },
   {
     "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/81281-unlikely-full-service-partner-for-building-unified-commerce",
+    "title": "Unlikely – Full-service partner for building unified commerce on Landbook - get inspired by landing design and more",
+    "date": "2025-07-11T09:52:42.38+06:00",
+    "og:title": "Unlikely – Full-service partner for building  unified commerce on Landbook - get inspired by landing design and more",
+    "og:image": "https://land-book.com/images/og-image.webp",
+    "og:description": "Unlikely – Full-service partner for building  unified commerce on Landbook - get inspired by landing design and more",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/81282-safetykit",
+    "title": "SafetyKit on Landbook - get inspired by landing design and more",
+    "date": "2025-07-11T03:07:05.647+06:00",
+    "og:title": "SafetyKit on Landbook - get inspired by landing design and more",
+    "og:image": "https://land-book.com/images/og-image.webp",
+    "og:description": "SafetyKit on Landbook - get inspired by landing design and more",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/81289-ostermoor",
+    "title": "Ostermoor on Landbook - get inspired by ecommerce design and more",
+    "date": "2025-07-11T09:52:42.357+06:00",
+    "og:title": "Ostermoor on Landbook - get inspired by ecommerce design and more",
+    "og:image": "https://land-book.com/images/og-image.webp",
+    "og:description": "Ostermoor on Landbook - get inspired by ecommerce design and more",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "land-book.com",
     "url": "https://land-book.com/websites/81291-the-content-operations-platform-relato",
     "title": "The Content Operations Platform | Relato on Landbook - get inspired by landing design and more",
     "date": "2025-07-10T04:43:00.564+06:00",
@@ -2592,6 +2988,28 @@
     "og:title": "Sofie Pavitt Face: Skincare Products for Acne Prone Skin on Landbook - get inspired by ecommerce design and more",
     "og:image": "https://land-book.com/images/og-image.webp",
     "og:description": "Sofie Pavitt Face: Skincare Products for Acne Prone Skin on Landbook - get inspired by ecommerce design and more",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/81359-creech",
+    "title": "Creech on Landbook - get inspired by portfolio design and more",
+    "date": "2025-07-11T03:07:05.685+06:00",
+    "og:title": "Creech on Landbook - get inspired by portfolio design and more",
+    "og:image": "https://land-book.com/images/og-image.webp",
+    "og:description": "Creech on Landbook - get inspired by portfolio design and more",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/81380-lottiefiles-download-free-lightweight-animations-for-website-and-apps",
+    "title": "LottieFiles: Download Free lightweight animations for website & apps. on Landbook - get inspired by landing design and more",
+    "date": "2025-07-11T09:52:42.336+06:00",
+    "og:title": "LottieFiles: Download Free lightweight animations for website & apps. on Landbook - get inspired by landing design and more",
+    "og:image": "https://land-book.com/images/og-image.webp",
+    "og:description": "LottieFiles: Download Free lightweight animations for website & apps. on Landbook - get inspired by landing design and more",
     "og:url": "",
     "og:type": ""
   },
@@ -2670,6 +3088,17 @@
     "og:image": "https://line25.com/wp-content/uploads/2021/02/email-marketing-scaled.jpg",
     "og:description": "Discover the best free website builders for small business entrepreneurs. Compare top platforms, and features to launch your startup today.",
     "og:url": "https://line25.com/articles/the-ultimate-list-of-best-free-website-builders-for-small-business/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "mailchi.mp",
+    "url": "https://mailchi.mp/webtoolsweekly/web-tools-625",
+    "title": "Web Tools #625 - JS Utilities, Git/CLI Tools, AI Tools",
+    "date": "2025-07-11T03:07:04.35+06:00",
+    "og:title": "Web Tools #625 - JS Utilities, Git/CLI Tools, AI Tools",
+    "og:image": "https://mcusercontent.com/ea228d7061e8bbfa8639666ad/images/79f99a27-f8bc-3db9-8b0a-eccf18bd0a50.png",
+    "og:description": "JavaScript Utilities, Git/GitHub & CLI Tools, AI Tools, LLMs, etc.",
+    "og:url": "http://eepurl.com/jiTZVw",
     "og:type": "article"
   },
   {
@@ -2769,6 +3198,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*1PWlcATtanmkzaXj16JjBw.png",
     "og:description": "HTML is the bones. CSS is the personality. If you’re ready to give your website a glow-up, this guide is where you start.",
     "og:url": "https://medium.com/@adamsts/make-your-site-pretty-a-friendly-introduction-to-css-3b959f712466",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@Adekola_Olawale/how-to-fix-content-overflowing-containers-in-css-4d732f064d84",
+    "title": "How to Fix Content Overflowing Containers in CSS | by Adekola Olawale | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:05.843+06:00",
+    "og:title": "How to Fix Content Overflowing Containers in CSS",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1024/1*thZOOM8aSoJjUlYKPKKD5Q.png",
+    "og:description": "Tame Overflowing Content with Smart CSS Tricks",
+    "og:url": "https://medium.com/@Adekola_Olawale/how-to-fix-content-overflowing-containers-in-css-4d732f064d84",
     "og:type": "article"
   },
   {
@@ -3070,6 +3510,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@bestowensss/from-nvm-to-fnm-an-evolution-of-node-package-management-tools-1833f3567c72",
+    "title": "From nvm to fnm: An evolution of Node package management tools | by bestcode | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:06.693+06:00",
+    "og:title": "From nvm to fnm: An evolution of Node package management tools",
+    "og:image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*r9fJiylq0Y4mG-uP",
+    "og:description": "In front-end development, Node.js version management is an issue that every developer cannot avoid.",
+    "og:url": "https://medium.com/@bestowensss/from-nvm-to-fnm-an-evolution-of-node-package-management-tools-1833f3567c72",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@bestowensss/front-end-screenshot-function-solutions-to-3-dom-to-image-problems-04fbf8b8552c",
     "title": "Front-end screenshot function, solutions to 3 dom-to-image problems | by bestcode | Jul, 2025 | Medium",
     "date": "2025-07-01T08:52:31.154+06:00",
@@ -3180,6 +3631,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@bestowensss/she-said-json-is-correct-but-i-just-cant-parse-it-i-understand-ae31be841355",
+    "title": "She said: JSON is correct, but I just can’t parse it? I understand! | by bestcode | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:06.781+06:00",
+    "og:title": "She said: JSON is correct, but I just can’t parse it? I understand!",
+    "og:image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*WgUqrN-7haMNGHao",
+    "og:description": "Opening: The night is getting darker, and the beauty is also here",
+    "og:url": "https://medium.com/@bestowensss/she-said-json-is-correct-but-i-just-cant-parse-it-i-understand-ae31be841355",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@bestowensss/stop-using-100vh-the-ultimate-solution-for-mobile-viewport-height-6a27a63be887",
     "title": "Stop using 100vh! The ultimate solution for mobile viewport height | by bestcode | Jul, 2025 | Medium",
     "date": "2025-07-08T03:19:02.083+06:00",
@@ -3198,6 +3660,17 @@
     "og:image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*SH2_GA3Dz8bxoA8-",
     "og:description": "The size of Tailwind CSS",
     "og:url": "https://medium.com/@bestowensss/tailwind-css-has-been-updated-to-4-0-is-there-a-killer-feature-you-dont-know-about-yet-7e7aedb22645",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@bestowensss/the-const-question-does-immutability-mean-that-the-value-remains-unchanged-or-the-address-1c82efab9db2",
+    "title": "The const question: Does ‘immutability’ mean that the value remains unchanged or the address remains unchanged? | by bestcode | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:06.719+06:00",
+    "og:title": "The const question: Does ‘immutability’ mean that the value remains unchanged or the address…",
+    "og:image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*cqTrmgLju7Wa8zDc",
+    "og:description": "As a front-end developer, I was always constconfused by the \"fickleness\" of ES6 when I was learning about it - why constcan I use the…",
+    "og:url": "https://medium.com/@bestowensss/the-const-question-does-immutability-mean-that-the-value-remains-unchanged-or-the-address-1c82efab9db2",
     "og:type": "article"
   },
   {
@@ -3242,6 +3715,17 @@
     "og:image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*3IoboSyEE05P1E5J",
     "og:description": "Photo by Arnold Francisca on Unsplash",
     "og:url": "https://medium.com/@bestowensss/when-window-open-068860b628aa",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@bestowensss/why-can-i-access-an-interface-through-its-domain-name-but-not-through-its-ip-address-5f949f18d1ef",
+    "title": "Why can I access an interface through its domain name but not through its IP address? | by bestcode | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:06.811+06:00",
+    "og:title": "Why can I access an interface through its domain name but not through its IP address?",
+    "og:image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*CCT3ZhgjTfK5rUKn",
+    "og:description": "Photo by Arnold Francisca on Unsplash",
+    "og:url": "https://medium.com/@bestowensss/why-can-i-access-an-interface-through-its-domain-name-but-not-through-its-ip-address-5f949f18d1ef",
     "og:type": "article"
   },
   {
@@ -3301,6 +3785,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@camila.t.prado/o-pr-mais-idiota-que-eu-j%C3%A1-abri-26536ff7dc36",
+    "title": "O PR mais idiota que eu já abri. Era meu segundo mês como dev júnior… | by Camila Prado | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:06.6+06:00",
+    "og:title": "O PR mais idiota que eu já abri",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*7gr82k6bm_YQsZ7RGeXhHg.png",
+    "og:description": "Era meu segundo mês como dev júnior numa empresa de médio porte. O sistema era um monólito em Java com um front engessado em JSP. O tipo de…",
+    "og:url": "https://medium.com/@camila.t.prado/o-pr-mais-idiota-que-eu-j%C3%A1-abri-26536ff7dc36",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@celinesoeiro/tired-of-colors-that-look-wrong-try-oklch-in-css-c3917f1ae089",
     "title": "Tired of Colors That Look Wrong? Try OKLCH in CSS | by Celine Soeiro | Jul, 2025 | Medium",
     "date": "2025-07-08T03:19:02.097+06:00",
@@ -3341,6 +3836,17 @@
     "og:image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*U-RiXVICZDWLv_fo",
     "og:description": "Next.js 15 dropped in October 2024, and it’s causing unprecedented migration waves across development teams. This isn’t just another update…",
     "og:url": "https://medium.com/@CodeOps/next-js-15-just-flipped-the-frontend-game-why-everyones-rewriting-their-sites-73d4e3e18600",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@connect-bilal/localstorage-vs-sessionstorage-whats-the-real-deal-ef0b6606d671",
+    "title": "LocalStorage vs SessionStorage: What’s the Real Deal? | by Bilal Ahmad | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:06.411+06:00",
+    "og:title": "LocalStorage vs SessionStorage: What’s the Real Deal?",
+    "og:image": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*gZ9hsJnnA780Ggw1",
+    "og:description": "If you’ve ever built a web app and needed to store some data on the browser — maybe to remember a logged-in user, cart items, or theme…",
+    "og:url": "https://medium.com/@connect-bilal/localstorage-vs-sessionstorage-whats-the-real-deal-ef0b6606d671",
     "og:type": "article"
   },
   {
@@ -3444,6 +3950,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@dev.piyushzala/top-5-projects-to-build-after-learning-next-js-e432a9e602c9",
+    "title": "Top 5 Projects to Build After Learning Next.js | by Piyush zala | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:06.515+06:00",
+    "og:title": "Top 5 Projects to Build After Learning Next.js",
+    "og:image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*cyfq1k72ECg9qkd8",
+    "og:description": "So, you’ve just wrapped up your Next.js tutorial or course. You’ve built a simple blog or maybe tinkered with a portfolio site. But what’s…",
+    "og:url": "https://medium.com/@dev.piyushzala/top-5-projects-to-build-after-learning-next-js-e432a9e602c9",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@dev.shefali7/what-is-important-in-css-and-why-you-shouldnt-use-it-c452e15141b1",
     "title": "What is !important in CSS and Why You Shouldn’t Use It | by devShefali | Jul, 2025 | Medium",
     "date": "2025-07-01T08:52:31.189+06:00",
@@ -3539,6 +4056,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*eYIoVguwe9IeauQxqx6Vpw.png",
     "og:description": "Após a proposta de adaptar uma tela do projeto pessoal para diversos tamanhos e resoluções, chegou a hora de aplicar o design responsivo…",
     "og:url": "https://medium.com/@dinalvafernandes01/ux-ui-design-m%C3%B3dulo-25-design-responsivo-avan%C3%A7ado-e-frameworks-4cc05c481c22",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@dinalvafernandes01/ux-ui-design-m%C3%B3dulo-25-projeto-de-parceria-ita%C3%BA-368080c6d35e",
+    "title": "UX UI Design — Módulo 25: Projeto de Parceria Itaú | by Dinalva Fernandes | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:04.959+06:00",
+    "og:title": "UX UI Design — Módulo 25: Projeto de Parceria Itaú",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*PIIeMFC8vrKj7BH7amHXVw.png",
+    "og:description": "Após adaptar todas as telas do projeto pessoal para diversos tamanhos e resoluções, chegou a hora de aplicar o design responsivo nas telas…",
+    "og:url": "https://medium.com/@dinalvafernandes01/ux-ui-design-m%C3%B3dulo-25-projeto-de-parceria-ita%C3%BA-368080c6d35e",
     "og:type": "article"
   },
   {
@@ -3862,6 +4390,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@irbala/designing-my-portfolio-was-personal-heres-everything-i-learned-d4e566566f1c",
+    "title": "Designing My Portfolio Was Personal — Here’s Everything I Learned | by Fay Alabri | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:04.79+06:00",
+    "og:title": "Designing My Portfolio Was Personal — Here’s Everything I Learned",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1000/0*3tc2J7oORw4zNnUb.png",
+    "og:description": "If you’ve followed my journey, you know my path into design wasn’t linear. But one thing stayed constant: my love for creating things that…",
+    "og:url": "https://medium.com/@irbala/designing-my-portfolio-was-personal-heres-everything-i-learned-d4e566566f1c",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@jamalguyo08/why-developers-struggle-with-css-and-why-its-not-css-s-fault-31094e2b744f",
     "title": "Why Developers Struggle with CSS (And Why It’s Not CSS’s Fault) | by Jamal Guyo | Jul, 2025 | Medium",
     "date": "2025-07-02T02:21:18.631+06:00",
@@ -3939,6 +4478,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@kartscrut/how-nature-shows-us-the-ux-weve-been-missing-baf685c63ba2",
+    "title": "How nature shows us the UX we’ve been missing | by Kartscrut | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:06.987+06:00",
+    "og:title": "How nature shows us the UX we’ve been missing",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*FKLKuaSMEn3r-O6IF-B6cA.jpeg",
+    "og:description": "What wildlife & BBC Planet Earth films teach us about UX",
+    "og:url": "https://medium.com/@kartscrut/how-nature-shows-us-the-ux-weve-been-missing-baf685c63ba2",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@kbqkzfn/ive-provided-images-that-appear-to-be-notes-from-a-python-programming-course-likely-from-4f9ad8781be1",
     "title": "I’ve provided images that appear to be notes from a Python programming course, likely from… | by Mary Jean | Jul, 2025 | Medium",
     "date": "2025-07-02T07:40:04.107+06:00",
@@ -3979,6 +4529,17 @@
     "og:image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*N8_zG0uVlEC-e9EB",
     "og:description": "Are you still writing CSS the old-fashioned way, or have you embraced the utility-first revolution? Let’s talk facts, experience, and code",
     "og:url": "https://medium.com/@ksonuraj1/tailwind-vs-handcrafted-css-the-ultimate-frontend-developer-showdown-5c5f4de83784",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@lakshaykapoor08/frontend-testing-101-how-i-use-jest-to-test-react-components-efficiently-e55f5cdce90b",
+    "title": "🧪 Frontend Testing 101: How I Use Jest to Test React Components Efficiently | by Lakshaykapoor | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:06.572+06:00",
+    "og:title": "🧪 Frontend Testing 101: How I Use Jest to Test React Components Efficiently",
+    "og:image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*u83b1i4qzUEPXyAF",
+    "og:description": "Build confidence in your UI — one test at a time",
+    "og:url": "https://medium.com/@lakshaykapoor08/frontend-testing-101-how-i-use-jest-to-test-react-components-efficiently-e55f5cdce90b",
     "og:type": "article"
   },
   {
@@ -4291,6 +4852,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@oguzhancart1/frontend-ve-mobil-geli%C5%9Ftiriciler-i%CC%87%C3%A7in-bilinmesi-gereken-26-%C3%BCcretsiz-ve-a%C3%A7%C4%B1k-kaynak-ara%C3%A7-9956a95a4939",
+    "title": "FrontEnd ve Mobil Geliştiriciler İçin Bilinmesi Gereken 26 Ücretsiz ve Açık Kaynak Araç | by OĞUZHAN ÇART | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:06.285+06:00",
+    "og:title": "FrontEnd ve Mobil Geliştiriciler İçin Bilinmesi Gereken 26 Ücretsiz ve Açık Kaynak Araç",
+    "og:image": "",
+    "og:description": "Selamlar frontend ve mobil geliştiriciler için kullanılan en çok frontend araçları ve mobil geliştirici kaynakları bu yazımda…",
+    "og:url": "https://medium.com/@oguzhancart1/frontend-ve-mobil-geli%C5%9Ftiriciler-i%CC%87%C3%A7in-bilinmesi-gereken-26-%C3%BCcretsiz-ve-a%C3%A7%C4%B1k-kaynak-ara%C3%A7-9956a95a4939",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@omermemes83/htmlde-rel-%C3%B6zniteli%C4%9Fi-ger%C3%A7ek-hayat-senaryolar%C4%B1yla-kullan%C4%B1m-k%C4%B1lavuzu-80b38576a84a",
     "title": "HTML’de rel Özniteliği: Gerçek Hayat Senaryolarıyla Kullanım Kılavuzu | by Ömer MEMES | Jul, 2025 | Medium",
     "date": "2025-07-07T03:33:29.177+06:00",
@@ -4342,6 +4914,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:800/1*WC3bqkYHWS0c2pcjDTjy2Q.png",
     "og:description": "Explore advanced Redux Toolkit Query APIs — skip, refetch, invalidateCache, tags, retries, and more.",
     "og:url": "https://medium.com/@partharoylive/advanced-redux-toolkit-apis-skip-refetch-invalidatecache-tags-retries-more-225b6f136b15",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@pascalokereke18/will-vercel-allow-the-monolithic-service-for-the-back-end-guys-f8db52a945ef",
+    "title": "Will Vercel allow the Monolithic service for the Back-End guys | by Pascalokereke | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:06.831+06:00",
+    "og:title": "Will Vercel allow the Monolithic service for the Back-End guys",
+    "og:image": "https://miro.medium.com/v2/resize:fit:828/1*qfzxWwhdMFmNvJjb3iBNxQ@2x.jpeg",
+    "og:description": "Really it’s frustrating going to Vercel and typing the .vercelignore on your source code editor. How annoying right? I don’t like treating my tree structures differently, let it deploy all. Why would…",
+    "og:url": "https://medium.com/@pascalokereke18/will-vercel-allow-the-monolithic-service-for-the-back-end-guys-f8db52a945ef",
     "og:type": "article"
   },
   {
@@ -4643,6 +5226,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@senior-debugger/using-atomic-design-in-vue-the-best-approach-for-scalable-component-architecture-dc62c6685827",
+    "title": "Using atomic design in Vue: The best approach for scalable component architecture | by Dmitrii Zakharov | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:06.328+06:00",
+    "og:title": "Using atomic design in Vue: The best approach for scalable component architecture",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1000/1*fAwnk6r3SdICLs9pUqZzsw.png",
+    "og:description": "Selecting the appropriate architecture is crucial in any frontend project. A poorly chosen structure can transform even a small application…",
+    "og:url": "https://medium.com/@senior-debugger/using-atomic-design-in-vue-the-best-approach-for-scalable-component-architecture-dc62c6685827",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@sensaurabh1212/building-a-high-performance-chat-application-architecture-engineering-at-scale-jiomeet-9d539a3dcda8",
     "title": "Building a High-Performance Chat Application: Architecture & Engineering at Scale (JioMeet Enterprise🤫) | by Saurabh Sen | Jul, 2025 | Medium",
     "date": "2025-07-02T10:10:24.316+06:00",
@@ -4753,6 +5347,28 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@somesh_81304/why-kronoryx-is-the-website-ui-ux-design-company-your-business-needs-in-2025-438f364daedb",
+    "title": "Best Website UI/UX Design Company Today | Medium",
+    "date": "2025-07-11T05:38:54.247+06:00",
+    "og:title": "Why Kronoryx is the Website UI/UX Design Company Your Business Needs in 2025?",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*zF-LU-2EfQpe7Xl0XEwuhg.jpeg",
+    "og:description": "In a digital world where user attention spans are shrinking by the alternate, the way your website looks and feels isn’t just a matter of…",
+    "og:url": "https://medium.com/@somesh_81304/why-kronoryx-is-the-website-ui-ux-design-company-your-business-needs-in-2025-438f364daedb",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@specy.dev/automatic-text-color-from-background-in-css-bb0cd63e0657",
+    "title": "Automatic text color from background in CSS | by Specy Dev | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:06.661+06:00",
+    "og:title": "Automatic text color from background in CSS",
+    "og:image": "",
+    "og:description": "Creating a CSS rule that automatically changes the text color based on the background color of the element.",
+    "og:url": "https://medium.com/@specy.dev/automatic-text-color-from-background-in-css-bb0cd63e0657",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@specy.dev/liquid-glass-in-the-browser-74433493322e",
     "title": "Liquid Glass in the Browser. An approach at making Apple’s Liquid… | by Specy Dev | Jul, 2025 | Medium",
     "date": "2025-07-10T04:43:01.289+06:00",
@@ -4804,6 +5420,17 @@
     "og:image": "",
     "og:description": "DOM Nedir?",
     "og:url": "https://medium.com/@sudeopann/web-progamlama-notlar%C4%B1-part-1-05f4e5970b5a",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@talhaawan78654321/is-angular-still-worth-it-in-2025-what-i-learned-after-100-000-lines-of-code-d31d7dfbba4e",
+    "title": "Is Angular Still Worth It in 2025? What I Learned After 100,000 Lines of Code | by Talha awan | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:06.864+06:00",
+    "og:title": "Is Angular Still Worth It in 2025? What I Learned After 100,000 Lines of Code",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*5bHcgAElZQi8Pw0OqZi-ng.png",
+    "og:description": "You’ve been hearing the Angular vs React vs Vue war for years. But what does working on 100K+ lines of Angular code actually teach you?",
+    "og:url": "https://medium.com/@talhaawan78654321/is-angular-still-worth-it-in-2025-what-i-learned-after-100-000-lines-of-code-d31d7dfbba4e",
     "og:type": "article"
   },
   {
@@ -4885,6 +5512,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@thilina01/from-input-to-inject-a-developers-guide-to-angular-s-most-powerful-keywords-d0817c6da26a",
+    "title": "From @Input to inject() — A Developer’s Guide to Angular’s Most Powerful Keywords | by Thilina Ranathunga | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:06.372+06:00",
+    "og:title": "From @Input to inject() — A Developer’s Guide to Angular’s Most Powerful Keywords",
+    "og:image": "",
+    "og:description": "I’ve worked with Angular long enough to know that understanding its syntax is one thing,  but really getting what certain keywords do (and…",
+    "og:url": "https://medium.com/@thilina01/from-input-to-inject-a-developers-guide-to-angular-s-most-powerful-keywords-d0817c6da26a",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@utpanna828/part-2-intermediate-css-theory-questions-06004aa78948",
     "title": "🎨Part 2:Intermediate CSS Theory Questions | by Utpanna Pradhan | Jul, 2025 | Medium",
     "date": "2025-07-02T02:21:19.119+06:00",
@@ -4914,6 +5552,17 @@
     "og:image": "",
     "og:description": "“CSS Grid Layout is the most powerful layout system available in CSS.”\n — MDN Web Docs",
     "og:url": "https://medium.com/@velansivasankaran15/mastering-css-grid-the-future-of-modern-web-layouts-f974d3f1f1d7",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@vioscott/8-tiny-css-js-tweaks-that-make-your-app-feel-instant-81ea66d9af3d",
+    "title": "8 Tiny CSS & JS Tweaks That Make Your App Feel Instant | by Victor Onyedikachi | Jul, 2025 | Medium",
+    "date": "2025-07-11T04:39:57.751+06:00",
+    "og:title": "8 Tiny CSS & JS Tweaks That Make Your App Feel Instant",
+    "og:image": "https://miro.medium.com/v2/resize:fit:783/1*poAHu8EDj5FQ2nejLO30wA.jpeg",
+    "og:description": "In an era when every millisecond counts, optimizing perceived performance isn’t just a bonus, it’s essential. this article talks about 8…",
+    "og:url": "https://medium.com/@vioscott/8-tiny-css-js-tweaks-that-make-your-app-feel-instant-81ea66d9af3d",
     "og:type": "article"
   },
   {
@@ -5013,6 +5662,28 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/0*0QdcHjYN-j_RywNL.jpg",
     "og:description": "A Frontend Engineer’s Perspective: How I Optimise SEO in React",
     "og:url": "https://medium.com/@YAKStack/seo-in-react-13829de02802",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@yusufeminirki/%EF%B8%8F-react-vs-vue-which-frontend-framework-should-you-learn-in-2025-6ef1836934ab",
+    "title": "⚔️ React vs Vue | Which Frontend Framework Should You Learn In 2025? 🚀 | by Yusuf Emin IRKI | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:07.062+06:00",
+    "og:title": "⚔️ React vs Vue | Which Frontend Framework Should You Learn In 2025? 🚀",
+    "og:image": "",
+    "og:description": "Choosing A Frontend Framework Today Is Like Choosing A Superpower — Both React And Vue Are Legendary 💥\n But Which One Should You Master…",
+    "og:url": "https://medium.com/@yusufeminirki/%EF%B8%8F-react-vs-vue-which-frontend-framework-should-you-learn-in-2025-6ef1836934ab",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@zainabrajizz/how-to-add-multiple-languages-to-your-app-internationalisation-i18n-fbf039b0360f",
+    "title": "How to Add Multiple Languages to Your App — Internationalisation (i18n) | by Zainab Raji | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:07.008+06:00",
+    "og:title": "How to Add Multiple Languages to Your App — Internationalisation (i18n)",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*OkFS_ycz0QQVZ0PmLM31Ow.jpeg",
+    "og:description": "Ever built an app and then realised you need it in Spanish? Or French? If you hardcoded all your text like “Welcome!” and “Sign up”…",
+    "og:url": "https://medium.com/@zainabrajizz/how-to-add-multiple-languages-to-your-app-internationalisation-i18n-fbf039b0360f",
     "og:type": "article"
   },
   {
@@ -5215,6 +5886,39 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/full-stack-forge/7-tailwindcss-utilities-youre-probably-underusing-a74896c7efde",
+    "title": "7 TailwindCSS Utilities You’re Probably Underusing | by Daniel Scott | Full Stack Forge | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:06.628+06:00",
+    "og:title": "7 TailwindCSS Utilities You’re Probably Underusing",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1000/1*aoGjIjrz6VXyKMUDA02O7w.png",
+    "og:description": "Stop Blaming Tailwind for Ugly UIs — You’re Just Ignoring These Gems",
+    "og:url": "https://medium.com/full-stack-forge/7-tailwindcss-utilities-youre-probably-underusing-a74896c7efde",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/instapro-technology-blog/how-we-made-our-design-system-accessible-78ba016edabb",
+    "title": "How We Made Our Design System Accessible | by Behnam Azimi | Instapro Technology Blog | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:06.934+06:00",
+    "og:title": "How We Made Our Design System Accessible",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*DCnEjlTK6479mjNS0Sl9yA.png",
+    "og:description": "Introduction",
+    "og:url": "https://medium.com/instapro-technology-blog/how-we-made-our-design-system-accessible-78ba016edabb",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/lefe-dev/why-you-should-hide-promo-code-fields-in-checkout-and-what-to-do-instead-41decf27da34",
+    "title": "💸 Why You Should Hide Promo Code Fields in Checkout (and what to do instead) | by Denys Kozak | Lefe.dev | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:06.541+06:00",
+    "og:title": "💸 Why You Should Hide Promo Code Fields in Checkout (and what to do instead)",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*w7wYWlu2-q4_CU3nwYns1g.jpeg",
+    "og:description": "You’re probably losing sales, not making them, by showing that coupon input.",
+    "og:url": "https://medium.com/lefe-dev/why-you-should-hide-promo-code-fields-in-checkout-and-what-to-do-instead-41decf27da34",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/must-read-digest/why-learning-web-development-is-still-a-smart-move-in-the-ai-era-c8de5158c1bf",
     "title": "Why Learning Web Development Is Still a Smart Move in the AI Era | by Ava Rose | Must-Read Digest | Jul, 2025 | Medium",
     "date": "2025-07-07T03:33:30.426+06:00",
@@ -5321,6 +6025,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*4h_FAceQdt1zd1BTqfnYXQ.png",
     "og:description": "Creating policies shouldn’t feel like writing a novel. But that’s exactly how users felt when they encountered our old policy creation…",
     "og:url": "https://medium.muz.li/the-admins-were-overwhelmed-the-form-was-the-problem-11ce8f244c6e",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.muz.li",
+    "url": "https://medium.muz.li/weekly-designers-update-513-57ff76e6953b",
+    "title": "Weekly Designers Update #513. Your weekly dose of design inspiration… | by Muzli | Jul, 2025 | Muzli - Design Inspiration",
+    "date": "2025-07-11T03:07:05.875+06:00",
+    "og:title": "Weekly Designers Update #513",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*DGFCtfQaGz7o4dQdQ1WKuQ.png",
+    "og:description": "Your weekly dose of design inspiration, featuring the hottest projects, must-have tools, and game-changing products.",
+    "og:url": "https://medium.muz.li/weekly-designers-update-513-57ff76e6953b",
     "og:type": "article"
   },
   {
@@ -5479,6 +6194,17 @@
   },
   {
     "hostname": "onepagelove.com",
+    "url": "https://onepagelove.com/derek-orr",
+    "title": "Derek Orr - One Page Website Award",
+    "date": "2025-07-11T09:52:42.309+06:00",
+    "og:title": "Derek Orr - One Page Website Award",
+    "og:image": "https://onepagelove.imgix.net/2025/07/opl-master-derek.jpg?w=1200&fit=crop&h=675&crop=focalpoint&fp-y=0&auto=compress&blur=400&mark64=aHR0cHM6Ly9vbmVwYWdlbG92ZS5pbWdpeC5uZXQvMjAyNS8wNy9vcGwtbWFzdGVyLWRlcmVrLmpwZz93PTk2MCZmaXQ9Y3JvcCZoPTEyMDAmY3JvcD1mb2NhbHBvaW50JmZwLXo9MSZmcC15PTAmYm9yZGVyPTQsMEZGRiZib3JkZXItcmFkaXVzPTQsNCw0LDQmYm9yZGVyLXJhZGl1cy1pbm5lcj00LDQsNCw0JmZtPXBuZw==&mark-align=center&exp=-6&mark-y=120",
+    "og:description": "Striking first impression in this One Page portfolio (built with Wix) for Derek Orr, where bold intro text masks a vibrant, shifting background. Also fun touch with the Easter Egg in the footer featuring a passion project of his ;)",
+    "og:url": "https://onepagelove.com/derek-orr",
+    "og:type": "website"
+  },
+  {
+    "hostname": "onepagelove.com",
     "url": "https://onepagelove.com/endless-2025",
     "title": "Endless - One Page Website Award",
     "date": "2025-07-08T03:19:03.092+06:00",
@@ -5563,6 +6289,17 @@
     "og:image": "https://onepagelove.imgix.net/2025/07/opl-master-4.jpg?w=1200&fit=crop&h=675&crop=focalpoint&fp-y=0&auto=compress&blur=400&mark64=aHR0cHM6Ly9vbmVwYWdlbG92ZS5pbWdpeC5uZXQvMjAyNS8wNy9vcGwtbWFzdGVyLTQuanBnP3c9OTYwJmZpdD1jcm9wJmg9MTIwMCZjcm9wPWZvY2FscG9pbnQmZnAtej0xJmZwLXk9MCZib3JkZXI9NCwwRkZGJmJvcmRlci1yYWRpdXM9NCw0LDQsNCZib3JkZXItcmFkaXVzLWlubmVyPTQsNCw0LDQmZm09cG5n&mark-align=center&exp=-6&mark-y=120",
     "og:description": "One Pager collecting sign-ups for Will Paterson’s newsletter. The narrow layout (530px) works well – clear list segmentation, a prominent author photo, bonus resources, and a personal touch with his signature at the end.",
     "og:url": "https://onepagelove.com/will-paterson-newsletter",
+    "og:type": "website"
+  },
+  {
+    "hostname": "piccalil.li",
+    "url": "https://piccalil.li/blog/a-revisit-of-the-every-layout-sidebar-with-has-and-selector-performance/",
+    "title": "A revisit of the Every Layout sidebar with :has() and selector performance - Piccalilli",
+    "date": "2025-07-11T03:07:04.473+06:00",
+    "og:title": "A revisit of the Every Layout sidebar with :has() and selector performance",
+    "og:image": "https://api.urlbox.io/v1/ln9ptArKXobLRpDQ/a6cec5ea96a99d5f6ad8595819ba29300da113ba9bc3c92573401fb149d58484/png?url=https://piccalil.li/og/a-revisit-of-the-every-layout-sidebar-with-has-and-selector-performance/&width=1024&height=526&retina=true",
+    "og:description": "Heydon Pickering takes a fresh look the Every Layout Sidebar layout, 6 years on, to see if modern CSS selectors can improve it.",
+    "og:url": "https://piccalil.li/blog/a-revisit-of-the-every-layout-sidebar-with-has-and-selector-performance/",
     "og:type": "website"
   },
   {
@@ -5918,6 +6655,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "theanukiranghosh.medium.com",
+    "url": "https://theanukiranghosh.medium.com/javascript-the-interesting-bits-part-1-2d875208af65",
+    "title": "Javascript — the interesting bits (Part-1) | by Anukiran Ghosh | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:06.44+06:00",
+    "og:title": "Javascript — the interesting bits (Part-1)",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1186/1*6gQE3Iva4d9ZUwozHKkz5g.png",
+    "og:description": "Just imagine the web without javascript, how boring everything would be?",
+    "og:url": "https://theanukiranghosh.medium.com/javascript-the-interesting-bits-part-1-2d875208af65",
+    "og:type": "article"
+  },
+  {
     "hostname": "thiraphat-ps-dev.medium.com",
     "url": "https://thiraphat-ps-dev.medium.com/%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%A1-frontend-developer-%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-system-design-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%88%E0%B8%B0%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A3-989a61357209",
     "title": "ทำไม Frontend Developer ถึงต้องรู้เรื่อง System Design? (และจะเริ่มต้นอย่างไร) | by Thiraphat Phutson | Jul, 2025 | Medium",
@@ -5937,6 +6685,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*3D7QtfehxzNWZEn8mIxEhA.png",
     "og:description": "When you hear the term ‘System Design’, the image that probably comes to mind is one of backends, databases, microservices, load balancers…",
     "og:url": "https://thiraphat-ps-dev.medium.com/why-frontend-developers-need-to-know-system-design-and-how-to-get-started-dc876b7fa1ae",
+    "og:type": "article"
+  },
+  {
+    "hostname": "tianyaschool.medium.com",
+    "url": "https://tianyaschool.medium.com/typescript-advanced-type-techniques-generics-union-and-intersection-types-516ae8a5c537",
+    "title": "TypeScript Advanced Type Techniques Generics, Union, and Intersection Types | by Tianya School | Jul, 2025 | Medium",
+    "date": "2025-07-11T03:07:07.038+06:00",
+    "og:title": "TypeScript Advanced Type Techniques Generics, Union, and Intersection Types",
+    "og:image": "https://miro.medium.com/v2/resize:fit:692/1*gJr_S9iDOaQkYLLI7RgbYg.png",
+    "og:description": "Generics",
+    "og:url": "https://tianyaschool.medium.com/typescript-advanced-type-techniques-generics-union-and-intersection-types-516ae8a5c537",
     "og:type": "article"
   },
   {
@@ -6003,6 +6762,17 @@
     "og:image": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2025/07/codrops-kinetic-images-thumbnail.jpg?x54478",
     "og:description": "Bring static visuals to life with rotating textures, 3D geometry, and smooth motion powered by React Three Fiber.",
     "og:url": "https://tympanus.net/codrops/2025/07/09/how-to-create-kinetic-image-animations-with-react-three-fiber/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "tympanus.net",
+    "url": "https://tympanus.net/codrops/2025/07/10/three-js-instances-rendering-multiple-objects-simultaneously/",
+    "title": "Three.js Instances: Rendering Multiple Objects Simultaneously | Codrops",
+    "date": "2025-07-11T03:07:04.644+06:00",
+    "og:title": "Three.js Instances: Rendering Multiple Objects Simultaneously | Codrops",
+    "og:image": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2025/07/forest_featured.jpg?x92917",
+    "og:description": "Learn how to render thousands of 3D objects efficiently using instancing in React Three Fiber, as demonstrated in the performance-optimized basement.studio site.",
+    "og:url": "https://tympanus.net/codrops/2025/07/10/three-js-instances-rendering-multiple-objects-simultaneously/",
     "og:type": "article"
   },
   {
@@ -6667,6 +7437,17 @@
   },
   {
     "hostname": "wf-blog-2021.webflow.io",
+    "url": "https://wf-blog-2021.webflow.io/blog/celebrating-disability-pride-month",
+    "title": "Celebrating Disability Pride Month: Building for everyone, by everyone",
+    "date": "2025-07-11T03:07:06.133+06:00",
+    "og:title": "Celebrating Disability Pride Month: Building for everyone, by everyone | Webflow Blog",
+    "og:image": "https://cdn.prod.website-files.com/6009ec8cda7f305645c9d91b/66e0921e61005e0105d1d2aa_ENGINEERING_DesignBlogHeader_2400x1260-1-5.png",
+    "og:description": "Building an accessible web at Webflow: how our engineers bake inclusion, empathy, and WCAG 2.2 standards into the foundation of our platform.",
+    "og:url": "https://webflow.com/blog/celebrating-disability-pride-month",
+    "og:type": "website"
+  },
+  {
+    "hostname": "wf-blog-2021.webflow.io",
     "url": "https://wf-blog-2021.webflow.io/blog/cloudflare-ai-control",
     "title": "Working with Cloudflare to give website owners more control over AI bots",
     "date": "2025-07-02T02:21:17.91+06:00",
@@ -6674,6 +7455,28 @@
     "og:image": "https://cdn.prod.website-files.com/6009ec8cda7f305645c9d91b/6862ec75e533c5cd63a0fbf6_MARKETING_12_DesignBlogHeader_2400x1260.png",
     "og:description": "Together with Cloudflare, Webflow will help teams control how their digital content is accessed and reused online.",
     "og:url": "https://webflow.com/blog/cloudflare-ai-control",
+    "og:type": "website"
+  },
+  {
+    "hostname": "wf-blog-2021.webflow.io",
+    "url": "https://wf-blog-2021.webflow.io/blog/gsap-splittext-rewrite",
+    "title": "Adventures in text splitting: GSAP&#39;s SplitText rewrite",
+    "date": "2025-07-11T03:07:06.059+06:00",
+    "og:title": "Adventures in text splitting: GSAP's SplitText rewrite | Webflow Blog",
+    "og:image": "https://cdn.prod.website-files.com/6009ec8cda7f305645c9d91b/6741169b9ee6142d1b12694d_ENGINEERING_DesignBlogHeader_2400x1260-1-2.png",
+    "og:description": "Technical challenges, solutions, and takeaways gleaned while rebuilding one of GSAP's most popular plugins",
+    "og:url": "https://webflow.com/blog/gsap-splittext-rewrite",
+    "og:type": "website"
+  },
+  {
+    "hostname": "wf-blog-2021.webflow.io",
+    "url": "https://wf-blog-2021.webflow.io/blog/how-webflow-cut-ci-costs-by-a-third",
+    "title": "How Webflow cut CI costs by a third",
+    "date": "2025-07-11T03:07:06.024+06:00",
+    "og:title": "How Webflow cut CI costs by a third | Webflow Blog",
+    "og:image": "https://cdn.prod.website-files.com/6009ec8cda7f305645c9d91b/6750a0e0d2ef1f3231ee4c80_ai-traps-hero.png",
+    "og:description": "Infrastructure bottlenecks, smart cost-saving strategies, and lessons learned from optimizing Webflow’s CI system at scale.",
+    "og:url": "https://webflow.com/blog/how-webflow-cut-ci-costs-by-a-third",
     "og:type": "website"
   },
   {
@@ -6710,6 +7513,17 @@
     "og:type": "website"
   },
   {
+    "hostname": "wf-blog-2021.webflow.io",
+    "url": "https://wf-blog-2021.webflow.io/blog/webflow-interactions-with-gsap",
+    "title": "Unlock GSAP-powered motion — visually in Webflow",
+    "date": "2025-07-11T03:07:06.095+06:00",
+    "og:title": "Unlock GSAP-powered motion — visually in Webflow | Webflow Blog",
+    "og:image": "https://cdn.prod.website-files.com/6009ec8cda7f305645c9d91b/686eb75ea0f3e6bf9031d520_blog_ix3_hero_2400x1260.jpg",
+    "og:description": "Unlock visual-first motion development, a new horizontal timeline, reusable interactions, & more with Webflow’s newest version of Interactions, powered by GSAP.",
+    "og:url": "https://webflow.com/blog/webflow-interactions-with-gsap",
+    "og:type": "website"
+  },
+  {
     "hostname": "whydesignishard.substack.com",
     "url": "https://whydesignishard.substack.com/p/how-to-convince-leaders-to-try-new",
     "title": "How to convince leaders to try new ideas - by Scott Berkun",
@@ -6718,6 +7532,17 @@
     "og:image": "https://substackcdn.com/image/fetch/$s_!Qhdf!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0da782ac-c376-46eb-8d63-06ea7059e3fa_192x192.png",
     "og:description": "Powerful people are conservative, but you can use this to your advantage",
     "og:url": "https://whydesignishard.substack.com/p/how-to-convince-leaders-to-try-new",
+    "og:type": "article"
+  },
+  {
+    "hostname": "wisdomdigitalmarketing.com",
+    "url": "https://wisdomdigitalmarketing.com/search-engine-optimization/",
+    "title": "Search Engine Optimization - Wisdom Digital Marketing No.1 Digital Marketing Agency",
+    "date": "2025-07-11T03:14:26.486+06:00",
+    "og:title": "Search Engine Optimization - Wisdom Digital Marketing No.1 Digital Marketing Agency",
+    "og:image": "https://wisdomdigitalmarketing.com/wp-content/uploads/2016/12/mac-book.png",
+    "og:description": "Boost your online visibility with expert Search Engine Optimization services focused on driving traffic, leads, and real results.",
+    "og:url": "https://wisdomdigitalmarketing.com/search-engine-optimization/",
     "og:type": "article"
   },
   {
@@ -6750,6 +7575,17 @@
     "og:title": "Convert between binary and decimal numbers in JavaScript - 30 seconds of code",
     "og:image": "https://www.30secondsofcode.org/assets/cover/interior-18-800.webp",
     "og:description": "Binary numbers are a fundamental part of computer science. Learn how to convert between binary and decimal numbers in JavaScript.",
+    "og:url": "",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.30secondsofcode.org",
+    "url": "https://www.30secondsofcode.org/js/s/undirected-tree-from-edges/",
+    "title": "How can I build an undirected tree from an array of edges in JavaScript? - 30 seconds of code",
+    "date": "2025-07-11T03:07:04.817+06:00",
+    "og:title": "How can I build an undirected tree from an array of edges in JavaScript? - 30 seconds of code",
+    "og:image": "https://www.30secondsofcode.org/assets/cover/walking-sunrise-800.webp",
+    "og:description": "Learn how to build an undirected tree from an array of edges in JavaScript, with various approaches for storing node relationships.",
     "og:url": "",
     "og:type": "article"
   },
@@ -6861,6 +7697,17 @@
     "og:image": "https://assets.awwwards.com/awards/submissions/2025/03/67eaafc000aab763790895.png",
     "og:description": "At the crossroads of consulting & advertising, we design cultural innovations that create value and cross channel communications that\u2028spark conversations.",
     "og:url": "https://www.awwwards.com/sites/homerun",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.awwwards.com",
+    "url": "https://www.awwwards.com/sites/myhealthprac",
+    "title": "MyHealthPrac - Awwwards SOTD",
+    "date": "2025-07-11T09:52:42.433+06:00",
+    "og:title": "MyHealthPrac - Awwwards SOTD",
+    "og:image": "https://assets.awwwards.com/awards/submissions/2025/05/6831b1fb43964076989532.png",
+    "og:description": "Instantly interpret blood work, identify functional patterns, and deliver personalized care for practitioners and patients.",
+    "og:url": "https://www.awwwards.com/sites/myhealthprac",
     "og:type": "website"
   },
   {
@@ -7030,6 +7877,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/3d/video-game-design/this-cosy-indie-game-lets-you-decorate-tiny-dioramas-built-entirely-from-free-assets-anyone-can-use",
+    "title": "This cosy indie game lets you decorate tiny dioramas, built entirely from free assets anyone can use | Creative Bloq",
+    "date": "2025-07-11T09:52:42.238+06:00",
+    "og:title": "I'm going to lose hours decorating tiny dioramas in this cosy indie game – and the dev gives away thousands of free assets",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/eG2p8X53U9yUXsvBR3ToqL.jpg",
+    "og:description": "Dev Kenney Vleugels channels his inner architect.",
+    "og:url": "https://www.creativebloq.com/3d/video-game-design/this-cosy-indie-game-lets-you-decorate-tiny-dioramas-built-entirely-from-free-assets-anyone-can-use",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/3d/video-game-design/your-old-brick-phone-is-now-a-quirky-retro-video-game-character",
     "title": "Your old brick phone makes a surprisingly brilliant retro video game character | Creative Bloq",
     "date": "2025-07-03T10:06:45.431+06:00",
@@ -7048,6 +7906,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/Q6J6U7nJfSaFPADfmzY3pR.jpg",
     "og:description": "The Samsung Galaxy S25 is packed with so many next-gen AI features that you may not be aware of them all.",
     "og:url": "https://www.creativebloq.com/ai/8-hidden-galaxy-ai-features-that-make-buying-the-samsung-s25-so-worth-it",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/ai/ai-art/ai-credit-anxiety-is-dead-freepiks-unlimited-ai-video-tools-are-a-game-changer-for-creators",
+    "title": "AI 'credit anxiety' is dead – Freepik's unlimited AI video tools are a game-changer for creators | Creative Bloq",
+    "date": "2025-07-11T03:07:04.988+06:00",
+    "og:title": "This AI platform just killed credit limits – now I’m making videos without looking back",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/EhJBLwBCjxYEDv446NrR8i.png",
+    "og:description": "I'm no longer punished for being creative.",
+    "og:url": "https://www.creativebloq.com/ai/ai-art/ai-credit-anxiety-is-dead-freepiks-unlimited-ai-video-tools-are-a-game-changer-for-creators",
     "og:type": "article"
   },
   {
@@ -7151,6 +8020,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/art/digital-art/exploring-africas-growing-comic-culture-opened-my-eyes-to-bold-new-art-and-storytelling",
+    "title": "Exploring Africa’s growing comic culture opened my eyes to bold new art and storytelling | Creative Bloq",
+    "date": "2025-07-11T03:07:05.58+06:00",
+    "og:title": "From stunning art to powerful stories – how Africa’s comic scene reignited my love for the medium",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/nedMvCjKFPzYwZSrdSRPb.jpg",
+    "og:description": "These artists are rewriting the rules.",
+    "og:url": "https://www.creativebloq.com/art/digital-art/exploring-africas-growing-comic-culture-opened-my-eyes-to-bold-new-art-and-storytelling",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/art/digital-art/i-explore-the-english-countryside-through-the-eyes-of-7-incredible-digital-artists-heres-what-i-discovered",
     "title": "I explore the English countryside through the eyes of 7 incredible digital artists – here's what I discovered | Creative Bloq",
     "date": "2025-07-01T02:11:32.203+06:00",
@@ -7228,6 +8108,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/art/digital-art/xencelabs-pen-display-16-is-the-best-wacom-alt-ive-tested-now-its-finally-on-sale",
+    "title": "Xencelabs Pen Display 16 is the best Wacom alt I’ve tested – now it’s finally on sale | Creative Bloq",
+    "date": "2025-07-11T03:07:04.861+06:00",
+    "og:title": "Want Wacom without the price tag? This brilliant Xencelabs drawing tablet is finally on sale",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/Xr6XaA2jmnjaEetbRSamSi.jpg",
+    "og:description": "A rare price drop.",
+    "og:url": "https://www.creativebloq.com/art/digital-art/xencelabs-pen-display-16-is-the-best-wacom-alt-ive-tested-now-its-finally-on-sale",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/art/ed-sheerans-new-artwork-is-raising-eyebrows",
     "title": "Ed Sheeran's new artwork is raising eyebrows | Creative Bloq",
     "date": "2025-07-09T09:23:40.145+06:00",
@@ -7290,6 +8181,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/cH4MfD3eiRYREg4yfK4qn4.jpg",
     "og:description": "Fans are sick of AI slop.",
     "og:url": "https://www.creativebloq.com/creative-inspiration/advertising/the-cat-in-the-hat-receives-scathing-ai-allegations-for-garbage-ad-campaign",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/creative-inspiration/advertising/these-ingenious-mcdonalds-ads-are-a-rodeo-of-optical-illusions",
+    "title": "These ingenious McDonald's ads are a rodeo of optical illusions | Creative Bloq",
+    "date": "2025-07-11T09:52:42.278+06:00",
+    "og:title": "These ingenious McDonald's ads are a rodeo of optical illusions",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/kcWdLvP76Aj9YbMNbtKcJV.png",
+    "og:description": "Buckle up, cowboys.",
+    "og:url": "https://www.creativebloq.com/creative-inspiration/advertising/these-ingenious-mcdonalds-ads-are-a-rodeo-of-optical-illusions",
     "og:type": "article"
   },
   {
@@ -7367,6 +8269,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/hpvrhsUaRVzvzs3X4tvmB.png",
     "og:description": "Do different people from different places see different optical illusions?",
     "og:url": "https://www.creativebloq.com/creative-inspiration/optical-illusions/your-response-to-this-optical-illusion-could-depend-on-where-you-grew-up",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/design/attention-wimbledon-fans-you-have-to-take-my-design-quiz",
+    "title": "Attention tennis fans! You have to take my Wimbledon design quiz | Creative Bloq",
+    "date": "2025-07-11T03:07:05.26+06:00",
+    "og:title": "How well do you know Wimbledon? Take my design quiz",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/qSNNJv2pegT7S2yyntmvQo.jpg",
+    "og:description": "Logos, colour palettes and more.",
+    "og:url": "https://www.creativebloq.com/design/attention-wimbledon-fans-you-have-to-take-my-design-quiz",
     "og:type": "article"
   },
   {
@@ -7514,6 +8427,28 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/design/logos-icons/is-this-the-most-disastrous-sports-rebrand-of-the-year",
+    "title": "Was this disastrous new logo designed for the wrong football team? | Creative Bloq",
+    "date": "2025-07-11T09:52:42.48+06:00",
+    "og:title": "Football fans say this disastrous logo redesign is making them look ridiculous",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/FzQuxS4V7kpNnqC5n4BZGG.jpg",
+    "og:description": "Was this a rebrand for the wrong team?",
+    "og:url": "https://www.creativebloq.com/design/logos-icons/is-this-the-most-disastrous-sports-rebrand-of-the-year",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/design/logos-icons/the-new-range-rover-logo-might-be-the-branding-disaster-of-the-year",
+    "title": "The new Range Rover logo might be the branding disaster of the year | Creative Bloq",
+    "date": "2025-07-11T03:07:05.337+06:00",
+    "og:title": "The longer I look at the new Range Rover logo, the worse it gets",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/UjRnyjedJmr4zqR73vsAsG.jpg",
+    "og:description": "Has JLR learned nothing from last year's Jaguar rebrand?",
+    "og:url": "https://www.creativebloq.com/design/logos-icons/the-new-range-rover-logo-might-be-the-branding-disaster-of-the-year",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/design/logos-icons/tripadvisor-just-revealed-its-new-logo-in-the-most-hilarious-way-possible",
     "title": "TripAdvisor just revealed its new logo in the most hilarious way possible | Creative Bloq",
     "date": "2025-07-03T02:02:07.974+06:00",
@@ -7558,6 +8493,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/design/product-design/9-everyday-kitchen-essentials-that-are-actually-design-masterpieces",
+    "title": "9 everyday kitchen essentials that are actually design masterpieces | Creative Bloq",
+    "date": "2025-07-11T03:07:05.613+06:00",
+    "og:title": "9 gorgeous kitchen tools that are actually masterpieces of design",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/PBAZ5eSNTsDCMjefDjpPU3.jpg",
+    "og:description": "(And they're all on sale for Prime Day).",
+    "og:url": "https://www.creativebloq.com/design/product-design/9-everyday-kitchen-essentials-that-are-actually-design-masterpieces",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/design/product-design/all-i-want-for-prime-day-is-this-very-beautiful-fridge",
     "title": "All I want for Prime Day is this Big, Beautiful Fridge | Creative Bloq",
     "date": "2025-07-08T03:19:03.04+06:00",
@@ -7565,6 +8511,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/2PJApSFaRiHbXNLsLoue2i.jpg",
     "og:description": "Please help me buy my white goods, Jeff.",
     "og:url": "https://www.creativebloq.com/design/product-design/all-i-want-for-prime-day-is-this-very-beautiful-fridge",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/design/product-design/four-things-you-can-get-for-free-for-prime-day",
+    "title": "Four things you can get for FREE for Prime Day | Creative Bloq",
+    "date": "2025-07-11T06:34:35.524+06:00",
+    "og:title": "Amazon is giving away all these things for FREE for Prime Day",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/AMKqfhMdAnJZGr9hBeRDeQ.jpg",
+    "og:description": "Save over $150 with free video games, audiobooks, music and more.",
+    "og:url": "https://www.creativebloq.com/design/product-design/four-things-you-can-get-for-free-for-prime-day",
     "og:type": "article"
   },
   {
@@ -7609,6 +8566,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/tvx2dTRf7QkdRW3LVekE8N.jpg",
     "og:description": "How low can the logo go?",
     "og:url": "https://www.creativebloq.com/design/product-design/the-apple-logo-might-look-very-different-on-your-iphone-17-pro",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/design/product-design/the-best-games-console-youve-never-heard-of-is-under-usd50-for-prime-day",
+    "title": "The best video games console you've never heard of is under $50 for Prime Day | Creative Bloq",
+    "date": "2025-07-11T03:07:04.89+06:00",
+    "og:title": "I adore this retro video games console – and it's under $50 for Prime Day",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/bbj8ZdmnDE3C9uWWtkehBH.jpg",
+    "og:description": "Ditch the Switch and meet the Miyoo.",
+    "og:url": "https://www.creativebloq.com/design/product-design/the-best-games-console-youve-never-heard-of-is-under-usd50-for-prime-day",
     "og:type": "article"
   },
   {
@@ -7756,6 +8724,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/entertainment/toys-collectibles/nerds-assemble-ive-found-the-best-prime-day-deals-for-marvel-fans",
+    "title": "The ultimate list of Marvel Prime Day deals | Creative Bloq",
+    "date": "2025-07-11T03:07:05.029+06:00",
+    "og:title": "Bored with Prime Day deals on home appliances? Me too. Check out these epic Marvel collectables instead with 30% off.",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/DqSgk3ZeZdssRExJ8YSsZ.jpg",
+    "og:description": "Let's kick Prime Day up a notch with these Marvel must-buys.",
+    "og:url": "https://www.creativebloq.com/entertainment/toys-collectibles/nerds-assemble-ive-found-the-best-prime-day-deals-for-marvel-fans",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/live/news/nintendo-switch-prime-day-2025",
     "title": "Nintendo Switch Prime Day deals: Switch 2 stock, deals on Switch OLED, games and accessories | Creative Bloq",
     "date": "2025-07-07T09:55:34.639+06:00",
@@ -7796,6 +8775,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/h7byQVURhPFCMPkaVnRixj.jpg",
     "og:description": "Adobe Photoshop for Android is still in the Beta stage, but shows a clear path ahead for mobile image editing.",
     "og:url": "https://www.creativebloq.com/photography/photo-editing-software/photoshop-for-android-is-finally-here-and-ive-tried-it-out",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/photography/why-is-nobody-talking-about-the-sony-a7iiis-price-right-now",
+    "title": "My entire photography setup is on sale for Prime Day right now | Creative Bloq",
+    "date": "2025-07-11T09:52:42.454+06:00",
+    "og:title": "Photographers, my Sony A7III is over £500 off for Prime Day right now, and so are some premium lenses",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/6zdyrbTDDfmirAuEUJcxNn.jpg",
+    "og:description": "If you're getting into photography, I can't stress how great these deals are",
+    "og:url": "https://www.creativebloq.com/photography/why-is-nobody-talking-about-the-sony-a7iiis-price-right-now",
     "og:type": "article"
   },
   {
@@ -7855,6 +8845,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/professional-development/creative-careers/the-best-creative-podcasts",
+    "title": "8 must-listen creative podcasts to inspire, inform and entertain you | Creative Bloq",
+    "date": "2025-07-11T09:52:42.297+06:00",
+    "og:title": "The 8 creative podcasts you need to listen to",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/BWsPJVK2Gc6txNjrtrYBTL.jpg",
+    "og:description": "Our pick of the best podcasts for creative people.",
+    "og:url": "https://www.creativebloq.com/professional-development/creative-careers/the-best-creative-podcasts",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/professional-development/creative-careers/want-to-upskill-get-50-percent-off-creative-courses-from-google-epic-games-and-microsoft",
     "title": "Want to upskill? Get 50% off creative courses from Google, Epic Games and Microsoft | Creative Bloq",
     "date": "2025-07-01T02:11:32.552+06:00",
@@ -7873,6 +8874,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/QWDkmKr4w6LYiB7HuyKBDU.jpg",
     "og:description": "The Plugable UD-7400PD USB dock can host so many monitors that I could call it a harbour (sorry).",
     "og:url": "https://www.creativebloq.com/tech/accessories/tested-the-innovative-plugable-ud-7400pd-usb-c-dock-lets-you-link-up-more-monitors-than-apple-thinks-you-need",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/tech/accessories/this-teeny-portable-ssd-should-be-on-any-creative-pros-wishlist",
+    "title": "Crucial X10 portable SSD review: small, fast, spacious | Creative Bloq",
+    "date": "2025-07-11T06:34:35.522+06:00",
+    "og:title": "This teeny portable SSD should be on any creative pro's wishlist",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/xvwuPxzFMFvYzs6S6S5VLi.jpg",
+    "og:description": "The Crucial X10 portable SSD can store up to 8TB and is twice as fast as its predecessor, and just look how tiny it is!",
+    "og:url": "https://www.creativebloq.com/tech/accessories/this-teeny-portable-ssd-should-be-on-any-creative-pros-wishlist",
     "og:type": "article"
   },
   {
@@ -7928,6 +8940,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/FoQxGMdUj6HGV7KRKDz5Lg.jpg",
     "og:description": "Time to futureproof my setup with $120 off.",
     "og:url": "https://www.creativebloq.com/tech/help-im-torn-between-two-huge-prime-day-ssd-deals",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/tech/help-me-choose-how-to-spend-my-usd20-will-these-3-options-actually-add-value-to-my-life",
+    "title": "Help me choose how to spend my $20 – will these 3 options actually add value to my life? | Creative Bloq",
+    "date": "2025-07-11T03:07:05.373+06:00",
+    "og:title": "Help! Which of these 3 items should I spend my $20 on?",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/CnFUQbDr7LkHuNcff7qWSn.jpg",
+    "og:description": "These will actually add value to my life.",
+    "og:url": "https://www.creativebloq.com/tech/help-me-choose-how-to-spend-my-usd20-will-these-3-options-actually-add-value-to-my-life",
     "og:type": "article"
   },
   {
@@ -7998,6 +9021,28 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/tech/laptops/if-you-need-a-cheap-shotgun-mic-for-interviews-my-favourite-budget-gem-is-now-less-than-usd65",
+    "title": "If you need a cheap shotgun mic for interviews, my favourite budget gem is now less than $65 | Creative Bloq",
+    "date": "2025-07-11T03:07:04.562+06:00",
+    "og:title": "If you need a cheap shotgun mic for interviews, my favourite budget gem is now less than $65",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/i5mh8Ckg8fAGdnotssKqSL.jpg",
+    "og:description": "The Sennheiser MKE 200 is a neat, compact directional mic that's perfect for vlogging too.",
+    "og:url": "https://www.creativebloq.com/tech/laptops/if-you-need-a-cheap-shotgun-mic-for-interviews-my-favourite-budget-gem-is-now-less-than-usd65",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/tech/laptops/the-asus-v16-is-good-for-gamers-but-serious-creatives-should-steer-clear",
+    "title": "ASUS V16 review: GPU good, CPU bad | Creative Bloq",
+    "date": "2025-07-11T03:07:05.54+06:00",
+    "og:title": "The ASUS V16 is good for gamers, but serious creatives should steer clear",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/4mxvWY7gcY5rKZGhv6L7To.jpg",
+    "og:description": "Reasonable GPU performance is hampered by poor CPU performance.",
+    "og:url": "https://www.creativebloq.com/tech/laptops/the-asus-v16-is-good-for-gamers-but-serious-creatives-should-steer-clear",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/tech/nothing-headphone-1-review-a-design-statement-for-your-eyes-and-ears",
     "title": "Nothing Headphone (1) review: a design statement for your eyes and ears | Creative Bloq",
     "date": "2025-07-02T02:21:19.478+06:00",
@@ -8049,6 +9094,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/9xoTvHBjcm9iGGQ3WxSX4W.jpg",
     "og:description": "And you don't have to deal with too many cut-down features.",
     "og:url": "https://www.creativebloq.com/tech/phones-tablets/i-tested-the-honor-400-lite-and-found-this-cut-price-phone-doesnt-have-too-many-cut-down-features",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/tech/phones-tablets/insert-snappy-headline-about-this-prime-day-ipad-deal",
+    "title": "Insert snappy headline about this Prime Day iPad deal | Creative Bloq",
+    "date": "2025-07-11T03:07:04.925+06:00",
+    "og:title": "Insert snappy headline about this Prime Day iPad deal",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/YPkSAESinwQatjRARTHbuL.jpg",
+    "og:description": "Is it even Prime Day if we don't write about iPad deals?",
+    "og:url": "https://www.creativebloq.com/tech/phones-tablets/insert-snappy-headline-about-this-prime-day-ipad-deal",
     "og:type": "article"
   },
   {
@@ -8165,7 +9221,7 @@
     "hostname": "www.cssscript.com",
     "url": "https://www.cssscript.com/contextual-right-click-menu/",
     "title": "Create Contextual Right-Click Menus with Vanilla JavaScript | CSS Script",
-    "date": "2025-07-10T08:17:45.793+06:00",
+    "date": "2025-07-11T03:07:05.924+06:00",
     "og:title": "Create Contextual Right-Click Menus with Vanilla JavaScript | CSS Script",
     "og:image": "https://www.cssscript.com/wp-content/uploads/2025/07/contextual-right-click-menu.webp",
     "og:description": "Replace default browser right-click menus with custom JavaScript contet menus. Supports text manipulation, clipboard operations, and context-aware menu display.",
@@ -8236,6 +9292,17 @@
     "og:image": "https://www.cssscript.com/wp-content/uploads/2025/07/page-protector.webp",
     "og:description": "A lightweight JS library to deter casual page inspection by disabling the context menu, developer tool shortcuts, and text selection.",
     "og:url": "https://www.cssscript.com/page-protector/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.cssscript.com",
+    "url": "https://www.cssscript.com/realistic-3d-button-svg/",
+    "title": "Physically Realistic 3D Button with SVG & CSS3 | CSS Script",
+    "date": "2025-07-11T03:07:05.459+06:00",
+    "og:title": "Physically Realistic 3D Button with SVG & CSS3 | CSS Script",
+    "og:image": "https://www.cssscript.com/wp-content/uploads/2025/07/realistic-3d-button-svg.webp",
+    "og:description": "Create a realistic 3D pressable button with pure CSS and SVG. Features smooth animations, customizable colors, and interactive hover/press states.",
+    "og:url": "https://www.cssscript.com/realistic-3d-button-svg/",
     "og:type": "article"
   },
   {
@@ -8342,6 +9409,28 @@
     "url": "https://www.csswinner.com/details/panda-piano/18736",
     "title": "Panda Piano - CSS Winner",
     "date": "2025-07-02T10:10:23.921+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.csswinner.com",
+    "url": "https://www.csswinner.com/details/sashen-fernandez-portfolio/18754",
+    "title": "Sashen Fernandez Portfolio - CSS Winner",
+    "date": "2025-07-11T09:52:42.406+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.csswinner.com",
+    "url": "https://www.csswinner.com/details/woopsite/18751",
+    "title": "WOOPSITE - CSS Winner",
+    "date": "2025-07-11T03:07:05.809+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -8558,6 +9647,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.fundament.design",
+    "url": "https://www.fundament.design/p/you-probably-just-took-on-some-ux",
+    "title": "You probably just took on some UX debt",
+    "date": "2025-07-11T03:14:26.485+06:00",
+    "og:title": "You probably just took on some UX debt",
+    "og:image": "https://substackcdn.com/image/fetch/$s_!Emu5!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0360bae-ad07-43fb-9bf9-fde873b4536a_1448x964.heic",
+    "og:description": "#58: How limitations and compromise-driven decisions contribute to UX debt.",
+    "og:url": "https://www.fundament.design/p/you-probably-just-took-on-some-ux",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.garros.gallery",
     "url": "https://www.garros.gallery/",
     "title": "The Art of Roland-Garros",
@@ -8569,6 +9669,17 @@
     "og:type": "website"
   },
   {
+    "hostname": "www.holovaty.com",
+    "url": "https://www.holovaty.com/writing/chatgpt-fake-feature/",
+    "title": "Adding a feature because ChatGPT incorrectly thinks it exists | Holovaty.com",
+    "date": "2025-07-11T03:07:05.163+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
     "hostname": "www.hongkiat.com",
     "url": "https://www.hongkiat.com/blog/designers-developers-monthly-06-2025/",
     "title": "Fresh Resources for Web Designers and Developers (June 2025) - Hongkiat",
@@ -8577,6 +9688,17 @@
     "og:image": "https://assets.hongkiat.com/uploads/designers-developers-monthly-06-2025/prismphp.jpg",
     "og:description": "It's time again to share some cool resources and tools for our fellow developers. There are so many cool tools out there to help you build faster, write",
     "og:url": "https://www.hongkiat.com/blog/designers-developers-monthly-06-2025/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.inkandswitch.com",
+    "url": "https://www.inkandswitch.com/essay/malleable-software/",
+    "title": "Malleable software: Restoring user agency in a world of locked-down apps",
+    "date": "2025-07-11T03:07:05.128+06:00",
+    "og:title": "Malleable software: Restoring user agency in a world of locked-down apps",
+    "og:image": "https://inkandswitch.com/essay/malleable-software/guitar.jpg",
+    "og:description": "The original promise of personal computing was a new kind of clay. Instead, we got appliances: built far away, sealed, unchangeable. In this essay, we envision malleable software: tools that users can reshape with minimal friction to suit their unique needs.",
+    "og:url": "https://www.inkandswitch.com/essay/malleable-software/",
     "og:type": "article"
   },
   {
@@ -8756,6 +9878,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.sitepoint.com",
+    "url": "https://www.sitepoint.com/memory-page-sizes-on-arm64/",
+    "title": "Understanding Memory Page Sizes on Arm64 — SitePoint",
+    "date": "2025-07-11T03:07:04.392+06:00",
+    "og:title": "Understanding Memory Page Sizes on Arm64 — SitePoint",
+    "og:image": "https://uploads.sitepoint.com/wp-content/uploads/2025/07/1752170218Understanding-Memory-Page-Sizes-on-Arm64.jpg",
+    "og:description": "Optimize ARM64 performance with larger memory page sizes. Learn when 64K pages benefit databases, AI, and I/O workloads plus Linux configuration steps.",
+    "og:url": "",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.smashingmagazine.com",
     "url": "https://www.smashingmagazine.com/2025/06/can-good-ux-protect-older-users-digital-scams/?ref=unicornclub.dev",
     "title": "Can Good UX Protect Older Users From Digital Scams? — Smashing Magazine",
@@ -8841,6 +9974,17 @@
     "og:image": "https://files.smashing.media/articles/turning-user-research-into-organizational-change/turning-user-research-into-organizational-change.jpg",
     "og:description": "Bridging the gap between user research insights and actual organizational action — with a clear roadmap for impact.",
     "og:url": "https://www.smashingmagazine.com/2025/07/turning-user-research-into-organizational-change/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.smashingmagazine.com",
+    "url": "https://www.smashingmagazine.com/2025/07/unmasking-magic-wizard-oz-method-ux-research/",
+    "title": "Unmasking The Magic: The Wizard Of Oz Method For UX Research — Smashing Magazine",
+    "date": "2025-07-11T03:07:05.496+06:00",
+    "og:title": "Unmasking The Magic: The Wizard Of Oz Method For UX Research — Smashing Magazine",
+    "og:image": "https://files.smashing.media/articles/unmasking-magic-wizard-oz-method-ux-research/unmasking-magic-wizard-oz-method-ux-research.jpg",
+    "og:description": "The Wizard of Oz method is a proven UX research tool that simulates real interactions to uncover authentic user behavior. Victor Yocco unpacks the core principles of the WOZ method, explores advanced real-world applications, and highlights its unique value, including its relevance in the emerging field of agentic AI.",
+    "og:url": "https://www.smashingmagazine.com/2025/07/unmasking-magic-wizard-oz-method-ux-research/",
     "og:type": "article"
   },
   {
@@ -8999,6 +10143,17 @@
   },
   {
     "hostname": "www.youtube.com",
+    "url": "https://www.youtube.com/watch?v=4O9RY2n-ckg",
+    "title": "100 Years of History in 100 Films - YouTube",
+    "date": "2025-07-11T03:07:05.196+06:00",
+    "og:title": "100 Years of History in 100 Films",
+    "og:image": "https://i.ytimg.com/vi/4O9RY2n-ckg/maxresdefault.jpg",
+    "og:description": "You can sign up to Nebula using my link and get 40% off an annual subscription. https://go.nebula.tv/kaptainkristianA look at the past century through a cine...",
+    "og:url": "https://www.youtube.com/watch?v=4O9RY2n-ckg",
+    "og:type": "video.other"
+  },
+  {
+    "hostname": "www.youtube.com",
     "url": "https://www.youtube.com/watch?v=6QYftL4oJP0",
     "title": "How I \"Steal\" Design Like a Pro - YouTube",
     "date": "2025-07-03T06:08:53.437+06:00",
@@ -9150,5 +10305,38 @@
     "og:description": "NeuralM5 is a sleek and futuristic theme designed for AI, tech startups, and software companies. Perfect for showcasing AI tools, services, and innovations w...",
     "og:url": "https://www.youtube.com/watch?v=tmJu02l-f4g",
     "og:type": "video.other"
+  },
+  {
+    "hostname": "yoast.com",
+    "url": "https://yoast.com/mid-year-seo-checkup/",
+    "title": "Mid-year SEO checkup: What’s working, what’s not?  • Yoast",
+    "date": "2025-07-11T09:52:42.22+06:00",
+    "og:title": "Mid-year SEO checkup: What’s working, what’s not? ",
+    "og:image": "https://yoast.com/app/uploads/2025/07/mid-year-seo-checkup-yoast-og.png",
+    "og:description": "Ensure your SEO remains effective with a mid-year SEO checkup. Analyze performance and make informed adjustments today.",
+    "og:url": "https://yoast.com/mid-year-seo-checkup/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "yoast.com",
+    "url": "https://yoast.com/redesigning-onboarding-service-design/",
+    "title": "Redesigning onboarding for impact: A service design approach  • Yoast",
+    "date": "2025-07-11T03:07:04.192+06:00",
+    "og:title": "Redesigning onboarding for impact: A service design approach ",
+    "og:image": "https://yoast.com/app/uploads/2025/07/onboarding-shopify-yoast-og.png",
+    "og:description": "Learn how service design improved the onboarding of our Yoast SEO for Shopify app, creating a faster and more supportive user journey and experience.",
+    "og:url": "https://yoast.com/redesigning-onboarding-service-design/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "yoast.com",
+    "url": "https://yoast.com/yoast-seo-for-shopify-july-10-2025/",
+    "title": "Redesigned Shopify onboarding: thoughtful UX, real impact  • Yoast",
+    "date": "2025-07-11T03:07:04.212+06:00",
+    "og:title": "Redesigned Shopify onboarding: thoughtful UX, real impact ",
+    "og:image": "https://yoast.com/app/uploads/2025/07/fi_getting-started-with-yoast-seo-for-shopify-just-got-easier.-.png",
+    "og:description": "Explore the onboarding redesign for Shopify that enhances user experience and simplifies the setup process for SEO.",
+    "og:url": "https://yoast.com/yoast-seo-for-shopify-july-10-2025/",
+    "og:type": "article"
   }
 ]
