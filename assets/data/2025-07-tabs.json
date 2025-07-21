@@ -671,6 +671,17 @@
     "og:type": "website"
   },
   {
+    "hostname": "bit.cloud",
+    "url": "https://bit.cloud/?utm_source=UnicornClub&utm_id=131&utm_medium=newsletter",
+    "title": "Bit Cloud · The AI software composition platform | bit.cloud",
+    "date": "2025-07-20T04:05:44.766+06:00",
+    "og:title": "Bit Cloud. AI software composition platform.",
+    "og:image": "https://static.bit.dev/design-graphics/social-assets/bit-marketing-og-img-facebook-min.jpg",
+    "og:description": "Compose high-quality professional software with AI for simplicity, speed and control.",
+    "og:url": "https://bit.cloud",
+    "og:type": "website"
+  },
+  {
     "hostname": "blog.codepen.io",
     "url": "https://blog.codepen.io/2025/06/30/chris-corner-tokens/",
     "title": "Chris’ Corner: Tokens – CodePen",
@@ -823,6 +834,17 @@
     "og:description": "In the world of customer support and lead generation, timing is everything. If someone is ready to talk, book, or buy, your business needs to be ready right then and there. That’s why we’re excited to announce something big:  GaliChat now integrates seamlessly with Cal.com, giving your",
     "og:url": "https://blogct.creative-tim.com/blog/ai-agent/galichat-now-integrates-with-cal-com-for-instant-scheduling/",
     "og:type": "article"
+  },
+  {
+    "hostname": "bootstrapmade.com",
+    "url": "https://bootstrapmade.com/evently-bootstrap-events-template/",
+    "title": "Evently – Bootstrap Template for Conferences, Seminars and Events | BootstrapMade",
+    "date": "2025-07-20T04:27:08.738+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
   },
   {
     "hostname": "bootstrapmade.com",
@@ -1441,6 +1463,83 @@
     "og:type": "website"
   },
   {
+    "hostname": "community.codenewbie.org",
+    "url": "https://community.codenewbie.org/sharon428931/ldap-auth-for-safeline-waf-a-step-by-step-guide-3d19?context=digest",
+    "title": "LDAP Auth for SafeLine WAF: A Step-by-Step Guide - CodeNewbie Community 🌱",
+    "date": "2025-07-20T03:31:31.197+06:00",
+    "og:title": "LDAP Auth for SafeLine WAF: A Step-by-Step Guide",
+    "og:image": "https://community.codenewbie.org/images/IBv7q1OoYskA17IKhwKi-1ZaNNM8kYATpjJnG_c5IkQ/rs:fill:1000:500/g:sm/mb:500000/ar:1/aHR0cHM6Ly9jb21t/dW5pdHkuY29kZW5l/d2JpZS5vcmcvcmVt/b3RlaW1hZ2VzL3Vw/bG9hZHMvYXJ0aWNs/ZXMvemYxZTcxNHRm/Mm55eDVzOTR0b2Mu/cG5n",
+    "og:description": "SafeLine WAF supports integration with enterprise directory services through LDAP (Lightweight...",
+    "og:url": "https://community.codenewbie.org/sharon428931/ldap-auth-for-safeline-waf-a-step-by-step-guide-3d19",
+    "og:type": "article"
+  },
+  {
+    "hostname": "community.codenewbie.org",
+    "url": "https://community.codenewbie.org/sharon428931/mastering-linux-reboots-commands-use-cases-and-best-practices-1gjd?context=digest",
+    "title": "Mastering Linux Reboots: Commands, Use Cases, and Best Practices - CodeNewbie Community 🌱",
+    "date": "2025-07-20T04:13:15.094+06:00",
+    "og:title": "Mastering Linux Reboots: Commands, Use Cases, and Best Practices",
+    "og:image": "https://community.codenewbie.org/images/EQeMgMea6DxFlnFPGbxpKlV5watzCU9yGDtrArS5fZI/rs:fill:1000:500/g:sm/mb:500000/ar:1/aHR0cHM6Ly9jb21t/dW5pdHkuY29kZW5l/d2JpZS5vcmcvcmVt/b3RlaW1hZ2VzL3Vw/bG9hZHMvYXJ0aWNs/ZXMveTFndHdvZ3N6/cGlqdmVoaTQyMnou/cG5n",
+    "og:description": "Knowing how to properly reboot a Linux system is a critical part of system administration and...",
+    "og:url": "https://community.codenewbie.org/sharon428931/mastering-linux-reboots-commands-use-cases-and-best-practices-1gjd",
+    "og:type": "article"
+  },
+  {
+    "hostname": "community.codenewbie.org",
+    "url": "https://community.codenewbie.org/sharon428931/safeline-waf-step-by-step-guide-to-config-auto-sync-5e1g?context=digest",
+    "title": "SafeLine WAF: Step-by-Step Guide to Config Auto Sync - CodeNewbie Community 🌱",
+    "date": "2025-07-20T03:31:31.225+06:00",
+    "og:title": "SafeLine WAF: Step-by-Step Guide to Config Auto Sync",
+    "og:image": "https://community.codenewbie.org/images/gfgqNhDihEK1ALQu3gBVOabINrwimoYOP-BiikP5Oqk/rs:fill:1000:500/g:sm/mb:500000/ar:1/aHR0cHM6Ly9jb21t/dW5pdHkuY29kZW5l/d2JpZS5vcmcvcmVt/b3RlaW1hZ2VzL3Vw/bG9hZHMvYXJ0aWNs/ZXMvdTdpYnpuNGsy/cG5nZjlrMmI0aGou/cG5n",
+    "og:description": "SafeLine version 7.x introduces a config auto sync feature, allowing you to set up master and slave...",
+    "og:url": "https://community.codenewbie.org/sharon428931/safeline-waf-step-by-step-guide-to-config-auto-sync-5e1g",
+    "og:type": "article"
+  },
+  {
+    "hostname": "community.codenewbie.org",
+    "url": "https://community.codenewbie.org/sharon428931/secure-your-web-traffic-with-safeline-a-hands-on-setup-guide-4ii0?context=digest",
+    "title": "Secure Your Web Traffic with SafeLine: A Hands-On Setup Guide - CodeNewbie Community 🌱",
+    "date": "2025-07-20T04:13:15.09+06:00",
+    "og:title": "Secure Your Web Traffic with SafeLine: A Hands-On Setup Guide",
+    "og:image": "https://community.codenewbie.org/images/ddLG_cQgzZ4C6tgTrc9LZ68n2nV1JsWo6O8SUq4A-HU/rs:fill:1000:500/g:sm/mb:500000/ar:1/aHR0cHM6Ly9jb21t/dW5pdHkuY29kZW5l/d2JpZS5vcmcvcmVt/b3RlaW1hZ2VzL3Vw/bG9hZHMvYXJ0aWNs/ZXMvd3UweGtpcGYz/ZnJpeTh2eWJuNHMu/cG5n",
+    "og:description": "SafeLine WAF (Web Application Firewall) is a powerful, open-source tool for securing your web...",
+    "og:url": "https://community.codenewbie.org/sharon428931/secure-your-web-traffic-with-safeline-a-hands-on-setup-guide-4ii0",
+    "og:type": "article"
+  },
+  {
+    "hostname": "community.codenewbie.org",
+    "url": "https://community.codenewbie.org/sharon428931/step-by-step-guide-to-deploying-safeline-waf-on-k8s-54ma?context=digest",
+    "title": "Step-by-Step Guide to Deploying SafeLine WAF on K8s - CodeNewbie Community 🌱",
+    "date": "2025-07-20T04:13:15.103+06:00",
+    "og:title": "Step-by-Step Guide to Deploying SafeLine WAF on K8s",
+    "og:image": "https://community.codenewbie.org/images/TXwPBZWiiax_1eBym8-hkmYPa1TIA6bP6qr_7RmXMCk/rs:fill:1000:500/g:sm/mb:500000/ar:1/aHR0cHM6Ly9jb21t/dW5pdHkuY29kZW5l/d2JpZS5vcmcvcmVt/b3RlaW1hZ2VzL3Vw/bG9hZHMvYXJ0aWNs/ZXMvOGF4bmNncGdj/YXBxcGQyczFrcnEu/cG5n",
+    "og:description": "As part of my journey into Kubernetes, I decided to get hands-on by deploying SafeLine WAF, a free...",
+    "og:url": "https://community.codenewbie.org/sharon428931/step-by-step-guide-to-deploying-safeline-waf-on-k8s-54ma",
+    "og:type": "article"
+  },
+  {
+    "hostname": "community.codenewbie.org",
+    "url": "https://community.codenewbie.org/sharon428931/web-shell-attacks-explained-and-how-to-prevent-them-2g9e?context=digest",
+    "title": "Web Shell Attacks Explained (And How to Prevent Them) - CodeNewbie Community 🌱",
+    "date": "2025-07-20T04:13:15.085+06:00",
+    "og:title": "Web Shell Attacks Explained (And How to Prevent Them)",
+    "og:image": "https://community.codenewbie.org/images/OOqlr8Joh_0DPYpvEJJ_j491u5zhOuTqVMEp5Ybz_9o/rs:fill:1000:500/g:sm/mb:500000/ar:1/aHR0cHM6Ly9jb21t/dW5pdHkuY29kZW5l/d2JpZS5vcmcvcmVt/b3RlaW1hZ2VzL3Vw/bG9hZHMvYXJ0aWNs/ZXMvaWRzMnY0bWZp/MDhieHpsaGk5ZmYu/cG5n",
+    "og:description": "Web shells are one of the most dangerous tools used by attackers to gain persistent control over a...",
+    "og:url": "https://community.codenewbie.org/sharon428931/web-shell-attacks-explained-and-how-to-prevent-them-2g9e",
+    "og:type": "article"
+  },
+  {
+    "hostname": "community.codenewbie.org",
+    "url": "https://community.codenewbie.org/sharon428931/why-your-safeline-license-wont-activate-and-how-to-fix-it-5a9a?context=digest",
+    "title": "Why Your SafeLine License Won’t Activate — And How to Fix It - CodeNewbie Community 🌱",
+    "date": "2025-07-20T03:31:31.328+06:00",
+    "og:title": "Why Your SafeLine License Won’t Activate — And How to Fix It",
+    "og:image": "https://community.codenewbie.org/images/fSJRSKQyGwlTHh9e5M2BIJEvEejMbrRL5RVJYohwfg8/rs:fill:1000:500/g:sm/mb:500000/ar:1/aHR0cHM6Ly9jb21t/dW5pdHkuY29kZW5l/d2JpZS5vcmcvcmVt/b3RlaW1hZ2VzL3Vw/bG9hZHMvYXJ0aWNs/ZXMvNDRlbGxtb2pk/cW9veGRzaWNzeG8u/cG5n",
+    "og:description": "Some professional users may encounter an authorization error when activating a license key. This...",
+    "og:url": "https://community.codenewbie.org/sharon428931/why-your-safeline-license-wont-activate-and-how-to-fix-it-5a9a",
+    "og:type": "article"
+  },
+  {
     "hostname": "css-doodle.com",
     "url": "https://css-doodle.com/?ref=unicornclub.dev",
     "title": "<css-doodle />",
@@ -1610,6 +1709,17 @@
     "url": "https://css-tricks.com/scroll-driven-sticky-heading/?ref=unicornclub.dev",
     "title": "Scroll-Driven Sticky Heading | CSS-Tricks",
     "date": "2025-07-17T02:13:04.775+06:00",
+    "og:title": "Scroll-Driven Sticky Heading | CSS-Tricks",
+    "og:image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/scroll-driven-typewriter.webp",
+    "og:description": "I was playing around with scroll-driven animations, just searching for all sorts of random things you could do. That’s when I came up with the idea to animate main headings and, using scroll-driven animations, change the headings based on the user’s scroll position.",
+    "og:url": "https://css-tricks.com/scroll-driven-sticky-heading/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "css-tricks.com",
+    "url": "https://css-tricks.com/scroll-driven-sticky-heading/?utm_source=unicornclub.dev&ref=unicornclub.dev",
+    "title": "Scroll-Driven Sticky Heading | CSS-Tricks",
+    "date": "2025-07-20T04:05:45.04+06:00",
     "og:title": "Scroll-Driven Sticky Heading | CSS-Tricks",
     "og:image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/scroll-driven-typewriter.webp",
     "og:description": "I was playing around with scroll-driven animations, just searching for all sorts of random things you could do. That’s when I came up with the idea to animate main headings and, using scroll-driven animations, change the headings based on the user’s scroll position.",
@@ -2632,7 +2742,7 @@
     "hostname": "designshack.net",
     "url": "https://designshack.net/articles/typography/font-pairing-techniques/?ref=web-design-weekly.com",
     "title": "Font Pairing Techniques for Digital-First Brands | Design Shack",
-    "date": "2025-07-03T06:08:53.438+06:00",
+    "date": "2025-07-20T04:05:48.184+06:00",
     "og:title": "Font Pairing Techniques for Digital-First Brands",
     "og:image": "https://designshack.net/wp-content/uploads/font-pairing-techniques.png",
     "og:description": "For digital-first brands, typography isn’t just a style choice, it’s a core part of how the brand communicates across screens. The right font pairing can create hierarchy, improve readability, and define the brand’s tone without saying a word. But with so many fonts to choose from, c...",
@@ -2681,6 +2791,17 @@
     "og:image": "https://designyoutrust.com/wp-content/uploads/2025/07/henri-gabriel-ibels-1.jpg",
     "og:description": "Henri-Gabriel Ibels was a key figure in late 19th-century Paris’s avant-garde art scene, known for merging bold, decorative style with social realism. A member",
     "og:url": "https://designyoutrust.com/2025/07/amazing-posters-by-henri-gabriel-ibels-in-the-late-19th-century/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designyoutrust.com",
+    "url": "https://designyoutrust.com/2025/07/artist-chris-hynes-creates-impressive-animal-sculptures-from-the-scrap-metal/",
+    "title": "Artist Chris Hynes Creates Impressive Animal Sculptures from the Scrap Metal » Design You Trust — Design Daily Since 2007",
+    "date": "2025-07-20T04:27:08.548+06:00",
+    "og:title": "Artist Chris Hynes Creates Impressive Animal Sculptures from the Scrap Metal – Design You Trust — Design Daily Since 2007",
+    "og:image": "https://designyoutrust.com/wp-content/uploads/2025/07/0-11.jpg",
+    "og:description": "American sculptor Chris Hynes transforms discarded metal into evocative works that reflect nature's delicate beauty within industrial decay. Educated at the Rin",
+    "og:url": "https://designyoutrust.com/2025/07/artist-chris-hynes-creates-impressive-animal-sculptures-from-the-scrap-metal/",
     "og:type": "article"
   },
   {
@@ -2795,6 +2916,17 @@
   },
   {
     "hostname": "designyoutrust.com",
+    "url": "https://designyoutrust.com/2025/07/remarkable-and-intricate-illustrations-of-gaspar-costa/",
+    "title": "Remarkable and Intricate Illustrations of Gaspar Costa » Design You Trust — Design Daily Since 2007",
+    "date": "2025-07-20T04:27:08.434+06:00",
+    "og:title": "Remarkable and Intricate Illustrations of Gaspar Costa – Design You Trust — Design Daily Since 2007",
+    "og:image": "https://designyoutrust.com/wp-content/uploads/2025/07/image-5445543-1.jpg",
+    "og:description": "Portuguese illustrator Gaspar Costa blends old-world charm with modern branding through his exquisite engraving-style drawings. Known for crafting vintage-inspi",
+    "og:url": "https://designyoutrust.com/2025/07/remarkable-and-intricate-illustrations-of-gaspar-costa/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designyoutrust.com",
     "url": "https://designyoutrust.com/2025/07/spectacular-award-winning-black-and-white-photos-from-the-2025-refocus-photography-awards/",
     "title": "Spectacular Award-Winning Black and White Photos from the 2025 reFocus Photography Awards » Design You Trust — Design Daily Since 2007",
     "date": "2025-07-03T02:02:08.09+06:00",
@@ -2894,6 +3026,17 @@
   },
   {
     "hostname": "designyoutrust.com",
+    "url": "https://designyoutrust.com/2025/07/the-elegant-world-of-georges-gaudy-posters-from-the-belle-epoque/",
+    "title": "The Elegant World of Georges Gaudy: Posters From the Belle Époque » Design You Trust — Design Daily Since 2007",
+    "date": "2025-07-20T04:27:08.051+06:00",
+    "og:title": "The Elegant World of Georges Gaudy: Posters From the Belle Époque – Design You Trust — Design Daily Since 2007",
+    "og:image": "https://designyoutrust.com/wp-content/uploads/2025/07/georges-gaudy-10-1.jpg",
+    "og:description": "Georges Gaudy (1872–1940) was a pioneering Belgian artist whose Art Nouveau posters helped define Europe’s advertising boom in the early 20th century. Originall",
+    "og:url": "https://designyoutrust.com/2025/07/the-elegant-world-of-georges-gaudy-posters-from-the-belle-epoque/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designyoutrust.com",
     "url": "https://designyoutrust.com/2025/07/this-artist-shows-how-beloved-characters-have-evolved-over-time/",
     "title": "This Artist Shows How Beloved Characters Have Evolved Over Time » Design You Trust — Design Daily Since 2007",
     "date": "2025-07-18T03:05:56.443+06:00",
@@ -2938,6 +3081,28 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/devopsfundamentals/azure-fundamentals-microsoftazuredata-11i0",
+    "title": "Azure Fundamentals: Microsoft.AzureData - DEV Community",
+    "date": "2025-07-20T03:30:22.145+06:00",
+    "og:title": "Azure Fundamentals: Microsoft.AzureData",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh6rokaj7ufam1zat0qe7.jpg",
+    "og:description": "The Ultimate Guide to Microsoft.AzureData: From Basics to Advanced Implementation           ...",
+    "og:url": "https://dev.to/devopsfundamentals/azure-fundamentals-microsoftazuredata-11i0",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/devopsfundamentals/azure-fundamentals-microsoftblueprint-2c9o",
+    "title": "Azure Fundamentals: Microsoft.Blueprint - DEV Community",
+    "date": "2025-07-20T03:30:22.024+06:00",
+    "og:title": "Azure Fundamentals: Microsoft.Blueprint",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdtu8r53s00roldm4x8y6.png",
+    "og:description": "Mastering Microsoft.Blueprint: The Ultimate Guide to Azure Governance at Scale            1....",
+    "og:url": "https://dev.to/devopsfundamentals/azure-fundamentals-microsoftblueprint-2c9o",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/devopsfundamentals/gcp-fundamentals-data-labeling-api-5a6a?context=digest",
     "title": "GCP Fundamentals: Data Labeling API - DEV Community",
     "date": "2025-07-01T03:14:43.215+06:00",
@@ -2949,13 +3114,90 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/devteam/join-the-storyblok-headless-cms-challenge-3000-in-prizes-154n?",
+    "title": "Join the Storyblok Headless CMS Challenge: $3,000 in Prizes! - DEV Community",
+    "date": "2025-07-20T03:30:22.863+06:00",
+    "og:title": "Join the Storyblok Headless CMS Challenge: $3,000 in Prizes!",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fytkhmk7oglgdon9nfwdz.png",
+    "og:description": "We are so delighted to partner with Storyblok for a new DEV challenge.  Running through June 22 June...",
+    "og:url": "https://dev.to/devteam/join-the-storyblok-headless-cms-challenge-3000-in-prizes-154n",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-209-group-elements-by-frequency-2j2f?context=digest",
+    "title": "Daily JavaScript Challenge #JS-209: Group Elements by Frequency - DEV Community",
+    "date": "2025-07-20T03:30:23.25+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-209: Group Elements by Frequency",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F61gpkbxhmnw5gf7virq4.png",
+    "og:description": "Daily JavaScript Challenge: Group Elements by Frequency   Hey fellow developers! 👋 Welcome...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-209-group-elements-by-frequency-2j2f",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-210-check-if-array-is-sorted-and-rotated-2hi?context=digest",
+    "title": "Daily JavaScript Challenge #JS-210: Check if Array is Sorted and Rotated - DEV Community",
+    "date": "2025-07-20T03:30:23.349+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-210: Check if Array is Sorted and Rotated",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flf7jughygxqu7qg645qw.png",
+    "og:description": "Daily JavaScript Challenge: Check if Array is Sorted and Rotated   Hey fellow developers! 👋...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-210-check-if-array-is-sorted-and-rotated-2hi",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-215-find-first-non-repeated-character-in-a-string-3i6p?context=digest",
+    "title": "Daily JavaScript Challenge #JS-215: Find First Non-Repeated Character in a String - DEV Community",
+    "date": "2025-07-20T03:30:23.524+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-215: Find First Non-Repeated Character in a String",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F75gldp3r5fgd188n0qeg.png",
+    "og:description": "Daily JavaScript Challenge: Find First Non-Repeated Character in a String   Hey fellow...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-215-find-first-non-repeated-character-in-a-string-3i6p",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-216-count-the-occurrences-of-each-character-in-a-string-170m?context=digest",
+    "title": "Daily JavaScript Challenge #JS-216: Count the Occurrences of Each Character in a String - DEV Community",
+    "date": "2025-07-20T03:30:21.503+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-216: Count the Occurrences of Each Character in a String",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab9ocamli0fkahjq49e2.png",
+    "og:description": "Daily JavaScript Challenge: Count the Occurrences of Each Character in a String   Hey fellow...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-216-count-the-occurrences-of-each-character-in-a-string-170m",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/dpc/daily-javascript-challenge-js-217-valid-mountain-array-5f1d?context=digest",
     "title": "Daily JavaScript Challenge #JS-217: Valid Mountain Array - DEV Community",
-    "date": "2025-07-08T02:06:33.361+06:00",
+    "date": "2025-07-20T03:30:21.107+06:00",
     "og:title": "Daily JavaScript Challenge #JS-217: Valid Mountain Array",
     "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqp5uasnr9v4llafb4ys1.png",
     "og:description": "Daily JavaScript Challenge: Valid Mountain Array   Hey fellow developers! 👋 Welcome to...",
     "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-217-valid-mountain-array-5f1d",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-220-find-the-longest-consecutive-subarray-5c62?context=digest",
+    "title": "Daily JavaScript Challenge #JS-220: Find the Longest Consecutive Subarray - DEV Community",
+    "date": "2025-07-20T03:25:10.921+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-220: Find the Longest Consecutive Subarray",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdlg7urq66emowg322cls.png",
+    "og:description": "Daily JavaScript Challenge: Find the Longest Consecutive Subarray   Hey fellow developers! 👋...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-220-find-the-longest-consecutive-subarray-5c62",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-221-convert-snake-case-to-camel-case-1453?context=digest",
+    "title": "Daily JavaScript Challenge #JS-221: Convert Snake Case to Camel Case - DEV Community",
+    "date": "2025-07-20T03:25:10.912+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-221: Convert Snake Case to Camel Case",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fznllnbv0y5bb5db3aib7.png",
+    "og:description": "Daily JavaScript Challenge: Convert Snake Case to Camel Case   Hey fellow developers! 👋...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-221-convert-snake-case-to-camel-case-1453",
     "og:type": "article"
   },
   {
@@ -2967,6 +3209,28 @@
     "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foo7tvt72vryu52hjdtbe.png",
     "og:description": "Daily JavaScript Challenge: Sum of All Odd Integers in an Array   Hey fellow developers! 👋...",
     "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-222-sum-of-all-odd-integers-in-an-array-1c11",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/drxven/ai-code-reviews-spotting-bugs-like-apple-4cci?context=digest",
+    "title": "AI Code Reviews: Spotting Bugs Like Apple - DEV Community",
+    "date": "2025-07-20T03:30:22.675+06:00",
+    "og:title": "AI Code Reviews: Spotting Bugs Like Apple",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi0428yz76zawr24eotgy.png",
+    "og:description": "AI Code Reviews: Spotting Bugs Like Apple   Ever wondered why some bugs slip through even...",
+    "og:url": "https://dev.to/drxven/ai-code-reviews-spotting-bugs-like-apple-4cci",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/drxven/fastapi-your-first-production-ready-api-o6b?context=digest",
+    "title": "FastAPI: Your First Production-Ready API - DEV Community",
+    "date": "2025-07-20T03:30:21.624+06:00",
+    "og:title": "FastAPI: Your First Production-Ready API",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1bt6vm9e6ymi3mbd9o6f.png",
+    "og:description": "Level Up Your Python APIs with FastAPI   Ever felt like building APIs was more complex than...",
+    "og:url": "https://dev.to/drxven/fastapi-your-first-production-ready-api-o6b",
     "og:type": "article"
   },
   {
@@ -3026,6 +3290,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/leading-edje/reference-architecture-for-team-ai-productivity-1dpi?context=digest",
+    "title": "Reference Architecture for Team AI Productivity - DEV Community",
+    "date": "2025-07-20T03:30:23.425+06:00",
+    "og:title": "Reference Architecture for Team AI Productivity",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblog.leadingedje.com%2Fpost%2Freferencearchitecture%2Fwebchatassistant%2FBanner.png",
+    "og:description": "Let's discuss a sample reference architecture for providing a secure and convenient way for your...",
+    "og:url": "https://dev.to/leading-edje/reference-architecture-for-team-ai-productivity-1dpi",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/mene_demogul/10-mind-blowing-javascript-tricks-every-developer-should-know-506a?context=digest",
     "title": "10 Mind-Blowing JavaScript Tricks Every Developer Should Know - DEV Community",
     "date": "2025-07-11T02:16:00.377+06:00",
@@ -3044,6 +3319,17 @@
     "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs14ohpkzxtlr9rf7zxb4.png",
     "og:description": "Advanced Patterns for Event Handling in Browser Environments            Introduction   Event...",
     "og:url": "https://dev.to/omriluz1/advanced-patterns-for-event-handling-in-browser-environments-1jk4",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/omriluz1/garbage-collection-and-weak-references-20ha?context=digest",
+    "title": "Garbage Collection and Weak References - DEV Community",
+    "date": "2025-07-20T03:30:21.399+06:00",
+    "og:title": "Garbage Collection and Weak References",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzn72w1u18z9f1jhd9mkp.png",
+    "og:description": "Garbage Collection and Weak References in JavaScript: An Exhaustive Exploration           ...",
+    "og:url": "https://dev.to/omriluz1/garbage-collection-and-weak-references-20ha",
     "og:type": "article"
   },
   {
@@ -3070,6 +3356,28 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/ravgeetdhillon/building-a-real-time-cpu-monitor-for-macos-with-xbar-4nch?context=digest",
+    "title": "Building a Real-Time CPU Monitor for macOS with xbar - DEV Community",
+    "date": "2025-07-20T03:25:10.916+06:00",
+    "og:title": "Building a Real-Time CPU Monitor for macOS with xbar",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1751618719871%2F6e4b910d-06b5-4166-bf21-acd18e159db7.png",
+    "og:description": "Have you ever noticed your Mac's fan spinning wildly but couldn't quickly identify which process was...",
+    "og:url": "https://dev.to/ravgeetdhillon/building-a-real-time-cpu-monitor-for-macos-with-xbar-4nch",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/ravgeetdhillon/getting-the-most-out-of-github-copilot-chat-in-vs-code-106i?context=digest",
+    "title": "Getting the Most Out of GitHub Copilot Chat in VS Code - DEV Community",
+    "date": "2025-07-20T03:30:21.203+06:00",
+    "og:title": "Getting the Most Out of GitHub Copilot Chat in VS Code",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fstock%2Funsplash%2FnbZHM2uwkJs%2Fupload%2F9c2c6c473ad9dfe9cc28dc9271647775.jpeg",
+    "og:description": "GitHub Copilot is already an incredible tool for autocompleting code, but if you haven’t tried...",
+    "og:url": "https://dev.to/ravgeetdhillon/getting-the-most-out-of-github-copilot-chat-in-vs-code-106i",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/ravgeetdhillon/what-is-git-explained-in-under-a-minute-50d4?context=digest",
     "title": "What is Git | Explained in under a minute - DEV Community",
     "date": "2025-07-16T02:26:58.045+06:00",
@@ -3083,10 +3391,10 @@
     "hostname": "dev.to",
     "url": "https://dev.to/robbiecahill/how-to-get-a-public-url-for-linux-mint-with-tunnelmole-387p?context=digest",
     "title": "How to Get a Public URL for Linux Mint with Tunnelmole - DEV Community",
-    "date": "2025-07-08T02:06:33.364+06:00",
+    "date": "2025-07-20T03:30:20.948+06:00",
     "og:title": "How to Get a Public URL for Linux Mint with Tunnelmole",
     "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Frobbie-cahill%2Ftunnelmole-client%2Fmain%2Fdocs%2Fimg%2Ftunnelmole-demo.gif",
-    "og:description": "Expose your Linux Mint machine to the internet with a secure public URL using Tunnelmole. Step-by-step guide for developers and tinkerers.",
+    "og:description": "How to Get a Public URL for Linux Mint with Tunnelmole   If you’re running Linux Mint and...",
     "og:url": "https://dev.to/robbiecahill/how-to-get-a-public-url-for-linux-mint-with-tunnelmole-387p",
     "og:type": "article"
   },
@@ -3116,10 +3424,10 @@
     "hostname": "dev.to",
     "url": "https://dev.to/robbiecahill/how-to-give-your-iot-device-a-public-url-for-any-iot-platform-with-tunnelmole-36kl?context=digest",
     "title": "How to Give Your IoT Device a Public URL (for Any IoT Platform) with Tunnelmole - DEV Community",
-    "date": "2025-07-08T02:06:33.368+06:00",
+    "date": "2025-07-20T03:30:20.889+06:00",
     "og:title": "How to Give Your IoT Device a Public URL (for Any IoT Platform) with Tunnelmole",
     "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Frobbie-cahill%2Ftunnelmole-client%2Fmain%2Fdocs%2Fimg%2Ftunnelmole-demo.gif",
-    "og:description": "Learn how to expose your IoT device to the internet using Tunnelmole, an open source tunneling tool. Step-by-step guide for any IoT platform, with a Raspberry Pi example.",
+    "og:description": "How to Give Your IoT Device a Public URL (for Any IoT Platform) with Tunnelmole   If you’re...",
     "og:url": "https://dev.to/robbiecahill/how-to-give-your-iot-device-a-public-url-for-any-iot-platform-with-tunnelmole-36kl",
     "og:type": "article"
   },
@@ -3149,11 +3457,33 @@
     "hostname": "dev.to",
     "url": "https://dev.to/robbiecahill/port-forwarding-made-simple-how-to-use-tunnelmole-for-secure-developer-friendly-port-forwarding-18b4?context=digest",
     "title": "Port Forwarding Made Simple: How to Use Tunnelmole for Secure, Developer-Friendly Port Forwarding - DEV Community",
-    "date": "2025-07-08T02:06:33.366+06:00",
+    "date": "2025-07-20T03:30:21.309+06:00",
     "og:title": "Port Forwarding Made Simple: How to Use Tunnelmole for Secure, Developer-Friendly Port Forwarding",
     "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Frobbie-cahill%2Ftunnelmole-client%2Fmain%2Fdocs%2Fimg%2Ftunnelmole-demo.gif",
-    "og:description": "Learn how to use Tunnelmole for seamless port forwarding, exposing local servers to the within seconds using open source tools. Step-by-step guide for developers.",
+    "og:description": "Port Forwarding: The Developer’s Guide to Secure, Effortless Port Forwarding with...",
     "og:url": "https://dev.to/robbiecahill/port-forwarding-made-simple-how-to-use-tunnelmole-for-secure-developer-friendly-port-forwarding-18b4",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/robbiecahill/the-best-ngrok-alternative-for-linux-tunnelmole-open-source-2112?context=digest",
+    "title": "The Best ngrok Alternative for Linux: Tunnelmole - Open Source - DEV Community",
+    "date": "2025-07-20T03:30:23.582+06:00",
+    "og:title": "The Best ngrok Alternative for Linux: Tunnelmole - Open Source",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Frobbie-cahill%2Ftunnelmole-client%2Fmain%2Fdocs%2Fimg%2Ftunnelmole-demo.gif",
+    "og:description": "The Best ngrok Alternative for Linux: Meet Tunnelmole (Open Source &amp; Free)   If you’re a...",
+    "og:url": "https://dev.to/robbiecahill/the-best-ngrok-alternative-for-linux-tunnelmole-open-source-2112",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/unqlite_db/add-id-document-scanning-to-your-app-with-docscan-no-sdk-required-1bf1?context=digest",
+    "title": "Add ID Document Scanning to Your App with DOCSCAN - No SDK Required - DEV Community",
+    "date": "2025-07-20T03:30:23.109+06:00",
+    "og:title": "Add ID Document Scanning to Your App with DOCSCAN - No SDK Required",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2fbimxx46hhafxi2jl56.png",
+    "og:description": "Add advanced ID document scanning to your app with DOCSCAN, PixLab's SDK-free REST API supporting over 11,000 document types across 200+ countries.",
+    "og:url": "https://dev.to/unqlite_db/add-id-document-scanning-to-your-app-with-docscan-no-sdk-required-1bf1",
     "og:type": "article"
   },
   {
@@ -3176,6 +3506,72 @@
     "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Furbanisierung.dev%2Fdevto.png",
     "og:description": "weeklyfoo #93 is here: your weekly digest of all webdev news you need to know! This time you'll find 39 valuable links in 6 categories! Enjoy!",
     "og:url": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-93-465d",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/urbanisierung/this-is-what-comes-after-dashboards-the-ai-observability-leap-2n00?context=digest",
+    "title": "This Is What Comes After Dashboards: The AI Observability Leap - DEV Community",
+    "date": "2025-07-20T03:30:22.267+06:00",
+    "og:title": "This Is What Comes After Dashboards: The AI Observability Leap",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9uhn9x88l2a7jk40de44.png",
+    "og:description": "Signup here for the newsletter to get the weekly digest right into your inbox.  Find the 11...",
+    "og:url": "https://dev.to/urbanisierung/this-is-what-comes-after-dashboards-the-ai-observability-leap-2n00",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/vaib/dive-deep-into-higher-order-functions-essential-resources-for-functional-programmers-54h?context=digest",
+    "title": "Dive Deep into Higher-Order Functions: Essential Resources for Functional Programmers - DEV Community",
+    "date": "2025-07-20T03:30:22.953+06:00",
+    "og:title": "Dive Deep into Higher-Order Functions: Essential Resources for Functional Programmers",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft6xmopnje9n5jkws7flc.png",
+    "og:description": "The Magic of Functions That Manipulate Functions   In the fascinating world of programming,...",
+    "og:url": "https://dev.to/vaib/dive-deep-into-higher-order-functions-essential-resources-for-functional-programmers-54h",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/vaib/mastering-progressive-web-apps-overcoming-2024-development-challenges-34m4?context=digest",
+    "title": "Mastering Progressive Web Apps: Overcoming 2024 Development Challenges - DEV Community",
+    "date": "2025-07-20T03:30:21.772+06:00",
+    "og:title": "Mastering Progressive Web Apps: Overcoming 2024 Development Challenges",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flqko6txgea26enpnw1hy.png",
+    "og:description": "Progressive Web Apps (PWAs) continue to redefine the web experience, offering app-like...",
+    "og:url": "https://dev.to/vaib/mastering-progressive-web-apps-overcoming-2024-development-challenges-34m4",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/vaib/unlock-your-php-laravel-potential-20-unmissable-resources-for-every-developer-5oh?context=digest",
+    "title": "Unlock Your PHP & Laravel Potential: 20 Unmissable Resources for Every Developer - DEV Community",
+    "date": "2025-07-20T03:30:22.496+06:00",
+    "og:title": "Unlock Your PHP & Laravel Potential: 20 Unmissable Resources for Every Developer",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4hlz51lx92us78p6tkjd.png",
+    "og:description": "Unlock Your PHP &amp; Laravel Potential: 20 Unmissable Resources for Every Developer   Dive...",
+    "og:url": "https://dev.to/vaib/unlock-your-php-laravel-potential-20-unmissable-resources-for-every-developer-5oh",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/vaib/unlock-your-react-potential-20-must-have-resources-beyond-the-obvious-2g3m?context=digest",
+    "title": "Unlock Your React Potential: 20 Must-Have Resources Beyond the Obvious! - DEV Community",
+    "date": "2025-07-20T03:30:22.383+06:00",
+    "og:title": "Unlock Your React Potential: 20 Must-Have Resources Beyond the Obvious!",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmow8h7tj8vr794f4i6rs.png",
+    "og:description": "Unlock Your React Potential: 20 Must-Have Resources Beyond the Obvious!   Hey there,...",
+    "og:url": "https://dev.to/vaib/unlock-your-react-potential-20-must-have-resources-beyond-the-obvious-2g3m",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/vaib/unlocking-the-power-of-public-cloud-essential-deployment-resources-1big?context=digest",
+    "title": "Unlocking the Power of Public Cloud: Essential Deployment Resources - DEV Community",
+    "date": "2025-07-20T03:30:22.597+06:00",
+    "og:title": "Unlocking the Power of Public Cloud: Essential Deployment Resources",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2c0evgbamf3l6w0m51cv.png",
+    "og:description": "Welcome to your ultimate guide for mastering public cloud deployment! In today's rapidly evolving...",
+    "og:url": "https://dev.to/vaib/unlocking-the-power-of-public-cloud-essential-deployment-resources-1big",
     "og:type": "article"
   },
   {
@@ -3553,6 +3949,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "evilmartians.com",
+    "url": "https://evilmartians.com/chronicles/we-studied-100-devtool-landing-pages-here-is-what-actually-works-in-2025?utm_source=unicornclub.dev&ref=unicornclub.dev",
+    "title": "We studied 100 dev tool landing pages—here’s what really works in 2025—Martian Chronicles, Evil Martians’ team blog",
+    "date": "2025-07-20T04:05:46.169+06:00",
+    "og:title": "We studied 100 dev tool landing pages—here’s what really works in 2025—Martian Chronicles, Evil Martians’ team blog",
+    "og:image": "https://evilmartians.com/social-cards/chronicles/we-studied-100-devtool-landing-pages-here-is-what-actually-works-in-2025.jpg",
+    "og:description": "While designing a landing page template for dev tool startups, we reviewed 100+ real product sites. Along the way, we uncovered practical insights—here’s what’s worth knowing if you’re building one yourself.",
+    "og:url": "https://evilmartians.com/chronicles/we-studied-100-devtool-landing-pages-here-is-what-actually-works-in-2025",
+    "og:type": "article"
+  },
+  {
     "hostname": "faraazmohdkhan.medium.com",
     "url": "https://faraazmohdkhan.medium.com/rag-in-2025-do-you-still-need-pre-processing-c85cedaed0ee",
     "title": "RAG in 2025: Do You Still Need Pre-processing? | by Faraaz Khan | Jul, 2025 | Medium",
@@ -3677,7 +4084,7 @@
     "hostname": "frontendmasters.com",
     "url": "https://frontendmasters.com/blog/drawing-css-shapes-using-corner-shape/?ref=web-design-weekly.com",
     "title": "Drawing CSS Shapes using corner-shape – Frontend Masters Blog",
-    "date": "2025-07-03T06:08:53.601+06:00",
+    "date": "2025-07-20T04:05:49.011+06:00",
     "og:title": "",
     "og:image": "https://frontendmasters.com/blog/wp-json/social-image-generator/v1/image/6235",
     "og:description": "",
@@ -3708,6 +4115,17 @@
   },
   {
     "hostname": "frontendmasters.com",
+    "url": "https://frontendmasters.com/blog/step-gradients-with-a-given-number-of-steps/?utm_source=ishadeed&utm_medium=email&utm_campaign=issue-05-step-gradients-css-gap-clamp-calculator",
+    "title": "Step Gradients with a Given Number of Steps – Frontend Masters Blog",
+    "date": "2025-07-20T04:05:47.361+06:00",
+    "og:title": "",
+    "og:image": "https://frontendmasters.com/blog/wp-json/social-image-generator/v1/image/6338",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "frontendmasters.com",
     "url": "https://frontendmasters.com/blog/view-transition-list-reordering-with-a-kick-flip/",
     "title": "View Transition List Reordering (with a Kick Flip) – Frontend Masters Blog",
     "date": "2025-07-09T07:52:41.271+06:00",
@@ -3721,7 +4139,7 @@
     "hostname": "fronterabrands.com",
     "url": "https://fronterabrands.com/newsletter/?rh_partner=cf08c307db",
     "title": "How Brands Win - Frontera",
-    "date": "2025-07-09T09:20:51.755+06:00",
+    "date": "2025-07-20T04:05:45.165+06:00",
     "og:title": "How Brands Win - Frontera",
     "og:image": "https://fronterabrands.com/wp-content/uploads/2024/01/how-brands-win-cover.jpg",
     "og:description": "How Brands Win newsletter distills the strategies behind great brands and gives you insights to use in your business. Join 10,000+ executives:",
@@ -3917,6 +4335,17 @@
   },
   {
     "hostname": "graphicdesignjunction.com",
+    "url": "https://graphicdesignjunction.com/2025/07/tech-logo-templates-design/",
+    "title": "35+ Tech Logo Templates Design Ideas and Concepts - GDJ",
+    "date": "2025-07-20T04:27:07.918+06:00",
+    "og:title": "35+ Tech Logo Templates Design Ideas and Concepts - GDJ",
+    "og:image": "https://graphicdesignjunction.com/wp-content/uploads/2025/07/tech_logos.jpg",
+    "og:description": "Tech logos carry structure, clarity, balance, scale, visibility, function, style, and identity for modern brands. Choose a logo template as a starting point, not the final product. Adjust text, layout, and icons to match your brand.",
+    "og:url": "https://graphicdesignjunction.com/2025/07/tech-logo-templates-design/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "graphicdesignjunction.com",
     "url": "https://graphicdesignjunction.com/2025/07/top-10-lms-development-companies/",
     "title": "Top 10 LMS Development Companies Graphic Design Junction",
     "date": "2025-07-18T08:14:49.498+06:00",
@@ -4089,6 +4518,17 @@
     "og:image": "https://ishadeed.com/assets/feature-image/twitter-card.jpg",
     "og:description": "Using container queries and CSS :has() to build a feature image.",
     "og:url": "https://ishadeed.com/article/modern-css-feature-image/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "ishadeed.com",
+    "url": "https://ishadeed.com/article/the-gap/?utm_source=ishadeed&utm_medium=email&utm_campaign=issue-05-step-gradients-css-gap-clamp-calculator",
+    "title": "The Gap",
+    "date": "2025-07-20T04:05:47.48+06:00",
+    "og:title": "The Gap",
+    "og:image": "https://ishadeed.com/assets/the-gap/twitter-card.jpg",
+    "og:description": "An exploration of the pain points that CSS gap solves.",
+    "og:url": "https://ishadeed.com/article/the-gap/",
     "og:type": "website"
   },
   {
@@ -5542,6 +5982,17 @@
     "og:description": "Let’s be honest. Frontend development is often underestimated.",
     "og:url": "https://mauricioasoto.medium.com/the-hidden-complexity-of-frontend-engineering-e7f21e734ed0",
     "og:type": "article"
+  },
+  {
+    "hostname": "maven.com",
+    "url": "https://maven.com/p/2e1f43/persuading-people-the-skill-ai-can-t-replace?utm_source=unicornclub.dev&ref=unicornclub.dev",
+    "title": "Persuading People: The Skill AI Can't Replace",
+    "date": "2025-07-20T04:05:46.476+06:00",
+    "og:title": "Persuading People: The Skill AI Can't Replace",
+    "og:image": "https://d2426xcxuh3ht5.cloudfront.net/8uaJFp3QhytnHiJYcGmL_Maven - Lightning Lesson Image - PST with AI Theme.png",
+    "og:description": "AI can generate information, but only you can create a transformation. In the era of AI, stakeholders are buried in data and auto-generated content. What stands out? A message that’s clear, resonant, and impossible to ignore. Become known as the PM with the gift to persuade leaders, shape strategy, and inspire people to action.",
+    "og:url": "",
+    "og:type": "website"
   },
   {
     "hostname": "mayconbalves.medium.com",
@@ -8086,6 +8537,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@mevbg/responsive-without-limits-the-beauty-of-scaling-from-zero-to-infinity-6c082fd89e61",
+    "title": "Responsive Without Limits: The Beauty of Scaling from Zero to Infinity | by Martin Metodiev • Mev | Jul, 2025 | Medium",
+    "date": "2025-07-20T04:27:07.877+06:00",
+    "og:title": "Responsive Without Limits: The Beauty of Scaling from Zero to Infinity",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*Q6KL9Md70v64I40gx6LDBQ.jpeg",
+    "og:description": "How polishing the invisible makes your UI truly timeless and screen-proof",
+    "og:url": "https://medium.com/@mevbg/responsive-without-limits-the-beauty-of-scaling-from-zero-to-infinity-6c082fd89e61",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@mfurkan1140/how-to-start-learning-html-css-and-js-a-beginners-guide-part-2-2516733de07e",
     "title": "🚀 How to Start Learning HTML, CSS, and JS: A Beginner’s Guide — Part 2 | by Furkan ŞAHİN | Jul, 2025 | Medium",
     "date": "2025-07-07T03:33:29.032+06:00",
@@ -9395,6 +9857,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@sureshdotariya/advanced-styling-techniques-tailwindcss-css-modules-in-next-js-15-378408729b60",
+    "title": "Advanced Styling Techniques: TailwindCSS & CSS Modules in Next.js 15 | by Suresh Kumar Ariya Gowder | Jul, 2025 | Medium",
+    "date": "2025-07-20T04:27:07.825+06:00",
+    "og:title": "Advanced Styling Techniques: TailwindCSS & CSS Modules in Next.js 15",
+    "og:image": "",
+    "og:description": "Styling a modern web app can be both exciting and overwhelming, especially in a Next.js 15 project that needs to look good and work well on…",
+    "og:url": "https://medium.com/@sureshdotariya/advanced-styling-techniques-tailwindcss-css-modules-in-next-js-15-378408729b60",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@talhaawan78654321/is-angular-still-worth-it-in-2025-what-i-learned-after-100-000-lines-of-code-d31d7dfbba4e",
     "title": "Is Angular Still Worth It in 2025? What I Learned After 100,000 Lines of Code | by Talha awan | Jul, 2025 | Medium",
     "date": "2025-07-11T03:07:06.864+06:00",
@@ -9402,6 +9875,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*5bHcgAElZQi8Pw0OqZi-ng.png",
     "og:description": "You’ve been hearing the Angular vs React vs Vue war for years. But what does working on 100K+ lines of Angular code actually teach you?",
     "og:url": "https://medium.com/@talhaawan78654321/is-angular-still-worth-it-in-2025-what-i-learned-after-100-000-lines-of-code-d31d7dfbba4e",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@tamilnambicse/flutter-development-for-foldables-multi-display-and-large-screen-devices-in-2025-e554aff30b99",
+    "title": "Flutter Development for Foldables, Multi-Display, and Large-Screen Devices in 2025 | by Tamilnambi | Jul, 2025 | Medium",
+    "date": "2025-07-20T04:27:07.862+06:00",
+    "og:title": "Flutter Development for Foldables, Multi-Display, and Large-Screen Devices in 2025",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*G9EMP22aiWiu8x5d_23GaA.jpeg",
+    "og:description": "The year 2025 marks a pivotal moment for Flutter, as it solidifies its position as a truly multi-platform UI toolkit, extending far beyond…",
+    "og:url": "https://medium.com/@tamilnambicse/flutter-development-for-foldables-multi-display-and-large-screen-devices-in-2025-e554aff30b99",
     "og:type": "article"
   },
   {
@@ -10802,6 +11286,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "min-max-calculator.9elements.com",
+    "url": "https://min-max-calculator.9elements.com/?16,24,320,1200",
+    "title": "Min-Max-Value Interpolation",
+    "date": "2025-07-20T04:05:47.578+06:00",
+    "og:title": "Min-Max-Value Interpolation",
+    "og:image": "https://min-max-calculator.9elements.com/_astro/social-share.BlFzX8YK.png",
+    "og:description": "A tool that calculates the CSS clamp formula to interpolate between two values in a given viewport range.",
+    "og:url": "https://min-max-calculator.9elements.com/",
+    "og:type": "website"
+  },
+  {
     "hostname": "mohammadtaheri.medium.com",
     "url": "https://mohammadtaheri.medium.com/observing-frontend-app-with-grafana-loki-part-1-57e201223ae3",
     "title": "Observing Frontend App with Grafana Faro + Grafana Loki + Grafana Alloy (Part 1) | by Mohammad Taheri | Medium | Medium",
@@ -11096,6 +11591,17 @@
     "og:image": "",
     "og:description": "",
     "og:url": "https://paarthivlungcare.com/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "piccalil.li",
+    "url": "https://piccalil.li/blog/a-handy-use-of-subgrid-to-enhance-a-simple-layout/",
+    "title": "A handy use of subgrid to enhance a simple layout - Piccalilli",
+    "date": "2025-07-20T04:27:09.227+06:00",
+    "og:title": "A handy use of subgrid to enhance a simple layout",
+    "og:image": "https://api.urlbox.io/v1/ln9ptArKXobLRpDQ/9525a8b3482fb05924eb351fec7693739830fa016c80216c95a677b92e7b2656/png?url=https://piccalil.li/og/a-handy-use-of-subgrid-to-enhance-a-simple-layout/&width=1024&height=526&retina=true",
+    "og:description": "subgrid in CSS is really handy for getting a nice level of design detail in place, especially in terms of maintaining a nice reading line, as Andy shows in this article.",
+    "og:url": "https://piccalil.li/blog/a-handy-use-of-subgrid-to-enhance-a-simple-layout/",
     "og:type": "website"
   },
   {
@@ -11451,6 +11957,17 @@
     "og:type": ""
   },
   {
+    "hostname": "smashingconf.com",
+    "url": "https://smashingconf.com/freiburg-2025?utm_source=unicornclub.dev&ref=unicornclub.dev",
+    "title": "SmashingConf 2025, September 8–11 — Friendly, inclusive, practical event for web designers and developers. — Freiburg in Germany, September 8–11.",
+    "date": "2025-07-20T04:05:46.264+06:00",
+    "og:title": "SmashingConf 2025, September 8–11 — Friendly, inclusive, practical event for web designers and developers. — Freiburg in Germany, September 8–11.",
+    "og:image": "https://smashingconf.com/images/events/og/freiburg-2025-og.png",
+    "og:description": "The 12th SmashingConf Freiburg — in our lovely hometown in Germany — will be taking place in the Historic Merchants’ Hall on September 8–11. With one track, two days, 12 speakers and 300 attendees, expect actionable insights for your work — right at the footsteps of the magical Black Forest.",
+    "og:url": "https://smashingconf.com/freiburg-2025/",
+    "og:type": "website"
+  },
+  {
     "hostname": "snook.ca",
     "url": "https://snook.ca/archives/other/june-baby",
     "title": "June, Baby - Snook.ca",
@@ -11795,7 +12312,7 @@
     "hostname": "tldr.tech",
     "url": "https://tldr.tech/signup?rh_partner=7678f48b9c",
     "title": "TLDR Newsletter - Keep up with Tech in 5 minutes",
-    "date": "2025-07-17T02:13:04.864+06:00",
+    "date": "2025-07-20T04:05:45.387+06:00",
     "og:title": "TLDR Newsletter - A Byte Sized Daily Tech Newsletter",
     "og:image": "https://tldr.tech/logo-jpg.jpg",
     "og:description": "TLDR is the free daily newsletter with the most interesting stories in startups, tech and programming!",
@@ -12356,7 +12873,7 @@
     "hostname": "uxdesign.cc",
     "url": "https://uxdesign.cc/improving-design-critiques-0e4d075ead2f",
     "title": "Improving design critiques. Design Critiques are essential, yet… | by Jeremy Bird | Jul, 2025 | UX Collective",
-    "date": "2025-07-15T03:08:39.457+06:00",
+    "date": "2025-07-20T04:05:47.249+06:00",
     "og:title": "Improving design critiques",
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*MWVBLPH79TlX9GyvDfNQWA.jpeg",
     "og:description": "Design Critiques are essential, yet many teams struggle to run them effectively. These best practices, resources, & tips can help.",
@@ -12521,7 +13038,7 @@
     "hostname": "uxplanet.org",
     "url": "https://uxplanet.org/14-logic-driven-ui-design-tips-145ee08ea5a5",
     "title": "14 logic-driven UI design tips to improve any interface | UX Planet",
-    "date": "2025-07-03T06:08:53.451+06:00",
+    "date": "2025-07-20T04:05:48.204+06:00",
     "og:title": "14 logic-driven UI design tips to improve any interface",
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*O8apWQMj88oFpHayV2FaJA.jpeg",
     "og:description": "UI design tips to improve your interface designs using logic rather than gut feel.",
@@ -12609,7 +13126,7 @@
     "hostname": "uxplanet.org",
     "url": "https://uxplanet.org/how-to-level-up-your-confidence-game-87ccd536d292",
     "title": "How to level up your confidence game? | by Hazel Chen | Jul, 2025 | UX Planet",
-    "date": "2025-07-17T02:13:04.931+06:00",
+    "date": "2025-07-20T04:05:45.751+06:00",
     "og:title": "How to level up your confidence game?",
     "og:image": "https://miro.medium.com/v2/resize:fit:640/1*NM4PLRQz9pabdP1rVCxxaQ.png",
     "og:description": "Hi, I’m Hazel. I’m a product designer. Previously, I worked in construction for three years.",
@@ -13432,6 +13949,17 @@
   },
   {
     "hostname": "www.awwwards.com",
+    "url": "https://www.awwwards.com/sites/studio-alphonse",
+    "title": "Studio Alphonse - Awwwards SOTD",
+    "date": "2025-07-20T04:27:09.815+06:00",
+    "og:title": "Studio Alphonse - Awwwards SOTD",
+    "og:image": "https://assets.awwwards.com/awards/submissions/2025/05/68131d167aa15456187385.png",
+    "og:description": "Webflow site for a production studio and post-production lab based in Reunion Island. Variable font for unique covers, and CMS lets the client update...",
+    "og:url": "https://www.awwwards.com/sites/studio-alphonse",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.awwwards.com",
     "url": "https://www.awwwards.com/sites/studio-nuts-r",
     "title": "Studio Nuts® - Awwwards SOTD",
     "date": "2025-07-07T03:32:00.496+06:00",
@@ -13681,6 +14209,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/s9bjWJDa9FVE2TXYHXWPGf.jpg",
     "og:description": "Someone didn’t get the memo.",
     "og:url": "https://www.creativebloq.com/3d/video-game-design/did-xbox-really-just-advertise-jobs-in-graphics-with-this-terrible-ai-art",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/3d/video-game-design/get-inspired-by-the-best-indie-game-devs",
+    "title": "Get inspired by 17 of the most inspirational indie game devs | Creative Bloq",
+    "date": "2025-07-20T04:27:08.47+06:00",
+    "og:title": "Get inspired by 17 of the most inspirational indie game devs",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/od95GWYNMnxW2uW4LQtqoV.jpg",
+    "og:description": "Discover the creators pushing boundaries with bold ideas, stunning art, and unforgettable gameplay.",
+    "og:url": "https://www.creativebloq.com/3d/video-game-design/get-inspired-by-the-best-indie-game-devs",
     "og:type": "article"
   },
   {
@@ -14180,6 +14719,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/art/this-hyper-realistic-pencil-drawing-racked-up-2-3-million-views-on-tiktok-and-i-can-see-why",
+    "title": "This hyper-realistic pencil drawing racked up 2.3 million views on TikTok – and took two years to create | Creative Bloq",
+    "date": "2025-07-20T04:27:10.12+06:00",
+    "og:title": "This breathtakingly realistic pencil drawing took two years to create – and now has 2.3 million views on TikTok",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/34jtC5GEqCKywwifR3Zxzi.jpg",
+    "og:description": "I spoke to the artist.",
+    "og:url": "https://www.creativebloq.com/art/this-hyper-realistic-pencil-drawing-racked-up-2-3-million-views-on-tiktok-and-i-can-see-why",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/art/traditional-art/easy-to-learn-art-tips-to-turn-the-ordinary-into-the-extraordinary",
     "title": "Easy to learn art tips to turn the ordinary into the extraordinary | Creative Bloq",
     "date": "2025-07-03T10:06:45.325+06:00",
@@ -14451,6 +15001,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/f8kxkSaqp75VHZ5wXFYrMU.jpg",
     "og:description": "It's all about the gradients.",
     "og:url": "https://www.creativebloq.com/design/branding/new-intimate-content-app-gets-a-sophisticated-brand",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/design/branding/polaroid-just-dropped-the-most-iconic-anti-ai-ad-of-the-year",
+    "title": "Polaroid just dropped the most iconic anti-AI ad of the year | Creative Bloq",
+    "date": "2025-07-20T04:27:10.176+06:00",
+    "og:title": "Polaroid just dropped the most iconic print ad of the year",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/JGCdiFKhME5x2aERiXjcAX.jpg",
+    "og:description": "Nostalgia and a timely message combine in a potent new campaign.",
+    "og:url": "https://www.creativebloq.com/design/branding/polaroid-just-dropped-the-most-iconic-anti-ai-ad-of-the-year",
     "og:type": "article"
   },
   {
@@ -14891,6 +15452,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/Sne4X3EjdaKFieuJF2eC2c.png",
     "og:description": "The atmosphere is perfect.",
     "og:url": "https://www.creativebloq.com/entertainment/gaming/fans-remade-the-iconic-metal-gear-solid-2-intro-in-unreal-engine-5",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/entertainment/gaming/finally-this-razer-x-pokemon-collab-is-going-global",
+    "title": "I'm not personally a fan of the latest Razer X Pokémon collab, but these accessories are finally available outside of Asia | Creative Bloq",
+    "date": "2025-07-20T04:27:09.921+06:00",
+    "og:title": "The latest Razer x Pokémon collab is here, but it's not really for me",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/kiYMEpaLsi7wHqpfzTPNWe.png",
+    "og:description": "I'll admit, the design is pretty cute. But I prefer the Gengar set. Wake me up when THAT ONE hits the UK market.",
+    "og:url": "https://www.creativebloq.com/entertainment/gaming/finally-this-razer-x-pokemon-collab-is-going-global",
     "og:type": "article"
   },
   {
@@ -15621,6 +16193,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/tech/phones-tablets/tested-this-new-android-tablet-is-nice-if-youre-looking-for-a-lightweight-affordable-media-friendly-tablet-with-a-stylus",
+    "title": "Lenovo Idea Tab Pro review: everyday tablet does the job for casual users | Creative Bloq",
+    "date": "2025-07-20T04:27:10.025+06:00",
+    "og:title": "Tested: this new Android tablet is nice if you're looking for a lightweight, affordable, media-friendly tablet with a stylus",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/q5pRub9JWJoqwi6bM9us5T.jpg",
+    "og:description": "The Lenovo Idea Tab Pro won't win any performance awards, but the screen and ease of use make it worth your consideration.",
+    "og:url": "https://www.creativebloq.com/tech/phones-tablets/tested-this-new-android-tablet-is-nice-if-youre-looking-for-a-lightweight-affordable-media-friendly-tablet-with-a-stylus",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/tech/phones-tablets/the-xppen-artist-pro-16-gen-2-hits-lowest-price-ever-in-pre-prime-day-offer",
     "title": "One of our favourite XPPen pen displays is 20% off right now | Creative Bloq",
     "date": "2025-07-03T06:38:27.49+06:00",
@@ -15687,6 +16270,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/web-design/fun-new-calendar-plugin-celebrates-lgbtqia-history",
+    "title": "Innovative new calendar plugin celebrates LGBTQIA+ history – download it today | Creative Bloq",
+    "date": "2025-07-20T04:27:09.469+06:00",
+    "og:title": "Innovative new calendar plugin celebrates LGBTQIA+ history – download it today",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/782eXSSUT6dkS6kfSwegEW.png",
+    "og:description": "Today is Gay. And tomorrow is Gay. And the day after tomorrow is Gay, too.",
+    "og:url": "https://www.creativebloq.com/web-design/fun-new-calendar-plugin-celebrates-lgbtqia-history",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/web-design/i-just-started-a-substack-here-are-hidden-7-settings-you-need-to-change-right-now",
     "title": "How to set up a Substack – don't miss these hidden settings. | Creative Bloq",
     "date": "2025-07-07T03:31:47.607+06:00",
@@ -15705,6 +16299,17 @@
     "og:image": "https://www.cssscript.com/wp-content/uploads/2025/07/animated-ascii-backgrounds.webp",
     "og:description": "A JavaScript library for creating animated ASCII backgrounds with Perlin noise, waves, rain, and Matrix-style effects.",
     "og:url": "https://www.cssscript.com/animated-ascii-backgrounds/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.cssscript.com",
+    "url": "https://www.cssscript.com/canvas-charting-chartie/",
+    "title": "Lightweight Performant Canvas Charting Library - Chartie | CSS Script",
+    "date": "2025-07-20T04:27:09.627+06:00",
+    "og:title": "Lightweight Performant Canvas Charting Library - Chartie | CSS Script",
+    "og:image": "https://www.cssscript.com/wp-content/uploads/2025/07/canvas-charting-chartie.webp",
+    "og:description": "A lightweight canvas charting library under 10kb. Create bar, line, pie, and other charts with zero dependencies and full TS support.",
+    "og:url": "https://www.cssscript.com/canvas-charting-chartie/",
     "og:type": "article"
   },
   {
@@ -15984,6 +16589,17 @@
   },
   {
     "hostname": "www.csswinner.com",
+    "url": "https://www.csswinner.com/details/changer-capital-anri/18769",
+    "title": "Changer Capital ANRI - CSS Winner",
+    "date": "2025-07-20T04:27:08.949+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.csswinner.com",
     "url": "https://www.csswinner.com/details/dayan-jayatilleka-perosnal-site/18740",
     "title": "Dayan Jayatilleka Perosnal Site - CSS Winner",
     "date": "2025-07-03T10:06:45.3+06:00",
@@ -16173,12 +16789,34 @@
     "hostname": "www.dupple.com",
     "url": "https://www.dupple.com/techpresso?rh_partner=b72d447f42",
     "title": "Techpresso - Free Daily Tech Newsletter",
-    "date": "2025-07-17T02:13:04.895+06:00",
+    "date": "2025-07-20T04:05:45.573+06:00",
     "og:title": "Techpresso - Free Daily Tech Newsletter",
     "og:image": "https://cdn.prod.website-files.com/628535ab8900e721d61b7f8a/64da7e3be81c3342557ee161_3.jpg",
     "og:description": "Techpresso is the free daily newsletter with the most interesting tech news and insights. It's the best way to stay ahead in just a few minutes.",
     "og:url": "",
     "og:type": "website"
+  },
+  {
+    "hostname": "www.dynatrace.com",
+    "url": "https://www.dynatrace.com/news/blog/distributed-tracing-best-practices/?utm_medium=email&utm_source=devto-digest&utm_campaign=global-developer-observability&utm_content=em1&utm_term=q1fy26&bb=237622",
+    "title": "Distributed tracing best practices for the SDLC",
+    "date": "2025-07-20T03:30:22.798+06:00",
+    "og:title": "Distributed tracing best practices for the software development lifecycle",
+    "og:image": "https://dt-cdn.net/wp-content/uploads/2025/01/Blog__OTP_0207__web_res_version.png",
+    "og:description": "Distributed tracing best practices at every stage of the development lifecycle help to deliver services that fulfill core business goals.",
+    "og:url": "https://www.dynatrace.com/news/blog/distributed-tracing-best-practices/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.dynatrace.com",
+    "url": "https://www.dynatrace.com/news/blog/distributed-tracing-best-practices/?utm_medium=email&utm_source=devto-digest&utm_campaign=global-developer-observability&utm_content=em1&utm_term=q1fy26&bb=237623",
+    "title": "Distributed tracing best practices for the SDLC",
+    "date": "2025-07-20T03:30:21.919+06:00",
+    "og:title": "Distributed tracing best practices for the software development lifecycle",
+    "og:image": "https://dt-cdn.net/wp-content/uploads/2025/01/Blog__OTP_0207__web_res_version.png",
+    "og:description": "Distributed tracing best practices at every stage of the development lifecycle help to deliver services that fulfill core business goals.",
+    "og:url": "https://www.dynatrace.com/news/blog/distributed-tracing-best-practices/",
+    "og:type": "article"
   },
   {
     "hostname": "www.elenaverna.com",
@@ -16445,6 +17083,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.fundament.design",
+    "url": "https://www.fundament.design/p/you-probably-just-took-on-some-ux?utm_source=unicornclub.dev&ref=unicornclub.dev",
+    "title": "You probably just took on some UX debt",
+    "date": "2025-07-20T04:05:44.941+06:00",
+    "og:title": "You probably just took on some UX debt",
+    "og:image": "https://substackcdn.com/image/fetch/$s_!Emu5!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0360bae-ad07-43fb-9bf9-fde873b4536a_1448x964.heic",
+    "og:description": "#58: How limitations and compromise-driven decisions contribute to UX debt.",
+    "og:url": "https://www.fundament.design/p/you-probably-just-took-on-some-ux?ref=unicornclub.dev",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.garros.gallery",
     "url": "https://www.garros.gallery/",
     "title": "The Art of Roland-Garros",
@@ -16698,6 +17347,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.nngroup.com",
+    "url": "https://www.nngroup.com/articles/saving-scroll-position/?utm_source=unicornclub.dev&ref=unicornclub.dev",
+    "title": "Designing Scroll Behavior: When to Save a User’s Place - NN/g",
+    "date": "2025-07-20T04:05:44.835+06:00",
+    "og:title": "Designing Scroll Behavior: When to Save a User’s Place",
+    "og:image": "https://media.nngroup.com/media/articles/opengraph_images/Scroll_Behavior_Opengraph_copy_4.png",
+    "og:description": "Save scroll position when users are likely to compare content in a long static list.",
+    "og:url": "https://www.nngroup.com/articles/saving-scroll-position/",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.noupe.com",
     "url": "https://www.noupe.com/magazine/business-online/smart-scaling.html",
     "title": "Digital Roadmaps That Deliver: A Founder’s Guide to Smart Scaling - noupe",
@@ -16734,7 +17394,7 @@
     "hostname": "www.nubero.ch",
     "url": "https://www.nubero.ch/blog/015/?ref=web-design-weekly.com",
     "title": "Nuberodesign > Blog > Designing for the Eye",
-    "date": "2025-07-03T06:08:53.467+06:00",
+    "date": "2025-07-20T04:05:48.291+06:00",
     "og:title": "Designing for the Eye – Optical Corrections in Architecture and Typography",
     "og:image": "https://www.nubero.ch/transfer/permanent/nubero_socialmedia_icon_DesigningForTheEye.png",
     "og:description": "The Nuberodesign Blog",
@@ -16790,6 +17450,17 @@
     "url": "https://www.seangoedecke.com/good-system-design/?ref=unicornclub.dev",
     "title": "Everything I know about good system design",
     "date": "2025-07-17T02:13:05.003+06:00",
+    "og:title": "Everything I know about good system design",
+    "og:image": "",
+    "og:description": "I see a lot of bad system design advice. One classic is the LinkedIn-optimized “bet you never heard of queues” style of post, presumably aimed at people who are…",
+    "og:url": "",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.seangoedecke.com",
+    "url": "https://www.seangoedecke.com/good-system-design/?utm_source=unicornclub.dev&ref=unicornclub.dev",
+    "title": "Everything I know about good system design",
+    "date": "2025-07-20T04:05:46.856+06:00",
     "og:title": "Everything I know about good system design",
     "og:image": "",
     "og:description": "I see a lot of bad system design advice. One classic is the LinkedIn-optimized “bet you never heard of queues” style of post, presumably aimed at people who are…",
@@ -17043,6 +17714,17 @@
     "url": "https://www.smashingmagazine.com/2025/07/design-patterns-ai-interfaces/?ref=unicornclub.dev",
     "title": "Design Patterns For AI Interfaces — Smashing Magazine",
     "date": "2025-07-17T02:13:05.044+06:00",
+    "og:title": "Design Patterns For AI Interfaces — Smashing Magazine",
+    "og:image": "https://files.smashing.media/articles/design-patterns-ai-interfaces/design-patterns-ai-interfaces.jpg",
+    "og:description": "Designing a new AI feature? Where do you even begin? From first steps to design flows and interactions, here’s a simple, systematic approach to building AI experiences that stick.",
+    "og:url": "https://www.smashingmagazine.com/2025/07/design-patterns-ai-interfaces/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.smashingmagazine.com",
+    "url": "https://www.smashingmagazine.com/2025/07/design-patterns-ai-interfaces/?utm_source=unicornclub.dev&ref=unicornclub.dev",
+    "title": "Design Patterns For AI Interfaces — Smashing Magazine",
+    "date": "2025-07-20T04:05:47.298+06:00",
     "og:title": "Design Patterns For AI Interfaces — Smashing Magazine",
     "og:image": "https://files.smashing.media/articles/design-patterns-ai-interfaces/design-patterns-ai-interfaces.jpg",
     "og:description": "Designing a new AI feature? Where do you even begin? From first steps to design flows and interactions, here’s a simple, systematic approach to building AI experiences that stick.",
@@ -17339,10 +18021,10 @@
     "hostname": "www.youtube.com",
     "url": "https://www.youtube.com/watch?v=6QYftL4oJP0",
     "title": "How I \"Steal\" Design Like a Pro - YouTube",
-    "date": "2025-07-03T06:08:53.437+06:00",
+    "date": "2025-07-20T04:05:47.9+06:00",
     "og:title": "How I \"Steal\" Design Like a Pro",
     "og:image": "https://i.ytimg.com/vi/6QYftL4oJP0/maxresdefault.jpg",
-    "og:description": "Here’s how I steal ideas to create new designs (and how you can do it too).FREE MINI-CLASS: How Freelancers Deliver Their First Paid Website 👉 https://bit.l...",
+    "og:description": "Here’s how I steal ideas to create new designs (and how you can do it too).FREE TRAINING: 3 Steps to Build a Thriving Web Design Career 👉 https://bit.ly/3Ti...",
     "og:url": "https://www.youtube.com/watch?v=6QYftL4oJP0",
     "og:type": "video.other"
   },
