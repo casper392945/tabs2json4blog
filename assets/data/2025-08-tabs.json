@@ -44,6 +44,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "alistapart.com",
+    "url": "https://alistapart.com/article/an-holistic-framework-for-shared-design-leadership/",
+    "title": "An Holistic Framework for Shared Design Leadership – A List Apart",
+    "date": "2025-08-03T08:32:24.678+06:00",
+    "og:title": "An Holistic Framework for Shared Design Leadership",
+    "og:image": "https://i0.wp.com/alistapart.com/wp-content/uploads/2025/07/janus-roman-god-two-faces.jpg?fit=1200%2C678&ssl=1",
+    "og:description": "“The relationship between a Design Manager and Lead Designer isn’t about dividing territories. It’s about multiplying impact. When both roles understand they’re tending to different aspects of the …",
+    "og:url": "https://alistapart.com/article/an-holistic-framework-for-shared-design-leadership/",
+    "og:type": "article"
+  },
+  {
     "hostname": "android-developers.googleblog.com",
     "url": "https://android-developers.googleblog.com/2025/07/android-studio-narwhal-feature-drop-stable-agent-mode.html",
     "title": "Android Developers Blog: Android Studio Narwhal Feature Drop is stable - start using Agent Mode",
@@ -64,6 +75,17 @@
     "og:description": "Frontend development has come a long way, evolving from simple static pages to complex single-page applications (SPAs). Managing the environment for these applications can be challenging, especially…",
     "og:url": "https://arnab-k.medium.com/complete-guide-to-frontend-development-with-docker-ba3515b5ed77",
     "og:type": "article"
+  },
+  {
+    "hostname": "blog.val.town",
+    "url": "https://blog.val.town/vibe-code",
+    "title": "Vibe code is legacy code | Val Town Blog",
+    "date": "2025-08-03T08:32:24.888+06:00",
+    "og:title": "Vibe code is legacy code",
+    "og:image": "https://blog.val.town/og-image.png?title=Vibe+code+is+legacy+code",
+    "og:description": "Updates and articles from the Val Town team",
+    "og:url": "https://blog.val.town",
+    "og:type": "website"
   },
   {
     "hostname": "bradfrost.com",
@@ -143,6 +165,39 @@
     "og:type": "article"
   },
   {
+    "hostname": "community.codenewbie.org",
+    "url": "https://community.codenewbie.org/sharon428931/safeline-or-bunkerweb-choosing-the-best-self-hosted-waf-36jn?context=digest",
+    "title": "SafeLine or BunkerWeb? Choosing the Best Self-Hosted WAF - CodeNewbie Community 🌱",
+    "date": "2025-08-03T03:51:31.825+06:00",
+    "og:title": "SafeLine or BunkerWeb? Choosing the Best Self-Hosted WAF",
+    "og:image": "https://community.codenewbie.org/images/5YYGxLCJUxBDkoxQ5rQedCCVUnp60PJSmbvndXAKVEU/rs:fill:1000:500/g:sm/mb:500000/ar:1/aHR0cHM6Ly9jb21t/dW5pdHkuY29kZW5l/d2JpZS5vcmcvcmVt/b3RlaW1hZ2VzL3Vw/bG9hZHMvYXJ0aWNs/ZXMvcXQ1czJzeWhv/NjM4NGN0ZGk1dWcu/cG5n",
+    "og:description": "When it comes to open source Web Application Firewalls (WAFs), two names often pop up: SafeLine and...",
+    "og:url": "https://community.codenewbie.org/sharon428931/safeline-or-bunkerweb-choosing-the-best-self-hosted-waf-36jn",
+    "og:type": "article"
+  },
+  {
+    "hostname": "community.codenewbie.org",
+    "url": "https://community.codenewbie.org/sharon428931/yonyou-u8-cloud-vulnerability-exposes-servers-to-rce-1ldc?context=digest",
+    "title": "Yonyou U8 Cloud Vulnerability Exposes Servers to RCE - CodeNewbie Community 🌱",
+    "date": "2025-08-03T03:51:31.833+06:00",
+    "og:title": "Yonyou U8 Cloud Vulnerability Exposes Servers to RCE",
+    "og:image": "https://community.codenewbie.org/images/beByIxg07HKBCLdNEg4HmK4F9XA-UTLw2s2WLBZzpOY/rs:fill:1000:500/g:sm/mb:500000/ar:1/aHR0cHM6Ly9jb21t/dW5pdHkuY29kZW5l/d2JpZS5vcmcvcmVt/b3RlaW1hZ2VzL3Vw/bG9hZHMvYXJ0aWNs/ZXMva3Bncnhzdzlk/ZzN0YW43bDR0ZGUu/cG5n",
+    "og:description": "&gt; About Author Hi, I'm Sharon, a product manager at Chaitin Tech. We build SafeLine, an...",
+    "og:url": "https://community.codenewbie.org/sharon428931/yonyou-u8-cloud-vulnerability-exposes-servers-to-rce-1ldc",
+    "og:type": "article"
+  },
+  {
+    "hostname": "community.codenewbie.org",
+    "url": "https://community.codenewbie.org/sharon428931/zero-day-in-esafenet-document-security-platform-cve-unconfirmed-38md?context=digest",
+    "title": "Zero-Day in eSafeNet Document Security Platform (CVE Unconfirmed) - CodeNewbie Community 🌱",
+    "date": "2025-08-03T03:51:31.828+06:00",
+    "og:title": "Zero-Day in eSafeNet Document Security Platform (CVE Unconfirmed)",
+    "og:image": "https://community.codenewbie.org/images/uS_rgaIld5_3ow8jF1IFQJQtHxNJ7cCNXHe7CpCJk-0/rs:fill:1000:500/g:sm/mb:500000/ar:1/aHR0cHM6Ly9jb21t/dW5pdHkuY29kZW5l/d2JpZS5vcmcvcmVt/b3RlaW1hZ2VzL3Vw/bG9hZHMvYXJ0aWNs/ZXMvdGEzZXNkc3F3/dG1tMjZzY3h1aGou/cG5n",
+    "og:description": "&gt; About Author Hi, I'm Sharon, a product manager at Chaitin Tech. We build SafeLine, an...",
+    "og:url": "https://community.codenewbie.org/sharon428931/zero-day-in-esafenet-document-security-platform-cve-unconfirmed-38md",
+    "og:type": "article"
+  },
+  {
     "hostname": "designbeep.com",
     "url": "https://designbeep.com/2025/08/01/15-css-flame-animations-you-should-see/",
     "title": "15 CSS Flame Animations You Should See - Designbeep",
@@ -199,6 +254,28 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/googleworkspace/gemini-live-api-cycle-tour-1kf2?context=digest",
+    "title": "Gemini Live API: Cycle Tour 🚴🏽 - DEV Community",
+    "date": "2025-08-03T03:46:50.806+06:00",
+    "og:title": "Gemini Live API: Cycle Tour 🚴🏽",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8nx3s46brllo4dijvtz9.png",
+    "og:description": "Check out this playable demo that we saw at Google Cloud Summit London. ...",
+    "og:url": "https://dev.to/googleworkspace/gemini-live-api-cycle-tour-1kf2",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/kafechew/bitcoin-intelligence-daily-brief-automated-market-industry-intelligence-1pmp?",
+    "title": "Bitcoin Intelligence Daily Brief - Automated Market & Industry Intelligence - DEV Community",
+    "date": "2025-08-03T03:43:36.908+06:00",
+    "og:title": "Bitcoin Intelligence Daily Brief - Automated Market & Industry Intelligence",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo0fg9ms6v3w4medhkk68.png",
+    "og:description": "This is a submission for the Runner H \"AI Agent Prompting\" Challenge           What I Built   I...",
+    "og:url": "https://dev.to/kafechew/bitcoin-intelligence-daily-brief-automated-market-industry-intelligence-1pmp",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/nevil_bhayani_40d9b65421d/building-a-react-todo-app-complete-guide-om3?context=digest",
     "title": "Building a React Todo App: Complete Guide - DEV Community",
     "date": "2025-08-01T10:00:56.343+06:00",
@@ -217,6 +294,17 @@
     "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdoqswq2xsk2f4dl1npre.jpg",
     "og:description": "The Reality of Debugging: How I Deal with \"That One Bug\"   Ah, debugging. It's the...",
     "og:url": "https://dev.to/rhythmsaha/the-reality-of-debugging-how-i-deal-with-that-one-bug-2eae",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/sahan/building-a-home-lab-kubernetes-cluster-with-old-hardware-and-k3s-f76?context=digest",
+    "title": "Building a Home Lab Kubernetes Cluster with Old Hardware and k3s - DEV Community",
+    "date": "2025-08-03T03:46:50.847+06:00",
+    "og:title": "Building a Home Lab Kubernetes Cluster with Old Hardware and k3s",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsahansera.dev%2Fstatic%2Ff4ec867f478aa88280712b7de62ada3a%2F8db55%2Fbuilding-home-lab-kubernetes-cluster-old-hardware-k3s.jpg",
+    "og:description": "If you've read my previous post about building a Raspberry Pi k3s cluster, you know I'm a huge fan of...",
+    "og:url": "https://dev.to/sahan/building-a-home-lab-kubernetes-cluster-with-old-hardware-and-k3s-f76",
     "og:type": "article"
   },
   {
@@ -286,6 +374,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "fika.bar",
+    "url": "https://fika.bar/paoramen/ai-is-eating-the-internet-01K10JG1SHGZQHN61HPGWPXN60",
+    "title": "AI is eating the Internet",
+    "date": "2025-08-03T08:32:24.703+06:00",
+    "og:title": "AI is eating the Internet",
+    "og:image": "https://images.fika.bar/post-main-image/01K10JG1SHGZQHN61HPGWPXN60/imageeec9cd53026a2b8608647d2c6a71d6e5.webp?",
+    "og:description": "An exploration of the Internet to come",
+    "og:url": "https://fika.bar/paoramen/ai-is-eating-the-internet-01K10JG1SHGZQHN61HPGWPXN60",
+    "og:type": "article"
+  },
+  {
     "hostname": "frontendmasters.com",
     "url": "https://frontendmasters.com/blog/liquid-glass-on-the-web/",
     "title": "Liquid Glass on the Web – Frontend Masters Blog",
@@ -311,9 +410,9 @@
     "hostname": "github.com",
     "url": "https://github.com/jarulraj/periodic-table",
     "title": "jarulraj/periodic-table: A Periodic Table of System Design Principles",
-    "date": "2025-08-01T02:59:45.851+06:00",
+    "date": "2025-08-03T08:32:24.754+06:00",
     "og:title": "jarulraj/periodic-table: A Periodic Table of System Design Principles",
-    "og:image": "https://opengraph.githubassets.com/618d8eeb09befd855e66af667cadb101815c0d26ca469f47a4f2d2f40c21f794/jarulraj/periodic-table",
+    "og:image": "https://opengraph.githubassets.com/d719612dadb2f77e2879fd44697a1e254c2ca6f3a35376b60333629e7532fd10/jarulraj/periodic-table",
     "og:description": "A Periodic Table of System Design Principles. Contribute to jarulraj/periodic-table development by creating an account on GitHub.",
     "og:url": "https://github.com/jarulraj/periodic-table",
     "og:type": "object"
@@ -916,7 +1015,7 @@
     "hostname": "www.a11y-collective.com",
     "url": "https://www.a11y-collective.com/blog/svg-accessibility/",
     "title": "Implementing Accessible SVG Elements - The A11Y Collective",
-    "date": "2025-08-01T02:59:45.808+06:00",
+    "date": "2025-08-03T08:32:24.81+06:00",
     "og:title": "Implementing Accessible SVG Elements",
     "og:image": "https://www.a11y-collective.com/wp-content/uploads/2025/07/4-8_Social_MAR-scaled.png",
     "og:description": "Master SVG accessibility: Learn techniques for ARIA roles, testing, and creating inclusive graphics that work for everyone.",
