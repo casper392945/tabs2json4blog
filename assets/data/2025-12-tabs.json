@@ -66,6 +66,39 @@
     "og:type": "article"
   },
   {
+    "hostname": "alvaromontoro.medium.com",
+    "url": "https://alvaromontoro.medium.com/css-iceberg-a7b067c52c68",
+    "title": "CSS Iceberg. CodePen runs weekly coding challenges… | by Alvaro Montoro | Dec, 2025 | Medium",
+    "date": "2025-12-03T02:39:34.676+06:00",
+    "og:title": "CSS Iceberg",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1000/1*lLmeNg0oKRUAFoUs2kJEhQ.png",
+    "og:description": "CodePen runs weekly coding challenges, and this week’s theme is Winter, focusing on Ice and Snow. I decided to participate by drawing an…",
+    "og:url": "https://alvaromontoro.medium.com/css-iceberg-a7b067c52c68",
+    "og:type": "article"
+  },
+  {
+    "hostname": "android-developers.googleblog.com",
+    "url": "https://android-developers.googleblog.com/2025/12/android-16-qpr2-is-released.html",
+    "title": "Android Developers Blog: Android 16 QPR2 is Released",
+    "date": "2025-12-03T02:39:34.186+06:00",
+    "og:title": "Android 16 QPR2 is Released",
+    "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-2nNtxRx2JuVntzIUbTx0xgglR3cr7KcdjFKIHTQjvxeOvjh2MjHbyfctcC27-8giTL0fbXynXkhU0t-1sUSImU3uYdwPZavekjqcNPIuz-mRO-9Mhu5z67_W20PYrXyZU7XShkNC4agQB0qhLxsmi9E-_Lds7qXR0DpKUO7bHVKQK3tVbTWgRQAQIws/s1600/Banner%20632x408-2.png",
+    "og:description": "News and insights on the Android platform, developer tools, and events.",
+    "og:url": "https://android-developers.googleblog.com/2025/12/android-16-qpr2-is-released.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "android-developers.googleblog.com",
+    "url": "https://android-developers.googleblog.com/2025/12/explore-ai-on-android-with-our-sample.html",
+    "title": "Android Developers Blog: Explore AI on Android with Our Sample Catalog App",
+    "date": "2025-12-03T02:39:34.217+06:00",
+    "og:title": "Explore AI on Android with Our Sample Catalog App",
+    "og:image": "https://blogger.googleusercontent.com/img/a/AVvXsEii9u5f7MgV8_UHt3x7AXaf_YsKU7fy0WS8IWy8Qzr_Kw1ylcXZauFIw4rsB-WyLGTLYti9Jfst06bGJAfwWTRJqFkeVAbt6_jmKDKHkSOPwjVxIof44XdYbC8T6gzNIsbhsBZZClZjDRE2ekQYt7cYWsFZoc2JgBCoYHT34AanamMj4FpK0U-BPKQx_F4",
+    "og:description": "News and insights on the Android platform, developer tools, and events.",
+    "og:url": "https://android-developers.googleblog.com/2025/12/explore-ai-on-android-with-our-sample.html",
+    "og:type": "article"
+  },
+  {
     "hostname": "android-developers.googleblog.com",
     "url": "https://android-developers.googleblog.com/2025/12/learn-about-our-newest-jetpack.html",
     "title": "Android Developers Blog: Learn about our newest Jetpack Navigation library with the Nav3 Spotlight Week",
@@ -118,6 +151,17 @@
     "og:image": "",
     "og:description": "",
     "og:url": "https://blog.jim-nielsen.com/2025/notes-from-interview-with-jony-ive/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "calendar.perfplanet.com",
+    "url": "https://calendar.perfplanet.com/2025/exploring-large-html-documents-on-the-web/",
+    "title": "Web Performance Calendar » Exploring Large HTML Documents On The Web",
+    "date": "2025-12-03T04:16:49.779+06:00",
+    "og:title": "Exploring Large HTML Documents On The Web",
+    "og:image": "https://calendar.perfplanet.com/images/2025/matt/i12.png",
+    "og:description": "Most HTML documents are relatively small, providing a starting point for other resources on the page to load.\n\nBut why do some websites load several megabytes of HTML code? Usually it's not that there's a lot of content on the page, but rather that other types of resources are embedded within the do",
+    "og:url": "https://calendar.perfplanet.com/2025/exploring-large-html-documents-on-the-web/",
     "og:type": "article"
   },
   {
@@ -187,6 +231,17 @@
     "og:type": "website"
   },
   {
+    "hostname": "css-tip.com",
+    "url": "https://css-tip.com/skewed-images/",
+    "title": "Gallery of Skewed Images with Hover Effect",
+    "date": "2025-12-03T07:05:16.606+06:00",
+    "og:title": "Gallery of Skewed Images with Hover Effect",
+    "og:image": "/og-images/382adfdf.png",
+    "og:description": "Using modern CSS and corner-shape to add a fancy gallery of images with a reveal hover effect",
+    "og:url": "https://css-tip.com/skewed-images/",
+    "og:type": "website"
+  },
+  {
     "hostname": "css-tricks.com",
     "url": "https://css-tricks.com/prevent-a-page-from-scrolling-while-a-dialog-is-open/",
     "title": "Prevent a page from scrolling while a dialog is open | CSS-Tricks",
@@ -195,6 +250,17 @@
     "og:image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg",
     "og:description": "Bramus:",
     "og:url": "https://css-tricks.com/prevent-a-page-from-scrolling-while-a-dialog-is-open/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "css-tricks.com",
+    "url": "https://css-tricks.com/scrollytelling-on-steroids-with-scroll-state-queries/",
+    "title": "Scrollytelling on Steroids With Scroll-State Queries | CSS-Tricks",
+    "date": "2025-12-03T02:39:35.341+06:00",
+    "og:title": "Scrollytelling on Steroids With Scroll-State Queries | CSS-Tricks",
+    "og:image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/taylor-flowe-aXeVH4FcS1k-unsplash-scaled.jpg",
+    "og:description": "Unconvinced of the value of scrollytelling? Alright, skeptic, let’s first warm up with some common use cases for scroll-based styling.",
+    "og:url": "https://css-tricks.com/scrollytelling-on-steroids-with-scroll-state-queries/",
     "og:type": "article"
   },
   {
@@ -419,6 +485,39 @@
   },
   {
     "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/12/02/house-of-guinness-font/",
+    "title": "House of Guinness Font FREE Download",
+    "date": "2025-12-03T02:39:34.44+06:00",
+    "og:title": "House of Guinness Font FREE Download",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/12/House-of-Guinness-Font-featured-image.jpg",
+    "og:description": "The House of Guinness Font uses a combination of Rockwell Std Bold for the word House and Industrial Gothic Pro Double Line for the word Guinness. Both are",
+    "og:url": "https://designbeep.com/2025/12/02/house-of-guinness-font/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/12/02/lemon-font/",
+    "title": "Lemon Font FREE Download",
+    "date": "2025-12-03T02:39:34.364+06:00",
+    "og:title": "Lemon Font FREE Download",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/12/lemon-font-featured-image.jpg",
+    "og:description": "Lemon Font Lemon Font  gives off a fresh, light-hearted vibe. With its clean, rounded letterforms and a subtle friendly rhythm, Lemon Font feels simple and",
+    "og:url": "https://designbeep.com/2025/12/02/lemon-font/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/12/02/mistletoe-murders-font/",
+    "title": "Mistletoe Murders Font FREE Download",
+    "date": "2025-12-03T02:39:34.283+06:00",
+    "og:title": "Mistletoe Murders Font FREE Download",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/12/Mistletoe-Murders-font-featured-image.jpg",
+    "og:description": "The Mistletoe Murders Font has no officially identified typeface, and the exact lettering used in promotional artwork for the series remains unknown. However,",
+    "og:url": "https://designbeep.com/2025/12/02/mistletoe-murders-font/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
     "url": "https://designbeep.com/2025/12/02/sisu-font/",
     "title": "Sisu Font FREE Download (Movie)",
     "date": "2025-12-02T09:30:16.411+06:00",
@@ -426,6 +525,61 @@
     "og:image": "https://designbeep.com/wp-content/uploads/2025/12/Sisu-Font-featured-image.jpg",
     "og:description": "The SISU Font is most likely based on Velvet by Reserves, a commercial typeface known for its sharp structure, bold cinematic presence, and modern",
     "og:url": "https://designbeep.com/2025/12/02/sisu-font/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/12/02/the-bad-guys-font/",
+    "title": "The Bad Guys Font FREE Download",
+    "date": "2025-12-03T02:39:34.323+06:00",
+    "og:title": "The Bad Guys Font FREE Download",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/12/The-Bad-Guys-Font-featured-image.jpg",
+    "og:description": "The Bad Guys Font does not have a confirmed official typeface, but the closest known match is Honeyguide Caps by Hanoded — a bold, hand-drawn commercial font",
+    "og:url": "https://designbeep.com/2025/12/02/the-bad-guys-font/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/12/02/the-holdovers-font/",
+    "title": "The Holdovers Font FREE Download",
+    "date": "2025-12-03T02:39:34.403+06:00",
+    "og:title": "The Holdovers Font FREE Download",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/12/The-Holdovers-Font-featured-image.jpg",
+    "og:description": "The Holdovers Font is most likely based on ITC Souvenir Std Bold, a recognizable serif typeface by ITC known for its soft curves, nostalgic warmth, and",
+    "og:url": "https://designbeep.com/2025/12/02/the-holdovers-font/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/12/03/avatar-the-way-of-water-font/",
+    "title": "Avatar The Way of Water Font FREE Download",
+    "date": "2025-12-03T05:50:17.063+06:00",
+    "og:title": "Avatar The Way of Water Font FREE Download",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/12/Avatar-The-Way-of-Water-Font-featured-image-1.jpg",
+    "og:description": "The Avatar: The Way of Water Font uses two different typefaces for its title composition. The main Avatar wordmark is best represented by Avatar Water, a free",
+    "og:url": "https://designbeep.com/2025/12/03/avatar-the-way-of-water-font/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/12/03/bridgerton-font/",
+    "title": "Bridgerton Font FREE Download",
+    "date": "2025-12-03T08:48:36.022+06:00",
+    "og:title": "Bridgerton Font FREE Download",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/12/Bridgerton-Font-featured-image.jpg",
+    "og:description": "The Bridgerton font is most closely matched by Leaner Bold by Kulturrrno, a refined commercial serif typeface that captures the show’s elegant Regency-era",
+    "og:url": "https://designbeep.com/2025/12/03/bridgerton-font/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/12/03/jujutsu-kaisen-font/",
+    "title": "Jujutsu Kaisen Font FREE Download",
+    "date": "2025-12-03T07:05:16.639+06:00",
+    "og:title": "Jujutsu Kaisen Font FREE Download",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Font-featured-image.jpg",
+    "og:description": "The Jujutsu Kaisen font is based on Qetod Pro, a bold and stylized typeface known for its sharp, energetic strokes that reflect the series’ supernatural",
+    "og:url": "https://designbeep.com/2025/12/03/jujutsu-kaisen-font/",
     "og:type": "article"
   },
   {
@@ -448,6 +602,17 @@
     "og:image": "https://designshack.net/wp-content/uploads/ai-promts-designers-1024x683.jpg",
     "og:description": "AI-generated art has completely changed the creative landscape. Tools like Midjourney, Leonardo AI, and OpenArt AI have made it possible for artists to turn text into vivid images in seconds. But as powerful as these systems are, they’re only as good as the instructions they receive. Wri...",
     "og:url": "https://designshack.net/articles/graphics/ai-prompt-design-for-artists/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designsprinters.com",
+    "url": "https://designsprinters.com/best-graphic-design-tools-for-beginners/",
+    "title": "12 Best Graphic Design Tools for Beginners - DesignSprinters",
+    "date": "2025-12-03T04:16:49.803+06:00",
+    "og:title": "12 Best Graphic Design Tools for Beginners - DesignSprinters",
+    "og:image": "https://designsprinters.com/wp-content/uploads/2025/11/Best-Graphic-Design-Tools-for-Beginners.png",
+    "og:description": "Discover the 12 best graphic design tools for beginners. Learn which apps are easiest to use, affordable, and perfect for creating stunning designs.",
+    "og:url": "https://designsprinters.com/best-graphic-design-tools-for-beginners/",
     "og:type": "article"
   },
   {
@@ -551,6 +716,17 @@
   },
   {
     "hostname": "graphicdesignjunction.com",
+    "url": "https://graphicdesignjunction.com/2025/12/how-to-choose-a-professional-logo-designer/",
+    "title": "How to Choose a Professional Logo Designer (Checklist)",
+    "date": "2025-12-03T02:39:35.252+06:00",
+    "og:title": "How to Choose a Professional Logo Designer (Checklist)",
+    "og:image": "https://i0.wp.com/graphicdesignjunction.com/wp-content/uploads/2025/12/how_to_choose_professional_logo_designer.jpg",
+    "og:description": "Choosing a logo designer isn’t something you rush. Your logo ends up everywhere, on your website, your brand products, your social media,",
+    "og:url": "https://graphicdesignjunction.com/2025/12/how-to-choose-a-professional-logo-designer/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "graphicdesignjunction.com",
     "url": "https://graphicdesignjunction.com/2025/12/last-chance-envato-cyber-sale-ends-now/",
     "title": "Last Chance: Envato Cyber Sale Ends Now! - Graphic Design Junction",
     "date": "2025-12-02T04:40:55.563+06:00",
@@ -616,6 +792,17 @@
     "og:type": "website"
   },
   {
+    "hostname": "htmhell.dev",
+    "url": "https://htmhell.dev/adventcalendar/2025/3/",
+    "title": "Speculation rules improvements - HTMHell",
+    "date": "2025-12-03T05:50:16.966+06:00",
+    "og:title": "Speculation rules improvements - HTMHell",
+    "og:image": "https://www.htmhell.dev/images/og/advent25_3.png?s=171224",
+    "og:description": "A collection of bad practices in HTML, copied from real websites.",
+    "og:url": "/adventcalendar/2025/3/",
+    "og:type": "website"
+  },
+  {
     "hostname": "hvpandya.com",
     "url": "https://hvpandya.com/exposure",
     "title": "Exposure ・ Hardik Pandya",
@@ -624,6 +811,28 @@
     "og:image": "https://hvpandya.com/assets/og-images/og-exposure.png?t=1731456000",
     "og:description": "For equal amount of design skills, your exposure to the world determines how effective of a designer you can be.",
     "og:url": "https://hvpandya.com/exposure",
+    "og:type": "article"
+  },
+  {
+    "hostname": "hvpandya.com",
+    "url": "https://hvpandya.com/systems-stables-stars",
+    "title": "Systems, Stables and Stars ・ Hardik Pandya",
+    "date": "2025-12-03T02:39:35.695+06:00",
+    "og:title": "Systems, Stables and Stars",
+    "og:image": "https://hvpandya.com/assets/og-images/og-systems-stars.png?t=1731456000",
+    "og:description": "Why mature organizations still rely on rockstars for critical work, and how systems raise the floor while stars raise the ceiling.",
+    "og:url": "https://hvpandya.com/systems-stables-stars",
+    "og:type": "article"
+  },
+  {
+    "hostname": "ilovetypography.com",
+    "url": "https://ilovetypography.com/2025/12/03/steven-hellers-font-of-the-year-fillmore/",
+    "title": "Steven Heller’s Font of the Year: Fillmore — I Love Typography Ltd",
+    "date": "2025-12-03T04:19:09.021+06:00",
+    "og:title": "Steven Heller’s Font of the Year: Fillmore — I Love Typography Ltd",
+    "og:image": "",
+    "og:description": "In my past Font of the Month columns, I admitted to extreme fixation for ‘stencilism’ and avaricious hoarding of stencil type and lettering specimens. There is a je ne sais quoi about them that, perhaps, reminds me of some primal life event. I don’t judge stencils on aesthetics per se […]",
+    "og:url": "https://ilovetypography.com/2025/12/03/steven-hellers-font-of-the-year-fillmore/",
     "og:type": "article"
   },
   {
@@ -683,6 +892,17 @@
   },
   {
     "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/88068-daylight",
+    "title": "Daylight on Landbook - get inspired by landing design and more",
+    "date": "2025-12-03T02:39:35.885+06:00",
+    "og:title": "Daylight on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/88068/88068-daylight-1764676887-og-image.webp",
+    "og:description": "Daylight on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/88068-daylight",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
     "url": "https://land-book.com/websites/88069-docemil-music-a-division-of-hybe-latin-america",
     "title": "Docemil Music, A division of HYBE Latin America on Landbook - get inspired by portfolio design and more",
     "date": "2025-12-02T04:40:56.234+06:00",
@@ -716,6 +936,17 @@
   },
   {
     "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/88245-throxy",
+    "title": "throxy on Landbook - get inspired by landing design and more",
+    "date": "2025-12-03T02:39:35.852+06:00",
+    "og:title": "throxy on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/88245/88245-throxy-1764676781-og-image.webp",
+    "og:description": "throxy on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/88245-throxy",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
     "url": "https://land-book.com/websites/88259-pending-com",
     "title": "Pending.com on Landbook - get inspired by landing design and more",
     "date": "2025-12-02T04:40:56.882+06:00",
@@ -723,6 +954,28 @@
     "og:image": "https://cdn.land-book.com/website/88259/88259-pending-com-1764587030-og-image.webp",
     "og:description": "Pending.com on Landbook - get inspired by landing design and more",
     "og:url": "https://land-book.com/websites/88259-pending-com",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/88275-basis-theory-built-to-keep-customers-transacting",
+    "title": "Basis Theory: Built to Keep Customers Transacting on Landbook - get inspired by landing design and more",
+    "date": "2025-12-03T02:39:35.814+06:00",
+    "og:title": "Basis Theory: Built to Keep Customers Transacting on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/88275/88275-basis-theory-built-to-keep-customers-transacting-1764677113-og-image.webp",
+    "og:description": "Basis Theory: Built to Keep Customers Transacting on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/88275-basis-theory-built-to-keep-customers-transacting",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/88329-effica-A-practical-ai-consulting-and-workflow-automation-for-smes",
+    "title": "Effica - Practical AI Consulting & Workflow Automation for SMEs on Landbook - get inspired by template design and more",
+    "date": "2025-12-03T02:39:35.917+06:00",
+    "og:title": "Effica - Practical AI Consulting & Workflow Automation for SMEs on Landbook - get inspired by template design and more",
+    "og:image": "https://cdn.land-book.com/website/88329/88329-effica-practical-ai-consulting-and-workflow-1764677550-og-image.webp",
+    "og:description": "Effica - Practical AI Consulting & Workflow Automation for SMEs on Landbook - get inspired by template design and more",
+    "og:url": "https://land-book.com/websites/88329-effica-A-practical-ai-consulting-and-workflow-automation-for-smes",
     "og:type": "website"
   },
   {
@@ -748,6 +1001,17 @@
     "og:type": "website"
   },
   {
+    "hostname": "measuringu.com",
+    "url": "https://measuringu.com/what-is-the-difference-between-ease-and-satisfaction/",
+    "title": "What Is the Difference Between Ease and Satisfaction? – MeasuringU",
+    "date": "2025-12-03T04:11:14.838+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
     "hostname": "medium.com",
     "url": "https://medium.com/@abhishek.mahato98258/how-i-created-my-own-unocss-style-engine-as-a-vite-plugin-611c7950f9ae",
     "title": "How I created my own UnoCSS- style Engine as a Vite Plugin | by Abhishek Mahato | Dec, 2025 | Medium",
@@ -771,6 +1035,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@akashexellence/web-designing-course-in-chandigarh-dd363f3ba011",
+    "title": "Web Designing Course in Chandigarh | by Exellence Akash | Dec, 2025 | Medium",
+    "date": "2025-12-03T02:39:35.13+06:00",
+    "og:title": "Web Designing Course in Chandigarh",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1080/1*0wIGnm6UdbXKeQnOdtMLEw.png",
+    "og:description": "Web Designing",
+    "og:url": "https://medium.com/@akashexellence/web-designing-course-in-chandigarh-dd363f3ba011",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@algopoint.ltd/heres-how-you-can-build-your-own-zustand-store-in-under-80-lines-of-code-7ee2066c15a0",
     "title": "Here’s How You Can Build Your Own Zustand Store in Under 80 Lines of Code🤯 | by AlgoPoint | Nov, 2025 | Medium",
     "date": "2025-12-01T02:39:07.557+06:00",
@@ -778,6 +1053,28 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*NK61sQedcH7gUmrt5IXV0Q.png",
     "og:description": "I’ve used Zustand a billion times, and every single time it felt like magic — something straight out of Hogwarts, a React cheat code that…",
     "og:url": "https://medium.com/@algopoint.ltd/heres-how-you-can-build-your-own-zustand-store-in-under-80-lines-of-code-7ee2066c15a0",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@anjasrani/belajar-flexbox-dan-grid-cara-mudah-mengatur-layout-website-206b849405c5",
+    "title": "Belajar Flexbox dan Grid: Cara Mudah Mengatur Layout Website | by Anjas Rani | Dec, 2025 | Medium",
+    "date": "2025-12-03T02:39:34.71+06:00",
+    "og:title": "Belajar Flexbox dan Grid: Cara Mudah Mengatur Layout Website",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1024/1*eYr2q08TYEvT5DMl1FKhJg.png",
+    "og:description": "Belajar Flexbox dan Grid: Cara Mudah Mengatur Layout Website Halo, saya Anjas Rani. Kalau kamu sudah mulai memahami HTML dan CSS dasar, langkah berikutnya yang wajib kamu kuasai adalah layouting. Dan …",
+    "og:url": "https://medium.com/@anjasrani/belajar-flexbox-dan-grid-cara-mudah-mengatur-layout-website-206b849405c5",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@anuragkurmi/the-bug-i-let-happen-and-why-it-made-me-a-better-senior-engineer-961ef8562522",
+    "title": "The Bug I Let Happen — And Why It Made Me a Better Senior Engineer | by Anurag Kurmi | Dec, 2025 | Medium",
+    "date": "2025-12-03T02:39:34.818+06:00",
+    "og:title": "The Bug I Let Happen — And Why It Made Me a Better Senior Engineer",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1024/1*s-HZogeeJy5RihBXlHmHQw.png",
+    "og:description": "Why “saving” juniors is slowing them down — and how safe failures build real engineers",
+    "og:url": "https://medium.com/@anuragkurmi/the-bug-i-let-happen-and-why-it-made-me-a-better-senior-engineer-961ef8562522",
     "og:type": "article"
   },
   {
@@ -837,6 +1134,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@didinjamaludin/designing-with-web-components-custom-elements-shadow-dom-in-html-05cb62bcec56",
+    "title": "Designing with Web Components: Custom Elements & Shadow DOM in HTML | by Didin Jamaludin | Dec, 2025 | Medium",
+    "date": "2025-12-03T02:39:35.168+06:00",
+    "og:title": "Designing with Web Components: Custom Elements & Shadow DOM in HTML",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/0*220mUVycRDncXUdK.png",
+    "og:description": "The modern web landscape is filled with powerful frameworks-React, Angular, Vue, Svelte-but sometimes the best solution doesn’t require a…",
+    "og:url": "https://medium.com/@didinjamaludin/designing-with-web-components-custom-elements-shadow-dom-in-html-05cb62bcec56",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@elisekristiansen/kan-vi-plis-slutte-%C3%A5-flexe-s%C3%A5-mye-b426b123dd6c",
     "title": "Kan vi plis slutte å flex’e så mye | by Elise Kristiansen | Dec, 2025 | Medium",
     "date": "2025-12-02T10:08:22.387+06:00",
@@ -855,6 +1163,39 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:878/1*BuEe-9HE54XTvNZAbgXQVA.avif",
     "og:description": "We will create a visually engaging “Drone Delivery” button component using foundational web technologies. The project focuses on:",
     "og:url": "https://medium.com/@eugeneibiso/a-step-by-step-guide-to-creating-an-interactive-drone-delivery-button-with-html-css-and-js-a6b60bd301bf",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@fitcomputerinstitute/full-stack-development-course-in-rawalpindi-and-islamabad-29ec220fe8da",
+    "title": "Full Stack Development Course In Rawalpindi And Islamabad - FIT Computer institute - Medium",
+    "date": "2025-12-03T07:19:39.992+06:00",
+    "og:title": "Full Stack Development Course In Rawalpindi And Islamabad",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1080/1*KmA44WE8PeLn10JyoXBZiw.jpeg",
+    "og:description": "https://futureittechnology.com/full-stack-developer.html\nhttps://futureittechnology.com/",
+    "og:url": "https://medium.com/@fitcomputerinstitute/full-stack-development-course-in-rawalpindi-and-islamabad-29ec220fe8da",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@frontendqueens/javascript-interview-prep-solving-the-leetcode-join-two-arrays-by-id-challenge-5c6d4a302ee9",
+    "title": "JavaScript Interview Prep: Solving the LeetCode “Join Two Arrays by ID” Challenge | by Frontend Queens | Dec, 2025 | Medium",
+    "date": "2025-12-03T02:39:34.747+06:00",
+    "og:title": "JavaScript Interview Prep: Solving the LeetCode “Join Two Arrays by ID” Challenge",
+    "og:image": "https://miro.medium.com/v2/resize:fit:680/1*e0TjlNiRQ3qnk5K8DVNRBg.png",
+    "og:description": "Working with JSON often means dealing with multiple data sources. One API may return a list of users while another may return the user…",
+    "og:url": "https://medium.com/@frontendqueens/javascript-interview-prep-solving-the-leetcode-join-two-arrays-by-id-challenge-5c6d4a302ee9",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@gitfudge/i-mass-deleted-my-accordion-javascript-and-the-browser-said-i-got-you-440e82c5e42b",
+    "title": "I Mass-Deleted My Accordion JavaScript and the Browser Said “I Got You” | by Digvijay Mahapatra | Dec, 2025 | Medium",
+    "date": "2025-12-03T02:39:34.534+06:00",
+    "og:title": "I Mass-Deleted My Accordion JavaScript and the Browser Said “I Got You”",
+    "og:image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*94nS_OB0qD_aViYX",
+    "og:description": "How the humble `<details>` element made me question every accordion I’ve ever built",
+    "og:url": "https://medium.com/@gitfudge/i-mass-deleted-my-accordion-javascript-and-the-browser-said-i-got-you-440e82c5e42b",
     "og:type": "article"
   },
   {
@@ -936,6 +1277,28 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@judahakande1/a-clear-guide-to-dependencies-and-peer-dependencies-in-react-projects-a1d56da0496a",
+    "title": "A Clear Guide to Dependencies and Peer Dependencies in React Projects | by Judahakande | Dec, 2025 | Medium",
+    "date": "2025-12-03T02:39:34.641+06:00",
+    "og:title": "A Clear Guide to Dependencies and Peer Dependencies in React Projects",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*qIqh1zHDaCb3b0wwPAHgUw.png",
+    "og:description": "When you open a React project and check the package.json, you’ll always notice two sections that look similar: dependencies and…",
+    "og:url": "https://medium.com/@judahakande1/a-clear-guide-to-dependencies-and-peer-dependencies-in-react-projects-a1d56da0496a",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@kabakelenka/top-tools-and-extensions-to-boost-your-html-coding-efficiency-6d4a74992d3e",
+    "title": "Top Tools and Extensions to Boost Your HTML Coding Efficiency | by Elena | Dec, 2025 | Medium",
+    "date": "2025-12-03T02:39:34.61+06:00",
+    "og:title": "Top Tools and Extensions to Boost Your HTML Coding Efficiency",
+    "og:image": "https://miro.medium.com/v2/resize:fit:736/1*GNY4YxNdIFqwrgwsWHTPJQ.jpeg",
+    "og:description": "Writing HTML efficiently can make a huge difference in web development. I have spent years experimenting with different editors…",
+    "og:url": "https://medium.com/@kabakelenka/top-tools-and-extensions-to-boost-your-html-coding-efficiency-6d4a74992d3e",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@karunakumari000532/how-the-internet-works-543434262fb6",
     "title": "How the internet works. A web browser makes the internet feel… | by Karuna Kumari | Nov, 2025 | Medium",
     "date": "2025-12-01T02:39:07.818+06:00",
@@ -965,6 +1328,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*M7CGPOunXWbQkLUbti6Thg.png",
     "og:description": "Why I chose explicit structure over “magic” tools to build the typographic foundation of Anthro UI.",
     "og:url": "https://medium.com/@labi_joshua/typography-is-architecture-building-a-design-system-for-scale-24d7ca034618",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@leonwong282/how-to-create-a-custom-typora-theme-step-by-step-tutorial-8f7ce25f3582",
+    "title": "How to Create a Custom Typora Theme (Step-by-Step Tutorial) | by Leon Wong 282 | Dec, 2025 | Medium",
+    "date": "2025-12-03T02:39:34.857+06:00",
+    "og:title": "How to Create a Custom Typora Theme (Step-by-Step Tutorial)",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/0*fmbWyke0RNnXZRkX.jpg",
+    "og:description": "Typora CSS customization and Markdown editor theme",
+    "og:url": "https://medium.com/@leonwong282/how-to-create-a-custom-typora-theme-step-by-step-tutorial-8f7ce25f3582",
     "og:type": "article"
   },
   {
@@ -1024,6 +1398,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@muhammadshakir4152/css-architecture-bem-oocss-smacss-explained-d8d40cb20807",
+    "title": "arCSS Architecture: BEM, OOCSS, SMACSS Explained | by TechWriter Hub | Dec, 2025 | Medium",
+    "date": "2025-12-03T04:19:28.359+06:00",
+    "og:title": "CSS Architecture: BEM, OOCSS, SMACSS Explained",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*4C1ODVxd_VM1DOpF89w7PA.png",
+    "og:description": "I still remember the first project where my CSS completely collapsed on me.\n One change in one file somehow broke four pages. A tiny class…",
+    "og:url": "https://medium.com/@muhammadshakir4152/css-architecture-bem-oocss-smacss-explained-d8d40cb20807",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@muhammadshakir4152/css-grid-vs-flexbox-when-to-use-which-real-examples-67e4b273cca5",
     "title": "CSS Grid vs Flexbox: When to Use Which (Real Examples) | by TechWriter Hub | Dec, 2025 | Medium",
     "date": "2025-12-02T09:30:16.532+06:00",
@@ -1031,6 +1416,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*qWqmw1cIxt2jAF1CeFQ_VQ.png",
     "og:description": "CSS Grid vs Flexbox: When to Use Which (Real Examples) I still remember the early days of my frontend journey — the days of endless <div> nesting, float hacks, clearfix nightmares, and layouts that …",
     "og:url": "https://medium.com/@muhammadshakir4152/css-grid-vs-flexbox-when-to-use-which-real-examples-67e4b273cca5",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@nagarajvela/css-quick-bottom-up-hover-trick-for-better-visuals-03aa195ca8db",
+    "title": "CSS Quick Bottom-Up Hover Trick for Better Visuals | by Nagaraj | Dec, 2025 | Medium",
+    "date": "2025-12-03T05:50:17.114+06:00",
+    "og:title": "CSS Quick Bottom-Up Hover Trick for Better Visuals",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1025/1*3yyAmnUeFBwVcFmb-qzq5Q.png",
+    "og:description": "Reveal captions from the bottom while pushing the image up — instantly pro-level visuals",
+    "og:url": "https://medium.com/@nagarajvela/css-quick-bottom-up-hover-trick-for-better-visuals-03aa195ca8db",
     "og:type": "article"
   },
   {
@@ -1167,6 +1563,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@sourabhda1998/11-angular-template-hacks-that-make-your-ui-code-look-senior-7e6b65eafcce",
+    "title": "11 Angular Template Hacks That Make Your UI Code Look Senior | by Coding Mentor | Dec, 2025 | Medium",
+    "date": "2025-12-03T02:39:34.568+06:00",
+    "og:title": "11 Angular Template Hacks That Make Your UI Code Look Senior",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*OIPVYM2kx8LvQIr7QrWwJg.png",
+    "og:description": "If your template still feels slow or fragile, one small change here will make reviewers stop asking for fixes. Read this like a code review…",
+    "og:url": "https://medium.com/@sourabhda1998/11-angular-template-hacks-that-make-your-ui-code-look-senior-7e6b65eafcce",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@sourabhda1998/11-things-i-wish-someone-told-me-before-learning-angular-47e718b44843",
     "title": "11 Things I Wish Someone Told Me Before Learning Angular | by Coding Mentor | Dec, 2025 | Medium",
     "date": "2025-12-02T04:40:53.706+06:00",
@@ -1222,6 +1629,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@teetraichiraarporn/your-ai-copilot-is-design-blind-how-to-give-it-vision-afcb92e940bd",
+    "title": "Your AI Copilot is Design-Blind: How to Give It Vision. | by Suwat Traichiraarporn | Dec, 2025 | Medium",
+    "date": "2025-12-03T07:05:16.746+06:00",
+    "og:title": "Your AI Copilot is Design-Blind: How to Give It Vision.",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*DEdE0eNCfI8FBRBWbVOJQQ.png",
+    "og:description": "A practical guide to feeding Design System context into GitHub Copilot for better generation.",
+    "og:url": "https://medium.com/@teetraichiraarporn/your-ai-copilot-is-design-blind-how-to-give-it-vision-afcb92e940bd",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@thecodingdon/angular-cli-tutorial-for-beginners-from-first-install-to-first-real-app-d5eef1def5ec",
     "title": "Angular CLI Tutorial for Beginners: From First Install to First Real App | by The Coding Don | Dec, 2025 | Medium",
     "date": "2025-12-02T04:40:53.893+06:00",
@@ -1229,6 +1647,50 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*Mbdy6A2DxnPo6ptjFdWFnA.png",
     "og:description": "Every Angular CLI tutorial for beginners shows glossy screenshots of a fresh app on http://localhost:4200. My first real night with the…",
     "og:url": "https://medium.com/@thecodingdon/angular-cli-tutorial-for-beginners-from-first-install-to-first-real-app-d5eef1def5ec",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@vstanishevskaya.xbs/the-frontend-future-fight-optimists-vs-pessimists-78e9dcdc978d",
+    "title": "The Frontend Future Fight: Optimists vs Pessimists | by Viktoria Karneichyk | Dec, 2025 | Medium",
+    "date": "2025-12-03T02:39:34.782+06:00",
+    "og:title": "The Frontend Future Fight: Optimists vs Pessimists",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*OncSulhplFKuTSGqPft4CQ.png",
+    "og:description": "A structured breakdown of two competing views on whether frontend development is shrinking or evolving in the age of AI.",
+    "og:url": "https://medium.com/@vstanishevskaya.xbs/the-frontend-future-fight-optimists-vs-pessimists-78e9dcdc978d",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@wiemks408/blazor-styling-done-right-4c1c7da47691",
+    "title": "Blazor Styling, Done Right.. If you’ve been working with Blazor for… | by Wiemks | Dec, 2025 | Medium",
+    "date": "2025-12-03T02:39:34.513+06:00",
+    "og:title": "Blazor Styling, Done Right.",
+    "og:image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*QVfbgODxsTyo7fyT",
+    "og:description": "If you’ve been working with Blazor for a while, you’ve probably reached this moment:",
+    "og:url": "https://medium.com/@wiemks408/blazor-styling-done-right-4c1c7da47691",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@wilfredcy/how-to-create-a-flip-card-with-only-css-no-javascript-needed-e70770c57bdf",
+    "title": "Here How to Create a Flip Card with Only CSS (No Javascript Needed) | by Wilfred Chong | Dec, 2025 | Medium",
+    "date": "2025-12-03T07:58:38.346+06:00",
+    "og:title": "How to Create a Flip Card with Only CSS (No Javascript Needed)",
+    "og:image": "https://miro.medium.com/v2/resize:fit:438/1*jThwK3u9htWQ_SHvd3B1-A.png",
+    "og:description": "You can build an interactive flip card using just HTML and CSS with no JavaScript required.",
+    "og:url": "https://medium.com/@wilfredcy/how-to-create-a-flip-card-with-only-css-no-javascript-needed-e70770c57bdf",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@wilfredcy/how-to-create-a-glassmorphism-effect-with-css-39f1b12a5347",
+    "title": "How to Create a Glassmorphism Effect with CSS | by Wilfred Chong | Dec, 2025 | Medium",
+    "date": "2025-12-03T02:39:35.073+06:00",
+    "og:title": "How to Create a Glassmorphism Effect with CSS",
+    "og:image": "https://miro.medium.com/v2/resize:fit:790/1*dWYPq79ejUIFShOD2k1v3Q.png",
+    "og:description": "Glassmorphism brings a frosted glass look to your web designs.",
+    "og:url": "https://medium.com/@wilfredcy/how-to-create-a-glassmorphism-effect-with-css-39f1b12a5347",
     "og:type": "article"
   },
   {
@@ -1430,6 +1892,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "red-website-design.co.uk",
+    "url": "https://red-website-design.co.uk/new-year-new-website-how-a-fresh-site-sets-the-tone-for-the-year-ahead/",
+    "title": "New Year, New Website: How a Fresh Site Sets the Tone for the Year Ahead",
+    "date": "2025-12-03T04:16:49.781+06:00",
+    "og:title": "New Year, New Website: How a Fresh Site Sets the Tone for the Year Ahead",
+    "og:image": "https://red-website-design.co.uk/wp-content/uploads/New-Year-New-Website_-How-a-Fresh-Site-Sets-the-Tone-for-the-Year-Ahead.webp",
+    "og:description": "Are you thinking about giving your business a stronger start by updating your online presence? Want to know why launching a fresh, modern website in January can shape your success for the rest of the year? You’ll find the key reasons to refresh your website in this infographic. Here’s a summary of what’s covered: A New Website Aligns With New Business Goals Customer Expectations Reset in January January Is the Quietest Time for Many Businesses A New Website Helps You Start the Year Looking Professional You Can Fix Problems Before They Affect the Whole Year A Redesigned Website Supports New […]",
+    "og:url": "https://red-website-design.co.uk/new-year-new-website-how-a-fresh-site-sets-the-tone-for-the-year-ahead/",
+    "og:type": "article"
+  },
+  {
     "hostname": "shoptalkshow.com",
     "url": "https://shoptalkshow.com/693/",
     "title": "693: Hobbies, Puzzle Game Circuit, and Web Monetization News – ShopTalk",
@@ -1529,6 +2002,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "travers.fyi",
+    "url": "https://travers.fyi/durables",
+    "title": "Durable Consumables - Travers Nisbet",
+    "date": "2025-12-03T02:39:35.757+06:00",
+    "og:title": "Durable Consumables - tourmaline-cobbler-a1861f",
+    "og:image": "https://travers.fyi/og-images/durables.png",
+    "og:description": "Durable Consumables by Travers Nisbet - An essay exploring how accelerating technological progress compresses the economic lives of objects, and what we lose when fewer things are built to last.",
+    "og:url": "https://travers.fyi/durables.html",
+    "og:type": "article"
+  },
+  {
     "hostname": "tympanus.net",
     "url": "https://tympanus.net/codrops/2025/12/01/from-a-founders-restless-urge-to-a-rule-breaking-studio-the-unfiltered-creative-evolution-of-zajno/",
     "title": "From a Founder’s Restless Urge to a Rule-Breaking Studio: The Unfiltered Creative Evolution of Zajno | Codrops",
@@ -1538,6 +2022,28 @@
     "og:description": "How one founder’s drive to make “cool sh*t only” sparked a studio culture built on experimentation, attitude, and fearless digital craft.",
     "og:url": "https://tympanus.net/codrops/2025/12/01/from-a-founders-restless-urge-to-a-rule-breaking-studio-the-unfiltered-creative-evolution-of-zajno/",
     "og:type": "article"
+  },
+  {
+    "hostname": "tympanus.net",
+    "url": "https://tympanus.net/codrops/2025/12/02/two-portfolios-one-process-where-design-motion-and-code-come-together/",
+    "title": "Two Portfolios, One Process: Where Design, Motion, and Code Come Together | Codrops",
+    "date": "2025-12-03T02:39:35.536+06:00",
+    "og:title": "Two Portfolios, One Process: Where Design, Motion, and Code Come Together | Codrops",
+    "og:image": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2025/11/article-6.png?x68408",
+    "og:description": "An exploration of how design and development come together to transform ideas into motion, shaping two portfolio websites through animation and creative coding.",
+    "og:url": "https://tympanus.net/codrops/2025/12/02/two-portfolios-one-process-where-design-motion-and-code-come-together/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "typingsvg.vercel.app",
+    "url": "https://typingsvg.vercel.app/",
+    "title": "TypingSVG",
+    "date": "2025-12-03T02:39:35.654+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
   },
   {
     "hostname": "ux.stackexchange.com",
@@ -1573,6 +2079,17 @@
     "og:type": "website"
   },
   {
+    "hostname": "ux.stackexchange.com",
+    "url": "https://ux.stackexchange.com/questions/155217/is-it-normal-to-overload-a-search-field-and-what-is-a-better-way-to-do-this",
+    "title": "buttons - Is it normal to overload a search field and what is a better way to do this? - User Experience Stack Exchange",
+    "date": "2025-12-03T02:39:34.247+06:00",
+    "og:title": "Is it normal to overload a search field and what is a better way to do this?",
+    "og:image": "https://ux.stackexchange.com/Content/Sites/ux/Img/apple-touch-icon@2.png?v=6891b06365c4",
+    "og:description": "I'm reviewing some code/testing and I've encountered a first in my career (which doesn't happen very often any more).\nI have a developer who's created a multi-mode search field in a web app. To moc...",
+    "og:url": "https://ux.stackexchange.com/questions/155217/is-it-normal-to-overload-a-search-field-and-what-is-a-better-way-to-do-this",
+    "og:type": "website"
+  },
+  {
     "hostname": "uxdesign.cc",
     "url": "https://uxdesign.cc/a-color-suggestion-study-in-accessible-perceptual-uniformity-e6bf13b94966",
     "title": "A color suggestion study in accessible perceptual uniformity | by Theresa-Marie Rhyne | Dec, 2025 | UX Collective",
@@ -1581,6 +2098,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*zEGs9SnWxzoLpfu3qsmeQA.png",
     "og:description": "Too close for comfort with Grok.",
     "og:url": "https://uxdesign.cc/a-color-suggestion-study-in-accessible-perceptual-uniformity-e6bf13b94966",
+    "og:type": "article"
+  },
+  {
+    "hostname": "uxdesign.cc",
+    "url": "https://uxdesign.cc/biophilic-design-is-the-wellness-revolution-happening-all-around-us-d896346da3c3",
+    "title": "Biophilic design is the wellness revolution happening all around us | by Tim Daniels | Dec, 2025 | UX Collective",
+    "date": "2025-12-03T02:39:34.964+06:00",
+    "og:title": "Biophilic design is the wellness revolution happening all around us",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*vxDYbodWXa1aOcuit3nVWw.png",
+    "og:description": "Reimagining cities, spaces and systems through the wonder of nature",
+    "og:url": "https://uxdesign.cc/biophilic-design-is-the-wellness-revolution-happening-all-around-us-d896346da3c3",
     "og:type": "article"
   },
   {
@@ -1596,6 +2124,28 @@
   },
   {
     "hostname": "uxdesign.cc",
+    "url": "https://uxdesign.cc/designing-decisions-behavioral-psychology-that-moves-users-e5fb08e7917a",
+    "title": "Designing decisions: Behavioral psychology that moves users | by Maxim Kich | Dec, 2025 | UX Collective",
+    "date": "2025-12-03T02:39:34.928+06:00",
+    "og:title": "Designing decisions: Behavioral psychology that moves users",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*9zOepvcW30zlJTGSBf4KxQ.png",
+    "og:description": "Visual foundations are an art that must be mastered, but stable cognitive patterns, the ones widely used in design, marketing, and…",
+    "og:url": "https://uxdesign.cc/designing-decisions-behavioral-psychology-that-moves-users-e5fb08e7917a",
+    "og:type": "article"
+  },
+  {
+    "hostname": "uxdesign.cc",
+    "url": "https://uxdesign.cc/how-design-leaders-use-okrs-to-win-user-research-budget-559347967da8",
+    "title": "How design leaders use OKRs to win user research budget | by Kai Wong | Dec, 2025 | UX Collective",
+    "date": "2025-12-03T02:39:34.904+06:00",
+    "og:title": "How design leaders use OKRs to win user research budget",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*BITlfb1Gwb4i-WWTFkFu5A.jpeg",
+    "og:description": "How to get your team to stop seeing user research as an expense",
+    "og:url": "https://uxdesign.cc/how-design-leaders-use-okrs-to-win-user-research-budget-559347967da8",
+    "og:type": "article"
+  },
+  {
+    "hostname": "uxdesign.cc",
     "url": "https://uxdesign.cc/the-ux-behind-screen-time-guilt-f4d4dfaca1e8",
     "title": "The UX behind screen time guilt. How digital wellness tools offload… | by Fabrizia Ausiello | Nov, 2025 | UX Collective",
     "date": "2025-12-01T02:39:07.736+06:00",
@@ -1603,6 +2153,28 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*843nlliT1z0R4W-e12uLiw.png",
     "og:description": "How digital wellness tools offload responsibility on users instead of fixing the core problems",
     "og:url": "https://uxdesign.cc/the-ux-behind-screen-time-guilt-f4d4dfaca1e8",
+    "og:type": "article"
+  },
+  {
+    "hostname": "uxdesign.cc",
+    "url": "https://uxdesign.cc/unfit-for-uncertainty-rethinking-decision-making-for-missions-4936e04dc78a",
+    "title": "Unfit for uncertainty: Rethinking decision-making for missions | by Jack Strachan | Dec, 2025 | UX Collective",
+    "date": "2025-12-03T02:39:34.997+06:00",
+    "og:title": "Unfit for uncertainty: Rethinking decision-making for missions",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1120/0*OlV0rTXNIS06whCZ.png",
+    "og:description": "How outdated decision logics are undermining Labour’s ambitions for a mission-driven government.",
+    "og:url": "https://uxdesign.cc/unfit-for-uncertainty-rethinking-decision-making-for-missions-4936e04dc78a",
+    "og:type": "article"
+  },
+  {
+    "hostname": "uxdesign.cc",
+    "url": "https://uxdesign.cc/we-are-entering-the-era-of-thought-shaped-software-108313ff4401",
+    "title": "We are entering the era of thought-shaped software | by Oliver Meredith Cox | Nov, 2025 | UX Collective",
+    "date": "2025-12-03T02:39:35.034+06:00",
+    "og:title": "We are entering the era of thought-shaped software",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1191/1*aGaZun9-bzKxCNydXA5ZoA.png",
+    "og:description": "We are in a transitional period: from the era of software shaped like household objects to the era of software shaped like thought.",
+    "og:url": "https://uxdesign.cc/we-are-entering-the-era-of-thought-shaped-software-108313ff4401",
     "og:type": "article"
   },
   {
@@ -1782,6 +2354,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.aaron-powell.com",
+    "url": "https://www.aaron-powell.com/posts/2025-12-03-reviving-my-blog-with-ai/",
+    "title": "Reviving My Blog With AI",
+    "date": "2025-12-03T07:19:58.789+06:00",
+    "og:title": "Reviving My Blog With AI | LINQ to Fail",
+    "og:image": "https://blogimagegenerator.azurewebsites.net/v1/og-image/2025-12-03-reviving-my-blog-with-ai",
+    "og:description": "",
+    "og:url": "https://www.aaron-powell.com/posts/2025-12-03-reviving-my-blog-with-ai/",
+    "og:type": "website"
+  },
+  {
     "hostname": "www.allthingsdistributed.com",
     "url": "https://www.allthingsdistributed.com/2025/11/tech-predictions-for-2026-and-beyond.html",
     "title": "Tech predictions for 2026 and beyond | All Things Distributed",
@@ -1837,6 +2420,94 @@
     "og:type": "website"
   },
   {
+    "hostname": "www.bram.us",
+    "url": "https://www.bram.us/2025/12/02/anchor-positioning-and-the-inset-modified-containing-block-imcb/",
+    "title": "Anchor Positioning and the Inset-Modified Containing Block (IMCB) – Bram.us",
+    "date": "2025-12-03T02:39:36.041+06:00",
+    "og:title": "Anchor Positioning and the Inset-Modified Containing Block (IMCB)",
+    "og:image": "https://www.bram.us/wordpress/wp-content/uploads/2025/12/anchoring-wes-1.jpg",
+    "og:description": "If you kinda understand Anchor Positioning, but it still surprises you from time to time, then most likely this is the missing piece of information: the Inset-Modified Containing Block (or IMCB for short).",
+    "og:url": "https://www.bram.us/2025/12/02/anchor-positioning-and-the-inset-modified-containing-block-imcb/",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bram.us",
+    "url": "https://www.bram.us/2025/12/02/google-antigravity-modern-css/",
+    "title": "The Google Antigravity website, rebuilt with Modern CSS – Bram.us",
+    "date": "2025-12-03T02:39:35.209+06:00",
+    "og:title": "The Google Antigravity website, rebuilt with Modern CSS",
+    "og:image": "https://www.bram.us/wordpress/wp-content/uploads/2025/12/google-antigravity-recreation-scaled.png",
+    "og:description": "I recreated the Google Antigravity website with Modern CSS.",
+    "og:url": "https://www.bram.us/2025/12/02/google-antigravity-modern-css/",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/anakaluptontas-ta-kainourgia-online-casino-dunamiko-quickspin/",
+    "title": "Ανακαλύπτοντας τα Καινούργια Online Casino: Δυναμικό Quickspin | Bypeople",
+    "date": "2025-12-03T02:39:36.45+06:00",
+    "og:title": "Ανακαλύπτοντας τα Καινούργια Online Casino: Δυναμικό Quickspin | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "Η ελληνική αγορά πιστοποιημένων πλατφορμών παιχνιδιού αντιπροσωπεύει σήμερα μία από τις πιο προηγμένες και ασφαλείς στην Ευρώπη. Οι εξουσιοδοτημένοι φορείς εκμετάλλευσης επενδύουν σε προηγμένες τεχνολογίες, εκπαίδευση προσωπικού και βελτιστοποίηση της εμπειρίας χρήστη. Η ακριβής εξέταση ενός https://kainourgia-online-casino-gr.org/ επιβεβαιώνει ότι το δυναμικό Quickspin αποτελεί έναν από τους θεμελιώδεις πυλώνες στους οποίους βασίζεται η επιχειρησιακή αριστεία των...",
+    "og:url": "https://www.bypeople.com/anakaluptontas-ta-kainourgia-online-casino-dunamiko-quickspin",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/analisi-di-ballonix-nel-dettaglio/",
+    "title": "Analisi di BalloniX nel Dettaglio | Bypeople",
+    "date": "2025-12-03T08:22:51.911+06:00",
+    "og:title": "Analisi di BalloniX nel Dettaglio | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "Per chi cerca emozioni forti nel gambling online, BalloniX Slot emerge come una piattaforma di altissimo livello. Questo crash game distinguendosi per caratteristiche uniche, focalizzandosi particolarmente su analisi dei trend. La community italiana ha rapidamente abbracciato questa proposta innovativa, riconoscendone l’affidabilità e la qualità superiore rispetto a molte alternative.La piattaforma offre un’esperienza unica che combina...",
+    "og:url": "https://www.bypeople.com/analisi-di-ballonix-nel-dettaglio",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/avia-masters-strategikes-kai-tips/",
+    "title": "Avia Masters: Στρατηγικές και Tips | Bypeople",
+    "date": "2025-12-03T02:39:36.498+06:00",
+    "og:title": "Avia Masters: Στρατηγικές και Tips | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "Με διάταξη 4×21, το παιχνίδι προσφέρει 17 δωρεάν γύρους, mystery symbols που μετατρέπονται σε high-paying. Με RTP 96%, ανήκει στα υψηλότερα της κατηγορίας – η υψηλή volatility σημαίνει μεσαίες πληρωμές σε τακτικά διαστήματα. Το game είναι διαθέσιμο σε desktop και mobile devices με HTML5 τεχνολογία, εξασφαλίζοντας smooth gameplay χωρίς downloads. Η πλατφόρμα Avia Masters προσφέρει...",
+    "og:url": "https://www.bypeople.com/avia-masters-strategikes-kai-tips",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/ballonix-komplett-guide-til-ballonix-unike-egenskaper/",
+    "title": "BalloniX – Komplett guide til BalloniX unike egenskaper | Bypeople",
+    "date": "2025-12-03T08:22:51.886+06:00",
+    "og:title": "BalloniX – Komplett guide til BalloniX unike egenskaper | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "For spillere som verdsetter pålitelig underholdning, har det blitt tilbudt en gjennomarbeidet opplevelse. BalloniX Kasino peker mot et spill med tydelig visjon. Spillets tilnærming til BalloniX unike egenskaper setter en ny standard i bransjen. Vi analyserer hvorfor BalloniX skiller seg ut innen BalloniX unike egenskaper. I et marked fullt av alternativer, skiller BalloniX seg ut...",
+    "og:url": "https://www.bypeople.com/ballonix-komplett-guide-til-ballonix-unike-egenskaper",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/ballonix-online-tratado-minuciosa/",
+    "title": "BalloniX Online: Tratado minuciosa | Bypeople",
+    "date": "2025-12-03T08:22:51.932+06:00",
+    "og:title": "BalloniX Online: Tratado minuciosa | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "La evolución constante de los juegos de casino online ha traído consigo títulos verdaderamente memorables, y BalloniX representa perfectamente esta tendencia ascendente. Con una propuesta que fusiona entretenimiento visual, mecánicas dinámicas y potencial de ganancias, este juego se posiciona como referente del sector. Adentrarse en el universo de BalloniX significa descubrir un ecosistema diseñado pensando...",
+    "og:url": "https://www.bypeople.com/ballonix-online-tratado-minuciosa",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/blackjack-tehnicki-pregled-pravila-igre/",
+    "title": "Blackjack – Tehnički pregled pravila igre | Bypeople",
+    "date": "2025-12-03T02:39:36.232+06:00",
+    "og:title": "Blackjack – Tehnički pregled pravila igre | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "Sagledavajući domen klasičnih igara, nesumnjivo zauzima mesto standardna kazino ponuda. Putem kombinovanja veštine i sreće, Blackjack privlači milione igrača širom sveta. Upoznavanje sa kako se pravilno igra Blackjack predstavlja prvi korak ka majstorstvu u ovoj igri. Suština Blackjacka leži u postizanju optimalne kombinacije karata bez prelaska granice od 21 poena. Za razliku od čistih igara...",
+    "og:url": "https://www.bypeople.com/blackjack-tehnicki-pregled-pravila-igre",
+    "og:type": ""
+  },
+  {
     "hostname": "www.bypeople.com",
     "url": "https://www.bypeople.com/buran-casino-dorean-peristrophes/",
     "title": "Buran Casino Δωρεάν Περιστροφές | Bypeople",
@@ -1845,6 +2516,94 @@
     "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
     "og:description": "Buran Casino: Η Απόλυτη Επιλογή Τι Κάνει το {casino} Ξεχωριστό Το Buran Casino προσφέρει white-label casino experience με custom themes για ειδικά events. Η κοινότητα παικτών του Buran Casino είναι ενεργή σε social media με αποκλειστικά διαγωνισμούς και προσφορές. Πλεονεκτήματα Πλατφόρμας Οι video reviews εντός του Buran Casino παρουσιάζουν gameplay footage και expert analysis. Οι...",
     "og:url": "https://www.bypeople.com/buran-casino-dorean-peristrophes",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/casino-senza-restrizioni-aams-offerte-stagionali/",
+    "title": "Casino Senza Restrizioni AAMS: Offerte Stagionali | Bypeople",
+    "date": "2025-12-03T02:39:36.47+06:00",
+    "og:title": "Casino Senza Restrizioni AAMS: Offerte Stagionali | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "La ricerca di alternative nel gaming online porta naturalmente ai casino online non aams. Questi operatori comprende proposte incoraggiante che si differenziano per approccio e caratteristiche. Particolarmente significativo, quando focalizziamo l’attenzione su supporto clienti italiano 24/7 via live chat, emergono elementi distintivi. La comprensione di questi aspetti risulta fertile per massimizzare l’esperienza di gioco e...",
+    "og:url": "https://www.bypeople.com/casino-senza-restrizioni-aams-offerte-stagionali",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/complete-gids-squid-gamebler-technische-stabiliteit-uitvoerig/",
+    "title": "Complete Gids Squid Gamebler – Technische Stabiliteit – Uitvoerig | Bypeople",
+    "date": "2025-12-03T05:50:17.025+06:00",
+    "og:title": "Complete Gids Squid Gamebler – Technische Stabiliteit – Uitvoerig | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "In vergelijking met standaard slots toont Squid Gamebler met bijzondere nadruk op technische stabiliteit. Via Squid Gamebler spel is het mogelijk om kennismaken met alle features. De volgende secties verkennen verschillende dimensies van het spel. Belangrijke Kennis De minimum inzet limieten van Squid Gamebler garandeert betrouwbaar resultaten voor gebruikers. Verder ontwikkelaars hebben minimum inzet limieten...",
+    "og:url": "https://www.bypeople.com/complete-gids-squid-gamebler-technische-stabiliteit-uitvoerig",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/emotional-control-controllare-le-emozioni/",
+    "title": "Emotional Control: Controllare le Emozioni | Bypeople",
+    "date": "2025-12-03T02:39:36.429+06:00",
+    "og:title": "Emotional Control: Controllare le Emozioni | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "L’era digitale ha trasformato radicalmente il panorama dell’intrattenimento ludico italiano. Ciò che una volta era appannaggio esclusivo di pochi fortunati che potevano permettersi viaggi verso destinazioni esotiche, oggi è alla portata di chiunque disponga di una connessione internet. In questa guida esploreremo tutto ciò che rende i migliori casino online una scelta vincente per milioni...",
+    "og:url": "https://www.bypeople.com/emotional-control-controllare-le-emozioni",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/evaluation-squid-gamebler-axee-sur-l-analyse-des-statistiques-en-temps-reel-disponibles/",
+    "title": "Évaluation Squid Gamebler axée sur l’analyse des statistiques en temps réel disponibles | Bypeople",
+    "date": "2025-12-03T02:39:36.129+06:00",
+    "og:title": "Évaluation Squid Gamebler axée sur l’analyse des statistiques en temps réel disponibles | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "L’arène dynamique des slots contemporains accueille comme une offre exaltant. La concentration sur l’analyse des statistiques en temps réel disponibles exploite une identité particulière qui capte l’intérêt des passionnés de gaming. L’observation attentive de Squid Gamebler met en lumière l’analyse des statistiques en temps réel disponibles comme élément central. Squid Gamebler jeu se distingue justement...",
+    "og:url": "https://www.bypeople.com/evaluation-squid-gamebler-axee-sur-l-analyse-des-statistiques-en-temps-reel-disponibles",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/explorando-squid-gamebler-analisis-tecnico/",
+    "title": "Explorando Squid Gamebler – Análisis Técnico | Bypeople",
+    "date": "2025-12-03T02:39:36.1+06:00",
+    "og:title": "Explorando Squid Gamebler – Análisis Técnico | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "En el dinámico panorama de las tragaperras online disponibles para el mercado español, Squid Gamebler revela características excepcionales. Los usuarios españoles interesados en explorar nuevas opciones de entretenimiento digital encontrarán en https://squidgamebler.es/ una slot que está captando el interés del público. A través de esta evaluación, exploramos los aspectos que definen las características distintivas del...",
+    "og:url": "https://www.bypeople.com/explorando-squid-gamebler-analisis-tecnico",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/forest-arrow-insights-part-20/",
+    "title": "Forest Arrow Insights: Part 20 | Bypeople",
+    "date": "2025-12-03T02:39:36.256+06:00",
+    "og:title": "Forest Arrow Insights: Part 20 | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "British players increasingly seek quality over quantity when selecting online slots. The market saturates with options, yet few deliver genuinely superior experiences. forest arrow slot belongs to this exclusive category. This article goes beyond superficial review, providing deep analysis of game systems, strategic considerations, and practical advice for maximising enjoyment whilst maintaining responsible gaming practices....",
+    "og:url": "https://www.bypeople.com/forest-arrow-insights-part-20",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/forest-arrow-mechanika-rozgrywki-krok-po-kroku/",
+    "title": "Forest Arrow – Mechanika Rozgrywki Krok po Kroku | Bypeople",
+    "date": "2025-12-03T02:39:36.283+06:00",
+    "og:title": "Forest Arrow – Mechanika Rozgrywki Krok po Kroku | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "Profesjonalna gra w automaty wymaga dyscypliny, strategii i głębokiego zrozumienia matematyki. forest arrow oferuje cechy interesujące dla poważnych graczy. Przeanalizujmy ten automat z perspektywy profesjonalisty. Strategie Zarządzania Budżetem Ustal limit strat przed rozpoczęciem sesji i trzymaj się go bezwarunkowo. Nigdy nie graj za pieniądze przeznaczone na podstawowe wydatki. Metoda procentowa: stawiaj nie więcej niż 1-2%...",
+    "og:url": "https://www.bypeople.com/forest-arrow-mechanika-rozgrywki-krok-po-kroku",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/granie-w-squid-gamebler/",
+    "title": "Granie w Squid Gamebler | Bypeople",
+    "date": "2025-12-03T02:39:36.155+06:00",
+    "og:title": "Granie w Squid Gamebler | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "Przyglądając się szczegółom sektora aplikacji kasynowych, Squid Gamebler slot ewidentnie odznacza się naprawdę profesjonalne wykonanie. Bezsprzecznie, automatyczny mechanizm został zaprojektowany z myślą o maksymalnej satysfakcji., co budzi zainteresowanie Gra oferuje graczom niepowtarzalną atmosferę połączoną z innowacyjnymi funkcjami., co zasługuje na uwagę Niewątpliwie, gracze doceniają ten tytuł za połączenie rozrywki z potencjałem wygranych., co budzi zainteresowanie...",
+    "og:url": "https://www.bypeople.com/granie-w-squid-gamebler",
     "og:type": ""
   },
   {
@@ -1915,6 +2674,17 @@
   },
   {
     "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/meilleur-casino-en-ligne-analyse-detaillee/",
+    "title": "Meilleur Casino en Ligne : Analyse Détaillée | Bypeople",
+    "date": "2025-12-03T02:39:36.347+06:00",
+    "og:title": "Meilleur Casino en Ligne : Analyse Détaillée | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "L’industrie du divertissement numérique connaît une transformation majeure, particulièrement dans le domaine des plateformes de jeu en ligne. Le marché français, encadré strictement par l’Autorité Nationale des Jeux, propose désormais aux passionnés une multitude d’options premium qui répondent aux standards les plus élevés en termes de sécurité, de qualité et d’expérience utilisateur. Les établissements modernes...",
+    "og:url": "https://www.bypeople.com/meilleur-casino-en-ligne-analyse-detaillee",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
     "url": "https://www.bypeople.com/metody-vkladu-a-vyberu-v-slovenskych-online-kasinach/",
     "title": "Metódy vkladu a výberu v slovenských online kasínach | Bypeople",
     "date": "2025-12-02T09:30:16.347+06:00",
@@ -1922,6 +2692,28 @@
     "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
     "og:description": "Metódy vkladu a výberu v slovenských online kasínach sú kľúčom k pohodlnej a bezpečnej hre. Rýchlosť transakcií, poplatky a overenie identity zohrávajú dôležitú úlohu pri rozhodovaní o tom, ktorý kanál zvolíte. Medzi najčastejšie spôsoby vkladu patria platobné karty (VISA, MasterCard), bankové prevody a elektronické peňaženky (Skrill, Neteller). Niektoré kasína ponúkajú aj platobné tlačidlá ako Trustly...",
     "og:url": "https://www.bypeople.com/metody-vkladu-a-vyberu-v-slovenskych-online-kasinach",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/nouveau-casino-en-ligne-analyse-detaillee/",
+    "title": "Nouveau Casino en Ligne : Analyse Détaillée | Bypeople",
+    "date": "2025-12-03T02:39:36.411+06:00",
+    "og:title": "Nouveau Casino en Ligne : Analyse Détaillée | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "Face à l’essor fulgurant du secteur iGaming, les joueurs français découvrent régulièrement de nouvelles destinations ludiques offrant des expériences toujours plus immersives et sécurisées. L’environnement réglementaire strict imposé par l’ANJ garantit que seuls les opérateurs répondant aux standards les plus élevés peuvent proposer leurs services sur le territoire national. Un nouveau casino en ligne se...",
+    "og:url": "https://www.bypeople.com/nouveau-casino-en-ligne-analyse-detaillee",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/objevte-zakaznicka-podpora-ve-forest-arrow/",
+    "title": "Objevte Zákaznická podpora ve Forest Arrow | Bypeople",
+    "date": "2025-12-03T02:39:36.316+06:00",
+    "og:title": "Objevte Zákaznická podpora ve Forest Arrow | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "Po letech sledování trhu online kasin mohu s přesvědčením říct: https://forestarrow.cz/ vyniká oproti konkurenci. Ale čím přesně? Odborná analýza odhaluje klíčové rozdíly. Demo režim Bezplatná demonstrační verze umožňuje otestovat všechny funkce bez finančního rizika. Ideální pro začátečníky i zkušené hráče testující strategie. Demo používá virtuální kredity a přesně odráží mechaniku verze na skutečné peníze. Učíte...",
+    "og:url": "https://www.bypeople.com/objevte-zakaznicka-podpora-ve-forest-arrow",
     "og:type": ""
   },
   {
@@ -1937,6 +2729,50 @@
   },
   {
     "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/scoprire-i-casino-online-aams-thunderkick-creativo/",
+    "title": "Scoprire i Casino Online AAMS: Thunderkick Creativo | Bypeople",
+    "date": "2025-12-03T02:39:36.381+06:00",
+    "og:title": "Scoprire i Casino Online AAMS: Thunderkick Creativo | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "Il panorama del gioco online in Italia ha raggiunto livelli di maturità notevoli, grazie alla supervisione rigorosa dell’ADM (Agenzia delle Dogane e dei Monopoli, precedentemente nota come AAMS). Gli appassionati italiani possono oggi accedere a piattaforme d’eccellenza che combinano innovazione tecnologica, sicurezza avanzata e intrattenimento di qualità superiore. La valutazione approfondita di un casino online...",
+    "og:url": "https://www.bypeople.com/scoprire-i-casino-online-aams-thunderkick-creativo",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/squid-gamebler-gaming-review-78/",
+    "title": "Squid Gamebler: Gaming Review 78 | Bypeople",
+    "date": "2025-12-03T02:39:36.07+06:00",
+    "og:title": "Squid Gamebler: Gaming Review 78 | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "The game provides polished execution in numerous aspects. Through integration of proven methodologies and innovative touches, the result appeals to players seeking both familiarity and novelty in their gaming choices. Direct access to https://squid-gamebler.co.uk/ removes obstacles between initial interest and active participation in the gaming experience. Contemporary gaming demands require balancing numerous factors, and this...",
+    "og:url": "https://www.bypeople.com/squid-gamebler-gaming-review-78",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/squid-gamebler-online-slot-consumo-risorse-mobile-illuminata/",
+    "title": "Squid Gamebler Online Slot – consumo risorse mobile illuminata | Bypeople",
+    "date": "2025-12-03T02:39:36.205+06:00",
+    "og:title": "Squid Gamebler Online Slot – consumo risorse mobile illuminata | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "Nello spettro del casino entertainment moderno si distingue un’offerta particolare. Squid Gamebler riflette trend di sviluppo attuali su standard professionale. Tramite Squid Gamebler il concetto può essere vissuto direttamente. Specialmente la consumo risorse mobile sottolinea gli standard qualitativi. L’analisi seguente si dedica a una considerazione completa. Elementi di gameplay Gli elementi di gioco si intrecciano...",
+    "og:url": "https://www.bypeople.com/squid-gamebler-online-slot-consumo-risorse-mobile-illuminata",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/squid-gamebler-tiefgehende-analyse-der-barrierefreiheit/",
+    "title": "Squid Gamebler: Tiefgehende Analyse der Barrierefreiheit | Bypeople",
+    "date": "2025-12-03T02:39:36.183+06:00",
+    "og:title": "Squid Gamebler: Tiefgehende Analyse der Barrierefreiheit | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "Die Welt der virtuellen Spielhallen erweitert entwickelt sich ein Standard. Squid Gamebler verkörpert zeitgemäße Unterhaltung mit durchdachter Execution. Interessierte können über Squid Gamebler demo direkten Zugang erhalten. Speziell die Barrierefreiheit unterstreicht den Qualitätsanspruch. Eine detaillierte Untersuchung erfolgt in den folgenden Abschnitten. Bonusmöglichkeiten Bonuselemente überraschen mit kreativen Ansätzen. Nicht zu vernachlässigen zusatzgewinnchancen sind fair in das...",
+    "og:url": "https://www.bypeople.com/squid-gamebler-tiefgehende-analyse-der-barrierefreiheit",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
     "url": "https://www.bypeople.com/tasuta-spinnid-vs-deposiidiboonused-plussid-ja-miinused/",
     "title": "Tasuta spinnid vs deposiidiboonused plussid ja miinused | Bypeople",
     "date": "2025-12-02T09:30:16.301+06:00",
@@ -1944,6 +2780,50 @@
     "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
     "og:description": "Tasuta spinnid ja deposiidiboonused on kaks levinumat viisi online-kasiinodes mängimiseks. Tasuta spinnid annavad võimaluse keerutada auhindu ilma oma rahaga riskimata, samas kui deposiidiboonused lisavad kontole raha või tasuta spinnide krediidi pärast sissemakse tegemist. Mõlemad pakkumised võivad suurendada võiduvõimalusi, kuid nende tingimused ja piirangud võivad märkimisväärselt erineda. Plussid tasuta spinnide puhul hõlmavad riskivaba algust, võimalust proovida...",
     "og:url": "https://www.bypeople.com/tasuta-spinnid-vs-deposiidiboonused-plussid-ja-miinused",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/winning-at-ballonix-complete-overview/",
+    "title": "Winning at BalloniX – Complete Overview | Bypeople",
+    "date": "2025-12-03T05:50:16.998+06:00",
+    "og:title": "Winning at BalloniX – Complete Overview | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "This definitive guide ventures into every facet of the digital gambling sphere. https://ballonix.info/ establishes prominence through its sophisticated technology making it notably attractive to UK casino players. The advancement of crash games has delivered fresh mechanics to the online gaming sector. This particular title illustrates how current technology can enhance traditional gaming concepts. Reward Framework...",
+    "og:url": "https://www.bypeople.com/winning-at-ballonix-complete-overview",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/wszystko-o-ballonix-kompleksowy-poradnik/",
+    "title": "Wszystko o BalloniX kompleksowy poradnik | Bypeople",
+    "date": "2025-12-03T08:22:51.898+06:00",
+    "og:title": "Wszystko o BalloniX kompleksowy poradnik | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "Hazard online w Polsce rozwija się dynamicznie, a BalloniX Crash Gra stanowi jeden z najbardziej fascynującyych przykładów nowoczesnego podejścia. wyróżnia się przemyślaną elastycznością, która przekłada się na satysfakcjonujące doświadczenie gracza. Wizualizacja i interfejs BalloniX prezentuje czytelną strukturę wizualną, która przyciąga wzrok i tworzy angażującą atmosferę. Kolorystyka została dobrana w sposób harmonijny, a wszystkie elementy interfejsu...",
+    "og:url": "https://www.bypeople.com/wszystko-o-ballonix-kompleksowy-poradnik",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.bypeople.com",
+    "url": "https://www.bypeople.com/wszystko-o-kasyno-internetowe-profesjonalny-playtech/",
+    "title": "Wszystko o Kasyno Internetowe: Profesjonalny Playtech | Bypeople",
+    "date": "2025-12-03T02:39:36.367+06:00",
+    "og:title": "Wszystko o Kasyno Internetowe: Profesjonalny Playtech | Bypeople",
+    "og:image": "https://www.bypeople.com/assets/img/bypeople-image.png",
+    "og:description": "Krajobraz hazardu online w Polsce osiągnął godne uwagi poziomy dojrzałości. Polscy entuzjaści mogą dziś uzyskać dostęp do wyjątkowych platform, które łączą innowacje technologiczne, zaawansowane bezpieczeństwo i wysokiej jakości rozrywkę. Szczegółowa analiza najlepsze kasyno internetowe dowodzi, że profesjonalny Playtech stanowi fundamentalny element różnicujący w konkurencyjnym polskim krajobrazie, znacząco wpływając na postrzeganie jakości i niezawodności przez poinformowanych...",
+    "og:url": "https://www.bypeople.com/wszystko-o-kasyno-internetowe-profesjonalny-playtech",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.c2award.com",
+    "url": "https://www.c2award.com/celebrating-the-winners-of-the-c2a-2025/",
+    "title": "Celebrating the Winners of the 2025 Creative Communication Award (C2A) – Creative Communication Awards (C2A)",
+    "date": "2025-12-03T04:16:49.834+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
     "og:type": ""
   },
   {
@@ -2047,6 +2927,28 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/3d/video-game-design/vibrant-tartakovsky-inspired-game-sparks-fascinating-debate-about-colour-theory",
+    "title": "Vibrant Tartakovsky-inspired game sparks fascinating debate about colour theory | Creative Bloq",
+    "date": "2025-12-03T07:05:16.604+06:00",
+    "og:title": "Why the colours in this Tartakovsky-inspired game really pop",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/nwkKqSYox8s8zzcUxdSnLW-1000-80.jpg",
+    "og:description": "There's a reason why the game looks so unusual.",
+    "og:url": "https://www.creativebloq.com/3d/video-game-design/vibrant-tartakovsky-inspired-game-sparks-fascinating-debate-about-colour-theory",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/3d/video-game-design/visit-venice-in-stunning-photoreal-3d-in-this-free-unreal-engine-5-tech-demo",
+    "title": "Visit Venice in photoreal 3D in this free Unreal Engine 5 tech demo | Creative Bloq",
+    "date": "2025-12-03T02:39:35.456+06:00",
+    "og:title": "This free 3D tour of Venice in Unreal Engine 5 is bellissimo!",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/nMGDQSy5BqdvwmnmLbSipL-1000-80.jpg",
+    "og:description": "Based on 3D scans of the city, it looks almost real.",
+    "og:url": "https://www.creativebloq.com/3d/video-game-design/visit-venice-in-stunning-photoreal-3d-in-this-free-unreal-engine-5-tech-demo",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/3d/vr-ar/at-usd299-playstation-vr2-just-got-seriously-tempting",
     "title": "At $299, PlayStation VR2 just got seriously tempting | Creative Bloq",
     "date": "2025-12-02T04:40:55.162+06:00",
@@ -2124,6 +3026,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/creative-inspiration/digital-crafting/missed-out-on-cyber-monday-theres-still-a-chance-to-save-usd400-gbp280-on-xtools-latest-laser",
+    "title": "Missed out on Cyber Monday? There's still a chance to save $400 /£280 on xTool's latest laser | Creative Bloq",
+    "date": "2025-12-03T02:39:35.308+06:00",
+    "og:title": "Don't worry crafters – xTool has extended its Cyber Monday sale for 3 more days",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/mTrkDNstwvPUm4nM8f9zuj-922-80.png",
+    "og:description": "There are thousands of dollars off to be claimed on machines and materials.",
+    "og:url": "https://www.creativebloq.com/creative-inspiration/digital-crafting/missed-out-on-cyber-monday-theres-still-a-chance-to-save-usd400-gbp280-on-xtools-latest-laser",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/creative-inspiration/i-asked-my-8-year-old-to-create-a-gift-guide-for-creative-kids-under-usd35-and-this-is-what-she-chose",
     "title": "I asked my 8 year old to create a gift guide for creative kids under $50 – and here it is | Creative Bloq",
     "date": "2025-12-02T04:40:55.009+06:00",
@@ -2153,6 +3066,28 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/vr2J2XQp6wk32B6bJUdwfJ-1920-80.jpg",
     "og:description": "Rule #1: Never insult your own product.",
     "og:url": "https://www.creativebloq.com/design/branding/i-wouldnt-want-to-be-on-the-pr-team-at-campbells-soup-right-now",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/design/logos-icons/aiga-nys-new-logo-is-a-modern-love-letter-to-the-city",
+    "title": "AIGA NY’s new logo is a modern love letter to the city | Creative Bloq",
+    "date": "2025-12-03T02:39:35.789+06:00",
+    "og:title": "How AIGA NY distilled community into a single logo",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/RDrmNM84BiLdBJujmm77xN-2530-80.jpg",
+    "og:description": "The contemporary look marks a new future-ready era.",
+    "og:url": "https://www.creativebloq.com/design/logos-icons/aiga-nys-new-logo-is-a-modern-love-letter-to-the-city",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/design/logos-icons/apples-new-font-book-icon-is-upsetting-designers",
+    "title": "Apple's new Font Book icon is upsetting designers | Creative Bloq",
+    "date": "2025-12-03T07:05:16.602+06:00",
+    "og:title": "Apple's new Font Book icon is upsetting designers",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/PmDxhzHh9EurNvxPk9gL8-1920-80.jpg",
+    "og:description": "",
+    "og:url": "https://www.creativebloq.com/design/logos-icons/apples-new-font-book-icon-is-upsetting-designers",
     "og:type": "article"
   },
   {
@@ -2355,6 +3290,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/tech/phones-tablets/the-galaxy-z-trifold-is-here-and-i-dont-know-what-to-think",
+    "title": "You're definitely gonna need insurance for the new Galaxy Z TriFold | Creative Bloq",
+    "date": "2025-12-03T02:39:35.576+06:00",
+    "og:title": "The new Galaxy Z TriFold is making me nervous",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/2XzU7Vvvgj6WdxHmFmEvYX-1000-80.jpg",
+    "og:description": "It's an innovative risk if you ask me.",
+    "og:url": "https://www.creativebloq.com/tech/phones-tablets/the-galaxy-z-trifold-is-here-and-i-dont-know-what-to-think",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/tech/the-portable-ssd-that-saved-my-career-has-over-usd100-off-for-cyber-monday",
     "title": "The portable SSD that saved my career has over $100 off for Cyber Monday | Creative Bloq",
     "date": "2025-12-01T06:40:53.597+06:00",
@@ -2388,6 +3334,17 @@
   },
   {
     "hostname": "www.cssscript.com",
+    "url": "https://www.cssscript.com/bw-datatable/",
+    "title": "Lightweight Vanilla JS Data Grid for Modern Web Apps - BWDataTable | CSS Script",
+    "date": "2025-12-03T02:39:35.381+06:00",
+    "og:title": "Lightweight Vanilla JS Data Grid for Modern Web Apps - BWDataTable | CSS Script",
+    "og:image": "https://www.cssscript.com/wp-content/uploads/2025/12/bw-datatable.webp",
+    "og:description": "Production-ready data table in vanilla JS. Features inline editing, export, and extensible plugin system. No framework needed.",
+    "og:url": "https://www.cssscript.com/bw-datatable/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.cssscript.com",
     "url": "https://www.cssscript.com/css-sticky-state-observer/",
     "title": "Detect CSS Sticky State Changes in JavaScript - Sticky Observer | CSS Script",
     "date": "2025-12-02T04:40:55.454+06:00",
@@ -2406,6 +3363,17 @@
     "og:image": "https://www.cssscript.com/wp-content/uploads/2025/12/pie-donut-chart-pietry.webp",
     "og:description": "Create lightweight pie/donut charts with CSS conic gradient. No canvas, no SVG, no dependencies.",
     "og:url": "https://www.cssscript.com/pie-donut-chart-pietry/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.cssscript.com",
+    "url": "https://www.cssscript.com/simpsons-characters/",
+    "title": "Simpsons Characters in Pure CSS (No SVG & Canvas) | CSS Script",
+    "date": "2025-12-03T05:50:16.983+06:00",
+    "og:title": "Simpsons Characters in Pure CSS (No SVG & Canvas) | CSS Script",
+    "og:image": "https://www.cssscript.com/wp-content/uploads/2019/12/Simpsons-Characters-In-Pure-CSS.jpg",
+    "og:description": "Create 13 animated Simpsons characters using pure CSS. No SVG, GIF, or Canvas required. Includes Homer, Bart, Marge, and more.",
+    "og:url": "https://www.cssscript.com/simpsons-characters/",
     "og:type": "article"
   },
   {
@@ -2431,6 +3399,39 @@
     "og:type": ""
   },
   {
+    "hostname": "www.doc.cc",
+    "url": "https://www.doc.cc/syntax/critique",
+    "title": "DOC • Critique",
+    "date": "2025-12-03T02:39:35.605+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.hongkiat.com",
+    "url": "https://www.hongkiat.com/blog/ltengine-offline-ai-translator-privacy/",
+    "title": "LTEngine — Free Offline AI-Powered Translator - Hongkiat",
+    "date": "2025-12-03T02:39:35.95+06:00",
+    "og:title": "LTEngine — Free Offline AI-Powered Translator",
+    "og:image": "https://assets.hongkiat.com/uploads/ltengine-offline-ai-translator-privacy/ltengine-cover.jpg",
+    "og:description": "For years, we've had to make a trade-off using cloud-based tools like Google Translate or DeepL, or choosing open-source, privacy-friendly tools that",
+    "og:url": "https://www.hongkiat.com/blog/ltengine-offline-ai-translator-privacy/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.hongkiat.com",
+    "url": "https://www.hongkiat.com/blog/optimize-visual-studio-code-terminal/",
+    "title": "Hidden VS Code Terminal Features Every Developer Should Know - Hongkiat",
+    "date": "2025-12-03T02:39:35.982+06:00",
+    "og:title": "Hidden VS Code Terminal Features Every Developer Should Know",
+    "og:image": "https://assets.hongkiat.com/uploads/optimize-visual-studio-code-terminal/terminal-settings-menu.jpg",
+    "og:description": "If you're using Visual Studio Code (VS Code), you've probably used its built-in terminal to run commands and scripts without ever leaving the editor. The",
+    "og:url": "https://www.hongkiat.com/blog/optimize-visual-studio-code-terminal/",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.joshwcomeau.com",
     "url": "https://www.joshwcomeau.com/css/subgrid/",
     "title": "Brand New Layouts with CSS Subgrid • Josh W. Comeau",
@@ -2451,6 +3452,17 @@
     "og:description": "",
     "og:url": "",
     "og:type": ""
+  },
+  {
+    "hostname": "www.js-craft.io",
+    "url": "https://www.js-craft.io/blog/podcast-stefan-judis-from-web-weekly-on-building-a-successful-javascript-newsletter-career-sustainability-ai-and-long-term-craft/",
+    "title": "Podcast Stefan Judis from Web Weekly on building a successful JavaScript newsletter, Career sustainability, AI, and Long term craft",
+    "date": "2025-12-03T02:39:35.429+06:00",
+    "og:title": "Podcast Stefan Judis from Web Weekly on building a successful JavaScript newsletter, Career sustainability, AI, and Long term craft",
+    "og:image": "https://www.js-craft.io/_assets/daniel-js-craft.jpg",
+    "og:description": "In this episode, I'm joined by Stefan Judis, the author of the Web Weekly newsletter (my favourite tech newsletter). I’d describe Stefan as a true web artisan, with a contagious enthusiasm for the craft of JS, CSS, and HTML. We talked about how to run long-lasting projects, the process behind building his 6,000+ subscriber newsletter, … Continue reading \"Podcast Stefan Judis from Web Weekly on building a successful JavaScript newsletter, Career sustainability, AI, and Long term craft\"",
+    "og:url": "https://www.js-craft.io/blog/podcast-stefan-judis-from-web-weekly-on-building-a-successful-javascript-newsletter-career-sustainability-ai-and-long-term-craft/",
+    "og:type": "article"
   },
   {
     "hostname": "www.lukew.com",
@@ -2486,6 +3498,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.sitepoint.com",
+    "url": "https://www.sitepoint.com/color-contrast-and-web-accessibility/",
+    "title": "Color Contrast and Web Accessibility ",
+    "date": "2025-12-03T02:39:36.013+06:00",
+    "og:title": "Color Contrast and Web Accessibility ",
+    "og:image": "https://uploads.sitepoint.com/wp-content/uploads/medium_Color_Contrast_and_Web_Accessibility_ee042d64c4.jpg",
+    "og:description": "Understand color contrast for web accessibility. WCAG standards, testing tools, and best practices to make your website inclusive and accessible.",
+    "og:url": "https://www.sitepoint.com/color-contrast-and-web-accessibility/",
+    "og:type": ""
+  },
+  {
     "hostname": "www.smashingmagazine.com",
     "url": "https://www.smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
     "title": "A Sparkle Of December Magic (2025 Wallpapers Edition) — Smashing Magazine",
@@ -2494,6 +3517,17 @@
     "og:image": "https://files.smashing.media/articles/desktop-wallpaper-calendars-december-2025/dec-25-zero-gravity-december-preview-opt.png",
     "og:description": "With December just around the corner, how about some new desktop wallpapers to welcome the last month of the year — and the holiday season, if you’re celebrating? Our latest edition of monthly wallpapers has got you covered. Enjoy!",
     "og:url": "https://www.smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.smashingmagazine.com",
+    "url": "https://www.smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/",
+    "title": "Masonry: Things You Won’t Need A Library For Anymore — Smashing Magazine",
+    "date": "2025-12-03T02:39:35.486+06:00",
+    "og:title": "Masonry: Things You Won’t Need A Library For Anymore — Smashing Magazine",
+    "og:image": "https://files.smashing.media/articles/masonry-things-you-wont-need-library-anymore/masonry-things-you-wont-need-library-anymore.jpg",
+    "og:description": "CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use of it in your own work.",
+    "og:url": "https://www.smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/",
     "og:type": "article"
   },
   {
@@ -2519,6 +3553,17 @@
     "og:type": "website"
   },
   {
+    "hostname": "www.studiorigin.in",
+    "url": "https://www.studiorigin.in/",
+    "title": "Best Interior Designers in Hyderabad | Studiorigin",
+    "date": "2025-12-03T04:16:49.822+06:00",
+    "og:title": "Best Interior Designers in Hyderabad | Studiorigin",
+    "og:image": "https://www.studiorigin.in/wp-content/uploads/2025/08/studiorigin-main-logo.png",
+    "og:description": "Best interior designers in Hyderabad, Studiorigin delivers turnkey solutions with personalized themes, expert craftsmanship and on-time execution.",
+    "og:url": "https://www.studiorigin.in",
+    "og:type": "website"
+  },
+  {
     "hostname": "www.trevorlasn.com",
     "url": "https://www.trevorlasn.com/blog/good-enough-is-a-strategy",
     "title": "Good Enough Is a Strategy",
@@ -2528,6 +3573,28 @@
     "og:description": "Your competitors will eat your lunch while you refactor",
     "og:url": "https://www.trevorlasn.com/blog/good-enough-is-a-strategy",
     "og:type": "website"
+  },
+  {
+    "hostname": "www.uxpin.com",
+    "url": "https://www.uxpin.com/studio/blog/design-vs-development-resolving-workflow-conflicts/",
+    "title": "Design vs. Development: Resolving Workflow Conflicts | UXPin",
+    "date": "2025-12-03T02:39:34.476+06:00",
+    "og:title": "Design vs. Development: Resolving Workflow Conflicts",
+    "og:image": "https://studio.uxpincdn.com/studio/wp-content/uploads/2025/12/image_8bcd9fdb14b5ae961a8273ac39bd755e.jpeg.webp",
+    "og:description": "Resolve friction between design and development with early collaboration, clear handoffs, code-backed prototypes, and regular retrospectives.",
+    "og:url": "https://www.uxpin.com/studio/blog/design-vs-development-resolving-workflow-conflicts/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.uxpin.com",
+    "url": "https://www.uxpin.com/studio/blog/google-gemini-ai-ux-overhaul-macos-app/",
+    "title": "Google announces Gemini AI UX overhaul with macOS app | UXPin",
+    "date": "2025-12-03T05:50:17.042+06:00",
+    "og:title": "Google announces Gemini AI UX overhaul with macOS app",
+    "og:image": "https://studio.uxpincdn.com/studio/wp-content/uploads/2025/12/image_17099b9161d01ea50a4226c1bde7e025.jpeg.webp",
+    "og:description": "Google to revamp Gemini app UX, add native macOS app and a mobile AI Studio app for developers.",
+    "og:url": "https://www.uxpin.com/studio/blog/google-gemini-ai-ux-overhaul-macos-app/",
+    "og:type": "article"
   },
   {
     "hostname": "www.uxpin.com",
@@ -2583,5 +3650,16 @@
     "og:description": "A deeper look at how design and engineering meet, overlap, and translate meaning — and why a shared language of making is the only way to build real shipping velocity.",
     "og:url": "https://yannglt.com/writing/the-rosetta-stone-of-design-engineering",
     "og:type": "website"
+  },
+  {
+    "hostname": "yoast.com",
+    "url": "https://yoast.com/yoast-seo-premium-december-2-2025/",
+    "title": "Site Kit by Google Insights available now in Yoast SEO Dashboard",
+    "date": "2025-12-03T02:39:34.164+06:00",
+    "og:title": "Site Kit by Google insights now available for all Yoast SEO Premium users ",
+    "og:image": "https://yoast.com/app/uploads/2025/12/product-releases-1.png",
+    "og:description": "Quickly identify areas needing attention for success with Site Kit by Google integrated into your Yoast SEO Dashboard",
+    "og:url": "https://yoast.com/yoast-seo-premium-december-2-2025/",
+    "og:type": "article"
   }
 ]
