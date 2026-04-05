@@ -1,5 +1,16 @@
 [
   {
+    "hostname": "1app.energy",
+    "url": "https://1app.energy/",
+    "title": "1app.energy | Stop Octopus Daytime EV Battery Drain",
+    "date": "2026-04-05T14:54:50.572+06:00",
+    "og:title": "Stop Octopus Daytime EV Charging from Draining Your Home Battery | 1app.energy",
+    "og:image": "https://1app.energy/opengraph-image?6e46ff1df71e316d",
+    "og:description": "Stop Octopus Intelligent Go from draining your home battery during daytime EV charging. Protect solar-stored energy and maximise your UK home savings.",
+    "og:url": "https://1app.energy",
+    "og:type": "website"
+  },
+  {
     "hostname": "abduzeedo.com",
     "url": "https://abduzeedo.com/bodega-brand-identity-serves-two-personalities-one-system",
     "title": "Bodega Brand Identity Serves Two Personalities with One System",
@@ -2035,6 +2046,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "shortodella.com",
+    "url": "https://shortodella.com/",
+    "title": "Shortodella - AI Video Generator & Image Generator",
+    "date": "2026-04-05T14:54:50.533+06:00",
+    "og:title": "Shortodella - AI Video & Image Generator",
+    "og:image": "https://shortodella.com/hero-bg.jpg",
+    "og:description": "Create stunning videos and images with AI. Just describe what you want.",
+    "og:url": "https://shortodella.com",
+    "og:type": "website"
+  },
+  {
     "hostname": "shubhamjangle.medium.com",
     "url": "https://shubhamjangle.medium.com/my-publicis-sapient-sr-exp-eng-interview-experience-24lpa-3755f33bd793",
     "title": "My Publicis Sapient SWE-2 Frontend Interview Experience — [24LPA] | by Shubham Jangle | Apr, 2026 | Medium",
@@ -2946,6 +2968,17 @@
     "og:description": "Generative UI and vibe coding both produce AI-generated interfaces, but they differ in a critical way: who decides to build. Learn how this distinction shapes design accountability, failure modes, and who actually benefits.",
     "og:url": "https://www.nngroup.com/articles/genui-vs-vibe/",
     "og:type": "article"
+  },
+  {
+    "hostname": "www.pixelwall.ca",
+    "url": "https://www.pixelwall.ca/news/why-net-caching-leaves-wordpress-redis-in-the-dust/",
+    "title": "Why .NET Caching Leaves WordPress + Redis in the Dust | Pixelwall",
+    "date": "2026-04-05T14:54:50.539+06:00",
+    "og:title": "Why .NET Caching Leaves WordPress + Redis in the Dust | Pixelwall",
+    "og:image": "https://media.pixelwall.ca/news/webfactory-ltd-CzShzocZtW0-unsplash.jpg",
+    "og:description": "WordPress needs Redis, W3 Total Cache, and a stack of plugins just to cache properly. .NET ships with all of it built in. Here's why that changes everything.",
+    "og:url": "https://www.pixelwall.ca/news/why-net-caching-leaves-wordpress-redis-in-the-dust/",
+    "og:type": "website"
   },
   {
     "hostname": "www.seangoedecke.com",
