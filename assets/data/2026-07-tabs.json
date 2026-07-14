@@ -132,6 +132,17 @@
     "og:type": "website"
   },
   {
+    "hostname": "allthingssmitty.com",
+    "url": "https://allthingssmitty.com/2026/07/13/i-stopped-destructuring-everything/",
+    "title": "I stopped destructuring everything - Matt Smith",
+    "date": "2026-07-14T03:02:29.942+06:00",
+    "og:title": "I stopped destructuring everything - Matt Smith",
+    "og:image": "https://allthingssmitty.com/img/posts/sunset-home-office-min.jpg",
+    "og:description": "I used destructuring every object in JavaScript. Here's why keeping objects intact often makes code easier to read, debug, and maintain.",
+    "og:url": "https://allthingssmitty.com/2026/07/13/i-stopped-destructuring-everything/",
+    "og:type": "article"
+  },
+  {
     "hostname": "allwebforms.com",
     "url": "https://allwebforms.com/",
     "title": "Allwebforms — Best Free Typeform Alternative for Forms & Surveys",
@@ -323,6 +334,17 @@
     "url": "https://betterdev.link/issues/289",
     "title": "Better Dev Link - Resource around the web on becoming a better programmer",
     "date": "2026-07-01T02:53:07.389+06:00",
+    "og:title": "Better Dev Link - On becoming a better programmer",
+    "og:image": "/assets/images/thumbnail.png",
+    "og:description": "A weekly news letter of resource around the web on becoming a better developer",
+    "og:url": "https://betterdev.link",
+    "og:type": "website"
+  },
+  {
+    "hostname": "betterdev.link",
+    "url": "https://betterdev.link/issues/290",
+    "title": "Better Dev Link - Resource around the web on becoming a better programmer",
+    "date": "2026-07-14T08:47:25.961+06:00",
     "og:title": "Better Dev Link - On becoming a better programmer",
     "og:image": "/assets/images/thumbnail.png",
     "og:description": "A weekly news letter of resource around the web on becoming a better developer",
@@ -550,6 +572,17 @@
     "og:type": "website"
   },
   {
+    "hostname": "chriscoyier.net",
+    "url": "https://chriscoyier.net/2026/07/13/choosing-movies/",
+    "title": "Choosing Movies – Chris Coyier",
+    "date": "2026-07-14T03:02:29.861+06:00",
+    "og:title": "Choosing Movies",
+    "og:image": "https://jetpack.com/redirect/?source=sigenerate&query=t%3DeyJ0eHQiOiJDaG9vc2luZyBNb3ZpZXMiLCJ0ZW1wbGF0ZSI6ImZ1bGxzY3JlZW4iLCJmb250IjoiIiwiYmxvZ19pZCI6NzQwNzQyNDh9.a3ut7tW_kwlyINrA35xSKfnfLqj1gEFhnbNvROrFzKYMQ",
+    "og:description": "Almost surely, if you totaled up the number of hours of movie watching I’ve done and the hours of TV show watching I’ve done, TV dwarves movies. It’s not a conscious choice; just how it shook…",
+    "og:url": "https://chriscoyier.net/2026/07/13/choosing-movies/",
+    "og:type": "article"
+  },
+  {
     "hostname": "christinevallaure.substack.com",
     "url": "https://christinevallaure.substack.com/p/what-are-hypertokens-the-layer-between",
     "title": "What are hypertokens? The layer between tokens and components, rebuilt for agents.",
@@ -704,6 +737,17 @@
     "og:type": ""
   },
   {
+    "hostname": "codepen.io",
+    "url": "https://codepen.io/spark/519",
+    "title": "CodePen Spark",
+    "date": "2026-07-14T03:02:29.792+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
     "hostname": "codewithbilal.medium.com",
     "url": "https://codewithbilal.medium.com/angular-standalone-components-everything-you-need-to-know-4eec111d9e30",
     "title": "Angular Standalone Components: Everything You Need to Know | by Code with Bilal | Jul, 2026 | Medium",
@@ -723,6 +767,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*Cl2u2OP3XFgaX69CxzXxFQ.png",
     "og:description": "I deleted a resize listener, a debounce function, and 150 lines of JS. One CSS feature did the job better.",
     "og:url": "https://codewithbilal.medium.com/modern-css-features-every-frontend-developer-should-start-using-d5897cd65ffa",
+    "og:type": "article"
+  },
+  {
+    "hostname": "colorlib.com",
+    "url": "https://colorlib.com/wp/best-aeo-geo-seo-agency-wordpress-themes/",
+    "title": "20 Best AEO, GEO & SEO Agency WordPress Themes 2026 - Colorlib",
+    "date": "2026-07-14T09:19:11.908+06:00",
+    "og:title": "20 Best AEO, GEO & SEO Agency WordPress Themes 2026 - Colorlib",
+    "og:image": "https://colorlib.com/wp/wp-content/uploads/sites/2/best-aeo-geo-seo-agency-wordpress-themes-featured.jpg",
+    "og:description": "Collection of the Best AEO, GEO, SEO & Modern Marketing Agency WordPress Themes. Modern Designs from reliable developers",
+    "og:url": "https://colorlib.com/wp/best-aeo-geo-seo-agency-wordpress-themes/",
     "og:type": "article"
   },
   {
@@ -850,7 +905,7 @@
     "hostname": "cssauthor.com",
     "url": "https://cssauthor.com/best-practices-for-gui-test-automation/",
     "title": "Best Practices For GUI Test Automation In 2026",
-    "date": "2026-07-13T09:55:13.091+06:00",
+    "date": "2026-07-14T03:02:30.163+06:00",
     "og:title": "Best Practices For GUI Test Automation In 2026",
     "og:image": "https://cdn.cssauthor.com/wp-content/uploads/2026/07/Best-Practices-for-GUI-Test-Automation.png",
     "og:description": "Most teams don't fail at GUI test automation because they picked the wrong tool. They fail because they build on shaky foundations, skip strategy in favor of",
@@ -2091,6 +2146,39 @@
   },
   {
     "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2026/07/13/best-tres-leches-cubano-near-me-where-to-find-the-real-thing/",
+    "title": "Best Tres Leches Cubano Near Me: Where to Find the Real Thing - Designbeep",
+    "date": "2026-07-14T02:58:26.28+06:00",
+    "og:title": "Best Tres Leches Cubano Near Me: Where to Find the Real Thing - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2026/07/Best-Tres-Leches-Cubano-Near-Me.jpg",
+    "og:description": "Searching for the best tres leches cubano near me? Learn what makes the Cuban version special, where to look, what to order, and how to spot an authentic slice.",
+    "og:url": "https://designbeep.com/2026/07/13/best-tres-leches-cubano-near-me-where-to-find-the-real-thing/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2026/07/13/beyond-the-screen-why-designers-and-creatives-are-turning-to-paint-by-numbers-in-2026/",
+    "title": "Beyond the Screen: Why Designers and Creatives Are Turning to Paint by Numbers in 2026 - Designbeep",
+    "date": "2026-07-14T02:58:26.308+06:00",
+    "og:title": "Beyond the Screen: Why Designers and Creatives Are Turning to Paint by Numbers in 2026 - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2026/07/image1-1.jpg",
+    "og:description": "There's a strange irony sitting on many designers' desks right now. The people who spend all day building the digital world, apps, interfaces, and brand",
+    "og:url": "https://designbeep.com/2026/07/13/beyond-the-screen-why-designers-and-creatives-are-turning-to-paint-by-numbers-in-2026/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2026/07/13/grier-hammond-henchy-facts-about-brooke-shields-youngest-daughter/",
+    "title": "Grier Hammond Henchy: Facts About Brooke Shields' Youngest Daughter - Designbeep",
+    "date": "2026-07-14T02:58:26.287+06:00",
+    "og:title": "Grier Hammond Henchy: Facts About Brooke Shields' Youngest Daughter - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2026/07/Grier-Hammond-Henchy.jpg",
+    "og:description": "Who is Grier Hammond Henchy? Get the facts on Brooke Shields' youngest daughter, her modeling career, college life, height, family, and rise in fashion.",
+    "og:url": "https://designbeep.com/2026/07/13/grier-hammond-henchy-facts-about-brooke-shields-youngest-daughter/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
     "url": "https://designbeep.com/2026/07/13/how-to-add-fonts-to-gimp/",
     "title": "How to Add Fonts to GIMP",
     "date": "2026-07-13T02:36:03.91+06:00",
@@ -2113,6 +2201,17 @@
   },
   {
     "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2026/07/13/how-to-fix-phone-microphone-problems-at-home/",
+    "title": "How to Fix Phone Microphone Problems at Home - Designbeep",
+    "date": "2026-07-14T02:58:26.326+06:00",
+    "og:title": "How to Fix Phone Microphone Problems at Home - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2026/07/How-to-Fix-Phone-Microphone.jpg",
+    "og:description": "Learn how to fix phone microphone issues fast. This guide covers cleaning, settings, app permissions, and hardware checks for Android and iPhone.",
+    "og:url": "https://designbeep.com/2026/07/13/how-to-fix-phone-microphone-problems-at-home/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
     "url": "https://designbeep.com/2026/07/13/how-to-ungroup-in-illustrator/",
     "title": "How to Ungroup in Illustrator",
     "date": "2026-07-13T03:26:57.309+06:00",
@@ -2131,6 +2230,50 @@
     "og:image": "https://designbeep.com/wp-content/uploads/2026/07/Auto-Mode-Trading.jpg",
     "og:description": "The thought of getting into online trading may not be particularly appealing to some, especially to newbies who are yet to grasp how the financial markets",
     "og:url": "https://designbeep.com/2026/07/13/why-a-demo-auto-mode-trading-free-download-is-essential-for-new-traders/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2026/07/14/ai-wedding-photo-editing-vs-a-professional-retoucher-service-what-should-photographers-choose/",
+    "title": "Ai Wedding Photo Editing vs. A Professional Retoucher Service: What Should Photographers Choose? - Designbeep",
+    "date": "2026-07-14T09:19:11.917+06:00",
+    "og:title": "Ai Wedding Photo Editing vs. A Professional Retoucher Service: What Should Photographers Choose? - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2026/07/Ai-Wedding-Photo-Editing-vs-A-Professional-Retoucher-Service.jpg",
+    "og:description": "Ask any wedding photographer when the job really ends, and the answer is usually the same: not after the reception, but after the last image is edited and",
+    "og:url": "https://designbeep.com/2026/07/14/ai-wedding-photo-editing-vs-a-professional-retoucher-service-what-should-photographers-choose/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2026/07/14/boneless-couch-guide-what-it-is-and-whether-you-should-buy-one/",
+    "title": "Boneless Couch Guide: What It Is and Whether You Should Buy One - Designbeep",
+    "date": "2026-07-14T08:47:25.981+06:00",
+    "og:title": "Boneless Couch Guide: What It Is and Whether You Should Buy One - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2026/07/Boneless-Couch.jpg",
+    "og:description": "Thinking about a boneless couch? Learn what these frameless foam sofas are, their pros and cons, who they suit, and what to check before buying one.",
+    "og:url": "https://designbeep.com/2026/07/14/boneless-couch-guide-what-it-is-and-whether-you-should-buy-one/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2026/07/14/how-to-fix-keyboard-delay-on-windows-mac-and-wireless-setups/",
+    "title": "How to Fix Keyboard Delay on Windows, Mac, and Wireless Setups - Designbeep",
+    "date": "2026-07-14T02:58:26.27+06:00",
+    "og:title": "How to Fix Keyboard Delay on Windows, Mac, and Wireless Setups - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2026/07/How-to-Fix-Keyboard-Delay.jpg",
+    "og:description": "Tired of laggy typing? Learn how to fix keyboard delay with proven steps for Windows, Mac, Bluetooth keyboards, and games. Get your keystrokes instant again.",
+    "og:url": "https://designbeep.com/2026/07/14/how-to-fix-keyboard-delay-on-windows-mac-and-wireless-setups/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2026/07/14/wheel-alignment-near-me/",
+    "title": "Wheel Alignment Near Me: How to Find a Good Shop and What to Expect - Designbeep",
+    "date": "2026-07-14T06:47:15.854+06:00",
+    "og:title": "Wheel Alignment Near Me: How to Find a Good Shop and What to Expect - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2026/07/Wheel-Alignment-Near-Me.jpg",
+    "og:description": "Searching for wheel alignment near me? Learn what alignment costs, the signs you need one, how to pick a trustworthy shop, and what happens during the service.",
+    "og:url": "https://designbeep.com/2026/07/14/wheel-alignment-near-me/",
     "og:type": "article"
   },
   {
@@ -2896,11 +3039,22 @@
     "hostname": "dive.radio",
     "url": "https://dive.radio/",
     "title": "Dive Radio Show | Live Thursdays 1PM PST",
-    "date": "2026-07-13T09:48:31.999+06:00",
+    "date": "2026-07-14T06:46:30.364+06:00",
     "og:title": "Dive Radio Show | Live Thursdays 1PM PST",
     "og:image": "https://dive.radio/og-card.png",
     "og:description": "A weekly live design show from Tommy Geoco and Ridd of Dive Club. For designers who never stop learning. Thursdays 1PM PST / 4PM EST.",
     "og:url": "https://dive.radio/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "dotmatrix.zzzzshawn.cloud",
+    "url": "https://dotmatrix.zzzzshawn.cloud/",
+    "title": "Dot Matrix",
+    "date": "2026-07-14T08:47:25.835+06:00",
+    "og:title": "Dot Matrix",
+    "og:image": "https://dotmatrix.zzzzshawn.cloud/og.png",
+    "og:description": "Dot Matrix is a React component library of dot matrix loaders—expressive loading primitives you install via the shadcn registry and own as local code.",
+    "og:url": "https://dotmatrix.zzzzshawn.cloud",
     "og:type": "website"
   },
   {
@@ -2937,6 +3091,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "empwr3d.io",
+    "url": "https://empwr3d.io/",
+    "title": "Home | Trusted Digital Marketing Agency | EMPWR3D",
+    "date": "2026-07-14T02:59:33.212+06:00",
+    "og:title": "Home | Trusted Digital Marketing Agency | EMPWR3D",
+    "og:image": "",
+    "og:description": "Welcome to the EMPWR3D home page. We provide expert SEO, web development, digital marketing, branding, and software solutions to help your business grow.",
+    "og:url": "https://empwr3d.io/",
+    "og:type": "website"
+  },
+  {
     "hostname": "eng.basement.studio",
     "url": "https://eng.basement.studio/tools/shader-lab",
     "title": "Shader Lab | basement.studio",
@@ -2967,6 +3132,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*ioO8x2pH_zrxobpYDiS8og.png",
     "og:description": "If you were to fall asleep in 2022 and wake up today, in 2026, you might expect the frontend world to be completely unrecognizable. You’d…",
     "og:url": "https://er-raj-aryan.medium.com/beyond-the-framework-wars-the-definitive-frontend-stack-for-2026-6dcf3b5164ec",
+    "og:type": "article"
+  },
+  {
+    "hostname": "er-raj-aryan.medium.com",
+    "url": "https://er-raj-aryan.medium.com/build-an-elastic-text-animation-using-only-css-no-javascript-required-3a11922da5ce",
+    "title": "Build an Elastic Text Animation Using Only CSS (No JavaScript Required) | by Er Raj Aryan | Jul, 2026 | Medium",
+    "date": "2026-07-14T02:58:26.584+06:00",
+    "og:title": "Build an Elastic Text Animation Using Only CSS (No JavaScript Required)",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*AWLDK8kA0JEM67iycDfJBw.png",
+    "og:description": "Create a fun hover effect with modern CSS while understanding the accessibility trade-offs.",
+    "og:url": "https://er-raj-aryan.medium.com/build-an-elastic-text-animation-using-only-css-no-javascript-required-3a11922da5ce",
     "og:type": "article"
   },
   {
@@ -3045,6 +3221,17 @@
     "og:description": "Transform any sketch into a detailed, realistic AI image in seconds with Fast Image AI. Upload artwork drafts, interior design ideas, product concepts, or simple drawings, and bring your vision to life with polished, high-quality results.",
     "og:url": "https://fastimage.ai/sketch-to-image",
     "og:type": "website"
+  },
+  {
+    "hostname": "focusreactive.com",
+    "url": "https://focusreactive.com/blog/top-reactjs-development-services-in-2026/",
+    "title": "Top 19 Reactjs Development Services to Hire in 2026",
+    "date": "2026-07-14T02:59:33.199+06:00",
+    "og:title": "Top 19 Reactjs Development Services to Hire in 2026",
+    "og:image": "https://fr-payload.vercel.app/api/media/file/reactjs%20dev%20blog%20image%20(1).webp",
+    "og:description": "Compare 18 verified ReactJS development companies: Next.js depth, CMS partnerships, rates, and the exact scenarios each agency is right for.",
+    "og:url": "https://focusreactive.com/blog/top-reactjs-development-services-in-2026/",
+    "og:type": "article"
   },
   {
     "hostname": "frontender-ua.medium.com",
@@ -3198,6 +3385,17 @@
     "og:image": "https://i0.wp.com/graphicdesignjunction.com/wp-content/uploads/2026/07/4th-of-july-posters.jpg",
     "og:description": "Stunning 4th of July posters and flyers in modern, vintage styles. This Independence Day, reflect: Do we still love America and honor its founding values?",
     "og:url": "https://graphicdesignjunction.com/2026/07/4th-of-july-posters/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "graphicdesignjunction.com",
+    "url": "https://graphicdesignjunction.com/2026/07/50-modern-logo-design-ideas/",
+    "title": "50+ Modern Logo Design Ideas Created by Professional",
+    "date": "2026-07-14T03:02:29.742+06:00",
+    "og:title": "50+ Modern Logo Design Ideas Created by Professional",
+    "og:image": "https://i0.wp.com/graphicdesignjunction.com/wp-content/uploads/2026/07/50-modern-logo-design-ideas.jpg",
+    "og:description": "Modern logo design ideas with creative concepts, logos created by professional designers. Explore unique logo inspiration for branding and visual identity.",
+    "og:url": "https://graphicdesignjunction.com/2026/07/50-modern-logo-design-ideas/",
     "og:type": "article"
   },
   {
@@ -3490,7 +3688,7 @@
     "hostname": "karlkoch.me",
     "url": "https://karlkoch.me/writing/on-anchored-interfaces",
     "title": "Karl Koch | On anchored interfaces",
-    "date": "2026-07-13T09:48:32.129+06:00",
+    "date": "2026-07-14T06:46:30.492+06:00",
     "og:title": "Karl Koch | On anchored interfaces",
     "og:image": "https://karlkoch.me/api/og?title=On+anchored+interfaces&v=2",
     "og:description": "Popover and CSS Anchor Positioning move menus, tooltips, and small overlays back into the platform: top layer, light-dismiss, focus return, spatial tethering, and viewport-aware placement.",
@@ -3638,6 +3836,39 @@
     "og:image": "https://cdn.land-book.com/website/96194/96194-people-worktm-webflow-html-website-template-1782069829-og-image.webp",
     "og:description": "People Work™ - Webflow HTML website template on Landbook - get inspired by template design and more",
     "og:url": "https://land-book.com/websites/96194-people-workTM-webflow-html-website-template",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/96375-luxury-furniture-and-accessories-give-your-home-a-tale-to-tell-oka-oka",
+    "title": "Luxury Furniture & Accessories - Give Your Home A Tale To Tell | Oka– OKA on Landbook - get inspired by ecommerce design and more",
+    "date": "2026-07-14T03:02:30.146+06:00",
+    "og:title": "Luxury Furniture & Accessories - Give Your Home A Tale To Tell | Oka– OKA on Landbook - get inspired by ecommerce design and more",
+    "og:image": "https://cdn.land-book.com/website/96375/96375-luxury-furniture-and-accessories-give-your-home-a-1783937863-og-image.webp",
+    "og:description": "Luxury Furniture & Accessories - Give Your Home A Tale To Tell | Oka– OKA on Landbook - get inspired by ecommerce design and more",
+    "og:url": "https://land-book.com/websites/96375-luxury-furniture-and-accessories-give-your-home-a-tale-to-tell-oka-oka",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/96377-greenboard-new-system-of-action-compliance-software-for-sec-and-finra-compliance",
+    "title": "Greenboard | New System of Action Compliance Software for SEC & FINRA compliance on Landbook - get inspired by landing design and more",
+    "date": "2026-07-14T03:02:30.108+06:00",
+    "og:title": "Greenboard | New System of Action Compliance Software for SEC & FINRA compliance on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/96377/96377-greenboard-new-system-of-action-compliance-1783938011-og-image.webp",
+    "og:description": "Greenboard | New System of Action Compliance Software for SEC & FINRA compliance on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/96377-greenboard-new-system-of-action-compliance-software-for-sec-and-finra-compliance",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/96379-just-a-moment",
+    "title": "Afternow: Global Digital Agency on Landbook - get inspired by portfolio design and more",
+    "date": "2026-07-14T03:02:30.127+06:00",
+    "og:title": "Afternow: Global Digital Agency on Landbook - get inspired by portfolio design and more",
+    "og:image": "https://cdn.land-book.com/website/96379/96379-afternow-global-digital-agency-1783937947-og-image.webp",
+    "og:description": "Afternow: Global Digital Agency on Landbook - get inspired by portfolio design and more",
+    "og:url": "https://land-book.com/websites/96379-just-a-moment",
     "og:type": "website"
   },
   {
@@ -3894,6 +4125,600 @@
     "og:type": "website"
   },
   {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/11-advanced-production-ai-patterns-senior-engineers-are-quietly-adopting-in-2026-part-2-d69f5b3a62cc",
+    "title": "11 More Production AI Patterns Senior Engineers Are Adopting (Part 2) | Level Up Coding",
+    "date": "2026-07-14T03:31:55.132+06:00",
+    "og:title": "11 Advanced Production AI Patterns Senior Engineers Are Quietly Adopting in 2026 (Part 2)",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1149/1*mJ0-AS6N4_pWUVs-6tf5hg.png",
+    "og:description": "The advanced set: backpressure-aware loops, hallucination mapping, quorum voting, and more.",
+    "og:url": "https://levelup.gitconnected.com/11-advanced-production-ai-patterns-senior-engineers-are-quietly-adopting-in-2026-part-2-d69f5b3a62cc",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/841-teardowns-in-two-minutes-when-the-fail-safe-became-the-storm-07880f166622",
+    "title": "841 Teardowns in Two Minutes: When the Fail-Safe Became the Storm | by David J Knudson | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.152+06:00",
+    "og:title": "841 Teardowns in Two Minutes: When the Fail-Safe Became the Storm",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*zswdT6uqy17vs-h-XmAxoQ.png",
+    "og:description": "A “fail loudly” contract I’d shipped on purpose turned a missing-model outage into a self-inflicted restart storm — and the cure meant…",
+    "og:url": "https://levelup.gitconnected.com/841-teardowns-in-two-minutes-when-the-fail-safe-became-the-storm-07880f166622",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/a-robust-modbus-proxy-reconnect-stale-cache-c5ffcfc9ace7",
+    "title": "A Robust Modbus Proxy: Reconnect & Stale-Cache | by Cloudapp-dev | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.2+06:00",
+    "og:title": "A Robust Modbus Proxy: Reconnect & Stale-Cache",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1000/0*tiAJSiUVsn2DjV2h.jpg",
+    "og:description": "A self-built Modbus cache proxy runs for weeks without complaint in summer — until the first night the inverter shuts down, or the first…",
+    "og:url": "https://levelup.gitconnected.com/a-robust-modbus-proxy-reconnect-stale-cache-c5ffcfc9ace7",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/ai-benchmark-said-it-was-better-your-production-database-disagreed-21fb9853d8a9",
+    "title": "AI Benchmark Said It Was Better. Your Production Database Disagreed | by Boris Dali | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:54.979+06:00",
+    "og:title": "AI Benchmark Said It Was Better. Your Production Database Disagreed",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*3uw1EUbSYhADx-Ddu50sWw.png",
+    "og:description": "Generic LLM benchmarks measure language model capability. They don’t measure whether your AI SRE tool can still diagnose connection pool…",
+    "og:url": "https://levelup.gitconnected.com/ai-benchmark-said-it-was-better-your-production-database-disagreed-21fb9853d8a9",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/amazon-1-million-users-clicked-checkout-at-once-the-real-problem-wasnt-scaling-f7956a102f9c",
+    "title": "AMAZON: 1 Million Users Clicked Checkout At Once. The Real Problem Wasn’t Scaling. | by Sagar Yadav | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.233+06:00",
+    "og:title": "AMAZON: 1 Million Users Clicked Checkout At Once. The Real Problem Wasn’t Scaling.",
+    "og:image": "https://miro.medium.com/v2/resize:fit:822/1*6IDWKjWHgRC2LJudWG75Jw.png",
+    "og:description": "Everyone prepares for traffic spikes. Far fewer prepare for the last item in stock.",
+    "og:url": "https://levelup.gitconnected.com/amazon-1-million-users-clicked-checkout-at-once-the-real-problem-wasnt-scaling-f7956a102f9c",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/apache-kafka-from-a-to-z-part-1-10-foundational-interview-questions-everyone-faces-197452dd78ba",
+    "title": "Apache Kafka from A to Z (Part 1): 10 foundational interview questions everyone faces | by Dinh Phu | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.144+06:00",
+    "og:title": "Apache Kafka from A to Z (Part 1): 10 foundational interview questions everyone faces",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/0*BJ8vSvzzIQKani2B.png",
+    "og:description": "I write practical, deep-dive articles on Data Engineering at https://dinhphuvn.substack.com/.\nIf you found this post helpful, you’ll…",
+    "og:url": "https://levelup.gitconnected.com/apache-kafka-from-a-to-z-part-1-10-foundational-interview-questions-everyone-faces-197452dd78ba",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/apple-chip-architecture-from-1977-to-2026-bc7ac91f9034",
+    "title": "Apple Chip Architecture from 1977 to 2026 | by Jacob Bartlett | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:54.907+06:00",
+    "og:title": "Apple Chip Architecture from 1977 to 2026",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/0*LaPYTPEbPUe2GQPf.png",
+    "og:description": "The full silicon story: from Apple I to M5 (and beyond!)",
+    "og:url": "https://levelup.gitconnected.com/apple-chip-architecture-from-1977-to-2026-bc7ac91f9034",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/architecting-scalable-machine-learning-pipelines-on-kubernetes-an-argo-workflows-guide-57ac43a7d496",
+    "title": "Architecting Scalable Machine Learning Pipelines on Kubernetes: An Argo Workflows Guide | by Khurram Khan | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.57+06:00",
+    "og:title": "Architecting Scalable Machine Learning Pipelines on Kubernetes: An Argo Workflows Guide",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*wIzBal52lp_Um6USseOCoQ.png",
+    "og:description": "How to build isolated, cloud-native, and resource-efficient training graphs using the power of Argo",
+    "og:url": "https://levelup.gitconnected.com/architecting-scalable-machine-learning-pipelines-on-kubernetes-an-argo-workflows-guide-57ac43a7d496",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/authentication-as-a-service-not-a-feature-bb8b6f29eb81",
+    "title": "Authentication as a Service, Not a Feature | by Akshat Tiwari | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.509+06:00",
+    "og:title": "Authentication as a Service, Not a Feature",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*wyeFPwq2nab5AYw_X9j4hg.png",
+    "og:description": "The magic of Single Sign On",
+    "og:url": "https://levelup.gitconnected.com/authentication-as-a-service-not-a-feature-bb8b6f29eb81",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/auto-color-your-power-bi-matrix-how-to-generate-dynamic-rgb-palettes-using-dax-d9281b7f7b9f",
+    "title": "Auto-Color Your Power BI Matrix: How to Generate Dynamic RGB Palettes using DAX | by Thebitoolbox | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.023+06:00",
+    "og:title": "Auto-Color Your Power BI Matrix: How to Generate Dynamic RGB Palettes using DAX",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*CK7CC54WMgJYhyQxaVhJCw.png",
+    "og:description": "A step-by-step guide to converting text strings into consistent, corporate-friendly pastel RGB values using a DAX hashing algorithm.",
+    "og:url": "https://levelup.gitconnected.com/auto-color-your-power-bi-matrix-how-to-generate-dynamic-rgb-palettes-using-dax-d9281b7f7b9f",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/beyond-branching-the-automation-layer-that-actually-ships-your-code-0bd15f59cf9f",
+    "title": "Beyond Branching: The Automation Layer That Actually Ships Your Code | by Vladyslav Kekukh | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:54.996+06:00",
+    "og:title": "Beyond Branching: The Automation Layer That Actually Ships Your Code",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*r5btqaOzzw5qWdIBm6FTlw.png",
+    "og:description": "Repository governance, conventional commits, automated releases, and the bots that enforce them — a practical guide.",
+    "og:url": "https://levelup.gitconnected.com/beyond-branching-the-automation-layer-that-actually-ships-your-code-0bd15f59cf9f",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/claude-things-everyone-must-know-35675d4ef0ca",
+    "title": "Claude Things Everyone Must Know. Stop Just Chatting with Claude. Become… | by Hirusha Fernando | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.214+06:00",
+    "og:title": "Claude Things Everyone Must Know",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*zdD6HP4s5BKxRpLSgPKdiQ.png",
+    "og:description": "Stop Just Chatting with Claude. Become A power User of Claude",
+    "og:url": "https://levelup.gitconnected.com/claude-things-everyone-must-know-35675d4ef0ca",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/coordinator-pattern-in-swiftui-keeping-navigation-logic-out-of-your-views-48c2fd8e35ab",
+    "title": "Coordinator Pattern in SwiftUI: Keeping Navigation Logic Out of Your Views | by Sanjay Nelagadde | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.036+06:00",
+    "og:title": "Coordinator Pattern in SwiftUI: Keeping Navigation Logic Out of Your Views",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*eVwUKUjXZVAFKZ5H7CfZzg.png",
+    "og:description": "When I first started building apps with SwiftUI, navigation felt almost too easy. Add a NavigationLink, use a .sheet, throw in a…",
+    "og:url": "https://levelup.gitconnected.com/coordinator-pattern-in-swiftui-keeping-navigation-logic-out-of-your-views-48c2fd8e35ab",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/every-embedding-model-that-ever-mattered-from-2003-to-2026-with-the-mathematics-nobody-explains-cc6ca8287d58",
+    "title": "Every Embedding Model That Ever Mattered. From 2003 to 2026. With the Mathematics Nobody Explains. | by Dr Swarneendu AI | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.684+06:00",
+    "og:title": "Every Embedding Model That Ever Mattered. From 2003 to 2026. With the Mathematics Nobody Explains.",
+    "og:image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+    "og:description": "A complete encyclopaedia for anyone building RAG, code search, or multimodal agents.",
+    "og:url": "https://levelup.gitconnected.com/every-embedding-model-that-ever-mattered-from-2003-to-2026-with-the-mathematics-nobody-explains-cc6ca8287d58",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/firestore-security-rules-templates-every-developer-should-know-546a33f0f00f",
+    "title": "Firestore Security Rules: Templates Every Developer Should Know | by RYMS | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:54.952+06:00",
+    "og:title": "Firestore Security Rules: Templates Every Developer Should Know",
+    "og:image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*o8yyE5hz5Ejvkxtb",
+    "og:description": "Stop shipping apps with Firestore rules like this- allow read, write: if true",
+    "og:url": "https://levelup.gitconnected.com/firestore-security-rules-templates-every-developer-should-know-546a33f0f00f",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/ford-cut-its-veteran-engineers-for-ai-now-its-hiring-hundreds-of-them-back-5e1efc2f409b",
+    "title": "Ford Cut Its Veteran Engineers for AI. Now It’s Hiring Hundreds of Them Back. | by Andrus | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.459+06:00",
+    "og:title": "Ford Cut Its Veteran Engineers for AI. Now It’s Hiring Hundreds of Them Back.",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*IJIU489Iaf-rkEfC2ilffw.png",
+    "og:description": "Ford spent the last few years automating quality control on its production lines, then quietly went out and rehired hundreds of the “grey…",
+    "og:url": "https://levelup.gitconnected.com/ford-cut-its-veteran-engineers-for-ai-now-its-hiring-hundreds-of-them-back-5e1efc2f409b",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/from-prompts-to-autonomy-what-agentic-ai-actually-looks-like-on-a-20-year-old-enterprise-system-61dd12d71535",
+    "title": "From PROMPTS to AUTONOMY: What Agentic AI Actually Looks Like on a 20-Year-Old Enterprise System | by Eshita Nandy | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.634+06:00",
+    "og:title": "From PROMPTS to AUTONOMY: What Agentic AI Actually Looks Like on a 20-Year-Old Enterprise System",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*ImqEkEKLbbO3UJOERhfH7A.png",
+    "og:description": "Everyone’s writing about agentic AI in the abstract. Here’s what it looks like when you try to point it at Siebel.",
+    "og:url": "https://levelup.gitconnected.com/from-prompts-to-autonomy-what-agentic-ai-actually-looks-like-on-a-20-year-old-enterprise-system-61dd12d71535",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/geospatial-data-in-databricks-part-3-visualisation-78dac132264d",
+    "title": "Geospatial Data in Databricks — Part 3: Visualisation | by Ivan Kurchenko | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.164+06:00",
+    "og:title": "Geospatial Data in Databricks — Part 3: Visualisation",
+    "og:image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*B6q1RcEo-9IP8L8U",
+    "og:description": "Introduction",
+    "og:url": "https://levelup.gitconnected.com/geospatial-data-in-databricks-part-3-visualisation-78dac132264d",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/grok-4-5-costs-80-less-than-opus-4-8-heres-the-catch-nobody-headlined-ea237cef466c",
+    "title": "Grok 4.5 Costs 80% Less Than Opus 4.8. Here’s the Catch Nobody Headlined | by Andrus | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.525+06:00",
+    "og:title": "Grok 4.5 Costs 80% Less Than Opus 4.8. Here’s the Catch Nobody Headlined",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*vDswF5QKz4io3HRaFO3R2g.png",
+    "og:description": "I had the SpaceXAI pricing page open in one tab and my last month’s Anthropic invoice in another, doing the arithmetic that every engineer…",
+    "og:url": "https://levelup.gitconnected.com/grok-4-5-costs-80-less-than-opus-4-8-heres-the-catch-nobody-headlined-ea237cef466c",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/how-i-built-a-subagent-that-replaced-claude-codes-broken-advisor-02d50147034a",
+    "title": "How I Built a Subagent That Replaced Claude Code’s Broken Advisor | by Mykhailo Kushnir | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.347+06:00",
+    "og:title": "How I Built a Subagent That Replaced Claude Code’s Broken Advisor",
+    "og:image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+    "og:description": "A 20-minute fix that turned out better than the tool it replaced",
+    "og:url": "https://levelup.gitconnected.com/how-i-built-a-subagent-that-replaced-claude-codes-broken-advisor-02d50147034a",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/how-to-build-power-bi-semantic-models-that-ai-can-actually-understand-32b1788dfa26",
+    "title": "How to Build Power BI Semantic Models That AI Can Actually Understand | by Thebitoolbox | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.093+06:00",
+    "og:title": "How to Build Power BI Semantic Models That AI Can Actually Understand",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*eP4EJoQKyzM9dVIOd_WpMA.png",
+    "og:description": "A technical guide to auditing your DAX, relationships, and metadata before deploying Copilot.",
+    "og:url": "https://levelup.gitconnected.com/how-to-build-power-bi-semantic-models-that-ai-can-actually-understand-32b1788dfa26",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/how-we-cut-infra-costs-from-4-000-to-100-by-fixing-our-architecture-885728e58b5a",
+    "title": "How We Cut Infra Costs from $4,000 to $100 by Fixing Our Architecture? | by Poorshad Shaddel | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.026+06:00",
+    "og:title": "How We Cut Infra Costs from $4,000 to $100 by Fixing Our Architecture?",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*wDXVtAyYqogYzNkbMAPqAQ.png",
+    "og:description": "We cut infra costs from $4,000 to $100 by simplifying our over‑engineered AWS setup and moving to a leaner Railway‑based architecture.",
+    "og:url": "https://levelup.gitconnected.com/how-we-cut-infra-costs-from-4-000-to-100-by-fixing-our-architecture-885728e58b5a",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/i-built-the-perfect-ai-tutor-the-only-thing-that-worked-was-deleting-it-6e3a6ce0e466",
+    "title": "I Built the Perfect AI Tutor. The Only Thing That Worked Was Deleting It. | by Mehmet Özel | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.106+06:00",
+    "og:title": "I Built the Perfect AI Tutor. The Only Thing That Worked Was Deleting It.",
+    "og:image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*D0CgJhTOS1YWsKew",
+    "og:description": "A strict teacher persona, RAG over my own notes, tools, a persistent workspace. Everything I engineered to make an AI tutor better is what…",
+    "og:url": "https://levelup.gitconnected.com/i-built-the-perfect-ai-tutor-the-only-thing-that-worked-was-deleting-it-6e3a6ce0e466",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/i-spent-the-summer-testing-14-ocr-engines-574126f415c8",
+    "title": "I Spent the Summer Testing 14 OCR Engines | by Ida Silfverskiöld | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.68+06:00",
+    "og:title": "I Spent the Summer Testing 14 OCR Engines",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*QTWAiP1QakKEMwUTt6jUrw.png",
+    "og:description": "To figure out where each excelled and where it failed",
+    "og:url": "https://levelup.gitconnected.com/i-spent-the-summer-testing-14-ocr-engines-574126f415c8",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/i-tried-to-get-my-ai-agent-to-lie-and-delete-a-file-its-own-harness-stopped-it-both-times-e493ecbc6b34",
+    "title": "I Tried to Get My AI Agent to Lie and Delete a File. Its Own Harness Stopped It Both Times. | by Plaban Nayak | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.571+06:00",
+    "og:title": "I Tried to Get My AI Agent to Lie and Delete a File. Its Own Harness Stopped It Both Times.",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*iIqaBgw4VxvCyiDMdq78_A.png",
+    "og:description": "A field guide to Agent = Model + Harness — with real transcripts, a wiring detour that explains the name, and two independently-built…",
+    "og:url": "https://levelup.gitconnected.com/i-tried-to-get-my-ai-agent-to-lie-and-delete-a-file-its-own-harness-stopped-it-both-times-e493ecbc6b34",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/implementing-a-perceptron-from-scratch-e3ca97f8f0ea",
+    "title": "Implementing a Perceptron from Scratch (Part 2) | by Ivan Polovyi | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:54.899+06:00",
+    "og:title": "Implementing a Perceptron from Scratch (Part 2)",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*x11EUXqNZn8rZLHWdA5j8Q.png",
+    "og:description": "In the previous article, we explored the theory behind the perceptron and learned how it transforms inputs into decisions using weights, a…",
+    "og:url": "https://levelup.gitconnected.com/implementing-a-perceptron-from-scratch-e3ca97f8f0ea",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/is-rag-dead-in-the-age-of-million-token-context-windows-446a48a18dd6",
+    "title": "Is RAG Dead? Million-Token Context Windows Explained | Level Up Coding",
+    "date": "2026-07-14T03:31:55.326+06:00",
+    "og:title": "Is RAG Dead in the Age of Million-Token Context Windows?",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*JN6sZ_hJslYccaPMl8ZhRg.jpeg",
+    "og:description": "As AI models read entire books, codebases, and documents in a single prompt, many believe Retrieval-Augmented Generation is finished. The…",
+    "og:url": "https://levelup.gitconnected.com/is-rag-dead-in-the-age-of-million-token-context-windows-446a48a18dd6",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/leaving-big-tech-how-i-broke-into-ai-part-2-3eac4003c891",
+    "title": "Leaving Big Tech: How I Broke into AI (Part 2) | by Atibhi Agrawal | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.251+06:00",
+    "og:title": "Leaving Big Tech: How I Broke into AI (Part 2)",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*0pBJkWWdyp3nY7-9iBN2EQ.png",
+    "og:description": "In part-1 of this series, I talked about how I evaluated AI companies and figured out the kind of place I wanted to work at next. In this…",
+    "og:url": "https://levelup.gitconnected.com/leaving-big-tech-how-i-broke-into-ai-part-2-3eac4003c891",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/mastering-databases-part-1-a-database-is-not-a-file-7589b26d2d53",
+    "title": "Mastering Databases, Part 1: A Database Is Not a File | by Andreas Sujono | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.63+06:00",
+    "og:title": "Mastering Databases, Part 1: A Database Is Not a File",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*R-LtlUqSjtfJ8UwnVfYl8g.png",
+    "og:description": "Every app you have ever used sits on top of a database, and almost every developer treats it as a magic box: you send SELECT, rows come…",
+    "og:url": "https://levelup.gitconnected.com/mastering-databases-part-1-a-database-is-not-a-file-7589b26d2d53",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/maybe-coding-agents-dont-need-a-bigger-memory-maybe-they-need-continuity-156cf4fc2e73",
+    "title": "Maybe Coding Agents Don’t Need a Bigger Memory. Maybe They Need Continuity. | by Santi Santamaria Medel | Jun, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.33+06:00",
+    "og:title": "Maybe Coding Agents Don’t Need a Bigger Memory. Maybe They Need Continuity.",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*2GXzVfAaIvINrja0DAfz2g.png",
+    "og:description": "A practical reflection on why coding agents lose the thread between sessions, and why the repository itself is the right place to preserve…",
+    "og:url": "https://levelup.gitconnected.com/maybe-coding-agents-dont-need-a-bigger-memory-maybe-they-need-continuity-156cf4fc2e73",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/methods-and-strategies-for-building-and-refining-reasoning-models-859b6dbfe460",
+    "title": "Methods and Strategies for Building and Refining Reasoning Models | by Devang Vashistha | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:54.931+06:00",
+    "og:title": "Methods and Strategies for Building and Refining Reasoning Models",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/0*0CzvMCrkipK5s2sx.png",
+    "og:description": "This article describes the four main approaches to building reasoning models, or how we can enhance LLMs with reasoning capabilities. I…",
+    "og:url": "https://levelup.gitconnected.com/methods-and-strategies-for-building-and-refining-reasoning-models-859b6dbfe460",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/mojo-grew-up-64e7eccfaa19",
+    "title": "Mojo Grew Up. Two years after my Rust and Python… | by mikeleppanen | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.515+06:00",
+    "og:title": "Mojo Grew Up",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*Fv5wrqRtaZPqMJa3D9S2JA.png",
+    "og:description": "Two years after my Rust and Python comparison, I rebuilt the benchmarks, wrote a GPT-2 from scratch, and checked every complaint from 2024…",
+    "og:url": "https://levelup.gitconnected.com/mojo-grew-up-64e7eccfaa19",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/nmap-vs-masscan-vs-rustscan-know-your-tools-90c5a0ce3352",
+    "title": "Nmap vs Masscan vs RustScan: Know Your Tools | by Roshan Rajbanshi | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:54.968+06:00",
+    "og:title": "Nmap vs Masscan vs RustScan: Know Your Tools",
+    "og:image": "https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.5:1/1*scW7qv5i1unt3KuAz3zo6Q.png",
+    "og:description": "Three tools. Three different jobs. Most people are using the wrong one for the wrong task.",
+    "og:url": "https://levelup.gitconnected.com/nmap-vs-masscan-vs-rustscan-know-your-tools-90c5a0ce3352",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/no-way-back-to-zig-dc7e752eee7f",
+    "title": "No Way Back to Zig. I used to love Zig. I mean genuinely… | by David Lee | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.577+06:00",
+    "og:title": "No Way Back to Zig",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*VhtNxoo7UKn6kZYT5_3nyw.png",
+    "og:description": "I used to love Zig. I mean genuinely love it. I watched Primeagen gush about it, I read the “Zig is the better C” posts, I wrote…",
+    "og:url": "https://levelup.gitconnected.com/no-way-back-to-zig-dc7e752eee7f",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/one-language-every-layer-the-stack-decision-that-decides-how-much-ai-can-do-for-you-4ff98e2dee34",
+    "title": "One Language, Every Layer — The Stack Decision That Decides How Much AI Can Do for You | by Dobri Kostadinov | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.274+06:00",
+    "og:title": "One Language, Every Layer — The Stack Decision That Decides How Much AI Can Do for You",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*NgOd_A8rfhzl1nW5w937Kg.png",
+    "og:description": "AI thrives on small, atomic tasks. One shared language makes each of them count on every layer at once.",
+    "og:url": "https://levelup.gitconnected.com/one-language-every-layer-the-stack-decision-that-decides-how-much-ai-can-do-for-you-4ff98e2dee34",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/prompt-engineering-is-dead-loop-engineering-killed-it-andrew-ng-just-named-the-body-fccb0d11c12f",
+    "title": "Prompt Engineering Is Dead. Loop Engineering Killed It. Andrew Ng Just Named the Body. | by Dr Swarneendu AI | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.49+06:00",
+    "og:title": "Prompt Engineering Is Dead. Loop Engineering Killed It. Andrew Ng Just Named the Body.",
+    "og:image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+    "og:description": "**The unit of AI work is no longer the prompt. It is the loop. And nobody taught you how to design one.**",
+    "og:url": "https://levelup.gitconnected.com/prompt-engineering-is-dead-loop-engineering-killed-it-andrew-ng-just-named-the-body-fccb0d11c12f",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/rag-on-flutter-is-not-what-the-tutorials-show-you-here-are-six-things-that-break-in-production-3b3ddee23d18",
+    "title": "RAG on Flutter Is Not What the Tutorials Show You. Here Are Six Things That Break in Production. | by Simra Husain | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.643+06:00",
+    "og:title": "RAG on Flutter Is Not What the Tutorials Show You. Here Are Six Things That Break in Production.",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*lB7BetIfaZ0v-e5LD7Mgdg.png",
+    "og:description": "Every RAG tutorial assumes server-side Python. Putting a retrieval-augmented chat assistant inside a Flutter app surfaces problems that…",
+    "og:url": "https://levelup.gitconnected.com/rag-on-flutter-is-not-what-the-tutorials-show-you-here-are-six-things-that-break-in-production-3b3ddee23d18",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/rails-ai-image-generation-job-storage-moderation-36fe4337f74c",
+    "title": "DALL-E 3 Rails Moderation Storage Setup | Level Up Coding",
+    "date": "2026-07-14T03:31:55.095+06:00",
+    "og:title": "Rails AI Image Generation: Job, Storage, Moderation",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*q5AmPmoXNtVu6JyFGJ91ew.png",
+    "og:description": "Wiring image generation through Active Storage with a moderation gate, so user prompts cannot push unsafe or off-brand output straight into…",
+    "og:url": "https://levelup.gitconnected.com/rails-ai-image-generation-job-storage-moderation-36fe4337f74c",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/sdd-in-greenfield-vs-brownfield-how-to-choose-a-spec-strategy-for-your-project-type-c2872391a28e",
+    "title": "SDD in Greenfield vs Brownfield — How to Choose a Spec Strategy for Your Project Type | by Jaroslaw Wasowski | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.471+06:00",
+    "og:title": "SDD in Greenfield vs Brownfield — How to Choose a Spec Strategy for Your Project Type",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*cLv_8DpiebX7yFAYK4cb6w.png",
+    "og:description": "SDD behaves differently in greenfield and brownfield — how to pick rigor, tooling, and starting point by project type instead of hauling…",
+    "og:url": "https://levelup.gitconnected.com/sdd-in-greenfield-vs-brownfield-how-to-choose-a-spec-strategy-for-your-project-type-c2872391a28e",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/siebel-eai-vs-eim-the-cheat-sheet-every-developer-needs-5ecd491b49f4",
+    "title": "Siebel EAI vs EIM: When to Use Each (With Real Project Scenarios) | by Eshita Nandy | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.39+06:00",
+    "og:title": "Siebel EAI vs EIM: When to Use Each (With Real Project Scenarios)",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*NZWlIpEqgz4fQkMLIvH8wg.png",
+    "og:description": "A practical Siebel developer’s guide to choosing between EAI and EIM for real-time integrations, bulk data loads, migrations, and…",
+    "og:url": "https://levelup.gitconnected.com/siebel-eai-vs-eim-the-cheat-sheet-every-developer-needs-5ecd491b49f4",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/spec-registry-npm-for-specs-and-why-shared-specs-already-failed-once-523d07a409c0",
+    "title": "Spec Registry: npm for Specs and Why Shared Specs Already Failed Once | by Jaroslaw Wasowski | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.48+06:00",
+    "og:title": "Spec Registry: npm for Specs and Why Shared Specs Already Failed Once",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*s9jWOqVjnjP_QJLA_Iu__Q.png",
+    "og:description": "A shared spec registry promises npm for blueprints and the end of API hallucinations. The exact same idea collapsed in 2006 — here’s what…",
+    "og:url": "https://levelup.gitconnected.com/spec-registry-npm-for-specs-and-why-shared-specs-already-failed-once-523d07a409c0",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/still-complaining-about-constraints-in-meeting-your-product-goal-think-again-0e5df97b796e",
+    "title": "Still complaining about constraints in meeting your product goal? Think again! | by Prashant Pahwa | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.574+06:00",
+    "og:title": "Still complaining about constraints in meeting your product goal? Think again!",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*tdC0ZGr8igKCPduPDNcX7w.png",
+    "og:description": "How a product born out of constraints spooked the world’s mightiest military.",
+    "og:url": "https://levelup.gitconnected.com/still-complaining-about-constraints-in-meeting-your-product-goal-think-again-0e5df97b796e",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/the-ai-memory-problem-nobody-talks-about-184cd4f84dc8",
+    "title": "AI Memory Problem 2026: Risks in ChatGPT, Claude, Gemini | Level Up Coding",
+    "date": "2026-07-14T03:31:55.632+06:00",
+    "og:title": "The AI Memory Problem Nobody Talks About",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*C6zu3gieuiHOdQ6DxSIy4w.jpeg",
+    "og:description": "ChatGPT, Claude, and Gemini All Have Memory Now. So Does the Attack Surface.",
+    "og:url": "https://levelup.gitconnected.com/the-ai-memory-problem-nobody-talks-about-184cd4f84dc8",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/the-cartridge-that-froze-the-commodore-64-634a4c29cedf",
+    "title": "The Cartridge That Froze the Commodore 64 | by Enzo Lombardi | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.678+06:00",
+    "og:title": "The Cartridge That Froze the Commodore 64",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1024/1*dXhFHgUsb4IYn3K28XN23g.png",
+    "og:description": "Every copy protection scheme on the Commodore 64 shared one assumption: the pirate would have to attack the loader. Scramble the sectors…",
+    "og:url": "https://levelup.gitconnected.com/the-cartridge-that-froze-the-commodore-64-634a4c29cedf",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/the-missing-step-to-ai-democracy-13065bfe8bf4",
+    "title": "The Missing Step to AI Democracy. Everyone is building agents. Almost… | by Jazz Tong | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.398+06:00",
+    "og:title": "The Missing Step to AI Democracy",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*raPWjfcBHcKtW3XhstWsQg.png",
+    "og:description": "Everyone is building agents. Almost nobody is teaching people to work with them. That gap is why most AI spending shows nothing.",
+    "og:url": "https://levelup.gitconnected.com/the-missing-step-to-ai-democracy-13065bfe8bf4",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/the-promotion-you-didnt-get-wasn-t-personal-but-your-reaction-to-it-will-be-b1d73e185b88",
+    "title": "The Promotion You Didn’t Get Wasn’t Personal — But Your Reaction To It Will Be | by Bharath Ravi | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.335+06:00",
+    "og:title": "The Promotion You Didn’t Get Wasn’t Personal — But Your Reaction To It Will Be",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*lXWPLn_UM5qMd4pI0Qy0xw.png",
+    "og:description": "Calibration season has a way of ending quietly. No announcement. No dramatic moment. Just a conversation with your manager, a few careful…",
+    "og:url": "https://levelup.gitconnected.com/the-promotion-you-didnt-get-wasn-t-personal-but-your-reaction-to-it-will-be-b1d73e185b88",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/three-go-concurrency-mistakes-i-see-in-almost-every-worker-pool-480a7de51c43",
+    "title": "Three Go Concurrency Mistakes I See in Almost Every Worker Pool | by Prasad Ekke | Jun, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.38+06:00",
+    "og:title": "Three Go Concurrency Mistakes I See in Almost Every Worker Pool",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*okYWIFtsfOUNLbkfTtJdJw.png",
+    "og:description": "Go makes concurrency feel easy. Goroutines are cheap, channels are built into the language, and the standard library gives you everything you need to spin up a worker pool in under 30 lines. That…",
+    "og:url": "https://levelup.gitconnected.com/three-go-concurrency-mistakes-i-see-in-almost-every-worker-pool-480a7de51c43",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/tracing-ai-agent-skill-usage-with-skilltrace-cf5feba84d02",
+    "title": "Tracing AI Agent Skill Usage with SkillTrace | by hideya | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.206+06:00",
+    "og:title": "Tracing AI Agent Skill Usage with SkillTrace",
+    "og:image": "https://miro.medium.com/v2/resize:fit:700/0*PYXRT1YM7wvsCaBe.png",
+    "og:description": "A hands-on walkthrough for observing which skills your coding agent actually used",
+    "og:url": "https://levelup.gitconnected.com/tracing-ai-agent-skill-usage-with-skilltrace-cf5feba84d02",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/two-prompt-rules-that-just-got-a-reason-51ee43829a42",
+    "title": "Now We Know How the Model Thinks. Two Prompt Rules Just Got a Reason | by Jazz Tong | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.422+06:00",
+    "og:title": "Now We Know How the Model Thinks. Two Prompt Rules Just Got a Reason",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*iZE-mr6C5ZfuRvGinkprlQ.png",
+    "og:description": "Anthropic found a working memory inside Claude. It turns two habits I already had into rules I can now defend.",
+    "og:url": "https://levelup.gitconnected.com/two-prompt-rules-that-just-got-a-reason-51ee43829a42",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/what-happens-when-everyone-hires-the-same-digital-employee-dd79edac0110",
+    "title": "What Happens When Everyone Hires the Same Digital Employee | by Jazz Tong | Jun, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.394+06:00",
+    "og:title": "What Happens When Everyone Hires the Same Digital Employee",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*pcEeF7zrkaXeRsisfYjfcQ.png",
+    "og:description": "Claude Tag lets you tag an AI into Slack and hand it real work. It is useful enough that most teams will adopt it. This is a walk through…",
+    "og:url": "https://levelup.gitconnected.com/what-happens-when-everyone-hires-the-same-digital-employee-dd79edac0110",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/why-amazon-order-history-forces-a-year-filter-a-deep-dive-into-dynamodb-architecture-35598e50fe27",
+    "title": "Why Amazon Order History Forces a Year Filter: A Deep Dive into DynamoDB Architecture | by Aditya Solge | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.284+06:00",
+    "og:title": "Why Amazon Order History Forces a Year Filter: A Deep Dive into DynamoDB Architecture",
+    "og:image": "https://miro.medium.com/v2/da:true/resize:fit:846/0*4UGJeYzLjJAb8_as",
+    "og:description": "Ever wondered why Amazon forces you to filter order history by year?",
+    "og:url": "https://levelup.gitconnected.com/why-amazon-order-history-forces-a-year-filter-a-deep-dive-into-dynamodb-architecture-35598e50fe27",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/why-nvidia-nims-free-api-feels-slow-and-what-your-upgrade-path-actually-looks-like-e4a012f84db2",
+    "title": "Why NVIDIA NIM’s Free API Feels Slow (And What Your Upgrade Path Actually Looks Like) | by TheProdSDE | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.096+06:00",
+    "og:title": "Why NVIDIA NIM’s Free API Feels Slow (And What Your Upgrade Path Actually Looks Like)",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*wzGUSw6zWbYL_3FO_teS5w.png",
+    "og:description": "If you’ve used NVIDIA’s free API through build.nvidia.com — part of their NIM (Inference Microservices) platform — you’ve likely hit…",
+    "og:url": "https://levelup.gitconnected.com/why-nvidia-nims-free-api-feels-slow-and-what-your-upgrade-path-actually-looks-like-e4a012f84db2",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/write-bugs-that-developers-will-appreciate-2aab4ab1faf8",
+    "title": "Write Bugs That Developers Will Appreciate | by Jeffrey Bakker | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:55.195+06:00",
+    "og:title": "Write Bugs That Developers Will Appreciate",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*XeJyRb3SMA0LO9xPX6p4rw@2x.jpeg",
+    "og:description": "Tips for Developers, QA, PS and CX",
+    "og:url": "https://levelup.gitconnected.com/write-bugs-that-developers-will-appreciate-2aab4ab1faf8",
+    "og:type": "article"
+  },
+  {
+    "hostname": "levelup.gitconnected.com",
+    "url": "https://levelup.gitconnected.com/your-phone-doesnt-see-your-face-it-sees-a-pile-of-numbers-914fa2c4c77f",
+    "title": "Your Phone Doesn’t See Your Face — It Sees a Pile of Numbers | by huizhou92 | Jul, 2026 | Level Up Coding",
+    "date": "2026-07-14T03:31:54.915+06:00",
+    "og:title": "Your Phone Doesn’t See Your Face — It Sees a Pile of Numbers",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/0*DS4Hvilh6lV7Q3kX.png",
+    "og:description": "How a 1968 edge-detection formula and a 2012 breakthrough taught machines to recognize faces without ever understanding what a face is",
+    "og:url": "https://levelup.gitconnected.com/your-phone-doesnt-see-your-face-it-sees-a-pile-of-numbers-914fa2c4c77f",
+    "og:type": "article"
+  },
+  {
     "hostname": "lidiacodes.medium.com",
     "url": "https://lidiacodes.medium.com/figuring-out-responsive-text-how-one-unit-changes-everything-00883b84f441",
     "title": "Figuring out responsive text: how one unit changes everything | by lidiacodes | Jun, 2026 | Medium",
@@ -3972,6 +4797,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@_lettstartdesign/5-things-i-wish-i-knew-before-buying-admin-dashboard-templates-99e663b1036c",
+    "title": "5 Things I Wish I Knew Before Buying Admin Dashboard Templates | by LettStart Design | Jul, 2026 | Medium",
+    "date": "2026-07-14T02:58:26.446+06:00",
+    "og:title": "5 Things I Wish I Knew Before Buying Admin Dashboard Templates",
+    "og:image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+    "og:description": "I’ve wasted money on bad templates. Not once — multiple times. Templates that looked stunning in demos but were held together with jQuery…",
+    "og:url": "https://medium.com/@_lettstartdesign/5-things-i-wish-i-knew-before-buying-admin-dashboard-templates-99e663b1036c",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@_lettstartdesign/angular-22-admin-dashboard-what-every-developer-should-know-in-2026-0a01e39cda75",
     "title": "Angular 22 Admin Dashboard: What Every Developer Should Know in 2026 | by LettStart Design | Jul, 2026 | Medium",
     "date": "2026-07-11T03:58:23.789+06:00",
@@ -4038,6 +4874,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@adnenbenyahia/how-to-create-professional-websites-with-bootstrap-5-the-complete-guide-for-modern-web-developers-cd1e1401a545?source=rss------responsive_design-5",
+    "title": "Medium",
+    "date": "2026-07-14T03:02:30.085+06:00",
+    "og:title": "How to Create Professional Websites with Bootstrap 5: The Complete Guide for Modern Web Developers",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*XxQAFjgb_hBGHGIhaHtdHQ.png",
+    "og:description": "Master Bootstrap 5 and Learn How to Build Fast, Responsive, and Professional Websites with a Practical Step-by-Step Blueprint",
+    "og:url": "https://medium.com/@adnenbenyahia/how-to-create-professional-websites-with-bootstrap-5-the-complete-guide-for-modern-web-developers-cd1e1401a545",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@ahsen.dinler/bili%C5%9Fsel-s%C4%B1n%C4%B1rlar%C4%B1-a%C5%9Fmak-dijital-yerliler-i%CC%87%C3%A7in-matemati%C4%9Fin-etkile%C5%9Fimli-mimarisi-ve-%C3%B6n-y%C3%BCz-6109677a2162",
     "title": "Bilişsel Sınırları Aşmak: Dijital Yerliler İçin Matematiğin Etkileşimli Mimarisi ve Ön Yüz (Frontend) Tasarımının Pedagojik Gücü | by Ahsen Dinler | Jul, 2026 | Medium",
     "date": "2026-07-13T04:13:31.489+06:00",
@@ -4100,6 +4947,28 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1118/0*TJStMpGb4RW2x9Jy.png",
     "og:description": "I was debugging a hover effect on the tools cards in Cloud Kingdom, my free app for AI tool discovery, when I stumbled onto a feature in…",
     "og:url": "https://medium.com/@annie_7775/force-element-state-the-devtools-trick-i-found-by-accident-d818f46f483a",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@ariawhenujoseph/most-used-tags-in-html-76c278c130fd",
+    "title": "Most Used Tags in HTML. Most Used Tags in HTML | by Ariawhenu joseph | Jul, 2026 | Medium",
+    "date": "2026-07-14T02:58:26.59+06:00",
+    "og:title": "Most Used Tags in HTML",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*7xRBjaSy3g0rn8AX4IKvHQ.png",
+    "og:description": "Most Used Tags in HTML",
+    "og:url": "https://medium.com/@ariawhenujoseph/most-used-tags-in-html-76c278c130fd",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@armanali0786/react-js-interview-guide-what-mncs-actually-ask-frontend-developers-f934de773e7f",
+    "title": "React.js Interview Guide: What MNCs Actually Ask Frontend Developers | by Arman Ali | Jul, 2026 | Medium",
+    "date": "2026-07-14T02:58:26.5+06:00",
+    "og:title": "React.js Interview Guide: What MNCs Actually Ask Frontend Developers",
+    "og:image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+    "og:description": "React interviews at large companies rarely test whether you can recite the docs. They test whether you understand what’s happening under…",
+    "og:url": "https://medium.com/@armanali0786/react-js-interview-guide-what-mncs-actually-ask-frontend-developers-f934de773e7f",
     "og:type": "article"
   },
   {
@@ -4643,6 +5512,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@medhanshp7/6-html5-features-that-instantly-made-my-websites-feel-premium-942cbb68c587",
+    "title": "6 HTML5 Features That Instantly Made My Websites Feel Premium | by Medhansh | Jul, 2026 | Medium",
+    "date": "2026-07-14T02:58:26.525+06:00",
+    "og:title": "6 HTML5 Features That Instantly Made My Websites Feel Premium",
+    "og:image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+    "og:description": "Small changes, massive UX upgrades — no extra libraries required",
+    "og:url": "https://medium.com/@medhanshp7/6-html5-features-that-instantly-made-my-websites-feel-premium-942cbb68c587",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@medocharles216/from-charles-iii-to-french-secularism-for-a-la%C3%AFcit%C3%A9-of-sovereignty-and-citizenship-subtitle-faced-7bf2b60909a1",
     "title": "From Charles III to French Secularism: For a Laïcité of Sovereignty and Citizenship Subtitle: Faced… | by medo Charles | Jul, 2026 | Medium",
     "date": "2026-07-07T04:20:51.551+06:00",
@@ -4672,6 +5552,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*bYjlBZ4n1Wo2chSTWyPzSA.png",
     "og:description": "Hello, my name is Matthew.",
     "og:url": "https://medium.com/@mgstafford/learning-to-code-html-challenge-1-personal-portfolio-page-de7ec6d3b1e6",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@mgstafford/learning-to-code-html-challenge-3-css-animations-9850b6e921f2",
+    "title": "Learning to Code — HTML — Challenge 3— CSS Animations | by Matthew Stafford | Jul, 2026 | Medium",
+    "date": "2026-07-14T02:58:26.485+06:00",
+    "og:title": "Learning to Code — HTML — Challenge 3— CSS Animations",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*Mu4wbW9_MgYknArxzaKPLg.jpeg",
+    "og:description": "Hello, my name is Matthew.",
+    "og:url": "https://medium.com/@mgstafford/learning-to-code-html-challenge-3-css-animations-9850b6e921f2",
     "og:type": "article"
   },
   {
@@ -4852,6 +5743,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@pranavrajojha/how-an-angular-app-actually-boots-a56becd3615c",
+    "title": "How an Angular App Actually Boots | by Pranavrajojha | Jul, 2026 | Medium",
+    "date": "2026-07-14T04:26:06.661+06:00",
+    "og:title": "How an Angular App Actually Boots",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*eM79EWe2TRoQ3a_-uWpsuw.png",
+    "og:description": "What really happens when bootstrapApplication() runs?",
+    "og:url": "https://medium.com/@pranavrajojha/how-an-angular-app-actually-boots-a56becd3615c",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@pratyush.kseodiscovery/everything-you-need-to-know-about-core-web-vitals-and-how-they-impact-your-search-rankings-7a0836720e19",
     "title": "Everything You Need to Know About Core Web Vitals and How They Impact Your Search Rankings | by Pratyush Kseodiscovery | Jun, 2026 | Medium",
     "date": "2026-07-01T02:53:07.03+06:00",
@@ -4859,6 +5761,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:612/1*mXB6ds9pK1iWQvoIaoQtaA.jpeg",
     "og:description": "In today’s competitive digital landscape, ranking high on Google requires much more than simply publishing quality content or building…",
     "og:url": "https://medium.com/@pratyush.kseodiscovery/everything-you-need-to-know-about-core-web-vitals-and-how-they-impact-your-search-rankings-7a0836720e19",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@priyanshishah027/7-css-superpowers-frontend-devs-are-sleeping-on-in-2026-5568a1c6218e?source=rss------css-5",
+    "title": "Medium",
+    "date": "2026-07-14T06:47:15.866+06:00",
+    "og:title": "7 CSS Superpowers Frontend Devs Are Sleeping On in 2026",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*ydG9Qun14gNhvg9MUIWoow.png",
+    "og:description": "You’ve probably shipped a useState hook and a useEffect to solve a problem CSS can now handle in one line. Not because you're behind —…",
+    "og:url": "https://medium.com/@priyanshishah027/7-css-superpowers-frontend-devs-are-sleeping-on-in-2026-5568a1c6218e",
     "og:type": "article"
   },
   {
@@ -4940,6 +5853,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@roman_fedyskyi/react-router-v8-makes-middleware-a-baseline-bb36a2596d40",
+    "title": "React Router v8 Makes Middleware a Baseline | by Roman Fedytskyi | Jul, 2026 | Medium",
+    "date": "2026-07-14T02:58:26.538+06:00",
+    "og:title": "React Router v8 Makes Middleware a Baseline",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*f8c_ivjNU4IYqDKGE0tBVQ.png",
+    "og:description": "React Router v8 turns middleware into a default part of the stack, pushing frontend teams to centralize auth, logging, headers, and…",
+    "og:url": "https://medium.com/@roman_fedyskyi/react-router-v8-makes-middleware-a-baseline-bb36a2596d40",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@ruhanisoft/why-offshore-laravel-development-is-a-smart-choice-for-growing-businesses-073a154bd3a7",
     "title": "Why Offshore Laravel Development Is a Smart Choice for Growing Businesses | by Ruhanisoft | Jul, 2026 | Medium",
     "date": "2026-07-09T04:16:36.507+06:00",
@@ -5013,6 +5937,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*o-JGrBOLs57UEfQvpjJBmA.png",
     "og:description": "Most front-end developers know CSS Grid and Flexbox conceptually, but layout work still burns hours because translating ideas into exact…",
     "og:url": "https://medium.com/@signtist52/stop-guessing-css-grid-layouts-build-them-visually-and-export-clean-code-9087854d9144",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@singhaditi0583/building-focusflow-a-mindful-productivity-app-that-helps-you-slow-down-instead-of-speed-up-00566751a7e3",
+    "title": "Building FocusFlow: A Mindful Productivity App That Helps You Slow Down Instead of Speed Up | by Rose | Jul, 2026 | Medium",
+    "date": "2026-07-14T02:58:26.466+06:00",
+    "og:title": "Building FocusFlow: A Mindful Productivity App That Helps You Slow Down Instead of Speed Up",
+    "og:image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+    "og:description": "Building FocusFlow: A Mindful Productivity App That Helps You Slow Down Instead of Speed Up",
+    "og:url": "https://medium.com/@singhaditi0583/building-focusflow-a-mindful-productivity-app-that-helps-you-slow-down-instead-of-speed-up-00566751a7e3",
     "og:type": "article"
   },
   {
@@ -5105,6 +6040,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@tech201dev/cybersecurity-challenges-facing-growing-businesses-f14eed09bdb1?source=rss------sass-5",
+    "title": "Medium",
+    "date": "2026-07-14T03:02:29.726+06:00",
+    "og:title": "Cybersecurity Challenges Facing Growing Businesses",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*A4QvQnkrHanGIbWqXTNkzQ.png",
+    "og:description": "Growth is often viewed as a sign of success. More customers, more transactions, more employees, and more digital systems typically indicate…",
+    "og:url": "https://medium.com/@tech201dev/cybersecurity-challenges-facing-growing-businesses-f14eed09bdb1",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@thotanithya1990/a-beginners-guide-to-learning-css-with-a-free-online-compiler-ce0b03f609eb",
     "title": "A Beginner’s Guide to Learning CSS with a Free Online Compiler | by Thotanithya | Jul, 2026 | Medium",
     "date": "2026-07-11T03:58:24.256+06:00",
@@ -5171,6 +6117,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@webutilitz/the-formatter-tab-i-keep-open-while-coding-b1741b89c320?source=rss------css-5",
+    "title": "Medium",
+    "date": "2026-07-14T08:47:25.999+06:00",
+    "og:title": "The Formatter Tab I Keep Open While Coding",
+    "og:image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+    "og:description": "Every developer eventually accumulates a small, embarrassing collection of bookmarked formatter sites — one for JSON, one for CSS, maybe a…",
+    "og:url": "https://medium.com/@webutilitz/the-formatter-tab-i-keep-open-while-coding-b1741b89c320",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@yangyunjie222/the-flip-clock-animation-is-a-card-trick-four-rectangles-two-lies-and-600-milliseconds-70170663d7e8",
     "title": "The Flip-Clock Animation Is a Card Trick: Four Rectangles, Two Lies, and 600 Milliseconds | by Yangyunjie | Jul, 2026 | Medium",
     "date": "2026-07-06T07:03:28.186+06:00",
@@ -5178,6 +6135,17 @@
     "og:image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
     "og:description": "There’s a specific sound and motion I associate with old airports and train stations: the split-flap board, where every minute a little…",
     "og:url": "https://medium.com/@yangyunjie222/the-flip-clock-animation-is-a-card-trick-four-rectangles-two-lies-and-600-milliseconds-70170663d7e8",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@yash2808soni/designing-a-high-converting-marketing-website-for-an-ai-powered-crypto-intelligence-platform-4a6a94db133d",
+    "title": "Designing a High-Converting Marketing Website for an AI-Powered Crypto Intelligence Platform | by Yashsoni | Jul, 2026 | Medium",
+    "date": "2026-07-14T02:58:26.359+06:00",
+    "og:title": "Designing a High-Converting Marketing Website for an AI-Powered Crypto Intelligence Platform",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*fvcYbbN4BW6blHsyE0k82w.png",
+    "og:description": "1. The Story",
+    "og:url": "https://medium.com/@yash2808soni/designing-a-high-converting-marketing-website-for-an-ai-powered-crypto-intelligence-platform-4a6a94db133d",
     "og:type": "article"
   },
   {
@@ -5402,6 +6370,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/ng-news/ng-news-26-17-primengs-new-licensing-and-a2ui-for-angular-7d7f95d31fed",
+    "title": "Ng-News 26/17: PrimeNG’s New Licensing, and A2UI for Angular | by ng-news | ng-news | Jul, 2026 | Medium",
+    "date": "2026-07-14T02:58:26.51+06:00",
+    "og:title": "Ng-News 26/17: PrimeNG’s New Licensing, and A2UI for Angular",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*rJ1cdPiMPCXLkFpPPE6tUg.png",
+    "og:description": "PrimeNG’s new licensing model and A2UI for model-controlled Angular interfaces are the headline topics this week.",
+    "og:url": "https://medium.com/ng-news/ng-news-26-17-primengs-new-licensing-and-a2ui-for-angular-7d7f95d31fed",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/no-time/how-secure-is-your-frontend-code-really-50697de872d2",
     "title": "How secure is your frontend code, really? | by Ishrat noori | No Time | Jun, 2026 | Medium",
     "date": "2026-07-01T02:53:07.12+06:00",
@@ -5442,6 +6421,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*hsRZOXVjf7VvCBsz32Z9FQ.png",
     "og:description": "The hardest frontend bugs are not broken layouts. They are hidden assumptions about state, data, timing, permissions, and API contracts…",
     "og:url": "https://medium.com/skillstuff/i-used-to-think-frontend-bugs-were-visual-i-was-wrong-0febc12b89db",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/tech-at-power/react-after-render-a-beginners-guide-to-useeffect-62621799ed09",
+    "title": "React After Render: A Beginner’s Guide to useEffect | by Thomas Correia | Tech at Power | Jul, 2026 | Medium",
+    "date": "2026-07-14T02:58:26.43+06:00",
+    "og:title": "React After Render: A Beginner’s Guide to useEffect",
+    "og:image": "https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.5:0.24/1*noqrFSq5fi5GTLvul7zn7Q.jpeg",
+    "og:description": "Understanding when React runs side effects and why the dependency array matters",
+    "og:url": "https://medium.com/tech-at-power/react-after-render-a-beginners-guide-to-useeffect-62621799ed09",
     "og:type": "article"
   },
   {
@@ -5508,6 +6498,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.5:1/1*bBYZhHuqA9AvPNuZQhi3Fg.png",
     "og:description": "The hardest part of a job interview shouldn’t be figuring out how to start it. Yet that’s exactly what was happening at Ambition Hire…",
     "og:url": "https://medium.muz.li/an-ai-orchestrated-ux-redesign-how-i-fixed-three-critical-failures-in-a-voice-bot-interview-18cd1cb0ae0f",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.muz.li",
+    "url": "https://medium.muz.li/challenge-myself-to-design-product-in-3-days-with-new-ai-app-mcp-70ce2b99da43?source=rss----5969bf7021a3---4",
+    "title": "Medium",
+    "date": "2026-07-14T09:32:29.695+06:00",
+    "og:title": "Challenge myself to design product in 3 days with new AI app & MCP.",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*51zKmd7QBioIBDzbWAndYA.png",
+    "og:description": "I joined the Wonder Challenge only three days before it ended.",
+    "og:url": "https://medium.muz.li/challenge-myself-to-design-product-in-3-days-with-new-ai-app-mcp-70ce2b99da43",
     "og:type": "article"
   },
   {
@@ -5745,12 +6746,23 @@
     "hostname": "minigpt.org",
     "url": "https://minigpt.org/",
     "title": "Free Mini GPT AI | Free GPT Image 2 Online Generator",
-    "date": "2026-07-10T02:38:54.018+06:00",
+    "date": "2026-07-14T02:59:33.204+06:00",
     "og:title": "Free Mini GPT AI | Free GPT Image 2 Online Generator",
     "og:image": "https://minigpt.org/home/cover.png",
     "og:description": "Try GPT Image 2 online for free with Free Mini GPT AI. Generate AI images from prompts or reference images in your browser with no signup and no credit card required. Creator-rated 5 stars for fast, free AI image generation.",
     "og:url": "https://minigpt.org/",
     "og:type": "website"
+  },
+  {
+    "hostname": "minoraxis.medium.com",
+    "url": "https://minoraxis.medium.com/advanced-icon-design-compound-icons-modifiers-a747e028ad7b",
+    "title": "Medium",
+    "date": "2026-07-14T06:46:30.149+06:00",
+    "og:title": "Advanced Icon Design: Compound Icons (Modifiers)",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*9PpPdAJ-wOgrUf5TChlbuw.png",
+    "og:description": "Sometimes we combine 2 symbols to get the meaning we want.",
+    "og:url": "https://minoraxis.medium.com/advanced-icon-design-compound-icons-modifiers-a747e028ad7b",
+    "og:type": "article"
   },
   {
     "hostname": "mobirise.com",
@@ -5809,6 +6821,17 @@
   },
   {
     "hostname": "muhammadfarhandev.medium.com",
+    "url": "https://muhammadfarhandev.medium.com/15-free-frontend-tools-every-developer-should-know-4f4e53d841a7?source=rss------css-5",
+    "title": "Medium",
+    "date": "2026-07-14T06:47:15.873+06:00",
+    "og:title": "15 Free Frontend Tools Every Developer Should Know",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*uFUqMJOYo5GG16LJkAwW0Q.png",
+    "og:description": "When I started learning frontend development, I genuinely thought I’d eventually need to pay for design software to make things look…",
+    "og:url": "https://muhammadfarhandev.medium.com/15-free-frontend-tools-every-developer-should-know-4f4e53d841a7",
+    "og:type": "article"
+  },
+  {
+    "hostname": "muhammadfarhandev.medium.com",
     "url": "https://muhammadfarhandev.medium.com/tailwind-css-for-beginners-why-i-switched-from-bootstrap-and-never-looked-back-d0cbe6f120af",
     "title": "Tailwind CSS for Beginners: Why I Switched From Bootstrap and Never Looked Back | by Muhammad Farhan | Jul, 2026 | Medium",
     "date": "2026-07-11T03:58:24.106+06:00",
@@ -5830,6 +6853,17 @@
     "og:type": "website"
   },
   {
+    "hostname": "namethatui.com",
+    "url": "https://namethatui.com/",
+    "title": "NameThatUI — the visual dictionary of UI",
+    "date": "2026-07-14T06:46:30.159+06:00",
+    "og:title": "NameThatUI — the visual dictionary of UI",
+    "og:image": "https://namethatui.com/opengraph-image?82ee375c58ee9fff",
+    "og:description": "See the UI element, learn its real name and API symbol, and copy a precise prompt for your coding agent.",
+    "og:url": "https://namethatui.com",
+    "og:type": "website"
+  },
+  {
     "hostname": "nateflynn.medium.com",
     "url": "https://nateflynn.medium.com/the-new-front-end-career-ladder-in-the-age-of-ai-a0f8380b2a95",
     "title": "The New Front-End Career Ladder in the Age of AI | by Nate Flynn | Jun, 2026 | Medium",
@@ -5838,6 +6872,28 @@
     "og:image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*7pI_vWU3LrCYjshZ",
     "og:description": "For years, the front-end career ladder was relatively easy to explain. That ladder still exists, but AI has changed what each rung means.",
     "og:url": "https://nateflynn.medium.com/the-new-front-end-career-ladder-in-the-age-of-ai-a0f8380b2a95",
+    "og:type": "article"
+  },
+  {
+    "hostname": "neal.fun",
+    "url": "https://neal.fun/wiki-spy/",
+    "title": "Wiki Spy",
+    "date": "2026-07-14T08:47:25.854+06:00",
+    "og:title": "Wiki Spy",
+    "og:image": "https://neal.fun/share-cards/wiki-spy.png",
+    "og:description": "An infinite I-Spy of Wikipedia",
+    "og:url": "https://neal.fun/wiki-spy/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "newsletter.rogerwong.me",
+    "url": "https://newsletter.rogerwong.me/p/expertise-compounds",
+    "title": "Expertise Compounds - by Roger Wong - Designspun",
+    "date": "2026-07-14T06:46:30.182+06:00",
+    "og:title": "Expertise Compounds",
+    "og:image": "https://substackcdn.com/image/fetch/$s_!gc36!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03f108f3-fd19-436a-9645-5840754ec51a_1920x1080.jpeg",
+    "og:description": "Agents supercharge the skills you've honed through the years.",
+    "og:url": "https://newsletter.rogerwong.me/p/expertise-compounds",
     "og:type": "article"
   },
   {
@@ -5930,6 +6986,17 @@
   },
   {
     "hostname": "onepagelove.com",
+    "url": "https://onepagelove.com/materials",
+    "title": "Materials¹ — One Page Website Award",
+    "date": "2026-07-14T03:02:29.907+06:00",
+    "og:title": "Materials¹ — One Page Website Award",
+    "og:image": "https://assets.onepagelove.com/cdn-cgi/image/width=1200,height=628,fit=cover,gravity=top,format=jpg,quality=85/wp-content/uploads/2026/07/opl-screenshot-materialsc2b9-1783946841913-desktop.jpg",
+    "og:description": "Gorgeous morph of the hero object as you scroll this One Pager promoting the Materials¹ abstract design pack.",
+    "og:url": "https://onepagelove.com/materials",
+    "og:type": "website"
+  },
+  {
+    "hostname": "onepagelove.com",
     "url": "https://onepagelove.com/matthew-chudnovski",
     "title": "Matthew Chudnovski — One Page Website Award",
     "date": "2026-07-10T02:14:53.92+06:00",
@@ -5948,6 +7015,17 @@
     "og:image": "https://assets.onepagelove.com/cdn-cgi/image/width=1200,height=628,fit=cover,gravity=top,format=jpg,quality=85/wp-content/uploads/2026/07/opl-master-mediumrare.jpg",
     "og:description": "Fun, interactive elements in this One Pager showcasing the work and experiments from the Medium Rare duo.",
     "og:url": "https://onepagelove.com/medium-rare",
+    "og:type": "website"
+  },
+  {
+    "hostname": "onepagelove.com",
+    "url": "https://onepagelove.com/michael-pumo",
+    "title": "Michael Pumo — One Page Website Award",
+    "date": "2026-07-14T03:02:29.961+06:00",
+    "og:title": "Michael Pumo — One Page Website Award",
+    "og:image": "https://assets.onepagelove.com/cdn-cgi/image/width=1200,height=628,fit=cover,gravity=top,format=jpg,quality=85/wp-content/uploads/2026/07/opl-screenshot-freelance-web-1783944214519-desktop.jpg",
+    "og:description": "One Page portfolio (built using Storyblok CMS) for London-based freelance web designer and frontend developer, Michael Pumo.",
+    "og:url": "https://onepagelove.com/michael-pumo",
     "og:type": "website"
   },
   {
@@ -5992,6 +7070,17 @@
     "og:image": "https://assets.onepagelove.com/cdn-cgi/image/width=1200,height=628,fit=cover,gravity=top,format=jpg,quality=85/wp-content/uploads/2026/07/opl-screenshot-secret-garden-1782999832129-desktop.jpg",
     "og:description": "Elegant One Pager for Secret Garden Stresa, a private boutique residence near Lake Maggiore.",
     "og:url": "https://onepagelove.com/secret-garden-stresa",
+    "og:type": "website"
+  },
+  {
+    "hostname": "onepagelove.com",
+    "url": "https://onepagelove.com/sky-clock",
+    "title": "Sky Clock — One Page Website Award",
+    "date": "2026-07-14T03:02:29.919+06:00",
+    "og:title": "Sky Clock — One Page Website Award",
+    "og:image": "https://assets.onepagelove.com/cdn-cgi/image/width=1200,height=628,fit=cover,gravity=top,format=jpg,quality=85/wp-content/uploads/2026/07/opl-master-1783945200918926.jpg",
+    "og:description": "Single-serving One Pager for Sky Clock, that visualizes today’s sky as a 24-hour gradient based on cloud coverage. “Then we added the sun and moon positions as well. It’s a poetic experiment, but it actually works decently as a weather forecast app. At least for the current day. The weather data comes from the open-meteo.com […]",
+    "og:url": "https://onepagelove.com/sky-clock",
     "og:type": "website"
   },
   {
@@ -6413,6 +7502,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "stevekrouse.com",
+    "url": "https://stevekrouse.com/learn-to-code",
+    "title": "Learning to code is still worthwhile",
+    "date": "2026-07-14T08:47:25.843+06:00",
+    "og:title": "Learning to code is still worthwhile",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": "article"
+  },
+  {
     "hostname": "studio.flodesk.com",
     "url": "https://studio.flodesk.com/",
     "title": "Flodesk Studio: AI Email Design, Crafted by Designers",
@@ -6534,6 +7634,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "thinkingmachines.ai",
+    "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
+    "title": "The Future Worth Building Is Human - Thinking Machines Lab",
+    "date": "2026-07-14T08:47:25.865+06:00",
+    "og:title": "The Future Worth Building Is Human",
+    "og:image": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/cover-social.png",
+    "og:description": "AI built for autonomy crowds people out, making us passive observers of what’s coming. We’re building toward a different future.",
+    "og:url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
+    "og:type": "article"
+  },
+  {
     "hostname": "tomtunguz.com",
     "url": "https://tomtunguz.com/ai-execution-routing/",
     "title": "Most AI Work Can Wait | Tomasz Tunguz",
@@ -6608,6 +7719,17 @@
     "og:image": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/07/TheSleepers_cover.png?x23502",
     "og:description": "From swirling transitions and animated fog to mesh outlines and infinite worlds, here's a breakdown of the techniques behind it.",
     "og:url": "https://tympanus.net/codrops/2026/07/10/the-sleepers-creating-an-atmospheric-webgl-experience-with-lightweight-techniques/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "tympanus.net",
+    "url": "https://tympanus.net/codrops/2026/07/13/where-stories-become-interactive-worlds-how-makemepulse-brings-ideas-to-life-across-web-xr-and-beyond/",
+    "title": "Where Stories Become Interactive Worlds: How makemepulse Brings Ideas to Life Across Web, XR, and Beyond | Codrops",
+    "date": "2026-07-14T03:02:29.981+06:00",
+    "og:title": "Where Stories Become Interactive Worlds: How makemepulse Brings Ideas to Life Across Web, XR, and Beyond | Codrops",
+    "og:image": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/07/codrops_article_cover.png?x72090",
+    "og:description": "For more than 15 years, makemepulse has combined creative storytelling and technical innovation to craft award-winning digital experiences across web, immersive media, and interactive installations.",
+    "og:url": "https://tympanus.net/codrops/2026/07/13/where-stories-become-interactive-worlds-how-makemepulse-brings-ideas-to-life-across-web-xr-and-beyond/",
     "og:type": "article"
   },
   {
@@ -6718,6 +7840,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*PLXV6BS03y2Dw1ZJnVkKww.png",
     "og:description": "Right now it’s an accidental byproduct of AI alignment. It could be an interface we build deliberately.",
     "og:url": "https://uxdesign.cc/ai-personality-is-a-design-problem-58fbc7926a3d",
+    "og:type": "article"
+  },
+  {
+    "hostname": "uxdesign.cc",
+    "url": "https://uxdesign.cc/ax-is-just-the-orchestration-layer-cacb4ed4fe45?source=rss----138adf9c44c---4",
+    "title": "Medium",
+    "date": "2026-07-14T02:58:26.392+06:00",
+    "og:title": "AX is just the orchestration layer",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*oClaxaWA_8gphYwyopqP7g.png",
+    "og:description": "The work didn’t vanish with the screen. It fell one layer down.",
+    "og:url": "https://uxdesign.cc/ax-is-just-the-orchestration-layer-cacb4ed4fe45",
     "og:type": "article"
   },
   {
@@ -6878,7 +8011,7 @@
     "hostname": "uxdesign.cc",
     "url": "https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b",
     "title": "Medium",
-    "date": "2026-07-13T09:48:31.913+06:00",
+    "date": "2026-07-14T06:46:30.255+06:00",
     "og:title": "Taste cannot be delegated",
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*IE9hoyTwzWtd3hUTEOI9Ow.png",
     "og:description": "The death of design by committee in the age of AI",
@@ -6986,6 +8119,17 @@
   },
   {
     "hostname": "uxdesign.cc",
+    "url": "https://uxdesign.cc/the-terminal-became-my-canvas-18af0740f650",
+    "title": "The terminal became my canvas. And it’s great… but horrible at the… | by Pablo Stanley | Jul, 2026 | UX Collective",
+    "date": "2026-07-14T02:58:26.375+06:00",
+    "og:title": "The terminal became my canvas",
+    "og:image": "https://miro.medium.com/v2/resize:fit:947/1*DWyRC6NyUUgkB5GW1mkmyQ.png",
+    "og:description": "And it’s great… but horrible at the same time",
+    "og:url": "https://uxdesign.cc/the-terminal-became-my-canvas-18af0740f650",
+    "og:type": "article"
+  },
+  {
+    "hostname": "uxdesign.cc",
     "url": "https://uxdesign.cc/wait-who-made-this-705a30d74220",
     "title": "Wait, who made this?. The rise of creative provenance | by Allie Paschal | Jul, 2026 | UX Collective",
     "date": "2026-07-06T14:15:37.15+06:00",
@@ -7015,6 +8159,28 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*lHvW87-6XQuoJ0VfOuQTKA.png",
     "og:description": "Fifteen Years After Eric Ries Named the Apporach, Most Generative AI Programs Are Repeating the Exact Mistakes the Book Was Written to…",
     "og:url": "https://uxdesign.cc/what-the-lean-startup-still-teaches-us-about-generative-ai-2d1505fe1db1",
+    "og:type": "article"
+  },
+  {
+    "hostname": "uxdesign.cc",
+    "url": "https://uxdesign.cc/when-design-becomes-the-organisation-and-ai-becomes-the-design-19185e56319a",
+    "title": "When design becomes the organisation, and AI becomes the design | by Zeeshan Khalid | Jul, 2026 | UX Collective",
+    "date": "2026-07-14T02:58:26.559+06:00",
+    "og:title": "When design becomes the organisation, and AI becomes the design",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*j-6TJBCmYYLm7duyXJIbNQ.jpeg",
+    "og:description": "What happens when the entity that designs everything is itself being designed by machines?",
+    "og:url": "https://uxdesign.cc/when-design-becomes-the-organisation-and-ai-becomes-the-design-19185e56319a",
+    "og:type": "article"
+  },
+  {
+    "hostname": "uxdesign.cc",
+    "url": "https://uxdesign.cc/who-made-this-designing-excuses-designops-in-the-age-of-ai-e5ef0bb9093c",
+    "title": "Who made this, Designing excuses, DesignOps in the age of AI | by Fabricio Teixeira | Jul, 2026 | UX Collective",
+    "date": "2026-07-14T02:58:26.548+06:00",
+    "og:title": "Who made this, Designing excuses, DesignOps in the age of AI",
+    "og:image": "",
+    "og:description": "Weekly curated resources for designers — thinkers and makers.",
+    "og:url": "https://uxdesign.cc/who-made-this-designing-excuses-designops-in-the-age-of-ai-e5ef0bb9093c",
     "og:type": "article"
   },
   {
@@ -7051,6 +8217,17 @@
     "og:type": ""
   },
   {
+    "hostname": "uxdesignweekly.com",
+    "url": "https://uxdesignweekly.com/issue-596/",
+    "title": "Issue 596 | UX Design Weekly - The Best UX Design Links Each Week",
+    "date": "2026-07-14T02:58:26.341+06:00",
+    "og:title": "UX Design Weekly",
+    "og:image": "https://uxdesignweekly.com/wp-content/uploads/2014/10/ux-design-weekly-avatar.png",
+    "og:description": "A curated list of the best user experience design links every week.",
+    "og:url": "https://uxdesignweekly.com/",
+    "og:type": ""
+  },
+  {
     "hostname": "uxpamagazine.org",
     "url": "https://uxpamagazine.org/accessibility-and-ai-leveraging-emerging-technologies-in-digital-content-to-build-equitable-ux/?utm_source=feedly&utm_medium=rss&utm_campaign=accessibility-and-ai-leveraging-emerging-technologies-in-digital-content-to-build-equitable-ux",
     "title": "Accessibility and AI: Leveraging Emerging Technologies in Digital Content to Build Equitable UX - User Experience",
@@ -7070,6 +8247,17 @@
     "og:image": "https://uxpamagazine.org/wp-content/uploads/2023/06/uxpa-logo.png",
     "og:description": "Mental health care AI systems are failing to identify distress signals because the signals do not fit Western clinical vocabulary.",
     "og:url": "https://uxpamagazine.org/haca-mh-a-culturally-adaptive-mental-health-ai-framework-for-underserved-populations/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "uxpamagazine.org",
+    "url": "https://uxpamagazine.org/researching-what-changes-ux-methods-for-ai-systems-that-learn-over-time/",
+    "title": "Researching What Changes: UX Methods for AI Systems That Learn Over Time - User Experience",
+    "date": "2026-07-14T02:58:26.293+06:00",
+    "og:title": "Researching What Changes: UX Methods for AI Systems That Learn Over Time - User Experience",
+    "og:image": "https://uxpamagazine.org/wp-content/uploads/2023/06/uxpa-logo.png",
+    "og:description": "This article covers three practical approaches for studying agentic AI when the system’s behavior is a moving target. Trust is inherently longitudinal over time. A snapshot study capturing the moment alone describes almost nothing about how the relationship is changing, which misses the evolving relationship arc. The author discusses using modified diary studies, longitudinal trust measurement, and relationship arc research to study trust. The article also includes guidance on getting started with a first longitudinal study.",
+    "og:url": "https://uxpamagazine.org/researching-what-changes-ux-methods-for-ai-systems-that-learn-over-time/",
     "og:type": "article"
   },
   {
@@ -7114,6 +8302,17 @@
     "og:image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*qZbYLMJAKNScPmaW",
     "og:description": "Want to go from beginner to pro-level web designer? Today, I’m going to give you four simple tips that are going to help you upskill fast…",
     "og:url": "https://uxplanet.org/4-daily-web-habits-that-will-make-you-better-than-90-of-designers-developers-dda54635e3b4",
+    "og:type": "article"
+  },
+  {
+    "hostname": "uxplanet.org",
+    "url": "https://uxplanet.org/4-types-of-loops-you-can-create-in-claude-code-aff824404834",
+    "title": "4 Types of Loops You Can Create in Claude Code | by Nick Babich | Jul, 2026 | UX Planet",
+    "date": "2026-07-14T03:02:30.048+06:00",
+    "og:title": "4 Types of Loops You Can Create in Claude Code",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*H6i2iP66hRJ2xGQQhB1c4g.png",
+    "og:description": "When we interact with Claude Code, we typically go through repeated cycles when completing a task, also known as loops. The cycles can be…",
+    "og:url": "https://uxplanet.org/4-types-of-loops-you-can-create-in-claude-code-aff824404834",
     "og:type": "article"
   },
   {
@@ -7272,6 +8471,17 @@
   },
   {
     "hostname": "uxplanet.org",
+    "url": "https://uxplanet.org/i-tested-20-popular-claude-code-skills-most-of-them-were-useless-6bfdf190a6d1?source=rss----819cc2aaeee0---4",
+    "title": "Medium",
+    "date": "2026-07-14T03:02:29.816+06:00",
+    "og:title": "I Tested 20 Popular Claude Code Skills. Most of Them Were Useless.",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*1oHWpxnU9PxtxfKupzw_Fw.png",
+    "og:description": "Skills are one of the more useful features in Claude Code. A skill is a bundle of instructions, scripts, and resources that Claude loads on…",
+    "og:url": "https://uxplanet.org/i-tested-20-popular-claude-code-skills-most-of-them-were-useless-6bfdf190a6d1",
+    "og:type": "article"
+  },
+  {
+    "hostname": "uxplanet.org",
     "url": "https://uxplanet.org/mcp-optimization-best-practices-181dc750a790",
     "title": "MCP Optimization Best Practices. Just like APIs before it, MCP is… | by Nick Babich | Jul, 2026 | UX Planet",
     "date": "2026-07-07T13:24:43.708+06:00",
@@ -7403,6 +8613,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "wattenberger.com",
+    "url": "https://wattenberger.com/thoughts/code-is-a-medium-for-thought/",
+    "title": "Amelia Wattenberger",
+    "date": "2026-07-14T08:47:25.883+06:00",
+    "og:title": "Code was our medium for thought",
+    "og:image": "https://wattenberger.com/thoughts/code-is-a-medium-for-thought/og-card.png",
+    "og:description": "Code was not just the output—it was where we explored problems, made decisions, and figured out what we wanted.",
+    "og:url": "https://wattenberger.com/thoughts/code-is-a-medium-for-thought/",
+    "og:type": "article"
+  },
+  {
     "hostname": "webdesignerdepot.com",
     "url": "https://webdesignerdepot.com/10-ways-to-build-radical-trust-in-the-age-of-ai-junk/",
     "title": "10 Ways to Build Radical TRUST in the Age of AI Junk",
@@ -7494,7 +8715,7 @@
     "hostname": "weblog.rogueamoeba.com",
     "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
     "title": "Rogue Amoeba - Under the Microscope » Blog Archive » Free The Icons",
-    "date": "2026-07-09T09:59:23.722+06:00",
+    "date": "2026-07-14T06:46:30.663+06:00",
     "og:title": "Free The Icons",
     "og:image": "https://weblog.rogueamoeba.com/wp-content/uploads/2026-06-iconshapes/banner@2x.png",
     "og:description": "Apple should end their prohibition on shapes in MacOS app icons",
@@ -7690,6 +8911,17 @@
   },
   {
     "hostname": "www.awwwards.com",
+    "url": "https://www.awwwards.com/sites/house-of-honey-1",
+    "title": "House of Honey - Awwwards SOTD",
+    "date": "2026-07-14T08:47:25.939+06:00",
+    "og:title": "House of Honey - Awwwards SOTD",
+    "og:image": "https://assets.awwwards.com/awards/submissions/2026/05/6a1c09bf6c5f3457361940.jpg",
+    "og:description": "House of Honey designs spaces with story. We built a sophisticated digital presence that mirrors this sensory philosophy through editorial elegance and...",
+    "og:url": "https://www.awwwards.com/sites/house-of-honey-1",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.awwwards.com",
     "url": "https://www.awwwards.com/sites/longbow",
     "title": "Longbow - Awwwards SOTD",
     "date": "2026-07-12T07:51:33.066+06:00",
@@ -7813,7 +9045,7 @@
     "hostname": "www.carmenansio.com",
     "url": "https://www.carmenansio.com/articles/css-easing-explained/",
     "title": "CSS Easing Explained: ease-in, ease-out, ease-in-out & cubic-bezier",
-    "date": "2026-07-13T09:48:32.237+06:00",
+    "date": "2026-07-14T06:46:30.605+06:00",
     "og:title": "Ease In, Ease Out, and Everything Between",
     "og:image": "https://www.carmenansio.com/og/css-easing-explained.png",
     "og:description": "You already drag these handles in the pen tool. cubic-bezier() is the same two handles, bending time instead of a shape. Once you see that, ease-in-out stops being a reflex.",
@@ -7994,6 +9226,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/tr6SwuWyyR7AYuvxP2oicg-1600-80.jpg",
     "og:description": "It looks like claymation, but it's not.",
     "og:url": "https://www.creativebloq.com/3d/video-game-design/kidbash-super-legend-is-built-in-blender-but-rendered-like-a-classic-snes-game",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/3d/video-game-design/the-assassins-creed-black-flag-remake-controversy-shows-game-remakes-will-never-please-everyone",
+    "title": "The Assassin's Creed Black Flag Resynced controversy shows game remakes will never please everyone | Creative Bloq",
+    "date": "2026-07-14T08:47:25.92+06:00",
+    "og:title": "The Assassin's Creed Black Flag Resynced controversy shows game remakes will never please everyone",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/Nfz2K6RbG57nFdomPpmbs7-1200-80.jpg",
+    "og:description": "So many game remakes are disappointing fans, but that's part of their nature.",
+    "og:url": "https://www.creativebloq.com/3d/video-game-design/the-assassins-creed-black-flag-remake-controversy-shows-game-remakes-will-never-please-everyone",
     "og:type": "article"
   },
   {
@@ -8401,6 +9644,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/xFgvdcsqVu9ywMoLaoaeMV-1520-80.jpg",
     "og:description": "Stripped-back visuals become a powerful storytelling tool.",
     "og:url": "https://www.creativebloq.com/design/advertising/the-economist-shades-ai-in-sharp-new-billboard-ads",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/design/apples-ai-struggle-turns-ugly-as-it-sues-openai-and-io-the-company-founded-by-iphone-designer-jony-ive",
+    "title": "Apple's AI struggle turns ugly as it sues OpenAI and io, the company founded by iPhone designer Jony Ive | Creative Bloq",
+    "date": "2026-07-14T03:02:29.997+06:00",
+    "og:title": "Apple turns on iPhone designer Jony Ive, accusing OpenAI and io of stealing trade secrets",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/ztPRxsDMVDANhHUqb3vqMf-2560-80.png",
+    "og:description": "And yes, Elon Musk has weighed in.",
+    "og:url": "https://www.creativebloq.com/design/apples-ai-struggle-turns-ugly-as-it-sues-openai-and-io-the-company-founded-by-iphone-designer-jony-ive",
     "og:type": "article"
   },
   {
@@ -8834,6 +10088,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/entertainment/movies-tv-shows/people-are-comparing-pixars-digital-toy-story-with-a-scan-of-the-original-35mm-film-and-theyre-stunned-by-what-they-found",
+    "title": "People are comparing Pixar's digital Toy Story with a scan of the original 35mm film, and they're stunned by what they found | Creative Bloq",
+    "date": "2026-07-14T08:47:25.904+06:00",
+    "og:title": "People are comparing Pixar's digital Toy Story with a scan of the original 35mm film, and they're stunned by what they found",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/SkgDiFMX2iaqeR9WUc9Gxd-1200-80.jpg",
+    "og:description": "Does Pixar's digital version of Toy Story \"look wrong\" to you?",
+    "og:url": "https://www.creativebloq.com/entertainment/movies-tv-shows/people-are-comparing-pixars-digital-toy-story-with-a-scan-of-the-original-35mm-film-and-theyre-stunned-by-what-they-found",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/entertainment/movies-tv-shows/the-original-moana-looked-very-different-to-disneys-movies-but-was-it-any-more-authentic",
     "title": "The original Moana looked very different to Disney's movies, but was it any more authentic? | Creative Bloq",
     "date": "2026-07-01T09:02:00.522+06:00",
@@ -8900,6 +10165,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/professional-development/freelance/freedom-fear-feast-and-famine-the-pros-and-cons-of-being-freelance",
+    "title": "Should you take the leap? The pros and cons of being freelance | Creative Bloq",
+    "date": "2026-07-14T03:02:29.756+06:00",
+    "og:title": "The pros and cons of being freelance",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/cR39bJxNeLKw6Dw2Keq32D-1803-80.jpg",
+    "og:description": "Creative freelancers lay bare the trade-offs of going it alone.",
+    "og:url": "https://www.creativebloq.com/professional-development/freelance/freedom-fear-feast-and-famine-the-pros-and-cons-of-being-freelance",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/tech/6-ways-to-beat-the-ram-price-increase-when-you-upgrade-your-creative-kit",
     "title": "6 ways to beat the RAM price increase when you upgrade your creative kit | Creative Bloq",
     "date": "2026-07-07T13:24:43.581+06:00",
@@ -8955,6 +10231,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/tech/not-a-smart-ring-person-perhaps-43-percent-off-could-change-that",
+    "title": "The low price of these Smart Rings will make you finally want one | Creative Bloq",
+    "date": "2026-07-14T03:02:30.01+06:00",
+    "og:title": "Not a Smart Ring person? Perhaps 43% off could change that",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/dttBDn7TJ3vAGixgkz8dGW-2560-80.jpg",
+    "og:description": "Choose from Oura, Samsung, or third-party brands for less.",
+    "og:url": "https://www.creativebloq.com/tech/not-a-smart-ring-person-perhaps-43-percent-off-could-change-that",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/tech/off-to-college-these-dorm-room-deals-suit-every-type-of-student",
     "title": "Off to college? These dorm room deals suit every type of student  | Creative Bloq",
     "date": "2026-07-04T04:05:59.033+06:00",
@@ -8973,6 +10260,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/AGd3p5W53otDNUxn6sHnme-992-80.jpg",
     "og:description": "The Codex Micro looks disappointingly conventional.",
     "og:url": "https://www.creativebloq.com/tech/openais-first-hardware-isnt-the-revolutionary-iphone-killer-we-expected",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/tech/phones-tablets/dodge-apples-price-hike-on-the-macbook-neo-amazon-just-sliced-gbp100-off-the-512gb-version",
+    "title": "Dodge Apple's price hike on the MacBook Neo – Amazon just sliced £100 off the 512GB version | Creative Bloq",
+    "date": "2026-07-14T03:02:29.75+06:00",
+    "og:title": "Dodge Apple's price hike on the MacBook Neo – Amazon just sliced £100 off the 512GB version",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/5KL2pPKPeCEY2F2QjGgT9R-1920-80.jpg",
+    "og:description": "Get the latest MacBook for the early adopter price!",
+    "og:url": "https://www.creativebloq.com/tech/phones-tablets/dodge-apples-price-hike-on-the-macbook-neo-amazon-just-sliced-gbp100-off-the-512gb-version",
     "og:type": "article"
   },
   {
@@ -9050,6 +10348,28 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/vNxogLJNxW3yyp2iEUo5eH-1200-80.jpg",
     "og:description": "Could Dustpile help you find your match?",
     "og:url": "https://www.creativebloq.com/web-design/ux-ui/this-free-app-is-tinder-for-video-games",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.cssscript.com",
+    "url": "https://www.cssscript.com/easemotion-css-animation-framework/",
+    "title": "EaseMotion CSS: Animation-First UI Framework | CSS Script",
+    "date": "2026-07-14T03:02:29.835+06:00",
+    "og:title": "EaseMotion CSS: Animation-First UI Framework | CSS Script",
+    "og:image": "https://www.cssscript.com/wp-content/uploads/2026/07/easemotion-css-animation-framework.webp",
+    "og:description": "Build animated interfaces with EaseMotion CSS, a zero-dependency framework with motion, layout, button, card, and hover utilities.",
+    "og:url": "https://www.cssscript.com/easemotion-css-animation-framework/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.cssscript.com",
+    "url": "https://www.cssscript.com/liquid-glass-ios-refraction/",
+    "title": "Liquid Glass: iOS-Style Refraction for Any Element | CSS Script",
+    "date": "2026-07-14T03:02:30.028+06:00",
+    "og:title": "Liquid Glass: iOS-Style Refraction for Any Element | CSS Script",
+    "og:image": "https://www.cssscript.com/wp-content/uploads/2026/07/liquid-glass-ios-refraction.webp",
+    "og:description": "Add iOS-style liquid glass refraction to any DOM element with one dependency-free JavaScript file and a frosted browser fallback.",
+    "og:url": "https://www.cssscript.com/liquid-glass-ios-refraction/",
     "og:type": "article"
   },
   {
@@ -9350,6 +10670,17 @@
     "og:type": ""
   },
   {
+    "hostname": "www.guideforbutton.com",
+    "url": "https://www.guideforbutton.com/en",
+    "title": "The Designer’s Guide to the Buttons. The best book for UX/UI designer",
+    "date": "2026-07-14T06:46:30.133+06:00",
+    "og:title": "",
+    "og:image": "img/title-en.jpg?1",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
     "hostname": "www.hongkiat.com",
     "url": "https://www.hongkiat.com/blog/1password-features-worth-setting-up/",
     "title": "10 1Password Features You Should Actually Set Up - Hongkiat",
@@ -9425,6 +10756,17 @@
     "og:description": "For decades, one of the most notoriously-challenging problems on the web has been sticking one element to another element, for things like tooltips and nested menus. The CSSWG has decided to provide a first-class solution to this problem, and it’s pretty friggin’ cool! In this tutorial, I’ll share the most useful parts I’ve found from this modern CSS feature.",
     "og:url": "",
     "og:type": "website"
+  },
+  {
+    "hostname": "www.jqueryscript.net",
+    "url": "https://www.jqueryscript.net/form/dual-handles-ticks-cui-slider.html",
+    "title": "Range Slider Plugin With Dual Handles and Ticks - CuiSlider | Free jQuery Plugins",
+    "date": "2026-07-14T03:02:30.063+06:00",
+    "og:title": "Range Slider Plugin With Dual Handles and Ticks - CuiSlider",
+    "og:image": "https://www.jqueryscript.net/images/dual-handles-ticks-cui-slider.jpg",
+    "og:description": "Add a single or dual-handle range slider to any form with CuiSlider, a vanilla JS control with an optional jQuery bridge, ticks, and RTL support.",
+    "og:url": "https://www.jqueryscript.net/form/dual-handles-ticks-cui-slider.html",
+    "og:type": "article"
   },
   {
     "hostname": "www.jqueryscript.net",
@@ -9590,6 +10932,17 @@
     "og:description": "Figma solved the problem of making design multiplayer. It might still be solving that problem when the problem has changed.",
     "og:url": "https://www.robin-cannon.com/p/what-does-figma-do-next",
     "og:type": "article"
+  },
+  {
+    "hostname": "www.siteinspire.com",
+    "url": "https://www.siteinspire.com/website/13400-the-linearity",
+    "title": "Best Website Design Inspiration | Siteinspire",
+    "date": "2026-07-14T03:02:29.769+06:00",
+    "og:title": "Best Website Design Inspiration | Siteinspire",
+    "og:image": "https://www.siteinspire.com/website/13400-the-linearity/opengraph-image-1nj130?0a535d1069ca5cdf",
+    "og:description": "Discover the best website designs and web design inspiration. A curated showcase of creative websites, updated daily.",
+    "og:url": "https://www.siteinspire.com",
+    "og:type": "website"
   },
   {
     "hostname": "www.siteinspire.com",
@@ -10000,6 +11353,17 @@
   },
   {
     "hostname": "www.sitepoint.com",
+    "url": "https://www.sitepoint.com/optimizing-cost-per-insight-in-ai-data-analytics-systems/",
+    "title": "Optimizing Cost per Insight in AI Data Analytics Systems",
+    "date": "2026-07-14T07:02:22.084+06:00",
+    "og:title": "Optimizing Cost per Insight in AI Data Analytics Systems",
+    "og:image": "https://uploads.sitepoint.com/wp-content/uploads/medium_Screenshot_2026_07_13_at_2_14_19a_PM_4d18176fb6.png",
+    "og:description": "",
+    "og:url": "https://www.sitepoint.com/optimizing-cost-per-insight-in-ai-data-analytics-systems/",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.sitepoint.com",
     "url": "https://www.sitepoint.com/the-cost-inversion-running-production-ai-on-deepseek-v4flash-vs-gemini/",
     "title": "Untitled",
     "date": "2026-07-05T04:35:56.86+06:00",
@@ -10142,6 +11506,17 @@
     "og:type": "website"
   },
   {
+    "hostname": "www.tannerchristensen.com",
+    "url": "https://www.tannerchristensen.com/blog/learning-is-messy/",
+    "title": "Learning is messy — Tanner Christensen's blog",
+    "date": "2026-07-14T06:46:30.192+06:00",
+    "og:title": "Learning is messy — Tanner Christensen's blog",
+    "og:image": "https://www.tannerchristensen.com/_astro/hero.ZzYHxAIJ.webp",
+    "og:description": "We learn quickest through the messy experimentation that allows us to build intuition, judgment, and a deeper understanding of what's possible.",
+    "og:url": "https://www.tannerchristensen.com/blog/learning-is-messy/",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.tastelab.xyz",
     "url": "https://www.tastelab.xyz/",
     "title": "Taste — Design DNA for Agents",
@@ -10151,6 +11526,17 @@
     "og:description": "",
     "og:url": "",
     "og:type": ""
+  },
+  {
+    "hostname": "www.theatlantic.com",
+    "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
+    "title": "The People Who Will Thrive in the AI Age - The Atlantic",
+    "date": "2026-07-14T08:47:25.823+06:00",
+    "og:title": "The People Who Will Thrive in the AI Age",
+    "og:image": "https://cdn.theatlantic.com/thumbor/qYbMj2NrXUMTcZRMJ39SEUKt3f4=/0x61:2876x1559/1200x625/media/img/mt/2026/06/2026_06_21_AI_users/original.jpg",
+    "og:description": "What will differentiate people is not how smart they are but their relationship to mental effort.",
+    "og:url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
+    "og:type": "article"
   },
   {
     "hostname": "www.uxpin.com",
@@ -10518,8 +11904,8 @@
   {
     "hostname": "www.youtube.com",
     "url": "https://www.youtube.com/watch?v=notTKhz8C2c",
-    "title": "Dense by design ft. Matthew Ström-Awn (mu.design) | Config 2026 - YouTube",
-    "date": "2026-07-09T09:59:23.621+06:00",
+    "title": "(3) Dense by design ft. Matthew Ström-Awn (mu.design) | Config 2026 - YouTube",
+    "date": "2026-07-14T06:46:30.519+06:00",
     "og:title": "Dense by design ft. Matthew Ström-Awn (mu.design) | Config 2026",
     "og:image": "https://i.ytimg.com/vi/notTKhz8C2c/maxresdefault.jpg",
     "og:description": "Why did Google beat Yahoo? Why does Bloomberg Terminal still dominate? It's not about cramming more onto the screen—it's about maximizing value in time and s...",
