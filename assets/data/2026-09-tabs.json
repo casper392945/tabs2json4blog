@@ -1,5 +1,27 @@
 [
   {
+    "hostname": "aisa.one",
+    "url": "https://aisa.one/",
+    "title": "AIsa — the Unified Resource and Transaction Network for AI Agents",
+    "date": "2026-09-09T03:49:01.704+06:00",
+    "og:title": "AIsa — the Unified Resource and Transaction Network for AI Agents",
+    "og:image": "https://aisa.one/og/home.png",
+    "og:description": "Connect agents to AI models, APIs, real-time data, SaaS tools and paid services through one API key, with usage-based billing and machine payments.",
+    "og:url": "https://aisa.one",
+    "og:type": "website"
+  },
+  {
+    "hostname": "ajita-gupta.medium.com",
+    "url": "https://ajita-gupta.medium.com/in-the-age-of-ai-i-made-myself-write-every-line-by-hand-bc977d98627a?source=rss------front_end-5",
+    "title": "Medium",
+    "date": "2026-09-09T03:45:01.605+06:00",
+    "og:title": "In the Age of AI, I Made Myself Write Every Line by Hand",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*LJhFpBjD_vA2lOnm2Uq4nA.png",
+    "og:description": "A sequel to my Python Engineering Lab: relearning React, TypeScript, and the discipline of not taking the shortcut",
+    "og:url": "https://ajita-gupta.medium.com/in-the-age-of-ai-i-made-myself-write-every-line-by-hand-bc977d98627a",
+    "og:type": "article"
+  },
+  {
     "hostname": "android-developers.googleblog.com",
     "url": "https://android-developers.googleblog.com/2026/08/emulator-adaptive.html",
     "title": "Android Developers Blog: Emulator control for adaptive app development",
@@ -77,6 +99,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "blog.codepen.io",
+    "url": "https://blog.codepen.io/2026/09/08/439-dragging-drag-everything/",
+    "title": "439: Dragging! Drag Everything! – CodePen",
+    "date": "2026-09-09T03:45:47.674+06:00",
+    "og:title": "439: Dragging! Drag Everything!",
+    "og:image": "https://s0.wp.com/i/blank.jpg",
+    "og:description": "Stephen just implemented a great UI feature for the 2.0 editor where all the Panels that were previously stuck to the left side of the page can now be dragged away to become an “Editor Tab&#8…",
+    "og:url": "https://blog.codepen.io/2026/09/08/439-dragging-drag-everything/",
+    "og:type": "article"
+  },
+  {
     "hostname": "blog.master.dev",
     "url": "https://blog.master.dev/background-image-refraction-in-css/",
     "title": "Background Image Refraction in CSS – Master.dev Blog",
@@ -141,6 +174,28 @@
     "og:description": "30 copy-paste spooky Halloween AI prompts for solo, family, and pet photos in 2026 — each built with a face-lock instruction so the result actually looks like you.",
     "og:url": "https://blog.stackfindover.com/spooky-halloween-ai-prompt/",
     "og:type": "article"
+  },
+  {
+    "hostname": "blog.stackfindover.com",
+    "url": "https://blog.stackfindover.com/ugly-sweater-party-ai-prompts/",
+    "title": "25 Ugly Sweater Party AI Prompts for Your Best Solo Photo (2026)",
+    "date": "2026-09-09T07:08:32.754+06:00",
+    "og:title": "25 Ugly Sweater Party AI Prompts for Your Best Solo Photo (2026)",
+    "og:image": "http://blog.stackfindover.com/wp-content/uploads/2026/09/ugly-sweater-party-ai-prompt.webp",
+    "og:description": "25 copy-paste ugly sweater party AI prompts for solo photos in 2026 — each with a face-lock instruction so you still look like you, not a stranger in a costume.",
+    "og:url": "https://blog.stackfindover.com/ugly-sweater-party-ai-prompts/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bookfolio.net",
+    "url": "https://bookfolio.net/",
+    "title": "Bookfolio: UK accounting made simple",
+    "date": "2026-09-09T03:49:01.728+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
   },
   {
     "hostname": "bootstrapcreative.com",
@@ -229,6 +284,17 @@
     "og:description": "It’s my birthday! Well, it was a couple of days ago. I was busy. Here’s an <ol> element that I made all by myself. People that make things interesting are so cool. I’m super down …",
     "og:url": "https://chriscoyier.net/2026/08/31/46/",
     "og:type": "article"
+  },
+  {
+    "hostname": "christianheilmann.com",
+    "url": "https://christianheilmann.com/2026/09/08/moderators-wanted-for-wearedevelopers-world-congress-north-america-on-the-23rd/",
+    "title": "Moderators wanted for WeAreDevelopers World Congress North America on the 23rd! | Christian Heilmann",
+    "date": "2026-09-09T03:45:47.757+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
   },
   {
     "hostname": "christophhellmuth.com",
@@ -342,6 +408,17 @@
   },
   {
     "hostname": "css-tricks.com",
+    "url": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
+    "title": "Creating Web Widgets Using the Document Picture-in-Picture API | CSS-Tricks",
+    "date": "2026-09-09T09:04:23.043+06:00",
+    "og:title": "Creating Web Widgets Using the Document Picture-in-Picture API | CSS-Tricks",
+    "og:image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/05/framed-image.png",
+    "og:description": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.",
+    "og:url": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "css-tricks.com",
     "url": "https://css-tricks.com/css-random-function-polyfill/",
     "title": "Let’s Use the Emergent CSS random() Function in all the Browsers | CSS-Tricks",
     "date": "2026-09-01T02:50:35.046+06:00",
@@ -385,6 +462,17 @@
     "og:type": "website"
   },
   {
+    "hostname": "csswizardry.com",
+    "url": "https://csswizardry.com/2026/09/web-perf-wednesday-008-good-inp-rates-keep-falling/",
+    "title": "Web-Perf Wednesday 008 – Good INP Rates Keep Falling – CSS Wizardry",
+    "date": "2026-09-09T09:04:23.056+06:00",
+    "og:title": "Web-Perf Wednesday 008 – Good INP Rates Keep Falling – CSS Wizardry",
+    "og:image": "",
+    "og:description": "CrUX shows another fall in good INP experiences, making careful attribution more useful than a quick explanation.",
+    "og:url": "https://csswizardry.com/2026/09/web-perf-wednesday-008-good-inp-rates-keep-falling/",
+    "og:type": "website"
+  },
+  {
     "hostname": "curiouxify.com",
     "url": "https://curiouxify.com/scrollytelling-examples/",
     "title": "8 Best Scrollytelling Examples to Explore",
@@ -405,6 +493,17 @@
     "og:description": "Free cursive text generator — type any text and instantly copy bold cursive, script, calligraphy and more. Paste into Instagram, TikTok, WhatsApp, Discord and anywhere else. No signup.",
     "og:url": "",
     "og:type": "website"
+  },
+  {
+    "hostname": "design.lightspark.com",
+    "url": "https://design.lightspark.com/limit-the-number-of-details",
+    "title": "Limit the number of details — Lightspark Design",
+    "date": "2026-09-09T03:45:47.366+06:00",
+    "og:title": "Limit the number of details",
+    "og:image": "https://design.lightspark.com/images/og/limit-the-number-of-details.jpg?v=3a5864bca83b5754",
+    "og:description": "Every detail asks for attention. Limiting how many we add is what gives us room to make the ones that remain better.",
+    "og:url": "https://design.lightspark.com/limit-the-number-of-details",
+    "og:type": "article"
   },
   {
     "hostname": "designbeep.com",
@@ -1299,6 +1398,17 @@
   },
   {
     "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2026/09/08/best-ensalada-de-lentejas-near-me/",
+    "title": "Best Ensalada de Lentejas Near Me: The Lentil Salad - Designbeep",
+    "date": "2026-09-09T03:45:01.498+06:00",
+    "og:title": "Best Ensalada de Lentejas Near Me: The Lentil Salad - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2026/09/Best-Ensalada-de-Lentejas-Near-Me.jpg",
+    "og:description": "Searching best ensalada de lentejas near me? Learn which lentils hold their shape, why dressing them warm matters, and how to judge a good version.",
+    "og:url": "https://designbeep.com/2026/09/08/best-ensalada-de-lentejas-near-me/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
     "url": "https://designbeep.com/2026/09/08/best-espetos-malaga-near-me/",
     "title": "Best Espetos Malaga Near Me: Sardines Grilled on the Beach - Designbeep",
     "date": "2026-09-08T07:18:15.133+06:00",
@@ -1306,6 +1416,28 @@
     "og:image": "https://designbeep.com/wp-content/uploads/2026/09/Best-Espetos-Malaga-Near-Me.jpg",
     "og:description": "Searching best espetos malaga near me? Learn how sardines are skewered on cane and grilled in a sand-filled boat, and when the season peaks.",
     "og:url": "https://designbeep.com/2026/09/08/best-espetos-malaga-near-me/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2026/09/08/best-faina-with-pizza-near-me/",
+    "title": "Best Faina with Pizza Near Me: The Buenos Aires Combination - Designbeep",
+    "date": "2026-09-09T03:45:01.488+06:00",
+    "og:title": "Best Faina with Pizza Near Me: The Buenos Aires Combination - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2026/09/Best-Faina-with-Pizza-Near-Me.jpg",
+    "og:description": "Searching best faina with pizza near me? Learn what eating faina a caballo means, why the pairing works, and how to order it like a porteño.",
+    "og:url": "https://designbeep.com/2026/09/08/best-faina-with-pizza-near-me/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2026/09/08/best-marmitako-near-me/",
+    "title": "Best Marmitako Near Me: The Basque Tuna and Potato Stew - Designbeep",
+    "date": "2026-09-09T03:45:01.524+06:00",
+    "og:title": "Best Marmitako Near Me: The Basque Tuna and Potato Stew - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2026/09/Best-Marmitako-Near-Me.jpg",
+    "og:description": "Searching best marmitako near me? Learn why the potatoes are cracked not cut, what choricero peppers contribute, and how to judge this Basque fishermen's stew.",
+    "og:url": "https://designbeep.com/2026/09/08/best-marmitako-near-me/",
     "og:type": "article"
   },
   {
@@ -1328,6 +1460,105 @@
     "og:image": "https://designbeep.com/wp-content/uploads/2026/09/Best-Ropa-Vieja-Venezolana-Near-Me.jpg",
     "og:description": "Searching best ropa vieja venezolana near me? Learn how the Venezuelan version differs from Cuban, why the shred matters, and how to judge a great plate.",
     "og:url": "https://designbeep.com/2026/09/08/best-ropa-vieja-venezolana-near-me/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2026/09/08/best-sopa-de-mani-near-me/",
+    "title": "Best Sopa de Mani Near Me: Bolivia's Peanut Soup - Designbeep",
+    "date": "2026-09-09T03:45:01.509+06:00",
+    "og:title": "Best Sopa de Mani Near Me: Bolivia's Peanut Soup - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2026/09/Best-Sopa-de-Mani-Near-Me.jpg",
+    "og:description": "Searching best sopa de mani near me? Learn what goes into Bolivia's peanut soup, why the fried potato topping matters, and how to judge a great bowl.",
+    "og:url": "https://designbeep.com/2026/09/08/best-sopa-de-mani-near-me/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2026/09/08/why-ai-is-becoming-essential-for-modern-procurement-teams/",
+    "title": "Why AI Is Becoming Essential for Modern Procurement Teams - Designbeep",
+    "date": "2026-09-09T03:45:01.536+06:00",
+    "og:title": "Why AI Is Becoming Essential for Modern Procurement Teams - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2026/09/Procurement-Teams.jpg",
+    "og:description": "Procurement teams today communicate through an array of tools, including emails, spreadsheets, enterprise systems, supplier portals, contracts, invoices and",
+    "og:url": "https://designbeep.com/2026/09/08/why-ai-is-becoming-essential-for-modern-procurement-teams/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2026/09/09/best-caldosa-cubana-near-me/",
+    "title": "Best Caldosa Cubana Near Me: Cuba's Party Stew - Designbeep",
+    "date": "2026-09-09T05:41:11.192+06:00",
+    "og:title": "Best Caldosa Cubana Near Me: Cuba's Party Stew - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2026/09/Best-Caldosa-Cubana-Near-Me.jpg",
+    "og:description": "Searching best caldosa cubana near me? Learn what this thick Cuban stew is, why it is tied to street parties, and how to judge an authentic pot.",
+    "og:url": "https://designbeep.com/2026/09/09/best-caldosa-cubana-near-me/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2026/09/09/best-ensalada-criolla-near-me/",
+    "title": "Best Ensalada Criolla Near Me: The Salad That Cuts the Asado - Designbeep",
+    "date": "2026-09-09T03:45:01.475+06:00",
+    "og:title": "Best Ensalada Criolla Near Me: The Salad That Cuts the Asado - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2026/09/Best-Ensalada-Criolla-Near-Me.jpg",
+    "og:description": "Searching best ensalada criolla near me? Learn what goes in this simple Argentine salad, why it accompanies grilled meat, and how to judge a good one.",
+    "og:url": "https://designbeep.com/2026/09/09/best-ensalada-criolla-near-me/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2026/09/09/best-humintas-near-me-the-corn-husk-parcels/",
+    "title": "Best Humintas Near Me: The Corn Husk Parcels - Designbeep",
+    "date": "2026-09-09T03:45:01.446+06:00",
+    "og:title": "Best Humintas Near Me: The Corn Husk Parcels - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2026/09/Best-Humintas-Near-Me.jpg",
+    "og:description": "Searching best humintas near me? Learn what these steamed fresh corn parcels are, how sweet and savoury versions differ, and how to judge a good one.",
+    "og:url": "https://designbeep.com/2026/09/09/best-humintas-near-me-the-corn-husk-parcels/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2026/09/09/best-locro-argentino-near-me/",
+    "title": "Best Locro Argentino Near Me: Argentina's Patriotic Stew - Designbeep",
+    "date": "2026-09-09T03:45:01.462+06:00",
+    "og:title": "Best Locro Argentino Near Me: Argentina's Patriotic Stew - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2026/09/Best-Locro-Argentino-Near-Me.jpg",
+    "og:description": "Searching best locro argentino near me? Learn what goes in this white corn and squash stew, why it appears on national holidays, and how to judge it.",
+    "og:url": "https://designbeep.com/2026/09/09/best-locro-argentino-near-me/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2026/09/09/best-matambre-a-la-pizza-near-me/",
+    "title": "Best Matambre a la Pizza Near Me: Steak Topped Like a Pizza - Designbeep",
+    "date": "2026-09-09T03:45:01.437+06:00",
+    "og:title": "Best Matambre a la Pizza Near Me: Steak Topped Like a Pizza - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2026/09/Best-Matambre-a-la-Pizza-Near-Me.jpg",
+    "og:description": "Searching best matambre a la pizza near me? Learn what this Argentine grilled beef topped with cheese and sauce is, and how to judge a good one.",
+    "og:url": "https://designbeep.com/2026/09/09/best-matambre-a-la-pizza-near-me/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designshack.net",
+    "url": "https://designshack.net/articles/inspiration/resume-ppt-templates/",
+    "title": "23 Handpicked Creative Resume PowerPoint Templates | Design Shack",
+    "date": "2026-09-09T09:04:23.004+06:00",
+    "og:title": "23 Handpicked Creative Resume PowerPoint Templates",
+    "og:image": "https://designshack.net/wp-content/uploads/resume-ppt-templates.jpg",
+    "og:description": "Today, we’re bringing you a collection of creative resume PowerPoint templates that balance professionalism with personality. These creative PowerPoint templates help you stand out in a sea of plain CVs. From minimal clean designs to artistic layouts with personality, there’s somet...",
+    "og:url": "https://designshack.net/articles/inspiration/resume-ppt-templates/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designshack.net",
+    "url": "https://designshack.net/articles/typography/sparkle-fonts/",
+    "title": "19 Sparkle & Glitter Fonts for Cute & Dazzling Designs | Design Shack",
+    "date": "2026-09-09T09:04:23.031+06:00",
+    "og:title": "19 Sparkle & Glitter Fonts for Cute & Dazzling Designs",
+    "og:image": "https://designshack.net/wp-content/uploads/sparkle-fonts.jpg",
+    "og:description": "Sparkle and glitter fonts add instant charm and shine to various types of designs. We’ve found a bunch of dazzling sparkle fonts to help you achieve that same shine in your projects. In this collection, you’ll find typefaces that shimmer with personality and playful energy.  S...",
+    "og:url": "https://designshack.net/articles/typography/sparkle-fonts/",
     "og:type": "article"
   },
   {
@@ -1541,6 +1772,17 @@
   },
   {
     "hostname": "graphicdesignjunction.com",
+    "url": "https://graphicdesignjunction.com/2026/09/business-powerpoint-presentation-templates/",
+    "title": "Creative Business PowerPoint Presentation Templates",
+    "date": "2026-09-09T06:56:28.945+06:00",
+    "og:title": "Creative Business PowerPoint Presentation Templates",
+    "og:image": "https://i0.wp.com/graphicdesignjunction.com/wp-content/uploads/2026/09/Business-PowerPoint-Presentataion-templates.jpg",
+    "og:description": "Creative business PowerPoint presentation templates ideal for company profiles, business proposals, annual reports, and corporate presentations.",
+    "og:url": "https://graphicdesignjunction.com/2026/09/business-powerpoint-presentation-templates/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "graphicdesignjunction.com",
     "url": "https://graphicdesignjunction.com/2026/09/creative-sports-posters-experimental-typography/",
     "title": "30 Creative Sports Posters with Experimental Typography and Visual Composition",
     "date": "2026-09-06T13:07:09.16+06:00",
@@ -1606,6 +1848,39 @@
     "og:type": "article"
   },
   {
+    "hostname": "ianodad.medium.com",
+    "url": "https://ianodad.medium.com/i-built-an-apple-style-scroll-site-of-nairobis-skyline-with-ai-video-failures-included-42db9ec14a3e?source=rss------front_end-5",
+    "title": "Medium",
+    "date": "2026-09-09T03:45:01.629+06:00",
+    "og:title": "I Built an Apple-Style Scroll Site of Nairobi’s Skyline With AI Video — Failures Included",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*DWF33_BbdIV7F0Xohfb2UQ.png",
+    "og:description": "Link to the website -> https://nairobi-iconic-buildings.vercel.app/",
+    "og:url": "https://ianodad.medium.com/i-built-an-apple-style-scroll-site-of-nairobis-skyline-with-ai-video-failures-included-42db9ec14a3e",
+    "og:type": "article"
+  },
+  {
+    "hostname": "ilovetypography.com",
+    "url": "https://ilovetypography.com/2026/09/09/steven-hellers-font-of-the-month-ege-basalt/",
+    "title": "Steven Heller’s Font of the Month: Ege Basalt — I Love Typography Ltd",
+    "date": "2026-09-09T06:56:28.932+06:00",
+    "og:title": "Steven Heller’s Font of the Month: Ege Basalt — I Love Typography Ltd",
+    "og:image": "https://ilovetypography.com/NEW_BLOG/wp-content/uploads/2026/09/ege-basalt-header-2.avif",
+    "og:description": "I’ve forever fancied fat faces. And not just for the alliteration. A comparatively new design with vintage flavor, the Ege Basalt family that features five fonts (Bold, ExtraBold, Heavy, Medium, and Regular) in a “Cubist Bold” art deco-inspired sans serif, I’ve found the perfect weight. Not only are the Bold, ExtraBold, and Heavy mammoth to an extreme, but the Medium, Regular have a grandiose blackness that perfectly complements their corpulent cousin.",
+    "og:url": "https://ilovetypography.com/2026/09/09/steven-hellers-font-of-the-month-ege-basalt/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "intrepid-ani.medium.com",
+    "url": "https://intrepid-ani.medium.com/express-validator-simple-request-validation-in-express-1f8f53c7f69e",
+    "title": "Express Validator: Simple Request Validation in Express | by ani | Sep, 2026 | Medium",
+    "date": "2026-09-09T06:56:28.959+06:00",
+    "og:title": "Express Validator: Simple Request Validation in Express",
+    "og:image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+    "og:description": "When building an Express API, one thing you should never assume is that the data coming from the client is valid.",
+    "og:url": "https://intrepid-ani.medium.com/express-validator-simple-request-validation-in-express-1f8f53c7f69e",
+    "og:type": "article"
+  },
+  {
     "hostname": "jasonsantamaria.com",
     "url": "https://jasonsantamaria.com/blog/css-is-still-awesome",
     "title": "CSS is Still Awesome • Jason Santa Maria",
@@ -1658,6 +1933,369 @@
     "og:image": "https://judgmentkit.ai/assets/judgmentkit-social-thumbnail-20260723-v2.png",
     "og:description": "JudgmentKit helps AI agents understand the user's work, choose the right interface, and repair what does not fit.",
     "og:url": "https://judgmentkit.ai/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/97132-sOmestr",
+    "title": "SÖMESTR on Landbook - get inspired by portfolio design and more",
+    "date": "2026-09-09T05:40:02.708+06:00",
+    "og:title": "SÖMESTR on Landbook - get inspired by portfolio design and more",
+    "og:image": "https://cdn.land-book.com/website/97132/97132-somestr-1788772467-og-image.webp",
+    "og:description": "SÖMESTR on Landbook - get inspired by portfolio design and more",
+    "og:url": "https://land-book.com/websites/97132-sOmestr",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/97685-miren-A-wedding-invitation-website-template",
+    "title": "Miren · Wedding Invitation Website Template | Landbook",
+    "date": "2026-09-09T05:40:02.981+06:00",
+    "og:title": "Miren · Wedding Invitation Website Template | Landbook",
+    "og:image": "https://cdn.land-book.com/website/97685/97685-miren-wedding-invitation-website-template-1784035962-og-image.webp",
+    "og:description": "Miren · Wedding Invitation Website Template, from $69. Design by Irem Geldry. Live preview, pricing and details on Landbook.",
+    "og:url": "https://land-book.com/websites/97685-miren-A-wedding-invitation-website-template",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/97686-wedded-A-wedding-invitation-website-template",
+    "title": "Wedded · Wedding Invitation Website Template | Landbook",
+    "date": "2026-09-09T05:40:02.814+06:00",
+    "og:title": "Wedded · Wedding Invitation Website Template | Landbook",
+    "og:image": "https://cdn.land-book.com/website/97686/97686-wedded-wedding-invitation-website-template-1784035973-og-image.webp",
+    "og:description": "Wedded · Wedding Invitation Website Template, $69. Design by Irem Geldry. Live preview, pricing and details on Landbook.",
+    "og:url": "https://land-book.com/websites/97686-wedded-A-wedding-invitation-website-template",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/97691-agently-saas-and-startup-framer-template",
+    "title": "Agently - SaaS & Startup Framer Template | Landbook",
+    "date": "2026-09-09T05:40:02.771+06:00",
+    "og:title": "Agently - SaaS & Startup Framer Template | Landbook",
+    "og:image": "https://cdn.land-book.com/website/97691/97691-agently-saas-and-startup-framer-template-1784630654-og-image.webp",
+    "og:description": "Agently - SaaS & Startup Framer Template, $129. Design by Fikri Setiawan. Live preview, pricing and details on Landbook.",
+    "og:url": "https://land-book.com/websites/97691-agently-saas-and-startup-framer-template",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/97711-calmlyss-website-page-template-for-webflow",
+    "title": "Calmlyss - Website Page Template for Webflow | Landbook",
+    "date": "2026-09-09T05:40:02.906+06:00",
+    "og:title": "Calmlyss - Website Page Template for Webflow | Landbook",
+    "og:image": "https://cdn.land-book.com/website/97711/97711-calmlyss-website-page-template-for-webflow-1784203407-og-image.webp",
+    "og:description": "Calmlyss - Website Page Template for Webflow, $99. Design by Ink Studio. Live preview, pricing and details on Landbook.",
+    "og:url": "https://land-book.com/websites/97711-calmlyss-website-page-template-for-webflow",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/97774-solva-a-ai-and-saas-template-for-framer",
+    "title": "Solva - AI & SaaS Template for Framer | Landbook",
+    "date": "2026-09-09T05:40:03.027+06:00",
+    "og:title": "Solva - AI & SaaS Template for Framer | Landbook",
+    "og:image": "https://cdn.land-book.com/website/97774/97774-solva-ai-and-saas-template-for-framer-1784293470-og-image.webp",
+    "og:description": "Solva - AI & SaaS Template for Framer, $129. Design by Kadir Calik. Live preview, pricing and details on Landbook.",
+    "og:url": "https://land-book.com/websites/97774-solva-a-ai-and-saas-template-for-framer",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/97810-agenticx-a-ai-agent-platform",
+    "title": "AgenticX - AI Agent Platform - Framer Website Template | Landbook",
+    "date": "2026-09-09T05:40:02.859+06:00",
+    "og:title": "AgenticX - AI Agent Platform - Framer Website Template | Landbook",
+    "og:image": "https://cdn.land-book.com/website/97810/97810-agenticx-ai-agent-platform-1784296820-og-image.webp",
+    "og:description": "AgenticX - AI Agent Platform is a Framer website template, $99. Design by FTC Studio. Live preview, pricing and details on Landbook.",
+    "og:url": "https://land-book.com/websites/97810-agenticx-a-ai-agent-platform",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/97811-stratwell-a-business-consulting-and-strategy-advisory-framer-website-template",
+    "title": "Stratwell - Business Consulting and Strategy Advisory Framer Website Template | Landbook",
+    "date": "2026-09-09T05:40:02.723+06:00",
+    "og:title": "Stratwell - Business Consulting and Strategy Advisory Framer Website Template | Landbook",
+    "og:image": "https://cdn.land-book.com/website/97811/97811-stratwell-business-consulting-and-strategy-1785925006-og-image.webp",
+    "og:description": "Stratwell - Business Consulting and Strategy Advisory Framer Website Template, free. Design by Igor Chernyshov. Live preview, pricing and details on Landbook.",
+    "og:url": "https://land-book.com/websites/97811-stratwell-a-business-consulting-and-strategy-advisory-framer-website-template",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/98110-lamosa-studio-premium-agency-saas-template",
+    "title": "Lamossa Studio - Premium agency / Saas template | Landbook",
+    "date": "2026-09-09T05:40:02.943+06:00",
+    "og:title": "Lamossa Studio - Premium agency / Saas template | Landbook",
+    "og:image": "https://cdn.land-book.com/website/98110/98110-lamosa-studio-premium-agency-saas-template-1785148213-og-image.webp",
+    "og:description": "Lamossa Studio - Premium agency / Saas template, $99. Design by Lunixify Studio LLC. Live preview, pricing and details on Landbook.",
+    "og:url": "https://land-book.com/websites/98110-lamosa-studio-premium-agency-saas-template",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/98174-concourse-ai-transformation-for-finance",
+    "title": "Concourse | AI transformation for finance. on Landbook - get inspired by landing design and more",
+    "date": "2026-09-09T05:40:02.657+06:00",
+    "og:title": "Concourse | AI transformation for finance. on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/98174/98174-concourse-ai-transformation-for-finance-1788772580-og-image.webp",
+    "og:description": "Concourse | AI transformation for finance. on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/98174-concourse-ai-transformation-for-finance",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/98250-mintlify-the-knowledge-platform-built-for-agents",
+    "title": "Mintlify - The Knowledge Platform Built for Agents on Landbook - get inspired by landing design and more",
+    "date": "2026-09-09T05:40:02.87+06:00",
+    "og:title": "Mintlify - The Knowledge Platform Built for Agents on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/98250/98250-mintlify-the-knowledge-platform-built-for-agents-1788256458-og-image.webp",
+    "og:description": "Mintlify - The Knowledge Platform Built for Agents on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/98250-mintlify-the-knowledge-platform-built-for-agents",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/98255-cluster",
+    "title": "Cluster on Landbook - get inspired by landing design and more",
+    "date": "2026-09-09T05:40:02.914+06:00",
+    "og:title": "Cluster on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/98255/98255-cluster-1788164731-og-image.webp",
+    "og:description": "Cluster on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/98255-cluster",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/98256-goodside-an-independent-brand-design-studio",
+    "title": "Goodside → An independent brand design studio on Landbook - get inspired by portfolio design and more",
+    "date": "2026-09-09T05:40:02.936+06:00",
+    "og:title": "Goodside → An independent brand design studio on Landbook - get inspired by portfolio design and more",
+    "og:image": "https://cdn.land-book.com/website/98256/98256-goodside-an-independent-brand-design-studio-1788164571-og-image.webp",
+    "og:description": "Goodside → An independent brand design studio on Landbook - get inspired by portfolio design and more",
+    "og:url": "https://land-book.com/websites/98256-goodside-an-independent-brand-design-studio",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/98633-caphe-roasters-caphe-roasters-subscriptions",
+    "title": "Caphe Roasters – Càphê Roasters Subscriptions on Landbook - get inspired by ecommerce design and more",
+    "date": "2026-09-09T05:40:02.848+06:00",
+    "og:title": "Caphe Roasters – Càphê Roasters Subscriptions on Landbook - get inspired by ecommerce design and more",
+    "og:image": "https://cdn.land-book.com/website/98633/98633-caphe-roasters-caphe-roasters-subscriptions-1788337311-og-image.webp",
+    "og:description": "Caphe Roasters – Càphê Roasters Subscriptions on Landbook - get inspired by ecommerce design and more",
+    "og:url": "https://land-book.com/websites/98633-caphe-roasters-caphe-roasters-subscriptions",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/98932-ploy",
+    "title": "Ploy on Landbook - get inspired by landing design and more",
+    "date": "2026-09-09T05:40:02.891+06:00",
+    "og:title": "Ploy on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/98932/98932-ploy-1788256087-og-image.webp",
+    "og:description": "Ploy on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/98932-ploy",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/99065-your-multichain-defi-hub",
+    "title": "Your Multichain DeFi Hub on Landbook - get inspired by landing design and more",
+    "date": "2026-09-09T05:40:02.797+06:00",
+    "og:title": "Your Multichain DeFi Hub on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/99065/99065-your-multichain-defi-hub-1788422267-og-image.webp",
+    "og:description": "Your Multichain DeFi Hub on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/99065-your-multichain-defi-hub",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/99202-nominal-o-nominal-agentic-ai-platform-that-runs-your-accounting",
+    "title": "Nominal • Nominal | Agentic AI Platform That Runs Your Accounting on Landbook - get inspired by landing design and more",
+    "date": "2026-09-09T05:40:03.004+06:00",
+    "og:title": "Nominal • Nominal | Agentic AI Platform That Runs Your Accounting on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/99202/99202-nominal-o-nominal-agentic-ai-platform-that-runs-1787816430-og-image.webp",
+    "og:description": "Nominal • Nominal | Agentic AI Platform That Runs Your Accounting on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/99202-nominal-o-nominal-agentic-ai-platform-that-runs-your-accounting",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/99266-alethia",
+    "title": "Alethia on Landbook - get inspired by other design and more",
+    "date": "2026-09-09T05:40:03.016+06:00",
+    "og:title": "Alethia on Landbook - get inspired by other design and more",
+    "og:image": "https://cdn.land-book.com/website/99266/99266-alethia-1787816311-og-image.webp",
+    "og:description": "Alethia on Landbook - get inspired by other design and more",
+    "og:url": "https://land-book.com/websites/99266-alethia",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/99267-eladio-dieste",
+    "title": "Eladio Dieste on Landbook - get inspired by other design and more",
+    "date": "2026-09-09T05:40:02.972+06:00",
+    "og:title": "Eladio Dieste on Landbook - get inspired by other design and more",
+    "og:image": "https://cdn.land-book.com/website/99267/99267-eladio-dieste-1787905630-og-image.webp",
+    "og:description": "Eladio Dieste on Landbook - get inspired by other design and more",
+    "og:url": "https://land-book.com/websites/99267-eladio-dieste",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/99362-ai-human-intelligence-through-the-full-customer-journey-level-ai",
+    "title": "AI + human intelligence through the full customer journey | Level AI on Landbook - get inspired by landing design and more",
+    "date": "2026-09-09T05:40:02.992+06:00",
+    "og:title": "AI + human intelligence through the full customer journey | Level AI on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/99362/99362-ai-human-intelligence-through-the-full-customer-1787816560-og-image.webp",
+    "og:description": "AI + human intelligence through the full customer journey | Level AI on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/99362-ai-human-intelligence-through-the-full-customer-journey-level-ai",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/99373-voiceflow-enterprise-conversational-ai-platform-and-voice-ai",
+    "title": "Voiceflow | Enterprise Conversational AI Platform & Voice AI on Landbook - get inspired by landing design and more",
+    "date": "2026-09-09T05:40:02.953+06:00",
+    "og:title": "Voiceflow | Enterprise Conversational AI Platform & Voice AI on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/99373/99373-voiceflow-enterprise-conversational-ai-platform-1787905957-og-image.webp",
+    "og:description": "Voiceflow | Enterprise Conversational AI Platform & Voice AI on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/99373-voiceflow-enterprise-conversational-ai-platform-and-voice-ai",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/99401-direct-design-agency-go-the-direct-way-to-better-brands-and-experiences",
+    "title": "Direct Design Agency | Go the Direct Way to Better Brands & Experiences on Landbook - get inspired by portfolio design and more",
+    "date": "2026-09-09T05:40:02.966+06:00",
+    "og:title": "Direct Design Agency | Go the Direct Way to Better Brands & Experiences on Landbook - get inspired by portfolio design and more",
+    "og:image": "https://cdn.land-book.com/website/99401/99401-direct-design-agency-go-the-direct-way-to-better-1787905847-og-image.webp",
+    "og:description": "Direct Design Agency | Go the Direct Way to Better Brands & Experiences on Landbook - get inspired by portfolio design and more",
+    "og:url": "https://land-book.com/websites/99401-direct-design-agency-go-the-direct-way-to-better-brands-and-experiences",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/99459-marian-fusek-creative-director-brand-ui-ai-and-visual-designer",
+    "title": "Marian Fusek — Creative Director, Brand, UI, AI & Visual Designer on Landbook - get inspired by portfolio design and more",
+    "date": "2026-09-09T05:40:02.924+06:00",
+    "og:title": "Marian Fusek — Creative Director, Brand, UI, AI & Visual Designer on Landbook - get inspired by portfolio design and more",
+    "og:image": "https://cdn.land-book.com/website/99459/99459-marian-fusek-creative-director-brand-ui-ai-and-1788164430-og-image.webp",
+    "og:description": "Marian Fusek — Creative Director, Brand, UI, AI & Visual Designer on Landbook - get inspired by portfolio design and more",
+    "og:url": "https://land-book.com/websites/99459-marian-fusek-creative-director-brand-ui-ai-and-visual-designer",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/99505-ai-front-door-for-legal-and-compliance-bayshore",
+    "title": "AI Front Door for Legal & Compliance | Bayshore on Landbook - get inspired by landing design and more",
+    "date": "2026-09-09T05:40:02.784+06:00",
+    "og:title": "AI Front Door for Legal & Compliance | Bayshore on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/99505/99505-ai-front-door-for-legal-and-compliance-bayshore-1788422623-og-image.webp",
+    "og:description": "AI Front Door for Legal & Compliance | Bayshore on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/99505-ai-front-door-for-legal-and-compliance-bayshore",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/99506-werk-onchain-finance-platform-for-invoicing-and-payroll",
+    "title": "Werk | Onchain Finance Platform for Invoicing & Payroll on Landbook - get inspired by landing design and more",
+    "date": "2026-09-09T05:40:02.629+06:00",
+    "og:title": "Werk | Onchain Finance Platform for Invoicing & Payroll on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/99506/99506-werk-onchain-finance-platform-for-invoicing-and-1788859798-og-image.webp",
+    "og:description": "Werk | Onchain Finance Platform for Invoicing & Payroll on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/99506-werk-onchain-finance-platform-for-invoicing-and-payroll",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/99527-meeting-scheduling-software-and-ai-meeting-tools-calendly",
+    "title": "Meeting Scheduling Software and AI Meeting Tools | Calendly on Landbook - get inspired by landing design and more",
+    "date": "2026-09-09T05:40:02.591+06:00",
+    "og:title": "Meeting Scheduling Software and AI Meeting Tools | Calendly on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/99527/99527-meeting-scheduling-software-and-ai-meeting-tools-1788860201-og-image.webp",
+    "og:description": "Meeting Scheduling Software and AI Meeting Tools | Calendly on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/99527-meeting-scheduling-software-and-ai-meeting-tools-calendly",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/99549-mara-arredi-di-design-per-ufficio-contract-e-casa-100-made-in-italy",
+    "title": "Mara, arredi di design per ufficio, contract e casa. 100% made in Italy. on Landbook - get inspired by portfolio design and more",
+    "date": "2026-09-09T05:40:02.603+06:00",
+    "og:title": "Mara, arredi di design per ufficio, contract e casa. 100% made in Italy. on Landbook - get inspired by portfolio design and more",
+    "og:image": "https://cdn.land-book.com/website/99549/99549-mara-arredi-di-design-per-ufficio-contract-e-casa-1788859876-og-image.webp",
+    "og:description": "Mara, arredi di design per ufficio, contract e casa. 100% made in Italy. on Landbook - get inspired by portfolio design and more",
+    "og:url": "https://land-book.com/websites/99549-mara-arredi-di-design-per-ufficio-contract-e-casa-100-made-in-italy",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/99552-abel-fragrance-100-natural-perfume",
+    "title": "Abel Fragrance - 100% Natural Perfume on Landbook - get inspired by ecommerce design and more",
+    "date": "2026-09-09T05:40:02.885+06:00",
+    "og:title": "Abel Fragrance - 100% Natural Perfume on Landbook - get inspired by ecommerce design and more",
+    "og:image": "https://cdn.land-book.com/website/99552/99552-abel-fragrance-100-natural-perfume-1788256129-og-image.webp",
+    "og:description": "Abel Fragrance - 100% Natural Perfume on Landbook - get inspired by ecommerce design and more",
+    "og:url": "https://land-book.com/websites/99552-abel-fragrance-100-natural-perfume",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/99553-primefold-a-all-the-layers-one-intelligence",
+    "title": "Primefold - All the layers, one intelligence on Landbook - get inspired by landing design and more",
+    "date": "2026-09-09T05:40:02.823+06:00",
+    "og:title": "Primefold - All the layers, one intelligence on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/99553/99553-primefold-all-the-layers-one-intelligence-1788337599-og-image.webp",
+    "og:description": "Primefold - All the layers, one intelligence on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/99553-primefold-a-all-the-layers-one-intelligence",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/99555-portfolio-2010-2026",
+    "title": "Yuriy Starikov — Portfolio — 2010—2026 on Landbook - get inspired by portfolio design and more",
+    "date": "2026-09-09T05:40:02.838+06:00",
+    "og:title": "Yuriy Starikov — Portfolio — 2010—2026 on Landbook - get inspired by portfolio design and more",
+    "og:image": "https://cdn.land-book.com/website/99555/99555-yuriy-starikov-portfolio-2010-2026-1788337456-og-image.webp",
+    "og:description": "Yuriy Starikov — Portfolio — 2010—2026 on Landbook - get inspired by portfolio design and more",
+    "og:url": "https://land-book.com/websites/99555-portfolio-2010-2026",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/99586-kobbe-web-analytics-that-respect-your-visitors",
+    "title": "Kobbe: Web analytics that respect your visitors on Landbook - get inspired by landing design and more",
+    "date": "2026-09-09T05:40:02.674+06:00",
+    "og:title": "Kobbe: Web analytics that respect your visitors on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/99586/99586-kobbe-web-analytics-that-respect-your-visitors-1788772526-og-image.webp",
+    "og:description": "Kobbe: Web analytics that respect your visitors on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/99586-kobbe-web-analytics-that-respect-your-visitors",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/99600-aevion-autonomous-lidar-inspection-drone",
+    "title": "Aevion — autonomous LiDAR inspection drone on Landbook - get inspired by landing design and more",
+    "date": "2026-09-09T05:40:02.76+06:00",
+    "og:title": "Aevion — autonomous LiDAR inspection drone on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/99600/99600-aevion-autonomous-lidar-inspection-drone-1788509665-og-image.webp",
+    "og:description": "Aevion — autonomous LiDAR inspection drone on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/99600-aevion-autonomous-lidar-inspection-drone",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/99655-smarter-spending-for-your-business-pleo",
+    "title": "Smarter spending for your business - Pleo on Landbook - get inspired by landing design and more",
+    "date": "2026-09-09T05:40:02.739+06:00",
+    "og:title": "Smarter spending for your business - Pleo on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/99655/99655-smarter-spending-for-your-business-pleo-1788509726-og-image.webp",
+    "og:description": "Smarter spending for your business - Pleo on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/99655-smarter-spending-for-your-business-pleo",
     "og:type": "website"
   },
   {
@@ -1714,6 +2352,17 @@
     "og:description": "AI interface patterns for what comes next: the missing states designed, the missing features working.",
     "og:url": "https://lucet.design/",
     "og:type": "website"
+  },
+  {
+    "hostname": "mattstromawn.com",
+    "url": "https://mattstromawn.com/writing/the-least-wrong-colors-version-2/",
+    "title": "The least wrong colors, version 2 || Matt Ström-Awn, designer-leader",
+    "date": "2026-09-09T03:45:47.912+06:00",
+    "og:title": "The least wrong colors, version 2",
+    "og:image": "https://mattstromawn.com/images/og/og-78c0136f00-1200.jpeg",
+    "og:description": "An updated algorithm, npm package, and UI for color palettes",
+    "og:url": "https://mattstromawn.com/writing/the-least-wrong-colors-version-2/",
+    "og:type": "article"
   },
   {
     "hostname": "medium.com",
@@ -2047,6 +2696,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@habibaehsan/html5-advertising-design-creating-digital-banners-that-communicate-faster-53fecb0a68d4",
+    "title": "HTML5 Advertising Design: Creating Digital Banners That Communicate Faster | by Archaic Habiba | Sep, 2026 | Medium",
+    "date": "2026-09-09T09:04:23.074+06:00",
+    "og:title": "HTML5 Advertising Design: Creating Digital Banners That Communicate Faster",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*sa8ppNi0Bs-GiQPFU7euqg.jpeg",
+    "og:description": "Online advertising has a communication challenge: there is limited space and limited attention. A digital advertising creative must often…",
+    "og:url": "https://medium.com/@habibaehsan/html5-advertising-design-creating-digital-banners-that-communicate-faster-53fecb0a68d4",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@habibaihsan/how-to-create-better-html5-display-ads-for-google-advertising-campaigns-589a2f9cfc7f",
     "title": "How to Create Better HTML5 Display Ads for Google Advertising Campaigns | by Habiba Ihsan | Sep, 2026 | Medium",
     "date": "2026-09-07T07:01:52.227+06:00",
@@ -2131,6 +2791,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:800/1*1MAtScK4GckCT9dH9L2s0A.png",
     "og:description": "SEO improves your website visibility and helps more customers discover your business through search engines. With SEO services, our team…",
     "og:url": "https://medium.com/@info.bishopwebworks/why-are-seo-services-important-for-your-business-bd934b20116a",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@jashandeepk22000/how-javascript-finds-variables-scope-lexical-environment-scope-chain-0e5499fc6798?source=rss------front_end-5",
+    "title": "Medium",
+    "date": "2026-09-09T03:45:01.664+06:00",
+    "og:title": "How JavaScript Finds Variables: Scope, Lexical Environment & Scope Chain",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*_xzt3cO2FF2sfvGT-iN34w.png",
+    "og:description": "In the previous blog, we learned how JavaScript executes code using Execution Contexts and the Call Stack.",
+    "og:url": "https://medium.com/@jashandeepk22000/how-javascript-finds-variables-scope-lexical-environment-scope-chain-0e5499fc6798",
     "og:type": "article"
   },
   {
@@ -2421,6 +3092,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@sachithsbandara/container-queries-have-a-secret-feature-nobodys-talking-about-it-makes-components-smarter-dbcb9477d980?source=rss------css-5",
+    "title": "Medium",
+    "date": "2026-09-09T03:45:01.581+06:00",
+    "og:title": "Container Queries Have a Secret Feature Nobody’s Talking About. It Makes Components Smarter.",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*cQ0NB6JOSxu_WLcX5hQtuw.jpeg",
+    "og:description": "You read the container queries article. You understood the size-based part. There’s a second half most tutorials skip entirely and it…",
+    "og:url": "https://medium.com/@sachithsbandara/container-queries-have-a-secret-feature-nobodys-talking-about-it-makes-components-smarter-dbcb9477d980",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@sachithsbandara/css-container-queries-the-end-of-make-it-responsive-based-on-the-window-e18b1b884ccf",
     "title": "CSS Container Queries: The End of “Make It Responsive Based on the Window”. | by S. Sam (Web Dev | SEO Specialist) | Sep, 2026 | Medium",
     "date": "2026-09-03T08:46:34.676+06:00",
@@ -2498,6 +3180,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@ssiddula.dev/the-frontend-testing-identity-crisis-34114d664223",
+    "title": "The Frontend Testing Identity Crisis | by Sreekar Siddula | Sep, 2026 | Medium",
+    "date": "2026-09-09T07:08:32.764+06:00",
+    "og:title": "The Frontend Testing Identity Crisis",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*D7M8nFTk9DB2Vs5KWkgtwA.jpeg",
+    "og:description": "From Enzyme to Playwright — and How AI Changes Everything",
+    "og:url": "https://medium.com/@ssiddula.dev/the-frontend-testing-identity-crisis-34114d664223",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@syamkumar0418/next-js-saas-template-vs-boilerplate-which-one-do-you-actually-need-in-2026-76405780fe1d",
     "title": "Next.js SaaS Template vs. Boilerplate: Which One Do You Actually Need in 2026? | by Syamkumar | Sep, 2026 | Medium",
     "date": "2026-09-02T03:00:10.421+06:00",
@@ -2571,6 +3264,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1024/1*7PhY8dDmtCNCq7hLg3UH-A.png",
     "og:description": "JavaScript doesn’t always execute code from top to bottom. Conditional statements and control flow allow your program to make decisions…",
     "og:url": "https://medium.com/@tuhinkairi/javascript-control-flow-if-switch-loops-break-continue-day-13-a5c4d9790734",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@varshiniya/key-website-features-every-growing-business-should-invest-in-today-7b4574427c4e",
+    "title": "Key Website Features Every Growing Business Should Invest in Today | by Varshiniya Niftysoft Solution Private Limited | Sep, 2026 | Medium",
+    "date": "2026-09-09T09:04:23.086+06:00",
+    "og:title": "Key Website Features Every Growing Business Should Invest in Today",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*4MMYH1YWc32yuEE2rqZVKg.png",
+    "og:description": "A business website is no longer just an online brochure. For growing businesses, it can become one of the most important tools for…",
+    "og:url": "https://medium.com/@varshiniya/key-website-features-every-growing-business-should-invest-in-today-7b4574427c4e",
     "og:type": "article"
   },
   {
@@ -2681,6 +3385,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*yBLGciuT5SU6GvYkU_QO5A.jpeg",
     "og:description": "I used to think I was bad at CSS. I could write HTML. I understood JavaScript. But whenever I had to build a real UI, CSS somehow turned…",
     "og:url": "https://medium.com/javarevisited/5-css-concepts-i-wish-i-learned-earlier-146fbefd6f6d",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/postbuzz/social-media-scheduling-the-complete-guide-for-2026-6ff5b259ff7c?source=rss------sass-5",
+    "title": "Medium",
+    "date": "2026-09-09T03:45:47.848+06:00",
+    "og:title": "Social Media Scheduling: The Complete Guide for 2026",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*r642UIWmCFutB2uhyfVS_w.png",
+    "og:description": "A complete 2026 guide to social media scheduling: how it works, the best times to post, cadence strategy, the native-scheduling limits, and…",
+    "og:url": "https://medium.com/postbuzz/social-media-scheduling-the-complete-guide-for-2026-6ff5b259ff7c",
     "og:type": "article"
   },
   {
@@ -2850,6 +3565,17 @@
   },
   {
     "hostname": "onepagelove.com",
+    "url": "https://onepagelove.com/aevion",
+    "title": "Aevion — One Page Website Award",
+    "date": "2026-09-09T03:45:48.029+06:00",
+    "og:title": "Aevion — One Page Website Award",
+    "og:image": "https://assets.onepagelove.com/cdn-cgi/image/width=1200,height=628,fit=cover,gravity=top,format=jpg,quality=85/wp-content/uploads/2026/09/opl-screenshot-aevion-1788438360562-desktop.jpg",
+    "og:description": "The Aevion site combines photorealistic 3D drone imagery, technical data displays, pale monochrome typography and scroll-controlled reveals with interactive WebGL elements. It captures three-dimensional environment data using LiDAR technology in a foldable 42-centimeter device.",
+    "og:url": "https://onepagelove.com/aevion",
+    "og:type": "website"
+  },
+  {
+    "hostname": "onepagelove.com",
     "url": "https://onepagelove.com/brikkenco",
     "title": "Brikken+Co — One Page Website Award",
     "date": "2026-09-02T09:57:10.299+06:00",
@@ -2960,6 +3686,17 @@
   },
   {
     "hostname": "onepagelove.com",
+    "url": "https://onepagelove.com/smallbits",
+    "title": "Smallbits — One Page Website Award",
+    "date": "2026-09-09T03:45:47.797+06:00",
+    "og:title": "Smallbits — One Page Website Award",
+    "og:image": "https://assets.onepagelove.com/cdn-cgi/image/width=1200,height=628,fit=cover,gravity=top,format=jpg,quality=85/wp-content/uploads/2026/09/smallbits.design_.full-page-previewpng.png",
+    "og:description": "We love a free tool! Smallbits provides over 290 pixelated icons designed on an 8×8 grid, free for personal and commercial use.",
+    "og:url": "https://onepagelove.com/smallbits",
+    "og:type": "website"
+  },
+  {
+    "hostname": "onepagelove.com",
     "url": "https://onepagelove.com/uglycash",
     "title": "UGLYCASH — One Page Website Award",
     "date": "2026-09-01T02:50:34.96+06:00",
@@ -2979,6 +3716,17 @@
     "og:description": "See how camera control, time, fog, water, traffic, ships, and birds turn the Golden Gate Bridge into an interactive browser-native 3D scene.",
     "og:url": "https://opengame.app/blog/browser-3d-scene-design-golden-gate-bridge",
     "og:type": "article"
+  },
+  {
+    "hostname": "opensourceui.in",
+    "url": "https://opensourceui.in/",
+    "title": "Opensource UI — Free, open-source, production-ready components for React & Next.js — built with TypeScript and Tailwind CSS. | Opensource UI",
+    "date": "2026-09-09T03:45:47.393+06:00",
+    "og:title": "Opensource UI — Free, open-source, production-ready components for React & Next.js — built with TypeScript and Tailwind CSS.",
+    "og:image": "https://opensourceui.in/opensourceui-banner.png",
+    "og:description": "Opensource UI is a free, MIT-licensed copy-paste library of 200+ production-ready React and Next.js components. Built with TypeScript and Tailwind CSS v4. Browse live previews and copy source code at opensourceui.in.",
+    "og:url": "https://opensourceui.in",
+    "og:type": "website"
   },
   {
     "hostname": "papaya.fyi",
@@ -3432,6 +4180,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "splitanimage.com",
+    "url": "https://splitanimage.com/",
+    "title": "Free Image Splitter Online — Split Image Into Equal Parts, Grid & More",
+    "date": "2026-09-09T03:49:01.695+06:00",
+    "og:title": "Free Image Splitter Online — Split Image Into Equal Parts, Grid & More",
+    "og:image": "https://splitanimage.com/cover.png",
+    "og:description": "Free online image splitter. Cut a photo into equal parts, grids, squares or circles right in your browser — no upload, no sign-up. Split image into 2, 3, 4, 5 parts and download PNG or ZIP instantly.",
+    "og:url": "https://splitanimage.com/",
+    "og:type": "website"
+  },
+  {
     "hostname": "stephaniewalter.design",
     "url": "https://stephaniewalter.design/blog/pixels-of-the-week-september-6-2026/",
     "title": "Pixels of the Week – September 6, 2026 by Stéphanie Walter - UX Researcher & Designer.",
@@ -3605,6 +4364,17 @@
     "og:image": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/08/Biab.png?x57826",
     "og:description": "How a meshline habit turned into a tube renderer, and the three ways I got the maths wrong along the way.",
     "og:url": "https://tympanus.net/codrops/2026/09/07/drawing-with-light-an-exploration-of-lit-gpu-tubes-with-tsl-and-webgpu/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "tympanus.net",
+    "url": "https://tympanus.net/codrops/2026/09/08/building-an-infinite-liquid-glass-grid-with-three-js-webgpu-and-tsl/",
+    "title": "Building an Infinite Liquid Glass Grid with Three.js, WebGPU, and TSL | Codrops",
+    "date": "2026-09-09T03:45:47.781+06:00",
+    "og:title": "Building an Infinite Liquid Glass Grid with Three.js, WebGPU, and TSL | Codrops",
+    "og:image": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/09/cover_glass.png?x57826",
+    "og:description": "An exploration of infinite grids, liquid glass, and video refraction using Three.js, WebGPU, TSL, and custom shaders.",
+    "og:url": "https://tympanus.net/codrops/2026/09/08/building-an-infinite-liquid-glass-grid-with-three-js-webgpu-and-tsl/",
     "og:type": "article"
   },
   {
@@ -3840,6 +4610,17 @@
   },
   {
     "hostname": "uxdesign.cc",
+    "url": "https://uxdesign.cc/if-you-can-externalize-your-design-process-you-can-win-back-your-time-59c531521346",
+    "title": "If you can externalize your design process, you can win back your time | by Kai Wong | Sep, 2026 | UX Collective",
+    "date": "2026-09-09T03:45:01.714+06:00",
+    "og:title": "If you can externalize your design process, you can win back your time",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*womFByvsxWWkMHFE-u9Kyw.jpeg",
+    "og:description": "How Skill.MD helps you spell out the depth of your work for your team and organization",
+    "og:url": "https://uxdesign.cc/if-you-can-externalize-your-design-process-you-can-win-back-your-time-59c531521346",
+    "og:type": "article"
+  },
+  {
+    "hostname": "uxdesign.cc",
     "url": "https://uxdesign.cc/making-ky%C5%8Dwa-possible-with-ai-9f4bf8fae315",
     "title": "Making kyōwa possible with AI. On unbundling the Send button, so that… | by Hiroshi Sato | Sep, 2026 | UX Collective",
     "date": "2026-09-03T02:06:26.921+06:00",
@@ -3847,6 +4628,28 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*w_S9Inq1V81oYQqr7hxPaw.png",
     "og:description": "On unbundling the Send button, so that words can work as sketches",
     "og:url": "https://uxdesign.cc/making-ky%C5%8Dwa-possible-with-ai-9f4bf8fae315",
+    "og:type": "article"
+  },
+  {
+    "hostname": "uxdesign.cc",
+    "url": "https://uxdesign.cc/most-ai-problems-are-really-human-problems-this-is-how-you-can-fix-it-ab64843f845e",
+    "title": "Most AI problems are really human problems | by Patrick Neeman | Sep, 2026 | UX Collective",
+    "date": "2026-09-09T03:45:01.548+06:00",
+    "og:title": "Most AI problems are really human problems",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*DhYWk4EjbGTNhvGzwOfzvw.png",
+    "og:description": "The cause sits upstream: unread intent, missing oversight, thin context, loose language, unset expectations, no evals, fuzzy outcomes, and…",
+    "og:url": "https://uxdesign.cc/most-ai-problems-are-really-human-problems-this-is-how-you-can-fix-it-ab64843f845e",
+    "og:type": "article"
+  },
+  {
+    "hostname": "uxdesign.cc",
+    "url": "https://uxdesign.cc/persistent-lessons-in-human-centered-automation-45b53412e6a5",
+    "title": "Persistent lessons in human-centered automation | by Meg Kurdziolek | Sep, 2026 | UX Collective",
+    "date": "2026-09-09T03:45:01.563+06:00",
+    "og:title": "Persistent lessons in human-centered automation",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*9TwDqgP0J42XZmP1G_oqiw.jpeg",
+    "og:description": "What a 1980s photocopier study reveals about the Agentic UX era",
+    "og:url": "https://uxdesign.cc/persistent-lessons-in-human-centered-automation-45b53412e6a5",
     "og:type": "article"
   },
   {
@@ -4049,6 +4852,17 @@
   },
   {
     "hostname": "uxplanet.org",
+    "url": "https://uxplanet.org/gpt-6-astra-vs-opus-5-which-one-is-better-for-product-design-009f772846fb",
+    "title": "GPT-6 Astra vs Opus 5: Which one is better for product design? | by Nick Babich | Sep, 2026 | UX Planet",
+    "date": "2026-09-09T03:45:47.976+06:00",
+    "og:title": "GPT-6 Astra vs Opus 5: Which one is better for product design?",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*PueQ76Fg5BQApWoTmq651g.png",
+    "og:description": "“Which AI model should I use for product design?” is the question I get asked most often right now. With so many AI models available, it’s…",
+    "og:url": "https://uxplanet.org/gpt-6-astra-vs-opus-5-which-one-is-better-for-product-design-009f772846fb",
+    "og:type": "article"
+  },
+  {
+    "hostname": "uxplanet.org",
     "url": "https://uxplanet.org/how-to-audit-and-extend-your-design-system-with-claude-code-28be5c059d49",
     "title": "How to Audit and Extend Your Figma Design System with Claude Code | by Nick Babich | Sep, 2026 | UX Planet",
     "date": "2026-09-04T02:40:00.978+06:00",
@@ -4092,6 +4906,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "voiceinthemachine.com",
+    "url": "https://voiceinthemachine.com/2026/09/07/four-questions-about-agi/",
+    "title": "Four Questions About AGI – THE VOICE IN THE MACHINE",
+    "date": "2026-09-09T03:45:47.424+06:00",
+    "og:title": "Four Questions About AGI",
+    "og:image": "https://i0.wp.com/voiceinthemachine.com/wp-content/uploads/2026/09/gemini_generated_image_.jpeg?fit=1200%2C655&ssl=1",
+    "og:description": "On a word everyone uses and no one can define For the past couple of years, whenever I give a talk about AI, someone in the audience inevitably asks about AGI, Artificial General Intelligence, and …",
+    "og:url": "https://voiceinthemachine.com/2026/09/07/four-questions-about-agi/",
+    "og:type": "article"
+  },
+  {
     "hostname": "wayofmarkdown.com",
     "url": "https://wayofmarkdown.com/markdown-database",
     "title": "The Markdown Database Pattern | The Way of Markdown",
@@ -4104,6 +4929,28 @@
   },
   {
     "hostname": "webdesignerdepot.com",
+    "url": "https://webdesignerdepot.com/adobe-has-a-secret-new-design-tool-and-you-can-apply-to-test-it/",
+    "title": "Adobe Has a Secret New Design Tool—and You Can Apply to Test It",
+    "date": "2026-09-09T03:45:47.444+06:00",
+    "og:title": "Adobe Has a Secret New Design Tool—and You Can Apply to Test It",
+    "og:image": "https://d3tamksjp7q04h.cloudfront.net/2026/09/08130921/703f0b0c-c98d-49b3-ab60-6065a0453243-1.png",
+    "og:description": "Adobe is quietly testing a mysterious new web-based design tool called Project Oasis—and designers can apply to get inside. Details are scarce, the beta is under NDA, and Adobe isn’t showing much yet… which only makes us want in more.",
+    "og:url": "https://webdesignerdepot.com/adobe-has-a-secret-new-design-tool-and-you-can-apply-to-test-it/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "webdesignerdepot.com",
+    "url": "https://webdesignerdepot.com/canva-is-quietly-publishing-nearly-1-million-websites-a-month/",
+    "title": "Canva Is Quietly Publishing Nearly 1 Million Websites a Month",
+    "date": "2026-09-09T03:45:47.647+06:00",
+    "og:title": "Canva Is Quietly Publishing Nearly 1 Million Websites a Month",
+    "og:image": "https://d3tamksjp7q04h.cloudfront.net/2026/09/07135949/a9f759e5-3791-491c-9d7b-d3d52ab58197.png",
+    "og:description": "Canva isn't just for presentations and social posts anymore. Nearly 1 million websites are now being published through Canva every month—and with 100+ new Visual Suite updates, web designers may want to start paying attention.",
+    "og:url": "https://webdesignerdepot.com/canva-is-quietly-publishing-nearly-1-million-websites-a-month/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "webdesignerdepot.com",
     "url": "https://webdesignerdepot.com/instagrams-new-logo-has-a-legibility-problem/",
     "title": "Instagram's New Logo Has a Legibility Problem",
     "date": "2026-09-08T02:19:08.952+06:00",
@@ -4111,6 +4958,17 @@
     "og:image": "https://d3tamksjp7q04h.cloudfront.net/2026/09/04204154/2323.png",
     "og:description": "Instagram just redesigned its iconic wordmark—but there’s a problem: a surprising number of people think it says “Instagzam.” The controversy offers a perfect lesson in what happens when brand personality collides with one of design’s most basic rules: people still need to be able to read it.",
     "og:url": "https://webdesignerdepot.com/instagrams-new-logo-has-a-legibility-problem/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "webdesignerdepot.com",
+    "url": "https://webdesignerdepot.com/the-ampersand-is-nearly-2000-years-old-and-designers-still-cant-agree-how-it-should-look/",
+    "title": "The Ampersand Is Nearly 2,000 Years Old — And Designers Still Can’t Agree How It Should Look",
+    "date": "2026-09-09T03:45:47.497+06:00",
+    "og:title": "The Ampersand Is Nearly 2,000 Years Old — And Designers Still Can’t Agree How It Should Look",
+    "og:image": "https://d3tamksjp7q04h.cloudfront.net/2026/09/08114019/a880b7b4-d850-4bf2-8945-40b4930bf91b.png",
+    "og:description": "The ampersand is nearly 2,000 years old. yet designers still can’t agree on what it should look like. From ancient Roman *et* to hundreds of wildly different & designs, the story behind typography’s favorite squiggle is stranger than you might expect.",
+    "og:url": "https://webdesignerdepot.com/the-ampersand-is-nearly-2000-years-old-and-designers-still-cant-agree-how-it-should-look/",
     "og:type": "article"
   },
   {
@@ -4269,6 +5127,17 @@
   },
   {
     "hostname": "www.awwwards.com",
+    "url": "https://www.awwwards.com/sites/usavionix",
+    "title": "USAvionix - Awwwards SOTD",
+    "date": "2026-09-09T09:28:56.433+06:00",
+    "og:title": "USAvionix - Awwwards SOTD",
+    "og:image": "https://assets.awwwards.com/awards/submissions/2026/07/6a6cc008d0bf0734969676.png",
+    "og:description": "The first agent in the air, built with the speed, range, and onboard intelligence to search vast areas on its own.",
+    "og:url": "https://www.awwwards.com/sites/usavionix",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.awwwards.com",
     "url": "https://www.awwwards.com/sites/why-zero",
     "title": "Why Zero - Awwwards SOTD",
     "date": "2026-09-07T09:22:16.906+06:00",
@@ -4309,6 +5178,17 @@
     "og:image": "https://www.carmenansio.com/og/modernist-tiles-css-grid.png",
     "og:description": "A Modernist hydraulic tile floor, one motif rotated across the whole room, is something you'll find everywhere in Barcelona. Let's build our own in CSS Grid. Six real motifs, a whole floor of palettes.",
     "og:url": "https://www.carmenansio.com/articles/modernist-tiles-css-grid/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.casestudy.club",
+    "url": "https://www.casestudy.club/marek-minor-interview",
+    "title": "The designer who drew Cursor's icons — Case Study Club",
+    "date": "2026-09-09T03:45:47.398+06:00",
+    "og:title": "The designer who drew Cursor's icons — Case Study Club",
+    "og:image": "",
+    "og:description": "Marek Minor drew Cursor's complete icon set, more than 600 icons by hand. Five questions on the attractor, intuition, autonomy, and who owns a set after handover.",
+    "og:url": "https://www.casestudy.club/marek-minor-interview",
     "og:type": "article"
   },
   {
@@ -4379,6 +5259,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/3d/3d-software/this-free-app-could-become-the-blender-of-texture-painting-software",
+    "title": "This free app could become the Blender of texture painting software | Creative Bloq",
+    "date": "2026-09-09T03:45:47.812+06:00",
+    "og:title": "This free app could become the Blender of texture painting software",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/xx9vTNdYdPAwRiqD4VgqtG-2244-80.jpg",
+    "og:description": "The Adobe Substance Painter alternative is lightweight, open source and available for every platform.",
+    "og:url": "https://www.creativebloq.com/3d/3d-software/this-free-app-could-become-the-blender-of-texture-painting-software",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/3d/how-i-create-epic-boss-battle-scenes",
     "title": "How I create epic boss battle scenes without the 'fake' 3D look | Creative Bloq",
     "date": "2026-09-08T09:29:31.997+06:00",
@@ -4445,6 +5336,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/3d/video-game-design/witchspires-spellbinding-artistry",
+    "title": "Behind the scenes of Witchspire's spellbinding artistry | Creative Bloq",
+    "date": "2026-09-09T09:04:23.012+06:00",
+    "og:title": "Behind the scenes of Witchspire's spellbinding artistry",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/btnWcHip6swq8NQFCpuvt-2560-80.jpg",
+    "og:description": "Envar Studio's game director and concept artist reveal how they crafted the new game's vast open world.",
+    "og:url": "https://www.creativebloq.com/3d/video-game-design/witchspires-spellbinding-artistry",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/ai/can-nvidia-and-adobe-work-together-to-get-creatives-to-actually-like-ai",
     "title": "Can NVIDIA and Adobe work together to get creatives to actually like AI? | Creative Bloq",
     "date": "2026-09-08T02:19:09.696+06:00",
@@ -4485,6 +5387,39 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/RRR5VZcnMCpMfNaJcSKfv6-2560-80.jpg",
     "og:description": "Is this new embodied AI assistant the future?",
     "og:url": "https://www.creativebloq.com/ai/meet-lamp-an-alive-pixar-like-robot-that-watches-your-posture-remembers-strangers-faces-and-answers-your-emails",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/ai/nvidias-rtx-spark-showcase-at-ifa-showed-me-a-first-hand-example-of-how-dlss-is-breaking-out-of-the-gaming-sphere",
+    "title": "NVIDIA's RTX Spark showcase at IFA showed me a first-hand example of how DLSS is breaking out of the gaming sphere | Creative Bloq",
+    "date": "2026-09-09T03:45:48.063+06:00",
+    "og:title": "NVIDIA's RTX Spark showcase at IFA showed me a first-hand example of how DLSS is breaking out of the gaming sphere",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/fmZNbUfNkSfLwGGK4tuBwB-1743-80.png",
+    "og:description": "RTX Spark brings DLSS 4.5 into Blender's viewport: a win for creative flow (if we don't lose the plot).",
+    "og:url": "https://www.creativebloq.com/ai/nvidias-rtx-spark-showcase-at-ifa-showed-me-a-first-hand-example-of-how-dlss-is-breaking-out-of-the-gaming-sphere",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/ai/rtx-sparks-local-ai-wants-to-be-your-chief-of-staff-but-its-not-ready-to-run-the-office-yet",
+    "title": "RTX Spark's local AI wants to be your chief of staff, but it’s not ready to run the office yet | Creative Bloq",
+    "date": "2026-09-09T03:45:47.931+06:00",
+    "og:title": "RTX Spark's local AI wants to be your chief of staff, but it’s not ready to run the office yet",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/2T8oLwN8U2kALVUEJc5wx-1280-80.jpg",
+    "og:description": "Big claims, an attractive pitch, and predictable stumbles were on show for NVIDIA at its RTX Spark IFA showcase.",
+    "og:url": "https://www.creativebloq.com/ai/rtx-sparks-local-ai-wants-to-be-your-chief-of-staff-but-its-not-ready-to-run-the-office-yet",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/ai/viral-video-tries-to-prove-ai-is-the-death-of-hollywood-and-fails-miserably",
+    "title": "Viral video tries to prove AI is the death of Hollywood... and fails miserably | Creative Bloq",
+    "date": "2026-09-09T03:45:47.955+06:00",
+    "og:title": "This viral video is the perfect antidote to AI existentialism",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/TTvYogCVVZdnJoNPWngq57-1920-80.jpg",
+    "og:description": "Remind me, how many fingers does the average human have?",
+    "og:url": "https://www.creativebloq.com/ai/viral-video-tries-to-prove-ai-is-the-death-of-hollywood-and-fails-miserably",
     "og:type": "article"
   },
   {
@@ -4551,6 +5486,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/kkmChzLW5c6y69cL7dygrd-2307-80.jpg",
     "og:description": "Satoshi Kamanaka on mixing fantasy art with the compositions of Golden Age illustrators.",
     "og:url": "https://www.creativebloq.com/art/digital-art/ideas-for-my-art-come-from-different-places-in-this-case-i-was-inspired-by-an-iron-maiden-paired-with-a-goblin-who-takes-great-zeal-in-his-work",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/art/digital-art/steal-this-art-trick-paint-with-fewer-colours-and-bigger-brush-strokes",
+    "title": "Get inspired, learn this art trick: paint with fewer colours and bigger brush strokes | Creative Bloq",
+    "date": "2026-09-09T03:45:47.832+06:00",
+    "og:title": "Get inspired, learn this art trick: paint with fewer colours and bigger brush strokes",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/bnaHRvTuTdtiqJ6vTkuhxg-1920-80.jpg",
+    "og:description": "Jim Musil's colourful landscapes look complicated, but they're based on a much simpler idea that digital artists can use to replicate them.",
+    "og:url": "https://www.creativebloq.com/art/digital-art/steal-this-art-trick-paint-with-fewer-colours-and-bigger-brush-strokes",
     "og:type": "article"
   },
   {
@@ -4687,6 +5633,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/design/fonts-typography/this-typography-artist-is-giving-away-200-free-fonts-but-you-need-to-be-quick",
+    "title": "This typography artist is giving away 200 free fonts, but you need to be quick | Creative Bloq",
+    "date": "2026-09-09T03:45:47.694+06:00",
+    "og:title": "This typography artist is giving away 200 free fonts, but you need to be quick",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/LburWF92QYmFqwzjfMDoTS-2000-80.jpg",
+    "og:description": "The giveaway is for one day only.",
+    "og:url": "https://www.creativebloq.com/design/fonts-typography/this-typography-artist-is-giving-away-200-free-fonts-but-you-need-to-be-quick",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/design/graphic-design/designers-do-you-recognise-this-old-school-equipment",
     "title": "Designers, do you recognise this old-school equipment? | Creative Bloq",
     "date": "2026-09-03T02:06:26.068+06:00",
@@ -4716,6 +5673,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/7W8VsvkoqChPdCUfVKFaYb-1920-80.jpg",
     "og:description": "He might have kept the Twitter name, but the bird has flown.",
     "og:url": "https://www.creativebloq.com/design/logos-icons/how-two-tweets-cost-elon-musk-the-twitter-logo",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/design/logos-icons/loewes-lowkey-logo-sandals-divide-fashionistas",
+    "title": "Loewe’s lowkey logo sandals divide fashionistas | Creative Bloq",
+    "date": "2026-09-09T09:04:23.016+06:00",
+    "og:title": "Loewe sneakily hides its logo in crafty sandal design",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/ztbzdYzm5dTtZ5osXnMhUE-1920-80.jpg",
+    "og:description": "Quiet luxury just got even more subtle.",
+    "og:url": "https://www.creativebloq.com/design/logos-icons/loewes-lowkey-logo-sandals-divide-fashionistas",
     "og:type": "article"
   },
   {
@@ -4918,6 +5886,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/entertainment/gaming/the-nintendo-switch-2-zelda-40th-anniversary-edition-looks-like-a-precious-relic-from-hyrule",
+    "title": "The Nintendo Switch 2 Zelda 40th anniversary edition looks like a precious relic from Hyrule | Creative Bloq",
+    "date": "2026-09-09T03:45:47.529+06:00",
+    "og:title": "The Nintendo Switch 2 Zelda 40th anniversary edition looks like a precious relic from Hyrule",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/BPCsu6CeNyigqrLeinWELA-1920-80.jpg",
+    "og:description": "The console and Pro Controller look fantastic, but we're still waiting for a key detail.",
+    "og:url": "https://www.creativebloq.com/entertainment/gaming/the-nintendo-switch-2-zelda-40th-anniversary-edition-looks-like-a-precious-relic-from-hyrule",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/entertainment/gaming/the-white-house-just-used-xbox-and-sega-logos-to-promote-maga-video-games-and-players-want-to-know-whats-up",
     "title": "The White House just used Xbox and Sega logos to promote MAGA video games, and players want to know what's up | Creative Bloq",
     "date": "2026-09-06T13:07:11.477+06:00",
@@ -4947,6 +5926,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/rBwmrF8riFvPgKLtcnhyiH-2560-80.png",
     "og:description": "Ichigoichie's David Ventura talks glam metal inspirations and reusing past ideas for Tactichord: Glam Strategy, a tactics game turned up to 11.",
     "og:url": "https://www.creativebloq.com/entertainment/gaming/this-indie-tactics-game-takes-you-back-to-1990-paying-tribute-to-80s-american-glam-metal",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/entertainment/gaming/this-is-what-nintendos-zelda-ocarina-of-time-remake-actually-looks-like-on-switch-2",
+    "title": "This is what Nintendo's Zelda: Ocarina of Time remake actually looks like on Switch 2 | Creative Bloq",
+    "date": "2026-09-09T03:45:47.738+06:00",
+    "og:title": "What the Zelda: Ocarina of Time remake actually looks like on Switch 2",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/693MfaRqQvtRBZsXwALtD3-2560-80.jpg",
+    "og:description": "More ambitious than we expected.",
+    "og:url": "https://www.creativebloq.com/entertainment/gaming/this-is-what-nintendos-zelda-ocarina-of-time-remake-actually-looks-like-on-switch-2",
     "og:type": "article"
   },
   {
@@ -5006,6 +5996,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/news/live/apple-event-2026",
+    "title": "Apple iPhone 18 event LIVE: Folding iPhone, new AirPods and more – every announcement as it happens | Creative Bloq",
+    "date": "2026-09-09T03:45:48.011+06:00",
+    "og:title": "Apple iPhone 18 event LIVE: Folding iPhone, new AirPods and more – every announcement as it happens",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/rGTcm7k9xHGbEnGP8FBEm9-1920-80.jpg",
+    "og:description": "Watch the event and follow the announcements right here.",
+    "og:url": "https://www.creativebloq.com/news/live/apple-event-2026",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/professional-development/creative-careers/apple-labor-day-deals-are-terrible-this-year-but-these-are-the-best-around",
     "title": "The Labor Day Apple deals are terrible this year, but these are the best around | Creative Bloq",
     "date": "2026-09-06T15:04:45.323+06:00",
@@ -5035,6 +6036,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/sfSLXSBKdQYrFDQuJEMcqC-1920-80.jpg",
     "og:description": "$68 off is a great deal in 2026.",
     "og:url": "https://www.creativebloq.com/tech/beat-the-memory-crisis-with-24-percent-off-on-one-of-the-best-rated-portable-ssds",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/tech/chairs-desks/sihoo-m56c-review-a-cheap-chair-thats-only-good-for-short-sits",
+    "title": "Sihoo M56C review: A cheap chair that's only good for short sits | Creative Bloq",
+    "date": "2026-09-09T03:45:48.046+06:00",
+    "og:title": "Sihoo M56C review: A cheap chair that's only good for short sits",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/xVoDtYGoi3HMeCPTa6pZC3-1600-80.jpg",
+    "og:description": "This low-budget office chair goes too far in paring everything back to the bare minimum.",
+    "og:url": "https://www.creativebloq.com/tech/chairs-desks/sihoo-m56c-review-a-cheap-chair-thats-only-good-for-short-sits",
     "og:type": "article"
   },
   {
@@ -5094,6 +6106,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/tech/headphones-earbuds/these-wireless-earphones-offer-sound-quality-to-rival-wired-buds-and-theyre-down-by-32-percent",
+    "title": "These wireless earphones offer sound quality to rival wired buds, and they're down by 32% | Creative Bloq",
+    "date": "2026-09-09T03:45:47.994+06:00",
+    "og:title": "These wireless earphones offer sound quality to rival wired buds, and they're down by 32%",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/QxgdKuds5FfXD35HqeB3UH-1920-80.jpg",
+    "og:description": "The Status Pro X TWS offer an engaging tuning without sacrificing the midrange, and are only $169.",
+    "og:url": "https://www.creativebloq.com/tech/headphones-earbuds/these-wireless-earphones-offer-sound-quality-to-rival-wired-buds-and-theyre-down-by-32-percent",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/tech/laptops/7-massive-labor-day-laptop-deals-that-are-actually-good-enough-for-creatives",
     "title": "7 massive Labor Day laptop deals that are actually good enough for creatives | Creative Bloq",
     "date": "2026-09-06T13:07:01.456+06:00",
@@ -5101,6 +6124,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/NMGUon5SKmDkHoKAjoyNC8-1920-80.jpg",
     "og:description": "Save up to $1,000 on beefy laptops from Asus, Dell, Lenovo and Apple.",
     "og:url": "https://www.creativebloq.com/tech/laptops/7-massive-labor-day-laptop-deals-that-are-actually-good-enough-for-creatives",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/tech/laptops/best-ai-laptops-for-motion-design-and-vfx",
+    "title": "These are the best AI laptops for motion design and VFX | Creative Bloq",
+    "date": "2026-09-09T03:45:47.715+06:00",
+    "og:title": "These are the best AI laptops for motion design and VFX",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/pNPXqMkGAz52bZnBiyPCNE-1920-80.jpg",
+    "og:description": "Speed up your workflow with these AI laptops, all of which are powerful enough to run motion and VFX software smoothly.",
+    "og:url": "https://www.creativebloq.com/tech/laptops/best-ai-laptops-for-motion-design-and-vfx",
     "og:type": "article"
   },
   {
@@ -5303,6 +6337,28 @@
   },
   {
     "hostname": "www.cssscript.com",
+    "url": "https://www.cssscript.com/brightpixels-hdr-text-glow-particles/",
+    "title": "Brightpixels: JavaScript Library for WebGPU HDR Text, Glow & Particles | CSS Script",
+    "date": "2026-09-09T03:45:47.889+06:00",
+    "og:title": "Brightpixels: JavaScript Library for WebGPU HDR Text, Glow & Particles | CSS Script",
+    "og:image": "https://www.cssscript.com/wp-content/uploads/2026/09/brightpixels-hdr-text-glow-particles.webp",
+    "og:description": "Render brighter-than-reference-white text, image highlights, UI glow, and particles with WebGPU HDR, plus ordinary-color fallbacks.",
+    "og:url": "https://www.cssscript.com/brightpixels-hdr-text-glow-particles/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.cssscript.com",
+    "url": "https://www.cssscript.com/jedison-json-generator-validator/",
+    "title": "Jedison: JSON Schema Form Generator and Validator | CSS Script",
+    "date": "2026-09-09T09:52:44.56+06:00",
+    "og:title": "Jedison: JSON Schema Form Generator and Validator | CSS Script",
+    "og:image": "https://www.cssscript.com/wp-content/uploads/2026/09/jedison-json-generator-validator.webp",
+    "og:description": "Generate editable forms from JSON Schema with nested object/array layouts, conditional fields, Bootstrap themes, and headless Node.js validation.",
+    "og:url": "https://www.cssscript.com/jedison-json-generator-validator/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.cssscript.com",
     "url": "https://www.cssscript.com/liquid-glass-svg-webgl/",
     "title": "liquid-glass.js: iOS Liquid Glass Web Component with SVG & WebGL | CSS Script",
     "date": "2026-09-02T03:00:10.605+06:00",
@@ -5347,6 +6403,17 @@
   },
   {
     "hostname": "www.cssscript.com",
+    "url": "https://www.cssscript.com/retro-led-ticker-dylan/",
+    "title": "Retro LED Ticker Web Component - dylanTicker | CSS Script",
+    "date": "2026-09-09T09:52:44.569+06:00",
+    "og:title": "Retro LED Ticker Web Component - dylanTicker | CSS Script",
+    "og:image": "https://www.cssscript.com/wp-content/uploads/2026/09/retro-led-ticker-dylan.webp",
+    "og:description": "Create retro dot-matrix scrolling text with dylanTicker, a zero-dependency Web Component with speed, direction, color, hover pause, and runtime controls.",
+    "og:url": "https://www.cssscript.com/retro-led-ticker-dylan/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.cssscript.com",
     "url": "https://www.cssscript.com/rolling-number-animations/",
     "title": "Rolling Number: Smooth Interruptible Number Animations in JavaScript | CSS Script",
     "date": "2026-09-08T02:19:09.917+06:00",
@@ -5383,6 +6450,17 @@
     "url": "https://www.csswinner.com/details/door-dennis/19402",
     "title": "Door Dennis - CSS Winner",
     "date": "2026-09-08T02:19:09.978+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.csswinner.com",
+    "url": "https://www.csswinner.com/details/forge-automotive/19404",
+    "title": "Forge Automotive - CSS Winner",
+    "date": "2026-09-09T09:28:56.409+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -5487,6 +6565,17 @@
     "og:description": "",
     "og:url": "",
     "og:type": ""
+  },
+  {
+    "hostname": "www.jqueryscript.net",
+    "url": "https://www.jqueryscript.net/menu/top-layer-context-menu.html",
+    "title": "Custom Top-Layer Context Menu Plugin for jQuery and JavaScript | Free jQuery Plugins",
+    "date": "2026-09-09T06:56:28.937+06:00",
+    "og:title": "Custom Top-Layer Context Menu Plugin for jQuery and JavaScript",
+    "og:image": "https://www.jqueryscript.net/images/top-layer-context-menu.jpg",
+    "og:description": "Mount custom context menus into the browser's top layer with the Popover API. Native JavaScript, React, and jQuery support.",
+    "og:url": "https://www.jqueryscript.net/menu/top-layer-context-menu.html",
+    "og:type": "article"
   },
   {
     "hostname": "www.jqueryscript.net",
@@ -5842,6 +6931,94 @@
   },
   {
     "hostname": "www.siteinspire.com",
+    "url": "https://www.siteinspire.com/website/13589-casa-gay",
+    "title": "Casa Gay | Web Design Inspiration | Siteinspire",
+    "date": "2026-09-09T09:28:56.417+06:00",
+    "og:title": "Casa Gay | Web Design Inspiration | Siteinspire",
+    "og:image": "https://www.siteinspire.com/website/13589-casa-gay/og",
+    "og:description": "Casa Gay — a big type, typographic, food & drink website. Discover curated web design inspiration on Siteinspire.",
+    "og:url": "https://www.siteinspire.com/website/13589-casa-gay",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.siteinspire.com",
+    "url": "https://www.siteinspire.com/website/13590-seunghyuk-kim",
+    "title": "Seunghyuk Kim | Web Design Inspiration | Siteinspire",
+    "date": "2026-09-09T09:28:56.422+06:00",
+    "og:title": "Seunghyuk Kim | Web Design Inspiration | Siteinspire",
+    "og:image": "https://www.siteinspire.com/website/13590-seunghyuk-kim/og",
+    "og:description": "Seunghyuk Kim — a minimal, unusual layout, design & art direction website by Seunghyuk Kim. Discover curated web design inspiration on Siteinspire.",
+    "og:url": "https://www.siteinspire.com/website/13590-seunghyuk-kim",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.siteinspire.com",
+    "url": "https://www.siteinspire.com/website/13591-whole-earth-index",
+    "title": "Whole Earth Index | Web Design Inspiration | Siteinspire",
+    "date": "2026-09-09T03:45:47.55+06:00",
+    "og:title": "Whole Earth Index | Web Design Inspiration | Siteinspire",
+    "og:image": "https://www.siteinspire.com/website/13591-whole-earth-index/og",
+    "og:description": "Whole Earth Index — a black & white, grid layout, books & literature website. Discover curated web design inspiration on Siteinspire.",
+    "og:url": "https://www.siteinspire.com/website/13591-whole-earth-index",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.siteinspire.com",
+    "url": "https://www.siteinspire.com/website/13592-paul-kalkbrenner",
+    "title": "Paul Kalkbrenner | Web Design Inspiration | Siteinspire",
+    "date": "2026-09-09T03:45:47.57+06:00",
+    "og:title": "Paul Kalkbrenner | Web Design Inspiration | Siteinspire",
+    "og:image": "https://www.siteinspire.com/website/13592-paul-kalkbrenner/og",
+    "og:description": "Paul Kalkbrenner — a big type, minimal, entertainment website by Holographik. Discover curated web design inspiration on Siteinspire.",
+    "og:url": "https://www.siteinspire.com/website/13592-paul-kalkbrenner",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.siteinspire.com",
+    "url": "https://www.siteinspire.com/website/13593-yuri-roga",
+    "title": "Yuri Roga | Web Design Inspiration | Siteinspire",
+    "date": "2026-09-09T03:45:47.584+06:00",
+    "og:title": "Yuri Roga | Web Design Inspiration | Siteinspire",
+    "og:image": "https://www.siteinspire.com/website/13593-yuri-roga/og",
+    "og:description": "Yuri Roga — a grid layout, minimal, photography website. Discover curated web design inspiration on Siteinspire.",
+    "og:url": "https://www.siteinspire.com/website/13593-yuri-roga",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.siteinspire.com",
+    "url": "https://www.siteinspire.com/website/13594-kenj-pena",
+    "title": "Kenj Pena | Web Design Inspiration | Siteinspire",
+    "date": "2026-09-09T03:45:47.6+06:00",
+    "og:title": "Kenj Pena | Web Design Inspiration | Siteinspire",
+    "og:image": "https://www.siteinspire.com/website/13594-kenj-pena/og",
+    "og:description": "Kenj Pena — a grid layout, minimal, design & art direction website. Discover curated web design inspiration on Siteinspire.",
+    "og:url": "https://www.siteinspire.com/website/13594-kenj-pena",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.siteinspire.com",
+    "url": "https://www.siteinspire.com/website/13596-cctype-foundry",
+    "title": "CcType Foundry | Web Design Inspiration | Siteinspire",
+    "date": "2026-09-09T03:45:47.615+06:00",
+    "og:title": "CcType Foundry | Web Design Inspiration | Siteinspire",
+    "og:image": "https://www.siteinspire.com/website/13596-cctype-foundry/og",
+    "og:description": "CcType Foundry — a big type, typographic, typography website. Discover curated web design inspiration on Siteinspire.",
+    "og:url": "https://www.siteinspire.com/website/13596-cctype-foundry",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.siteinspire.com",
+    "url": "https://www.siteinspire.com/website/13597-il-capo-production",
+    "title": "Il Capo Production | Web Design Inspiration | Siteinspire",
+    "date": "2026-09-09T03:45:47.633+06:00",
+    "og:title": "Il Capo Production | Web Design Inspiration | Siteinspire",
+    "og:image": "https://www.siteinspire.com/website/13597-il-capo-production/og",
+    "og:description": "Il Capo Production — a big type, typographic, animation & moving image website by AUGE EXPERIENCE. Discover curated web design inspiration on Siteinspire.",
+    "og:url": "https://www.siteinspire.com/website/13597-il-capo-production",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.siteinspire.com",
     "url": "https://www.siteinspire.com/website/13599-aparelho-studio",
     "title": "Aparelho Studio | Web Design Inspiration | Siteinspire",
     "date": "2026-09-08T02:19:09.528+06:00",
@@ -6125,6 +7302,17 @@
     "og:description": "",
     "og:url": "https://www.woodyjobs.com/blog/665-product-design-jobs-in-san-francisco-2026-salaries--companies",
     "og:type": "article"
+  },
+  {
+    "hostname": "www.worldlabs.ai",
+    "url": "https://www.worldlabs.ai/blog/atlas",
+    "title": "Atlas: A World Model for Spatial Intelligence | World Labs",
+    "date": "2026-09-09T03:45:47.379+06:00",
+    "og:title": "Atlas: A World Model for Spatial Intelligence",
+    "og:image": "https://www.worldlabs.ai/images/atlas-og.jpg",
+    "og:description": "Introducing Atlas, our new omni world model for spatial intelligence.",
+    "og:url": "",
+    "og:type": ""
   },
   {
     "hostname": "www.youtube.com",
