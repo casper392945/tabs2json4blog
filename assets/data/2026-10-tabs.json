@@ -946,6 +946,17 @@
     "og:type": "website"
   },
   {
+    "hostname": "www.freecodecamp.org",
+    "url": "https://www.freecodecamp.org/news/css-content-visibility-rendering-performance/",
+    "title": "How CSS content-visibility Works and How It Can Improve Rendering Performance",
+    "date": "2026-10-01T14:05:43.534+06:00",
+    "og:title": "How CSS content-visibility Works and How It Can Improve Rendering Performance",
+    "og:image": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f11711dc-ac4a-43f0-b312-4d89c6f7f989.png",
+    "og:description": "What happens when a page has 150 content-heavy cards, but the user can only see the first few? You might expect the browser to only worry about what's currently visible. But this isn't exactly what ha",
+    "og:url": "https://www.freecodecamp.org/news/css-content-visibility-rendering-performance/",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.jqueryscript.net",
     "url": "https://www.jqueryscript.net/blog/Weekly-Web-Design-Development-News-Collective-671.html",
     "title": "Weekly Web Design & Development News: Collective #671 | jQuery Script",
