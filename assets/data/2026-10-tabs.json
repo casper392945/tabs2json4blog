@@ -1818,7 +1818,7 @@
     "hostname": "daverupert.com",
     "url": "https://daverupert.com/2026/10/html-recursion/",
     "title": "Recursion is DEAD and HTML killed it - daverupert.com",
-    "date": "2026-10-07T02:27:42.304+06:00",
+    "date": "2026-10-15T12:55:52.683+06:00",
     "og:title": "Recursion is DEAD and HTML killed it",
     "og:image": "",
     "og:description": "There’s a new web platform feature flighting in Chromium called Declarative Partial Updates. This proposal adds a new <?marker> element which enables out-of-order streaming of content. Rather than the traditional way of building the HTML you need on the server, or sending JSON down to a JavaScript framework, you can staple HTML onto the initial response and use the <template for=\"\"> syntax to inject that content into the <?marker name=\"\"> placeholder.",
@@ -2879,6 +2879,17 @@
     "og:image": "https://designbeep.com/wp-content/uploads/2026/10/Ana-de-Armas-All-Movies-List.jpg",
     "og:description": "The complete Ana de Armas all movies list, in order from 2006 to today. See every film with year and role, her TV shows, best performances, awards, upcoming projects, and where to start watching.",
     "og:url": "https://designbeep.com/2026/10/15/ana-de-armas-all-movies-list/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2026/10/15/shawn-hatosy-movies-and-tv-shows-2/",
+    "title": "Shawn Hatosy Movies and TV Shows: The Complete Guide From The Faculty to The Pitt - Designbeep",
+    "date": "2026-10-15T12:55:53.716+06:00",
+    "og:title": "Shawn Hatosy Movies and TV Shows: The Complete Guide From The Faculty to The Pitt - Designbeep",
+    "og:image": "https://designbeep.com/wp-content/uploads/2026/10/Shawn-Hatosy-Movies.jpg",
+    "og:description": "A complete guide to Shawn Hatosy movies and TV shows, from The Faculty and Alpha Dog to Southland, Animal Kingdom, and his Emmy-winning role in The Pitt, with full lists, best roles, and what is next.",
+    "og:url": "https://designbeep.com/2026/10/15/shawn-hatosy-movies-and-tv-shows-2/",
     "og:type": "article"
   },
   {
@@ -4478,6 +4489,17 @@
   },
   {
     "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/101140-clay-build-systems-to-grow-revenue",
+    "title": "Clay | Build systems to grow revenue on Landbook - get inspired by landing design and more",
+    "date": "2026-10-15T12:55:53.336+06:00",
+    "og:title": "Clay | Build systems to grow revenue on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/101140/101140-clay-build-systems-to-grow-revenue-1792053429-og-image.webp",
+    "og:description": "Clay | Build systems to grow revenue on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/101140-clay-build-systems-to-grow-revenue",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
     "url": "https://land-book.com/websites/101141-oath-biome",
     "title": "Oath Biome on Landbook - get inspired by other design and more",
     "date": "2026-10-14T13:47:22.08+06:00",
@@ -4485,6 +4507,39 @@
     "og:image": "https://cdn.land-book.com/website/101141/101141-oath-biome-1791971281-og-image.webp",
     "og:description": "Oath Biome on Landbook - get inspired by other design and more",
     "og:url": "https://land-book.com/websites/101141-oath-biome",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/101142-siha",
+    "title": "SIHA on Landbook - get inspired by ecommerce design and more",
+    "date": "2026-10-15T12:55:53.248+06:00",
+    "og:title": "SIHA on Landbook - get inspired by ecommerce design and more",
+    "og:image": "https://cdn.land-book.com/website/101142/101142-siha-1792053496-og-image.webp",
+    "og:description": "SIHA on Landbook - get inspired by ecommerce design and more",
+    "og:url": "https://land-book.com/websites/101142-siha",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/101155-flex-elite-5-cash-back-unlimited-no-annual-fee",
+    "title": "Flex Elite — 5% Cash Back, Unlimited, No Annual Fee on Landbook - get inspired by landing design and more",
+    "date": "2026-10-15T12:55:53.122+06:00",
+    "og:title": "Flex Elite — 5% Cash Back, Unlimited, No Annual Fee on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/101155/101155-flex-elite-5-cash-back-unlimited-no-annual-fee-1792053654-og-image.webp",
+    "og:description": "Flex Elite — 5% Cash Back, Unlimited, No Annual Fee on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/101155-flex-elite-5-cash-back-unlimited-no-annual-fee",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/85524-milk-agency",
+    "title": "Milk Agency on Landbook - get inspired by portfolio design and more",
+    "date": "2026-10-15T12:55:53.562+06:00",
+    "og:title": "Milk Agency on Landbook - get inspired by portfolio design and more",
+    "og:image": "https://cdn.land-book.com/website/85524/85524-milk-agency-1792053237-og-image.webp",
+    "og:description": "Milk Agency on Landbook - get inspired by portfolio design and more",
+    "og:url": "https://land-book.com/websites/85524-milk-agency",
     "og:type": "website"
   },
   {
@@ -4650,6 +4705,17 @@
     "og:image": "https://cdn.land-book.com/website/99866/99866-meeko-creative-portfolio-template-1789631687-og-image.webp",
     "og:description": "Meeko - Creative Portfolio Template, free. Design by Vovo Poopiers. Live preview, pricing and details on Landbook.",
     "og:url": "https://land-book.com/websites/99866-meeko-creative-portfolio-template",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/99963-pietra-interior-design-studio-template",
+    "title": "Pietra: Interior Design Studio Template | Landbook",
+    "date": "2026-10-15T12:55:53.475+06:00",
+    "og:title": "Pietra: Interior Design Studio Template | Landbook",
+    "og:image": "https://cdn.land-book.com/website/99963/99963-pietra-interior-design-studio-template-1789984797-og-image.webp",
+    "og:description": "Pietra: Interior Design Studio Template, $99. Design by madebrux. Live preview, pricing and details on Landbook.",
+    "og:url": "https://land-book.com/websites/99963-pietra-interior-design-studio-template",
     "og:type": "website"
   },
   {
@@ -5743,6 +5809,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@khanaabidabdal/stop-fighting-css-layouts-a-practical-guide-to-flexbox-grid-and-responsive-design-3c17db938113",
+    "title": "Stop Fighting CSS Layouts: A Practical Guide to Flexbox, Grid, and Responsive Design | by Khan Aabid Abdal | Oct, 2026 | Medium",
+    "date": "2026-10-15T12:55:53.786+06:00",
+    "og:title": "Stop Fighting CSS Layouts: A Practical Guide to Flexbox, Grid, and Responsive Design",
+    "og:image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+    "og:description": "How to choose the right layout system, avoid common responsive design mistakes, and build interfaces that behave predictably.",
+    "og:url": "https://medium.com/@khanaabidabdal/stop-fighting-css-layouts-a-practical-guide-to-flexbox-grid-and-responsive-design-3c17db938113",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@kirupakaransumugan/how-frontend-and-backend-data-flow-works-bf62d0e87b1c",
     "title": "How Frontend and Backend Data Flow Works | by Kirupakaransumugan | Oct, 2026 | Medium",
     "date": "2026-10-01T04:38:32.737+06:00",
@@ -6014,6 +6091,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:782/1*NiaIFybjcvTV5MHaIj6o1w.png",
     "og:description": "If you work with CSS, you’ve probably used pixels (px) for setting font sizes, spacing, margins, and other elements. But when building…",
     "og:url": "https://medium.com/@nexcalco/px-to-rem-a-simple-guide-to-converting-css-units-5ad202a1f0b3",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@ng-news/ng-news-26-22-typescript-7-1-angular-native-and-polymorpheus-3ec0c68959a0",
+    "title": "Ng-News 26/22: TypeScript 7.1, Angular Native and Polymorpheus | by ng-news | Oct, 2026 | Medium",
+    "date": "2026-10-15T12:55:53.914+06:00",
+    "og:title": "Ng-News 26/22: TypeScript 7.1, Angular Native and Polymorpheus",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*3QQdDrDT78HdqN1eQ024-A.png",
+    "og:description": "Angular’s compiler and TypeScript 7.1, plus Angular Native for mobile apps. Also: Polymorpheus for flexible UI components and upcoming…",
+    "og:url": "https://medium.com/@ng-news/ng-news-26-22-typescript-7-1-angular-native-and-polymorpheus-3ec0c68959a0",
     "og:type": "article"
   },
   {
@@ -6832,6 +6920,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@vishal.p_95435/react-grid-layout-explained-choosing-the-right-tool-for-modern-dashboards-59db9355d286",
+    "title": "React Grid Layout Explained — Choosing the Right Tool for Modern Dashboards | by Vishal P | Oct, 2026 | Medium",
+    "date": "2026-10-15T12:55:53.844+06:00",
+    "og:title": "React Grid Layout Explained — Choosing the Right Tool for Modern Dashboards",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*T8mjnvBAOxxAeBph3IHn4Q.png",
+    "og:description": "React developers often encounter several tools with “grid” in their names. Although they may look similar, CSS Grid, React Grid components…",
+    "og:url": "https://medium.com/@vishal.p_95435/react-grid-layout-explained-choosing-the-right-tool-for-modern-dashboards-59db9355d286",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@welegent/the-problem-with-custom-css-isnt-the-code-it-s-the-interface-41760ba3dd32?source=rss------css-5",
     "title": "Medium",
     "date": "2026-10-09T02:52:02.245+06:00",
@@ -7426,6 +7525,17 @@
   },
   {
     "hostname": "ohhelloana.blog",
+    "url": "https://ohhelloana.blog/goodbye-jessie/",
+    "title": "Oh Hello Ana - Goodbye sweet Jessie",
+    "date": "2026-10-15T12:55:53.638+06:00",
+    "og:title": "Goodbye sweet Jessie",
+    "og:image": "https://ohhelloana.blog/assets/icons/og.png",
+    "og:description": "Content warning: pet loss.",
+    "og:url": "http://ohhelloana.blog",
+    "og:type": "website"
+  },
+  {
+    "hostname": "ohhelloana.blog",
     "url": "https://ohhelloana.blog/my-interop-2027/",
     "title": "Oh Hello Ana - My Interop feature ranking",
     "date": "2026-10-09T02:52:01.949+06:00",
@@ -7543,6 +7653,17 @@
     "og:image": "https://assets.onepagelove.com/cdn-cgi/image/width=1200,height=628,fit=cover,gravity=top,format=jpg,quality=85/wp-content/uploads/2026/09/opl-screenshot-ecommerce-commerce-1790785241238-desktop.jpg",
     "og:description": "Grilled Pixels promotes UX-led e-commerce design and engineering focused on improving conversion, retention, checkout flows, and more. Its gritty monochrome presentation combines monumental typography, pixel lettering, grainy textures, hand-drawn interface diagrams, tilted cards, and a three-dimensional scroll sequence of previous ecommerce projects.",
     "og:url": "https://onepagelove.com/grilled-pixels-ecommerce",
+    "og:type": "website"
+  },
+  {
+    "hostname": "onepagelove.com",
+    "url": "https://onepagelove.com/hedroom",
+    "title": "HEDROOM™ — One Page Website Award",
+    "date": "2026-10-15T12:55:52.614+06:00",
+    "og:title": "HEDROOM™ — One Page Website Award",
+    "og:image": "https://assets.onepagelove.com/cdn-cgi/image/width=1200,height=628,fit=cover,gravity=top,format=jpg,quality=85/wp-content/uploads/2026/10/opl-screenshot-hedroom-1791987744182-desktop.jpg",
+    "og:description": "HEDROOM is a platform where music makers share and distribute their sound to audiences. This is a live scroll experience, moving through a sparse white 3D environment containing pixelated sculptures, low-poly objects, and soft neon-colored light forms.",
+    "og:url": "https://onepagelove.com/hedroom",
     "og:type": "website"
   },
   {
@@ -9890,6 +10011,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/features/nvidia-rtx-spark-all-you-need-to-know-as-a-creative",
+    "title": "NVIDIA RTX Spark: All creatives need to know | Creative Bloq",
+    "date": "2026-10-15T12:55:52.541+06:00",
+    "og:title": "NVIDIA RTX Spark: All creatives need to know",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/XbDo5yEDGfwyd5WQ95wje5-2000-80.jpg",
+    "og:description": "The agentic age of computing is here.",
+    "og:url": "https://www.creativebloq.com/features/nvidia-rtx-spark-all-you-need-to-know-as-a-creative",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/features/phantom-blade-zero-is-an-unreal-engine-5-game-that-feels-like-a-playable-kung-fu-movie",
     "title": "Phantom Blade Zero's dark wuxia world feels like a playable kung fu movie | Creative Bloq",
     "date": "2026-10-09T05:19:06.456+06:00",
@@ -9897,6 +10029,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/mLLc2aVgS47fEUSUXLz6kb-1920-80.jpg",
     "og:description": "The Chinese Unreal Engine 5 'kungfupunk' action strikes a beautiful balance between cinematic blockbuster and hardcore mastery.",
     "og:url": "https://www.creativebloq.com/features/phantom-blade-zero-is-an-unreal-engine-5-game-that-feels-like-a-playable-kung-fu-movie",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/features/resident-evil-2-3-and-4-are-great-on-switch-2-but-capcom-has-missed-a-trick",
+    "title": "Resident Evil 2, 3 and 4 are great on Switch 2, but Capcom has missed a trick | Creative Bloq",
+    "date": "2026-10-15T12:55:52.564+06:00",
+    "og:title": "Resident Evil 2, 3 and 4 are great on Switch 2, but Capcom has missed a trick",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/xDqv7DbBZB4T5a3dTNuzqf-1800-80.jpg",
+    "og:description": "Capcom's horror remakes make an impressive leap to Nintendo's newest console, but the controls leave me wanting more.",
+    "og:url": "https://www.creativebloq.com/features/resident-evil-2-3-and-4-are-great-on-switch-2-but-capcom-has-missed-a-trick",
     "og:type": "article"
   },
   {
@@ -9930,6 +10073,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/JedYGLgqZUsmt7kjZhTWT8-2250-80.jpg",
     "og:description": "Discover the art of Gabriel Ribeiro.",
     "og:url": "https://www.creativebloq.com/inspiration/this-artist-uses-pencils-and-watercolours-to-capture-whimsical-fantasies-inspired-by-the-magic-and-wonder-he-found-in-books-and-nature-as-a-child",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/inspiration/this-artists-epic-pencil-art-has-made-him-a-rising-star-in-indie-comics",
+    "title": "This artist's epic pencil art has made him a rising star in indie comics | Creative Bloq",
+    "date": "2026-10-15T12:55:52.95+06:00",
+    "og:title": "This artist's epic pencil art has made him a rising star in indie comics",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/M24Dyxdabbpv42SRr78Af3-1341-80.jpg",
+    "og:description": "Discover the work of Fábio Simão dos Santos.",
+    "og:url": "https://www.creativebloq.com/inspiration/this-artists-epic-pencil-art-has-made-him-a-rising-star-in-indie-comics",
     "og:type": "article"
   },
   {
@@ -10051,6 +10205,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/2RKozbdd7DCiBEENuUtAAC-1600-80.jpg",
     "og:description": "Yuji Horii's AI experiment just made game development look ridiculously easy.",
     "og:url": "https://www.creativebloq.com/news/dragon-quests-creator-made-a-game-with-ai-in-30-minutes-and-its-a-bit-of-a-wake-up-call",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/news/elon-musks-attempts-to-rebrand-ai-slop-are-hilarious-but-they-betray-a-deeper-truth",
+    "title": "Elon Musk's attempts to rebrand AI slop are hilarious, but they betray a deeper truth | Creative Bloq",
+    "date": "2026-10-15T12:55:52.88+06:00",
+    "og:title": "Elon Musk's attempts to rebrand AI slop are hilarious, but they betray a deeper truth",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/euaMdgeFpst5UrvwfDjssc-2560-80.jpg",
+    "og:description": "No amount of renaming can fix AI's growing reputation problem.",
+    "og:url": "https://www.creativebloq.com/news/elon-musks-attempts-to-rebrand-ai-slop-are-hilarious-but-they-betray-a-deeper-truth",
     "og:type": "article"
   },
   {
@@ -10194,6 +10359,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/XjKhs2WKunx3T2zW7HHuhR-1920-80.jpg",
     "og:description": "The fun design just showed Jaguar and Ferrari how to go electric while staying on brand.",
     "og:url": "https://www.creativebloq.com/news/the-new-citroen-2cv-is-reminding-people-of-a-very-different-but-equally-iconic-car-design",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/news/the-usd20-000-mrbeast-logo-auction-isnt-as-ridiculous-as-it-seems",
+    "title": "The $20,000 MrBeast logo auction isn't as ridiculous as it seems | Creative Bloq",
+    "date": "2026-10-15T12:55:53.021+06:00",
+    "og:title": "The $20,000 MrBeast logo auction isn't as ridiculous as it seems",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/ao4tjt439ZfPsDC3TiYR55-1920-80.jpg",
+    "og:description": "How much is a logo worth?",
+    "og:url": "https://www.creativebloq.com/news/the-usd20-000-mrbeast-logo-auction-isnt-as-ridiculous-as-it-seems",
     "og:type": "article"
   },
   {
@@ -10660,6 +10836,17 @@
   },
   {
     "hostname": "www.cssscript.com",
+    "url": "https://www.cssscript.com/compressly-image-compression-resize/",
+    "title": "Compressly: Client-Side Image Compression & Resize in JavaScript | CSS Script",
+    "date": "2026-10-15T12:55:52.752+06:00",
+    "og:title": "Compressly: Client-Side Image Compression & Resize in JavaScript | CSS Script",
+    "og:image": "https://www.cssscript.com/wp-content/uploads/2026/10/compressly-image-compression-resize.webp",
+    "og:description": "Resize and compress uploaded photos with Compressly. Control image quality, dimensions, and JPEG, WebP, or PNG output.",
+    "og:url": "https://www.cssscript.com/compressly-image-compression-resize/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.cssscript.com",
     "url": "https://www.cssscript.com/css-doodle/",
     "title": "css-doodle: Generative CSS Art & Pattern Generator | CSS Script",
     "date": "2026-10-11T02:26:14.478+06:00",
@@ -10912,6 +11099,17 @@
     "og:type": ""
   },
   {
+    "hostname": "www.csswinner.com",
+    "url": "https://www.csswinner.com/details/tonami-ayano-wedding-invitation/19472",
+    "title": "Tonami & Ayano Wedding Invitation - CSS Winner",
+    "date": "2026-10-15T12:55:52.823+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
     "hostname": "www.doc.cc",
     "url": "https://www.doc.cc/humankind/self-portrait",
     "title": "DOC • Prompting as Self-Portrait",
@@ -11031,6 +11229,17 @@
     "og:description": "",
     "og:url": "",
     "og:type": ""
+  },
+  {
+    "hostname": "www.jqueryscript.net",
+    "url": "https://www.jqueryscript.net/table/data-grid-kanban-box.html",
+    "title": "Multi-View jQuery Data Grid with Kanban - DataBox | Free jQuery Plugins",
+    "date": "2026-10-15T12:55:53.411+06:00",
+    "og:title": "Multi-View jQuery Data Grid with Kanban - DataBox",
+    "og:image": "https://www.jqueryscript.net/images/data-grid-kanban-box.jpg",
+    "og:description": "Turn a dataset into searchable tables, editable rows, and draggable Kanban boards with view switching and AJAX loading.",
+    "og:url": "https://www.jqueryscript.net/table/data-grid-kanban-box.html",
+    "og:type": "article"
   },
   {
     "hostname": "www.js-craft.io",
